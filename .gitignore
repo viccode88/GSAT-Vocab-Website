@@ -16,17 +16,17 @@ ENV/
 .env
 .env.local
 
-# 大考中心考題 PDF（受版權保護）
+# 大考中心考題 PDF
 ceec_english_papers/
 歷屆考題/
 
 # 處理後的原始文本
 data/raw_txt/
 
-# TTS 音檔（太大，部署到 R2）
+# TTS 音檔
 data/output/tts_audio/
 
-# 發行版本（單獨部署）
+# 發行版本
 發行/
 
 # 輸出目錄
