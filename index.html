@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>學測高頻單字 (v7 - Persistent Grid)</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <style>
+        html, body {
+            height: 100%;
+            overflow: hidden;
+        }
+        body {
+            font-family: 'Inter', 'Noto Sans TC', sans-serif;
+        }
+        /* 美化滾動條 */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #f8fafc; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        
+        .highlight {
+            background-color: #e0e7ff; color: #4338ca;
+            font-weight: 600; padding: 0 4px; border-radius: 4px;
+        }
+        
+        /* 行動裝置詳細頁面滑入效果 */
+        @media (max-width: 1023px) {
+            #detail-wrapper {
+                transform: translateX(100%);
+                transition: transform 0.3s ease-in-out;
+                will-change: transform;
+            }
+            .mobile-detail-view-active #detail-wrapper {
+                transform: translateX(0);
+            }
+            #word-tooltip { display: none !important; }
+        }
+
+        /* 篩選器按鈕樣式 */
+        .filter-btn {
+            padding: 8px 12px; border-radius: 6px; transition: all 0.2s ease-in-out;
+            background-color: #f1f5f9; color: #334155; border: 1px solid #e2e8f0;
+        }
+        .filter-btn:hover { background-color: #e2e8f0; }
+        .filter-btn.active {
+            background-color: #4f46e5; color: white;
+            font-weight: 600; border-color: #4f46e5;
+        }
+        
+        /* 網格瀏覽模式樣式 */
+        .browse-mode #word-list-container {
+             background-color: #f8fafc;
+        }
+        .browse-mode #word-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+            gap: 0.75rem;
+            padding: 1rem;
+        }
+        .browse-cell {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem 0.25rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.5rem;
+            background-color: white;
+            font-weight: 500;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s, background-color 0.15s;
+            font-size: 1rem;
+            line-height: 1.2;
+            word-break: break-all;
+        }
+        .browse-cell.active-hover {
+            border-color: #a5b4fc;
+            background-color: #eef2ff;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px -1px rgb(0 0 0 / 0.07);
+        }
+        /* 網格中被選中項目的高亮樣式 */
+        .browse-cell.active-item {
+            background-color: #c7d2fe;
+            border-color: #818cf8;
+            color: #1e3a8a;
+            font-weight: 600;
+            transform: none;
+            box-shadow: none;
+        }
+
+        /* 一般列表模式中被選中項目的高亮樣式 */
+        .list-item.active-item {
+            background-color: #eef2ff;
+        }
+        
+        #word-list {
+            padding: 0;
+            display: block;
+        }
+    </style>
+</head>
+<body class="bg-slate-100 text-slate-700 antialiased">
+
+    <div id="app" class="h-full flex flex-col">
+        <header class="flex-shrink-0 bg-white/80 backdrop-blur-sm border-b border-slate-200 p-3 px-4 sm:px-6 flex items-center justify-between z-20">
+            <div class="flex items-center gap-3">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-7 h-7 text-indigo-600"><path stroke-linecap="round" stroke-linejoin="round" d="m12 14 9-5-9-5-9 5 9 5Z" /><path stroke-linecap="round" stroke-linejoin="round" d="M12 14v7m-9-5v7m18-7v7" /></svg>
+                <h1 class="text-xl font-bold text-slate-800">學測高頻單字探索</h1>
+            </div>
+            <div class="flex items-center gap-2 sm:gap-4">
+                 <button id="browse-mode-btn" class="p-2 rounded-md hover:bg-slate-200 transition-colors" title="切換網格瀏覽模式">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25A2.25 2.25 0 0 1 13.5 8.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" /></svg>
+                </button>
+                <button id="show-filters-btn" class="lg:hidden p-2 rounded-md hover:bg-slate-200">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6h9.75M10.5 6a1.5 1.5 0 1 1-3 0m3 0a1.5 1.5 0 1 0-3 0M3.75 6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m-3.75 0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m-9.75 0h9.75" /></svg>
+                </button>
+            </div>
+        </header>
+
+        <div id="main-content" class="flex-1 grid grid-cols-12 relative overflow-hidden min-h-0">
+            <aside id="control-panel" class="h-full col-span-12 lg:col-span-3 xl:col-span-2 bg-white border-r border-slate-200 p-4 flex flex-col space-y-6 overflow-y-auto absolute lg:relative inset-y-0 left-0 transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-40 lg:z-10 w-4/5 sm:w-1/2 lg:w-full">
+                <div class="relative">
+                    <svg class="w-5 h-5 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" /></svg>
+                    <input type="text" id="search-input" placeholder="搜尋單字..." class="w-full bg-slate-100 border border-slate-200 rounded-md py-2 pl-10 pr-4 focus:ring-2 focus:ring-indigo-500 focus:outline-none focus:border-indigo-500 transition">
+                </div>
+                <div>
+                    <h3 class="text-xs font-semibold uppercase text-slate-500 mb-2">按頻率分級</h3>
+                    <div id="freq-filter-group" class="flex flex-wrap gap-2 text-sm">
+                        <button class="filter-btn freq-filter flex-1" data-freq="all">全部</button>
+                        <button class="filter-btn freq-filter flex-1" data-freq="high">核心 (1-200)</button>
+                        <button class="filter-btn freq-filter flex-1" data-freq="mid">常見 (201-800)</button>
+                        <button class="filter-btn freq-filter flex-1" data-freq="low">更多的 (801+)</button>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xs font-semibold uppercase text-slate-500 mb-2">按詞性分類</h3>
+                    <div id="pos-filter-group" class="grid grid-cols-2 gap-2 text-sm">
+                        <button class="filter-btn pos-filter" data-pos="all">全部詞性</button>
+                        <button class="filter-btn pos-filter" data-pos="NOUN">名詞</button>
+                        <button class="filter-btn pos-filter" data-pos="VERB">動詞</button>
+                        <button class="filter-btn pos-filter" data-pos="ADJ">形容詞</button>
+                        <button class="filter-btn pos-filter" data-pos="ADV">副詞</button>
+                    </div>
+                </div>
+                <div>
+                    <button id="random-word-btn" class="w-full bg-indigo-600 text-white font-semibold rounded-md py-2.5 hover:bg-indigo-700 active:bg-indigo-800 transition-transform active:scale-95 flex items-center justify-center gap-2">
+                        <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 21v-7.5A2.25 2.25 0 0 0 11.25 11.25H4.5A2.25 2.25 0 0 0 2.25 13.5V21M3 3h2.25M3 6h2.25m1.5-3h2.25m-2.25 3h2.25M3 9h2.25M6 9h2.25m1.5-6h2.25m-2.25 3h2.25m-2.25 3h2.25M9 3h2.25M9 6h2.25m9-3h2.25M15 6h2.25m1.5-3h2.25m-2.25 3h2.25m1.5 3h2.25M18 9h2.25" /></svg>
+                        隨機一字
+                    </button>
+                </div>
+            </aside>
+            <div id="overlay" class="fixed inset-0 bg-black/30 z-30 hidden lg:hidden"></div>
+
+            <main id="word-list-container" class="h-full col-span-12 lg:col-span-4 xl:col-span-4 bg-white border-r border-slate-200 flex flex-col overflow-hidden transition-colors duration-300">
+                <div id="results-header" class="flex-shrink-0 p-4 border-b border-slate-200">
+                    <p id="results-count" class="text-sm text-slate-500">正在載入數據...</p>
+                </div>
+                <div id="word-list" class="flex-1 overflow-y-auto"></div>
+            </main>
+
+            <div id="detail-wrapper" class="absolute inset-0 col-start-1 lg:col-start-8 xl:col-start-7 col-span-12 lg:col-span-5 xl:col-span-6 z-20 lg:static">
+                <section id="detail-panel" class="h-full w-full bg-slate-50 p-6 lg:p-8 overflow-y-auto relative">
+                    <button id="back-to-list-btn" class="lg:hidden absolute top-4 left-4 p-2 rounded-full bg-white/60 backdrop-blur-sm hover:bg-slate-200 z-50">
+                        <svg class="w-6 h-6 text-slate-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" /></svg>
+                    </button>
+                    <div id="welcome-view" class="h-full flex flex-col justify-center">
+                        <h2 class="text-2xl font-bold text-slate-800">歡迎使用單字探索工具</h2>
+                        <p class="mt-2 text-slate-500">從左側開始搜尋、篩選，或點擊「隨機一字」。</p>
+                        <div class="mt-12 text-center">
+                            <svg class="w-24 h-24 mx-auto text-slate-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6a7.5 7.5 0 1 0 7.5 7.5h-7.5V6Z" /><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 10.5H21A7.5 7.5 0 0 0 13.5 3v7.5Z" /></svg>
+                            <p id="loading-state" class="mt-4 text-slate-400 animate-pulse">正在獲取數據...</p>
+                        </div>
+                    </div>
+                    <div id="detail-view" class="hidden pt-12 lg:pt-0">
+                        <div class="flex items-center justify-between mb-2">
+                            <h2 id="detail-lemma" class="text-4xl lg:text-5xl font-bold text-indigo-700"></h2>
+                            <button id="play-audio-btn" title="播放發音" class="p-2 rounded-full hover:bg-slate-200 active:bg-slate-300 transition">
+                                <svg class="w-6 h-6 text-slate-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.01 9.01 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" /></svg>
+                            </button>
+                        </div>
+                        <p class="text-slate-500 mb-6">總出現次數: <span id="detail-count" class="font-semibold text-slate-700"></span></p>
+                        <div id="detail-definition-container" class="space-y-4 bg-slate-200/50 p-4 rounded-lg">
+                            <div><p class="text-sm font-semibold text-slate-600 mb-1">英文釋義</p><p id="detail-en-def" class="text-slate-800"></p></div>
+                            <div><p class="text-sm font-semibold text-slate-600 mb-1">中文釋義</p><p id="detail-zh-def" class="text-slate-800"></p></div>
+                            <div class="border-t border-slate-300 pt-3"><p class="text-sm font-semibold text-slate-600 mb-1">AI 範例</p><p id="detail-ai-example" class="text-slate-800 italic"></p></div>
+                        </div>
+                        <div class="mt-8"><h3 class="text-lg font-semibold text-slate-800 mb-3">詞性分佈</h3><div id="detail-pos-dist" class="space-y-3"></div></div>
+                        <div class="mt-8"><h3 class="text-lg font-semibold text-slate-800 mb-3">原文例句</h3><div id="detail-sentences" class="space-y-4"></div></div>
+                    </div>
+                </section>
+            </div>
+        </div>
+        
+        <div id="word-tooltip" class="absolute z-50 hidden w-60 max-w-xs p-3 text-sm text-white bg-slate-800/95 backdrop-blur-sm rounded-lg shadow-xl pointer-events-none transition-opacity duration-150" role="tooltip">
+            <div class="flex justify-between items-baseline mb-2">
+                <h4 id="tooltip-lemma" class="font-bold text-base"></h4>
+                <span id="tooltip-count" class="text-xs font-mono bg-slate-600 px-1.5 py-0.5 rounded-full"></span>
+            </div>
+            <p class="mb-2"><span id="tooltip-pos" class="text-xs bg-indigo-400/80 px-1.5 py-0.5 rounded font-medium"></span></p>
+            <p id="tooltip-def" class="text-slate-200 leading-relaxed"></p>
+        </div>
+    </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    // --- DOM Elements ---
+    const app = document.getElementById('app');
+    const mainContent = document.getElementById('main-content');
+    const searchInput = document.getElementById('search-input');
+    const freqFilterGroup = document.getElementById('freq-filter-group');
+    const posFilterGroup = document.getElementById('pos-filter-group');
+    const randomWordBtn = document.getElementById('random-word-btn');
+    const resultsHeader = document.getElementById('results-header');
+    const resultsCount = document.getElementById('results-count');
+    const wordList = document.getElementById('word-list');
+    const detailPanel = document.getElementById('detail-panel');
+    const welcomeView = document.getElementById('welcome-view');
+    const detailView = document.getElementById('detail-view');
+    const loadingState = document.getElementById('loading-state');
+    const showFiltersBtn = document.getElementById('show-filters-btn');
+    const controlPanel = document.getElementById('control-panel');
+    const overlay = document.getElementById('overlay');
+    const backToListBtn = document.getElementById('back-to-list-btn');
+    const browseModeBtn = document.getElementById('browse-mode-btn');
+    const tooltip = document.getElementById('word-tooltip');
+
+    // --- State Management ---
+    let allWords = [];
+    let filteredWords = [];
+    let currentFilters = { searchTerm: '', freq: 'all', pos: 'all' };
+    let activeItem = null;
+    let isBrowseMode = false;
+    
+    // ▼▼▼▼▼【修改處 1/2】建立一個共用的 Audio 播放器 ▼▼▼▼▼
+    let audioPlayer = new Audio();
+    // ▲▲▲▲▲【修改處 1/2】結束 ▲▲▲▲▲
+
+    const debounce = (func, delay) => {
+        let timeout;
+        return (...args) => {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), delay);
+        };
+    };
+
+    // --- Data Fetching and Initialization ---
+    async function init() {
+        try {
+            // 注意：請確保 vocab_data.json 的路徑是正確的
+            const response = await fetch('./data/output/vocab_data.json');
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            allWords = await response.json();
+            
+            loadingState.textContent = '數據載入完成！';
+            loadingState.classList.remove('animate-pulse');
+            
+            setupEventListeners();
+            applyFilters();
+        } catch (error) {
+            console.error("Failed to load vocab data:", error);
+            resultsCount.textContent = '數據載入失敗。';
+            loadingState.textContent = '數據載入失敗！';
+            loadingState.classList.add('text-red-500');
+        }
+    }
+
+    // --- Event Listeners Setup ---
+    function setupEventListeners() {
+        searchInput.addEventListener('input', debounce(e => {
+            currentFilters.searchTerm = e.target.value.trim().toLowerCase();
+            applyFilters();
+        }, 300));
+        freqFilterGroup.addEventListener('click', e => {
+            const button = e.target.closest('.filter-btn');
+            if (button) {
+                currentFilters.freq = button.dataset.freq;
+                updateActiveButton(freqFilterGroup, button);
+                applyFilters();
+            }
+        });
+        posFilterGroup.addEventListener('click', e => {
+            const button = e.target.closest('.filter-btn');
+            if (button) {
+                currentFilters.pos = button.dataset.pos;
+                updateActiveButton(posFilterGroup, button);
+                applyFilters();
+            }
+        });
+        randomWordBtn.addEventListener('click', selectRandomWord);
+
+        wordList.addEventListener('click', e => {
+            const currentItem = e.target.closest('.word-item');
+            if (!currentItem) return;
+            tooltip.classList.add('hidden');
+            const lemma = currentItem.dataset.lemma;
+            const wordData = allWords.find(w => w.lemma === lemma);
+            if (!wordData) return;
+            showDetailsForWord(wordData, currentItem);
+        });
+
+        wordList.addEventListener('mouseover', e => {
+            if (!isBrowseMode) return;
+            const cell = e.target.closest('.browse-cell');
+            if (cell) {
+                cell.classList.add('active-hover');
+                const lemma = cell.dataset.lemma;
+                const wordData = allWords.find(w => w.lemma === lemma);
+                if (wordData) {
+                    updateTooltip(wordData, cell);
+                }
+            }
+        });
+        wordList.addEventListener('mouseout', e => {
+            if (!isBrowseMode) return;
+            const cell = e.target.closest('.browse-cell');
+            if (cell) {
+                cell.classList.remove('active-hover');
+                tooltip.classList.add('hidden');
+            }
+        });
+
+        browseModeBtn.addEventListener('click', () => {
+            isBrowseMode = !isBrowseMode;
+            mainContent.classList.toggle('browse-mode', isBrowseMode);
+            browseModeBtn.classList.toggle('bg-indigo-100', isBrowseMode);
+            resultsHeader.style.display = isBrowseMode ? 'none' : 'block';
+            updateActiveItem(null);
+            renderWordList();
+        });
+        
+        // ▼▼▼▼▼【修改處 2/2】將播放按鈕的事件監聽器改為請求 Worker ▼▼▼▼▼
+        document.getElementById('play-audio-btn').addEventListener('click', () => {
+            const lemma = document.getElementById('detail-lemma').textContent.toLowerCase();
+            
+            if (!lemma) return;
+
+            // 如果正在播放，先停止並重設
+            if (!audioPlayer.paused) {
+                audioPlayer.pause();
+                audioPlayer.currentTime = 0;
+            }
+            
+            // 【【【 請在這裡填入您自己的 Worker 網址 】】】
+            const workerBaseUrl = 'https://vocab-audio.vic0407lu.workers.dev'; 
+            const audioUrl = `${workerBaseUrl}/${lemma}.mp3`;
+            
+            audioPlayer.src = audioUrl;
+            
+            // 播放音檔，並捕捉可能發生的錯誤 (例如 404 找不到檔案)
+            const playPromise = audioPlayer.play();
+            if (playPromise !== undefined) {
+                playPromise.catch(error => {
+                    console.error(`無法播放音檔: ${audioUrl}`, error);
+                    // 你可以在此處添加使用者提示，例如一個短暫的訊息
+                    // alert(`找不到單字 "${lemma}" 的發音`);
+                });
+            }
+        });
+        // ▲▲▲▲▲【修改處 2/2】結束 ▲▲▲▲▲
+
+        const toggleFilterPanel = () => {
+            controlPanel.classList.toggle('-translate-x-full');
+            overlay.classList.toggle('hidden');
+        };
+        showFiltersBtn.addEventListener('click', toggleFilterPanel);
+        overlay.addEventListener('click', toggleFilterPanel);
+        
+        backToListBtn.addEventListener('click', () => {
+             app.classList.remove('mobile-detail-view-active');
+        });
+    }
+
+    // --- Core Logic ---
+    function applyFilters() {
+        let words = [...allWords];
+        if (currentFilters.searchTerm) { words = words.filter(w => w.lemma.startsWith(currentFilters.searchTerm)); }
+        const freqRanges = { high: [1, 200], mid: [201, 800], low: [801, Infinity] };
+        if (currentFilters.freq !== 'all') {
+            const [min, max] = freqRanges[currentFilters.freq];
+            words = words.filter(w => {
+                const rank = allWords.findIndex(f => f.lemma === w.lemma) + 1;
+                return rank >= min && rank <= max;
+            });
+        }
+        if (currentFilters.pos !== 'all') { words = words.filter(w => Object.keys(w.pos_dist).includes(currentFilters.pos)); }
+        filteredWords = words;
+        resultsCount.textContent = `找到 ${filteredWords.length} 個符合條件的單字`;
+        updateActiveItem(null);
+        renderWordList();
+    }
+    
+    function renderWordList() {
+        wordList.innerHTML = '';
+        if (filteredWords.length === 0) {
+            wordList.innerHTML = `<p class="p-4 text-slate-500">找不到符合條件的單字。</p>`;
+            return;
+        }
+        isBrowseMode ? renderBrowseGrid() : renderNormalList();
+    }
+
+    function renderNormalList() {
+        const fragment = document.createDocumentFragment();
+        filteredWords.forEach(word => {
+            const primaryPos = Object.keys(word.pos_dist)[0] || '';
+            const item = document.createElement('div');
+            item.className = 'word-item list-item flex justify-between items-center p-3 px-4 cursor-pointer border-b border-slate-100 hover:bg-slate-100 transition-colors duration-150';
+            item.dataset.lemma = word.lemma;
+            item.innerHTML = `<div><span class="font-semibold text-slate-800">${word.lemma}</span><span class="ml-2 text-xs font-medium text-slate-500">${primaryPos}</span></div><span class="text-sm font-mono bg-slate-200 text-slate-600 px-2 py-0.5 rounded-full">${word.count}</span>`;
+            fragment.appendChild(item);
+        });
+        wordList.appendChild(fragment);
+    }
+
+    function renderBrowseGrid() {
+        const fragment = document.createDocumentFragment();
+        filteredWords.forEach(word => {
+            const item = document.createElement('div');
+            item.className = 'word-item browse-cell';
+            item.dataset.lemma = word.lemma;
+            item.textContent = word.lemma;
+            fragment.appendChild(item);
+        });
+        wordList.appendChild(fragment);
+    }
+    
+    function updateTooltip(word, element) {
+        tooltip.querySelector('#tooltip-lemma').textContent = word.lemma;
+        tooltip.querySelector('#tooltip-count').textContent = word.count;
+        tooltip.querySelector('#tooltip-pos').textContent = Object.keys(word.pos_dist)[0] || 'N/A';
+        tooltip.querySelector('#tooltip-def').textContent = (word.definition?.zh_def || '暫無中文釋義').split('；')[0];
+
+        tooltip.classList.remove('hidden', 'opacity-0');
+
+        const rect = element.getBoundingClientRect();
+        const tooltipRect = tooltip.getBoundingClientRect();
+        
+        let top = rect.bottom + 8;
+        let left = rect.left + (rect.width / 2) - (tooltipRect.width / 2);
+
+        if (left < 8) left = 8;
+        if (left + tooltipRect.width > window.innerWidth - 8) left = window.innerWidth - tooltipRect.width - 8;
+        if (top + tooltipRect.height > window.innerHeight - 8) top = rect.top - tooltipRect.height - 8;
+
+        tooltip.style.left = `${left}px`;
+        tooltip.style.top = `${top}px`;
+    }
+
+    function showDetailsForWord(wordData, currentItem) {
+        displayWordDetails(wordData);
+        updateActiveItem(currentItem);
+        app.classList.add('mobile-detail-view-active');
+    }
+    
+    function displayWordDetails(word) {
+        welcomeView.style.display = 'none';
+        detailView.style.display = 'block';
+        detailView.querySelector('#detail-lemma').textContent = word.lemma;
+        detailView.querySelector('#detail-count').textContent = word.count;
+        const defContainer = detailView.querySelector('#detail-definition-container');
+        if (word.definition && word.definition.en_def) {
+            defContainer.style.display = 'block';
+            detailView.querySelector('#detail-en-def').textContent = word.definition.en_def || 'N/A';
+            detailView.querySelector('#detail-zh-def').textContent = word.definition.zh_def || 'N/A';
+            detailView.querySelector('#detail-ai-example').textContent = word.definition.example || 'N/A';
+        } else { defContainer.style.display = 'none'; }
+        const posDistContainer = detailView.querySelector('#detail-pos-dist');
+        posDistContainer.innerHTML = '';
+        const totalPosCount = Math.max(1, Object.values(word.pos_dist).reduce((a, b) => a + b, 0));
+        Object.entries(word.pos_dist).forEach(([pos, count]) => {
+            const percentage = (count / totalPosCount * 100).toFixed(1);
+            posDistContainer.innerHTML += `<div class="mb-3"><div class="flex justify-between items-center mb-1"><span class="text-sm font-medium text-slate-600">${pos}</span><span class="text-sm font-mono text-slate-500">${count} (${percentage}%)</span></div><div class="w-full bg-slate-200 rounded-full h-2"><div class="bg-gradient-to-r from-sky-500 to-indigo-500 h-2 rounded-full" style="width: ${percentage}%"></div></div></div>`;
+        });
+        const sentencesContainer = detailView.querySelector('#detail-sentences');
+        sentencesContainer.innerHTML = '';
+        if (word.sentences && word.sentences.length > 0) {
+            const regex = new RegExp(`\\b(${word.lemma})\\b`, 'gi');
+            word.sentences.forEach(s => {
+                sentencesContainer.innerHTML += `<div class="bg-white border border-slate-200 p-3 rounded-lg mb-3"><p class="text-slate-700 leading-relaxed">${s.replace(regex, `<span class="highlight">$1</span>`)}</p></div>`;
+            });
+        } else { sentencesContainer.innerHTML = `<p class="text-slate-500">暫無原文例句。</p>`; }
+        detailPanel.scrollTop = 0;
+    }
+
+    function selectRandomWord() {
+        if (isBrowseMode) {
+            isBrowseMode = false;
+            mainContent.classList.remove('browse-mode');
+            browseModeBtn.classList.remove('bg-indigo-100');
+            resultsHeader.style.display = 'block';
+        }
+        if (allWords.length === 0) return;
+        const randomWord = allWords[Math.floor(Math.random() * allWords.length)];
+        currentFilters = { searchTerm: '', freq: 'all', pos: 'all' };
+        updateActiveButton(freqFilterGroup, freqFilterGroup.querySelector('[data-freq="all"]'));
+        updateActiveButton(posFilterGroup, posFilterGroup.querySelector('[data-pos="all"]'));
+        searchInput.value = '';
+        applyFilters(); 
+        const listItem = wordList.querySelector(`.word-item[data-lemma="${randomWord.lemma}"]`);
+        showDetailsForWord(randomWord, listItem);
+        if (listItem) listItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    function updateActiveButton(group, activeButton) {
+        group.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        if (activeButton) activeButton.classList.add('active');
+    }
+    
+    function updateActiveItem(newItem) {
+        if (activeItem) {
+            activeItem.classList.remove('active-item');
+        }
+        if (newItem) {
+            newItem.classList.add('active-item');
+            activeItem = newItem;
+        } else {
+            activeItem = null;
+        }
+    }
+
+    init();
+    updateActiveButton(freqFilterGroup, freqFilterGroup.querySelector('[data-freq="all"]'));
+    updateActiveButton(posFilterGroup, posFilterGroup.querySelector('[data-pos="all"]'));
+});
+</script>
+
+</body>
+</html>

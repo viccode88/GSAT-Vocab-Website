@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+env/
+ENV/
+.venv
+
+# 環境變數
+.env
+.env.local
+
+# 大考中心考題 PDF（受版權保護）
+ceec_english_papers/
+歷屆考題/
+
+# 處理後的原始文本
+data/raw_txt/
+
+# TTS 音檔（太大，部署到 R2）
+data/output/tts_audio/
+
+# 發行版本（單獨部署）
+發行/
+
+# 輸出目錄
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 臨時文件
+*.tmp
+*.bak
+*.part
+
+# Logs
+*.log
+
+# 測試文件
+test_*.py
+*_test.py
+

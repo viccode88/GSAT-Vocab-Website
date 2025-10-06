@@ -1,0 +1,57 @@
+@startuml
+' ---- 佈局與樣式 (優化版) ----
+top to bottom direction
+skinparam linetype ortho
+skinparam nodesep 50
+skinparam ranksep 60
+skinparam rectangle {
+  BackgroundColor White
+  BorderColor Black
+  RoundCorner 10
+}
+skinparam node {
+  BackgroundColor #fff9c4
+  BorderColor Black
+}
+skinparam actor {
+  BackgroundColor #4fc3f7
+  BorderColor Black
+}
+skinparam package {
+  BackgroundColor #f8f8f8
+  BorderColor #999999
+  RoundCorner 10
+}
+title FSSA 網站系統架構圖
+
+' ==== Client ====
+package "Client（使用者端）" #e3f2fd {
+  actor User as "使用者\n瀏覽器"
+  node Pages as "1. Cloudflare Pages(一個為官網一個為admin 頁面)\nFront-end (HTML/CSS/JS)"
+}
+
+' ==== Edge 層 ====
+package "Cloudflare Edge" #f5f5f5 {
+  rectangle Worker1 as "2. 資料提供 Worker\n(Read-only / CORS)" #ede7f6
+  rectangle Worker2 as "3. 後台寫入 Worker\n(JWT / CORS / Audit)" #ede7f6
+  node Assets as "4. ASSETS\n(靜態資產)" #fff3e0
+}
+
+' ==== 資料庫層 (合併以簡化) ====
+package "Cloudflare D1 Databases" #fffde7 {
+  database DB_Content as "內容資料庫\n(公告 / 活動 / 文件)" #fff9c4
+  database DB_Admin as "管理資料庫\n(使用者 / 權杖 / 日誌)" #fff9c4
+}
+
+' ---- 流程 ----
+User -down-> Pages
+
+Pages .down.> Assets
+Pages -down-> Worker1 : fetch JSON
+Pages -down-> Worker2 : admin ops
+
+Worker1 -down-> DB_Content : << 讀取 >>
+Worker2 -down-> DB_Content : << 寫入 / 更新 >>
+Worker2 -down-> DB_Admin   : << 驗證 / 審計 >>
+
+@enduml

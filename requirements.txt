@@ -1,0 +1,25 @@
+# PDF 處理
+pdfplumber>=0.10.0
+
+# 自然語言處理
+spacy>=3.7.0
+
+# OpenAI API
+openai>=1.0.0
+
+# AWS S3 相容 API (用於 Cloudflare R2)
+boto3>=1.34.0
+
+# 網頁爬蟲
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# 進度條
+tqdm>=4.66.0
+
+# 環境變數管理
+python-dotenv>=1.0.0
+
+# 注意：安裝完成後，請執行以下命令下載 spaCy 英文模型
+# python -m spacy download en_core_web_sm
+
