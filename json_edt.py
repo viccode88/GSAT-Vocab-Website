@@ -9,7 +9,7 @@ def export_lemmas_to_file(data, original_filepath):
 
     base, _ = os.path.splitext(original_filepath)
     default_export_path = f"{base}_wordlist.txt"
-    export_path = input(f"👉 請輸入匯出單字列表的檔名 (預設為 '{default_export_path}'): ").strip() or default_export_path
+    export_path = input(f"請輸入匯出單字列表的檔名 (預設為 '{default_export_path}'): ").strip() or default_export_path
 
     try:
         lemmas = [item.get('lemma', 'N/A') for item in data if isinstance(item, dict)]
@@ -32,7 +32,7 @@ def interactive_tool(data, original_filepath):
         lower_input = user_input.lower()
 
         if lower_input in ['exit', 'quit']:
-            print("\n👋 結束編輯模式...")
+            print("\n 結束編輯模式...")
             break
         if not user_input:
             continue
@@ -76,7 +76,7 @@ def interactive_tool(data, original_filepath):
                 deleted_count = original_count - len(current_data)
                 print(f"\n🗑️ 已成功刪除 {deleted_count} 筆資料。")
             else:
-                print("\n👍 已取消刪除操作。")
+                print("\n已取消刪除操作。")
 
         else:
             # 【單一刪除模式】
@@ -99,7 +99,7 @@ def interactive_tool(data, original_filepath):
                     del current_data[item_index]
                     print(f"\n🗑️ 資料 '{found_item['lemma']}' 已成功刪除。")
                 else:
-                    print("\n👍 已取消刪除操作。")
+                    print("\n已取消刪除操作。")
             else:
                 print(f"\n❌ 在 {len(current_data)} 筆資料中，找不到單字 '{word_to_find}'。")
 
@@ -128,16 +128,16 @@ def main():
     final_data = interactive_tool(original_data, json_path)
 
     if len(final_data) < len(original_data):
-        save_choice = input("\n❓ 資料已被修改，您想要儲存變更嗎？ (yes/no): ").strip().lower()
+        save_choice = input("\n資料已被修改，確定儲存變更嗎？ (yes/no): ").strip().lower()
         if save_choice == 'yes':
             base, ext = os.path.splitext(json_path)
             default_new_path = f"{base}_updated{ext}"
-            new_path = input(f"👉 請輸入儲存的新檔案路徑 (預設為 '{default_new_path}'): ").strip() or default_new_path
+            new_path = input(f"請輸入儲存的新檔案路徑 (預設為 '{default_new_path}'): ").strip() or default_new_path
             
             try:
                 with open(new_path, 'w', encoding='utf-8') as f:
                     json.dump(final_data, f, ensure_ascii=False, indent=2)
-                print(f"\n💾 檔案已成功儲存至 '{new_path}'，共包含 {len(final_data)} 筆資料。")
+                print(f"\n檔案已成功儲存至 '{new_path}'，共包含 {len(final_data)} 筆資料。")
             except Exception as e:
                 print(f"❌ 儲存檔案時發生錯誤：{e}")
     else:
