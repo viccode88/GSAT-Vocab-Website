@@ -1,7 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-CEEC 學測『英文科試題卷』批次下載（自動停止重複頁）
+學測『英文科試題卷』批次下載
 ---------------------------------------------------
 """
 import re, time
@@ -117,7 +115,7 @@ def main():
         new_links = [t for t in links if t[1] not in seen_urls]
         print(f"  取得 {len(new_links)} (新/{len(links)})")
 
-        if not new_links:                 # ⇦ 沒新檔 ⇒ 結束
+        if not new_links:                 # 沒新檔 , 結束
             break
 
         for title, url in new_links:
