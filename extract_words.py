@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
-【升級版 v3 - Quick Response API】學測英文數據預處理腳本
-
+資料預處理腳本
 功能：
 1. 從 PDF 提取文本並儲存原文。
 2. 使用 spaCy 進行 NLP 處理，分析詞形 (lemma)、詞性 (POS) 並儲存例句。
-3. 過濾停用詞、無意義的符號與句子。
-4. (可選) 使用 OpenAI Chat Completions API，以高效率的並發模式獲取所有單字的中英釋義與例句。
-5. 將所有處理結果彙整成一份結構化的 JSON 檔案，供前端使用。
+3. 過濾無意義的符號與句子。
+4. 使用 OpenAI Chat Completions API，獲取所有單字的中英釋義與例句。
+5. 將處理結果彙整成一份 JSON 檔案，供前端使用。
 """
 import os
 import re
@@ -171,7 +170,7 @@ async def get_definitions_concurrently(lemmas: List[str]) -> Dict[str, Any]:
 # --- 第 2 步：主流程 ---
 async def main():
     """主執行函式"""
-    print("🚀 Starting enhanced vocabulary processing...")
+    print("開始執行預處理腳本")
 
     pdf_files = sorted(SRC_DIR.rglob("*.pdf"))
     if not pdf_files:
@@ -202,12 +201,12 @@ async def main():
                     lemma not in CUSTOM_STOP_WORDS):
                     vocab_data[lemma]["count"] += 1
                     vocab_data[lemma]["pos_dist"][token.pos_] += 1
-                    # 只儲存前 5 個例句，避免集合過大消耗記憶體
+                    # 儲存前 5 個例句
                     if len(vocab_data[lemma]["sentences"]) < 5:
                         vocab_data[lemma]["sentences"].add(f"[{pdf_file.stem}] {sent_text}")
 
     print("\n✅ Text analysis complete.")
-    print(f"📊 Found {len(vocab_data)} unique lemmas.")
+    print(f"Found {len(vocab_data)} unique lemmas.")
 
     sorted_vocab = sorted(vocab_data.items(), key=lambda item: item[1]["count"], reverse=True)
     
@@ -242,7 +241,7 @@ async def main():
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=2, ensure_ascii=False)
 
-    print(f"\n🎉 All done! Processed data saved to:\n{output_path.resolve()}")
+    print(f"\nAll done! Processed data saved to:\n{output_path.resolve()}")
 
 
 if __name__ == "__main__":
