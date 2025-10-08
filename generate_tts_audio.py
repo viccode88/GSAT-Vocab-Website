@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-【詞彙語音生成腳本 v4 - 官方推薦結構】
-
-功能：
-1. 讀取 `vocab_data.json` 檔案，獲取單字列表。
-2. 【v4 核心更新】採用 OpenAI 官方推薦的 `with_streaming_response` 內容管理器來處理音訊串流，提升穩定性與簡潔性。
-3. 保留高效率的非同步並發模式與穩健的重試機制。
-4. 將生成的 MP3 檔案儲存到指定的輸出資料夾。
-5. 自動跳過已存在的檔案，支援中斷續傳。
-"""
 import os
 import sys
 import json
@@ -22,7 +11,6 @@ from dotenv import load_dotenv
 from openai import AsyncOpenAI
 from openai import RateLimitError, APIError
 
-# --- 第 0 步：環境設定與常數 ---
 
 # --- 路徑設定 ---
 ROOT_DIR = Path(__file__).parent
@@ -40,7 +28,7 @@ TTS_DIR.mkdir(parents=True, exist_ok=True)
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
-    sys.exit("⛔ 請在 .env 檔案中設定您的 OPENAI_API_KEY。")
+    sys.exit("請在 .env 檔案中設定您的 OPENAI_API_KEY。")
 
 client = AsyncOpenAI(api_key=OPENAI_API_KEY)
 
@@ -50,16 +38,13 @@ TTS_VOICE = "onyx"
 CONCURRENT_REQUESTS = 15
 MAX_RETRIES = 3
 
-# --- 第 1 步：核心函式 (v4 更新) ---
 
 async def fetch_single_tts(
     word: str,
     semaphore: asyncio.Semaphore,
     output_dir: Path
 ) -> Tuple[str, str]:
-    """
-    為單一單字生成語音檔案，採用官方推薦的 with_streaming_response 結構。
-    """
+
     output_file = output_dir / f"{word}.mp3"
 
     if output_file.exists():
@@ -68,14 +53,12 @@ async def fetch_single_tts(
     async with semaphore:
         for attempt in range(MAX_RETRIES):
             try:
-                # 【v4 核心修復】使用 async with 和 with_streaming_response
                 async with client.audio.speech.with_streaming_response.create(
                     model=TTS_MODEL,
                     voice=TTS_VOICE,
                     input=word,
                     response_format="mp3"
                 ) as response:
-                    # stream_to_file 也是一個非同步操作，需要 await
                     await response.stream_to_file(output_file)
                 return "success", word
 
@@ -99,11 +82,10 @@ async def fetch_single_tts(
     return "failed", word
 
 
-# --- 第 2 步：主流程 (與之前版本相同) ---
 
 async def main():
     """主執行函式"""
-    print("🚀 Starting TTS audio generation (v4 - Official API Structure)...")
+    print("開始生成")
 
     if not VOCAB_JSON_PATH.is_file():
         sys.exit(f"⛔ 輸入檔案未找到: {VOCAB_JSON_PATH}\n請先運行前一個預處理腳本來生成它。")
@@ -114,11 +96,11 @@ async def main():
 
     words_to_generate = [item["lemma"] for item in vocab_data]
     if not words_to_generate:
-        sys.exit("✅ 詞彙列表為空，無需生成語音。")
+        sys.exit("詞彙列表為空，無需生成")
 
-    print(f"🎤 Found {len(words_to_generate)} words to process.")
-    print(f"🔊 Audio files will be saved to: {TTS_DIR.resolve()}")
-    print(f"⚙️  Using model='{TTS_MODEL}', voice='{TTS_VOICE}' with {CONCURRENT_REQUESTS} concurrent requests.")
+    print(f"Found {len(words_to_generate)} words to process.")
+    print(f"Audio files will be saved to: {TTS_DIR.resolve()}")
+    print(f"Using model='{TTS_MODEL}', voice='{TTS_VOICE}' with {CONCURRENT_REQUESTS} concurrent requests.")
 
     semaphore = asyncio.Semaphore(CONCURRENT_REQUESTS)
     tasks = [fetch_single_tts(word, semaphore, TTS_DIR) for word in words_to_generate]
@@ -137,8 +119,8 @@ async def main():
             failed_count += 1
 
     print("\n--- Generation Report ---")
-    print(f"✅ Successfully generated: {success_count} files")
-    print(f"⏩ Skipped (already exist): {skipped_count} files")
+    print(f"Successfully generated: {success_count} files")
+    print(f"Skipped (already exist): {skipped_count} files")
     if failed_count > 0:
         print(f"❌ Failed to generate: {failed_count} files (詳見上方錯誤訊息)")
     print("-------------------------")
