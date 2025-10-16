@@ -5,7 +5,7 @@
 1. 從 PDF 提取文本並儲存原文。
 2. 使用 spaCy 進行 NLP 處理，分析詞形 (lemma)、詞性 (POS) 並儲存例句。
 3. 過濾無意義的符號與句子。
-4. 使用 OpenAI Chat Completions API，獲取所有單字的中英釋義與例句。
+4. 使用 OpenAI API，獲取所有單字的中英釋義與例句。
 5. 將處理結果彙整成一份 JSON 檔案，供前端使用。
 """
 import os
@@ -42,7 +42,7 @@ load_dotenv()
 OPENAI_ENABLED = bool(os.getenv("OPENAI_API_KEY"))
 if OPENAI_ENABLED:
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    OPENAI_MODEL = "gpt-4o-mini" # 推薦使用 gpt-4o-mini，性價比高
+    OPENAI_MODEL = "gpt-4o-mini"
 
 # NLP 與過濾設定
 try:
@@ -88,7 +88,7 @@ def is_relevant_sentence(sent_text: str) -> bool:
         return False
     return True
 
-# --- 修改開始：使用標準 API 進行並發請求 ---
+# --- 開始處理 ---
 
 async def fetch_single_definition(
     lemma: str, 
@@ -144,8 +144,8 @@ async def get_definitions_concurrently(lemmas: List[str]) -> Dict[str, Any]:
         "'en_def' (English definition), and 'example' (English example sentence)."
     )
 
-    # 使用 asyncio.Semaphore 來限制同時運行的協程數量，避免觸發速率限制
-    # 可根據你的 OpenAI 帳戶速率限制（Tier）調整，Tier 1 建議 10-15
+    # 設定同時運行的協程數量，避免觸發速率限制
+    # 根據OpenAI帳戶速率限制調整
     CONCURRENT_REQUESTS = 477
     semaphore = asyncio.Semaphore(CONCURRENT_REQUESTS)
 
@@ -163,8 +163,6 @@ async def get_definitions_concurrently(lemmas: List[str]) -> Dict[str, Any]:
             all_definitions[lemma] = definition
             
     return all_definitions
-
-# --- 修改結束 ---
 
 
 # --- 第 2 步：主流程 ---
@@ -220,7 +218,7 @@ async def main():
             "definition": {"zh_def": "", "en_def": "", "example": ""}
         })
 
-    # --- 第 3 步：(可選) 使用 OpenAI API 獲取釋義 ---
+    # --- 第 3 步：使用 OpenAI API 獲取釋義 ---
     if OPENAI_ENABLED and final_data:
         words_to_define = [item["lemma"] for item in final_data]
         # ** 使用新的並發函式 **
