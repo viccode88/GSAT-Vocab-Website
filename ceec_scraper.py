@@ -111,7 +111,7 @@ def main():
         html  = fetch_page(sess, base, page_idx)
         links = parse_links(html)
 
-        # ➜ 判斷「這頁新檔數」
+        # 判斷「這頁新檔數」
         new_links = [t for t in links if t[1] not in seen_urls]
         print(f"  取得 {len(new_links)} (新/{len(links)})")
 
