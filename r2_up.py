@@ -1,4 +1,3 @@
-# r2_uploader.py
 import os
 import sys
 import boto3
@@ -7,14 +6,12 @@ from botocore.exceptions import ClientError, NoCredentialsError
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
-# --- 使用者設定 ---
 # 您的 R2 貯體名稱
 BUCKET_NAME = "vocab-audio"
 # 您要上傳的本地資料夾完整路徑
-SOURCE_DIR = "/Users/icv/Documents/project/單字頻率/data/output/tts_audio"
+SOURCE_DIR = "path"
 # 設定最大同時上傳數量 (執行緒數量)
 MAX_WORKERS = 10
-# ------------------
 
 
 def get_r2_credentials():
@@ -35,28 +32,26 @@ def upload_file(s3_client, file_path, bucket_name, source_dir):
     boto3 的 upload_file 會自動處理分段上傳和重試。
     """
     try:
-        # 產生物件在 R2 中的路徑 (key)，保留子目錄結構
         relative_path = os.path.relpath(file_path, source_dir)
         object_key = relative_path.replace(os.path.sep, '/')
 
         s3_client.upload_file(file_path, bucket_name, object_key)
         return (file_path, True, None)
     except ClientError as e:
-        # 所有自動重試都失敗後，才會觸發這裡
+        # 所有自動重試都失敗後，會觸發這裡
         return (file_path, False, e.response['Error']['Message'])
     except Exception as e:
         return (file_path, False, str(e))
 
 def main():
     """主執行函式"""
-    print("🚀 準備開始上傳檔案至 Cloudflare R2...")
+    print("準備開始上傳檔案至 Cloudflare R2...")
 
     # 1. 取得憑證並建立 S3 客戶端
     account_id, access_key_id, secret_access_key = get_r2_credentials()
     endpoint_url = f"https://{account_id}.r2.cloudflarestorage.com"
 
-    # 2. 設定重試策略 (關鍵！)
-    # 'adaptive' 模式會自動啟用指數退避、抖動和客戶端速率限制
+    # 2. 重試策略
     retry_config = Config(
         retries={
             'max_attempts': 10,  # 最多重試 10 次
@@ -74,7 +69,7 @@ def main():
             aws_secret_access_key=secret_access_key,
             config=retry_config
         )
-        # 驗證憑證是否有效
+        # 驗證憑證有效性
         s3.list_buckets() 
     except NoCredentialsError:
         print("❌ 錯誤：找不到憑證，請檢查您的環境變數設定。")
@@ -93,7 +88,7 @@ def main():
     print(f"🔍 正在從 '{SOURCE_DIR}' 搜尋檔案...")
     for root, _, files in os.walk(SOURCE_DIR):
         for filename in files:
-            # 忽略 macOS 的 .DS_Store 等隱藏檔案
+            # 忽略 macOS 的 .DS_Store 等垃圾檔案
             if not filename.startswith('.'):
                 files_to_upload.append(os.path.join(root, filename))
 
@@ -127,7 +122,7 @@ def main():
     # 5. 輸出最終結果
     print("\n--- 上傳完成 ---")
     print(f"🎉 成功: {success_count} 個")
-    print(f"🔥 失敗: {failure_count} 個")
+    print(f"❌ 失敗: {failure_count} 個")
 
     if failed_files:
         print("\n以下檔案上傳失敗 (已歷經多次自動重試):")
