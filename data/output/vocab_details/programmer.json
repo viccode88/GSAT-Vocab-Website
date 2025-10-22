@@ -1,0 +1,17 @@
+{
+  "lemma": "programmer",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "程序員：負責設計、編寫和維護計算機程序的人。",
+    "en_def": "A programmer is a person who writes and maintains computer programs.",
+    "example": "The programmer spent hours debugging the code to ensure it ran smoothly."
+  },
+  "sentences_removed": 1
+}

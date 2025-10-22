@@ -1,0 +1,23 @@
+{
+  "lemma": "relieved",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the ship stopped, I eventually saw Tim, and I was very, very relieved that we were still alive.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/relieved_ex_0_82257fed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到輕鬆或解脫的，通常是因為擺脫了壓力或困擾。",
+    "en_def": "Feeling free from anxiety or distress; having had a burden lifted.",
+    "example": "She felt relieved after finishing her final exams."
+  },
+  "sentences_removed": 0
+}

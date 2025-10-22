@@ -1,0 +1,33 @@
+{
+  "lemma": "spa",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After a spa treatment at Happy Puppy, dogs come home 16 pampered and relaxed.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/spa_ex_0_4f250bb5.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is NOT used in health spas? (A) Magic power.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/spa_ex_1_218ddaf7.mp3"
+      },
+      {
+        "text": "The third kind is called “health spas,” or “faith healing.”",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/spa_ex_2_8730815e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "水療中心，提供按摩、護膚和放鬆的服務。",
+    "en_def": "A place where people go to receive therapeutic treatments, such as massages and skin care, for relaxation and health.",
+    "example": "After a long week at work, I decided to treat myself to a day at the spa."
+  },
+  "sentences_removed": 0
+}

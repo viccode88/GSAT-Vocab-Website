@@ -1,0 +1,49 @@
+{
+  "lemma": "hardly",
+  "count": 6,
+  "pos_dist": {
+    "ADV": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The donkey was so much weighed down by the wet sand that he could hardly get out of the stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hardly_ex_0_e5ff23fe.mp3"
+      },
+      {
+        "text": "I could hardly believe my eyes.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hardly_ex_1_a1e987d2.mp3"
+      },
+      {
+        "text": "He hardly ever wears a necktie.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hardly_ex_2_4f4917ac.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The boys were thrilled, for they could hardly believe that they were being paid to do something they 33 !",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "You could hardly even look up without getting something in your eye.\"",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The astronauts can hardly breathe in a space suit.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "幾乎不，幾乎沒有",
+    "en_def": "Barely or scarcely; not very much.",
+    "example": "She could hardly hear the music over the noise."
+  },
+  "sentences_removed": 0
+}

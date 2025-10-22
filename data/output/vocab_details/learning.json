@@ -1,0 +1,49 @@
+{
+  "lemma": "learning",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have found that certain parts of the brain are responsible for learning, memory, and language.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/learning_ex_0_6504c63e.mp3"
+      },
+      {
+        "text": "Scientists recognize the importance of both hemispheres in the learning of all sorts, including language learning.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/learning_ex_1_9b5f9eba.mp3"
+      },
+      {
+        "text": "Mr. Johnson was disappointed at his students for having a passive learning ______.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/learning_ex_2_d0f08e99.mp3"
+      },
+      {
+        "text": "For example, one study found various differences __(27)__ boys and girls in sensory learning styles.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/learning_ex_3_75d4a8ad.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers found that the parts of the brain involved in learning, memory, emotion, and touch became more active as the volunteers expected higher levels of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "學習，獲取知識或技能的過程。",
+    "en_def": "The process of acquiring knowledge or skills through experience, study, or teaching.",
+    "example": "Learning a new language can be challenging but rewarding."
+  },
+  "sentences_removed": 0
+}

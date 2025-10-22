@@ -1,0 +1,29 @@
+{
+  "lemma": "bureau",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bureau_ex_0_bec3978e.mp3"
+      },
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bureau_ex_1_6769b4ff.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "辦公室或機構，通常負責特定的業務或行政工作。",
+    "en_def": "An office or agency responsible for a specific business or administrative function.",
+    "example": "She works at the local bureau of tourism."
+  },
+  "sentences_removed": 0
+}

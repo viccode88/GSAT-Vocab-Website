@@ -1,0 +1,23 @@
+{
+  "lemma": "discount",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/discount_ex_0_326be906.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "折扣，指在原價基礎上減少的金額或百分比。",
+    "en_def": "A reduction in the usual price of something.",
+    "example": "The store is offering a 20% discount on all shoes this weekend."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,129 @@
+{
+  "lemma": "actually",
+  "count": 22,
+  "pos_dist": {
+    "ADV": 22
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/actually_ex_0_645c9dce.mp3"
+      },
+      {
+        "text": "Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/actually_ex_1_fc43e971.mp3"
+      },
+      {
+        "text": "Actually, quite the opposite is true.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/actually_ex_2_9f24d49a.mp3"
+      },
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/actually_ex_3_1f5c7dc9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "These patterns actually help the fish to hide from danger among roots and plants.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Actually, one of their main interests was the art of deception.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Interestingly, when the volunteers expected only mild or moderate pain but experienced severe pain, they reported feeling 28 percent less pain than when they expected severe pain and actually got it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Though often associated with beauty, most dimples are actually a genetic 33 caused by shortened facial muscles.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although your plans look good, you have to be _____ and consider what you can actually do.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 29 than it actually is.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the sea snake’s salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These were mainly the same areas that became active when participants actually felt pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes it is the ordinary nature of these objects that actually makes them so extraordinary.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After the war, a giant paperclip statue was erected in Oslo to 40 Vaaler—even though his design was never actually manufactured.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The heaviest drinkers in medieval Europe were actually Germans.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Selling fried chicken at the night market doesn’t seem to be a decent business, but it is actually quite ______.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For this reason, milk can actually be more 24 than drinking water.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "實際上；事實上",
+    "en_def": "In fact; really; used to emphasize the truth of a statement.",
+    "example": "I actually finished the project ahead of schedule."
+  },
+  "sentences_removed": 0
+}

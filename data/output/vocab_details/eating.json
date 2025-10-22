@@ -1,0 +1,28 @@
+{
+  "lemma": "eating",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/eating_ex_0_92f8d19e.mp3"
+      },
+      {
+        "text": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/eating_ex_1_d5301dd6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "進食，攝取食物以維持生命和健康的過程。",
+    "en_def": "The act of consuming food to sustain life and health.",
+    "example": "Eating a balanced diet is important for good health."
+  },
+  "sentences_removed": 0
+}

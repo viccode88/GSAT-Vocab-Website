@@ -1,0 +1,17 @@
+{
+  "lemma": "lowery",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "低沉的，陰鬱的，或使人感到沮喪的。",
+    "en_def": "Having a gloomy or melancholic quality; causing feelings of sadness.",
+    "example": "The lowery weather made everyone feel a bit down."
+  },
+  "sentences_removed": 1
+}

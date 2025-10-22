@@ -1,0 +1,44 @@
+{
+  "lemma": "roll",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Green tea leaves are heated in steam, rolled, and dried.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/roll_ex_0_31b3201d.mp3"
+      },
+      {
+        "text": "Then, they are lightly rolled and left in a fermentation room to develop scent and a red color.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/roll_ex_1_11c59442.mp3"
+      },
+      {
+        "text": "They also struck them with sticks to roll them down the road.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/roll_ex_2_0a0b1b27.mp3"
+      },
+      {
+        "text": "With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/roll_ex_3_4b31a95e.mp3"
+      },
+      {
+        "text": "Who wants to travel with 30 rolls of film?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/roll_ex_4_da6a7c29.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滾動或旋轉的動作，通常指物體在表面上轉動或翻轉。",
+    "en_def": "To move or cause to move in a circular or curved course.",
+    "example": "The children love to roll down the hill."
+  },
+  "sentences_removed": 0
+}

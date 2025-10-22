@@ -1,0 +1,23 @@
+{
+  "lemma": "awful",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/awful_ex_0_d2acc22c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "糟糕的；令人不快的",
+    "en_def": "Very bad or unpleasant.",
+    "example": "The weather was awful, so we decided to stay indoors."
+  },
+  "sentences_removed": 0
+}

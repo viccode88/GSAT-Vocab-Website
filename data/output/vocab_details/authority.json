@@ -1,0 +1,33 @@
+{
+  "lemma": "authority",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/authority_ex_0_cff0c385.mp3"
+      },
+      {
+        "text": "In an uncertain situation. (C) Under control by the authority.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/authority_ex_1_b83c6582.mp3"
+      },
+      {
+        "text": "In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/authority_ex_2_cd94ff57.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "權威；當局；管理機構",
+    "en_def": "The power or right to give orders, make decisions, and enforce obedience.",
+    "example": "The teacher has the authority to assign homework."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,125 @@
+{
+  "lemma": "land",
+  "count": 25,
+  "pos_dist": {
+    "NOUN": 20,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The King agreed and gave Nehemiah a letter “to the governors of the province beyond the river,” requesting safe passage for him as he travelled through their lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/land_ex_0_740b5520.mp3"
+      },
+      {
+        "text": "King Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/land_ex_1_2bca6403.mp3"
+      },
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/land_ex_2_6acbccb6.mp3"
+      },
+      {
+        "text": "We want to believe in fantastic creatures in imaginary lands.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/land_ex_3_08fdea43.mp3"
+      },
+      {
+        "text": "Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals’ only source of fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/land_ex_4_c535d395.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The skydiver managed to land safely after jumping out of the aircraft, even though her _____ failed to open in midair.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In the face of this tragedy, food and other supplies from around the world landed in the provincial capital of Kerman on Sunday.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The land was so 35 that it had to be watered several times a day.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "They flash a false response when these males signal overhead, but eat them when they land. 48.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the beginning, people thought he was 33 to waste his time and money on the land.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Certain land animals can also produce light.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They are the loudest land animal and their howls can be heard three miles away through dense forests.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It immediately began to thrive in the new land and colonies spread quickly throughout the southeastern states.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The first cause is pollution on land.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "On land as in the sea, living lights can be deceiving.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "This means that no increased competition arises for the water or land presently used for food production.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "“There will always be competition for land,” she explained, “but we can protect elephants in the parks and give the young a chance.” 47.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The islands soon attracted traders from different lands.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "土地；地面；國土",
+    "en_def": "The part of the earth's surface that is not covered by water; a country or territory.",
+    "example": "The farmer worked hard to cultivate the land."
+  },
+  "sentences_removed": 4
+}

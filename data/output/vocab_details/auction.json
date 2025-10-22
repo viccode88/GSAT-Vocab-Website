@@ -1,0 +1,29 @@
+{
+  "lemma": "auction",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The passage indicates that dead mail auctions are held .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/auction_ex_0_6543d669.mp3"
+      },
+      {
+        "text": "When a lot of dead mail has piled up, the dead mail offices hold public auctions.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/auction_ex_1_92dca8f2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拍賣，一種出售物品的方式，通常通過競標來決定價格。",
+    "en_def": "A public sale in which goods or property are sold to the highest bidder.",
+    "example": "She bought a beautiful painting at the auction."
+  },
+  "sentences_removed": 1
+}

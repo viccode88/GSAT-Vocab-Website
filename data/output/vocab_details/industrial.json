@@ -1,0 +1,34 @@
+{
+  "lemma": "industrial",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/industrial_ex_0_afc4c51b.mp3"
+      },
+      {
+        "text": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/industrial_ex_1_cfff768e.mp3"
+      },
+      {
+        "text": "During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/industrial_ex_2_03a45e4d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "工業的；與工業有關的",
+    "en_def": "Relating to or characterized by industry.",
+    "example": "The city has a strong industrial base that supports many jobs."
+  },
+  "sentences_removed": 0
+}

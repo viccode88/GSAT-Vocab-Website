@@ -1,0 +1,23 @@
+{
+  "lemma": "firstly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Firstly, the hare carries the tortoise on its back to the river.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/firstly_ex_0_295e29ec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "首先，第一個，最初的。",
+    "en_def": "At the beginning; in the first place.",
+    "example": "Firstly, we need to gather all the necessary materials."
+  },
+  "sentences_removed": 0
+}

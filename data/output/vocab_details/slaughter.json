@@ -1,0 +1,23 @@
+{
+  "lemma": "slaughter",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After that sow gives birth, find the fourth piglet with a mark on its brow and, with one 34 of your knife, slaughter it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/slaughter_ex_0_28458f60.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "屠殺，尤其是大規模或殘忍地殺死動物或人類。",
+    "en_def": "The act of killing animals or people, especially in a brutal or large-scale manner.",
+    "example": "The documentary exposed the cruel practices involved in the slaughter of livestock."
+  },
+  "sentences_removed": 0
+}

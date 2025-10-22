@@ -1,0 +1,43 @@
+{
+  "lemma": "attraction",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Completely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/attraction_ex_0_335bb207.mp3"
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/attraction_ex_1_b5139e33.mp3"
+      },
+      {
+        "text": "Water sports are 31 the most popular tourist attraction.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attraction_ex_2_2736d9aa.mp3"
+      },
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attraction_ex_3_1e01808f.mp3"
+      },
+      {
+        "text": "However, this tourist attraction will soon 22 .",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/attraction_ex_4_4b14812e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "吸引力；吸引的事物或地方",
+    "en_def": "A quality or feature that evokes interest, pleasure, or admiration; a place or thing that draws people in.",
+    "example": "The amusement park is a popular attraction for families."
+  },
+  "sentences_removed": 1
+}

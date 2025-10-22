@@ -1,0 +1,101 @@
+{
+  "lemma": "code",
+  "count": 22,
+  "pos_dist": {
+    "NOUN": 19,
+    "VERB": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“A lot of young people don’t want to dress up for work,” says the owner of a software company, “so it’s hard to hire people if you have a conservative dress code.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/code_ex_0_2e2e80d2.mp3"
+      },
+      {
+        "text": "A common color code has also been developed for recognizing people and their roles on site.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/code_ex_1_39874eca.mp3"
+      },
+      {
+        "text": "Future bank robbers will not need explosives to blow open bank safes—all they will need is someone who can break computer codes.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/code_ex_2_c9d5669a.mp3"
+      },
+      {
+        "text": "The area code was introduced in the United States in 1947.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/code_ex_3_dd8ff279.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "If the number 16 is in the same area as the number making the call, an area code usually doesn’t need to be dialed.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "New York, being the largest city in the United States, was 19 the 212 area code, followed by Los Angeles at 213.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Following the number-based convention, typhoons are coded with 31 types of numbers such as a 4-digit or a 6-digit code.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "One reason is that it’s easier for a company to attract new employees if it has a casual dress code.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, breaking into computer codes of banks, large companies, and government departments is (A) a widespread criminal practice.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Many employees don’t like a conservative dress code.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Supporters of casual office wear also argue that a casual dress code helps them save money.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In countries other than the United States and Canada, the area code generally determines the 20 of a call.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The glass hemispheres were color coded with paint to identify the notes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Based on the passage, in order to break into computer codes, one needs (A) an elaborate and expensive multi-media computer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一組指令或語言，用於告訴計算機如何執行特定任務。",
+    "en_def": "A set of instructions or a language used to tell a computer how to perform specific tasks.",
+    "example": "She learned to code in Python to create her own applications."
+  },
+  "sentences_removed": 3
+}

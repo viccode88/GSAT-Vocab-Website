@@ -1,0 +1,90 @@
+{
+  "lemma": "individual",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 9,
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cloning is the genetic process of producing copies of an individual.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/individual_ex_0_6371858c.mp3"
+      },
+      {
+        "text": "American presidents can express their individual style in how they decorate the house and in how they receive the public.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/individual_ex_1_d259036f.mp3"
+      },
+      {
+        "text": "The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/individual_ex_2_19f85939.mp3"
+      },
+      {
+        "text": "In this method of printing, individual letters were made from separate pieces of metal.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/individual_ex_3_e346b0dd.mp3"
+      },
+      {
+        "text": "The forces that are crushing individual lives and futures are also destroying the prospects for an entire region. 49.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/individual_ex_4_34751dec.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 29 outside of work.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They used to come in one general pattern for all individuals and institutions. 43.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The preceding passage refers to the word 'hacking' in the context of (A) climbing Mount Everest. (B) a game for young individuals.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists now relate left and right hemispheres to the way different individuals learn languages.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur. 21.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The association of particular patterns with individual families can be traced back hundreds of years.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "個體；個人，特指一個人或一個獨立的實體。",
+    "en_def": "A single human being as distinct from a group.",
+    "example": "Each individual has unique talents and abilities."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "poles",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is the best title for this passage? (A) Totem Poles, the Legends of Aboriginal Peoples (B) Totem Poles: Their Functions (C) Totem Poles, Symbols of Historical Resistance (D) Totem Poles: Their Designs 46.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/poles_ex_0_fcbd8549.mp3"
+      },
+      {
+        "text": "Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/poles_ex_1_6019fb2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "極，指地球的兩個極點或任何長杆狀物體的兩端。",
+    "en_def": "The ends of a magnet or the two points on the Earth's surface at the extremes of its axis.",
+    "example": "The North and South Poles are critical for understanding Earth's climate."
+  },
+  "sentences_removed": 0
+}

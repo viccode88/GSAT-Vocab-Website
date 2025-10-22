@@ -1,0 +1,23 @@
+{
+  "lemma": "dose",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The problem is made worse by doctors who give their patients large doses of useless drugs.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/dose_ex_0_312e08f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "劑量；藥物的服用量",
+    "en_def": "A specific amount of a medicine or drug taken at one time.",
+    "example": "The doctor prescribed a dose of antibiotics for the infection."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "booklet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In a booklet on American-born British artists.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/booklet_ex_0_384121ea.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小冊子，通常包含幾頁印刷的資料或資訊。",
+    "en_def": "A small book or pamphlet, typically containing information or instructions.",
+    "example": "She handed out a booklet about the new community center."
+  },
+  "sentences_removed": 0
+}

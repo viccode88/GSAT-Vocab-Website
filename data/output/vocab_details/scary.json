@@ -1,0 +1,43 @@
+{
+  "lemma": "scary",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But many others enjoy a good fear spectacle, and line up to see the latest scary movie.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/scary_ex_0_df5cb985.mp3"
+      },
+      {
+        "text": "That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scary_ex_1_203f0ccc.mp3"
+      },
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scary_ex_2_e1abf914.mp3"
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/scary_ex_3_2234894e.mp3"
+      },
+      {
+        "text": "Often they write about real or make-believe people, places, or events that may be funny, sad, or scary.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/scary_ex_4_9087ed26.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人害怕的，恐怖的",
+    "en_def": "Causing fear or apprehension; frightening.",
+    "example": "The movie was so scary that I couldn't sleep afterward."
+  },
+  "sentences_removed": 1
+}

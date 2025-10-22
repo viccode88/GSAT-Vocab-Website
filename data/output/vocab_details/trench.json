@@ -1,0 +1,59 @@
+{
+  "lemma": "trench",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trench_ex_0_6acbccb6.mp3"
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trench_ex_1_bcec7b7c.mp3"
+      },
+      {
+        "text": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trench_ex_2_925e31f3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The trenches, however, can be death traps for the elephants.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They cannot find a safe shelter when climbing out of the trenches.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The elephants use the trenches to roam around the tea gardens.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do farmers in Assam dig trenches in tea gardens? (A) To protect tea trees.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “it” in the last paragraph refer to? (A) To certify elephant-friendly trenches and organizations.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "壕溝；深長的挖掘，通常用於防禦或排水。",
+    "en_def": "A long, narrow ditch or excavation, often used for defense or drainage.",
+    "example": "The soldiers dug a trench to protect themselves from enemy fire."
+  },
+  "sentences_removed": 0
+}

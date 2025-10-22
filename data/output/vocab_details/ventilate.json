@@ -1,0 +1,23 @@
+{
+  "lemma": "ventilate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/ventilate_ex_0_83a60616.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使通風；使空氣流通",
+    "en_def": "To allow fresh air to enter and circulate in a space.",
+    "example": "We need to ventilate the room to remove the stale air."
+  },
+  "sentences_removed": 0
+}

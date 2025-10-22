@@ -1,0 +1,49 @@
+{
+  "lemma": "preparation",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/preparation_ex_0_05664a62.mp3"
+      },
+      {
+        "text": "But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/preparation_ex_1_467795d0.mp3"
+      },
+      {
+        "text": "As preparations began, a competition was held to find a builder of the “President’s House.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/preparation_ex_2_e058aece.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To teach children about the meal preparation process.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE about tea preparation? (A) Black tea leaves need to be picked on a cloudy day.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The preparation of oolong tea is similar to that of black tea.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "準備，為某事做的準備工作或安排。",
+    "en_def": "The action or process of making ready or being made ready for use or consideration.",
+    "example": "The preparation for the event took several weeks."
+  },
+  "sentences_removed": 0
+}

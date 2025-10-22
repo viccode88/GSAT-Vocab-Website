@@ -1,0 +1,28 @@
+{
+  "lemma": "naturally",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water 25 .",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/naturally_ex_0_d36a63e3.mp3"
+      },
+      {
+        "text": "Kareem let his forest grow naturally, without using fertilizers or insecticides.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/naturally_ex_1_f6de3ea1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自然地；本能地",
+    "en_def": "In a natural manner; without artificiality or pretense.",
+    "example": "She smiled naturally during the conversation."
+  },
+  "sentences_removed": 0
+}

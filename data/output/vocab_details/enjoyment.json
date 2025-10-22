@@ -1,0 +1,17 @@
+{
+  "lemma": "enjoyment",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "享受，快樂的感覺或狀態。",
+    "en_def": "The state or process of taking pleasure in something.",
+    "example": "She found great enjoyment in reading her favorite books."
+  },
+  "sentences_removed": 1
+}

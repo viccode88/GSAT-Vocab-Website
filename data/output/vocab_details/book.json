@@ -1,0 +1,240 @@
+{
+  "lemma": "book",
+  "count": 48,
+  "pos_dist": {
+    "NOUN": 47,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Who wrote the book which shows that money is not the only way to measure wealth?",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/book_ex_0_ca32fd0a.mp3"
+      },
+      {
+        "text": "Most viewers agreed that the movie was not as good as the book.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/book_ex_1_f6f321cd.mp3"
+      },
+      {
+        "text": "Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/book_ex_2_f716c5cf.mp3"
+      },
+      {
+        "text": "The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/book_ex_3_76b3d7fb.mp3"
+      },
+      {
+        "text": "In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/book_ex_4_237f8d30.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "I don’t write a book about how great my family is.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When I open a book, I look first at the table of to get a general idea of the book and to see which chapters I might be interested in reading.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The first book to be printed likewise in English was about the history of Troy.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "People may choose a name because they are strongly 38 a character in a book or a television series; they may also adopt names of famous people or their favorite actors and actresses.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which book is published in 1990?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "That is, after he 16 his pages in the hymn book with small bits of paper, the small pieces would invariably fall out all over the floor.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his and fell to the ground.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There is no death; only a change of worlds—the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “a new chapter” in line 2, paragraph 1 mean? (A) A new unit of a book.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "One of the first European books to be printed in movable type was Johannes Gutenberg's 42-line Bible.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The book is not only informative but also , making me laugh and feel relaxed while reading it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The first English book printed in movable type was (A) done from wood blocks one letter at a time.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the 1970s, book towns like Hay- on-Wye 12 up all over the world.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, an annual book festival is held in Hay-on-Wye.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "There are lots of idiocies and foolishness—a lot to make fun of in the book.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dr. Liu’s new book is a collection of his _____ of the daily life of tribal people in Africa.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which book is the thickest?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Amy followed her, trying to recall how each one had looked when they were filled with furniture and rugs and pictures and books.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Henry: I asked you me return these books to the library.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "(67) , television, movies, and books have taken over the once personal and (68) activity of storytelling.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "At the Book Fair, exhibitors from 21 countries will _______ textbooks, novels, and comic books.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although all book towns have a great number of bookshops, that’s where the similarities 13 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "This library is famous for its wide of books.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "You can find books on any topic you are interested in.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children’s books.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "This was a slow process, requiring much skill and patience, and every page of every book had to be cut separately.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Henry: Please help me return these books to the library, James.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Altogether he printed nearly 80 books, many being his own translations from the French. 37.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The book reads like a prayer, expressing specific beliefs about dying.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Isn’t writing a book about how great your family is a bit odd? Zeke:",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Peter likes books with wide _____, which provide him with enough space to write notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Who wrote the book about Native Americans’ view of death? (A) Bruce Brooks.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "One grateful client, an author, put a “thank you” to Jack in the front of his book.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "書籍；一種包含文字或圖片的印刷或手寫的頁面集合，通常用於閱讀或學習。",
+    "en_def": "A set of written, printed, or blank pages fastened together along one side and encased between protective covers.",
+    "example": "I borrowed a fascinating book from the library."
+  },
+  "sentences_removed": 0
+}

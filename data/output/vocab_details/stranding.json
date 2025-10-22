@@ -1,0 +1,23 @@
+{
+  "lemma": "stranding",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These seagoing mammals are among the lucky survivors of a whale-stranding last December at Cape Cod.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/stranding_ex_0_c66b6b2f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擱淺；使無法返回的狀態或情況。",
+    "en_def": "The act of leaving someone or something in a difficult or helpless situation, often by being unable to return.",
+    "example": "The storm caused the ship to be stranded on the deserted island."
+  },
+  "sentences_removed": 0
+}

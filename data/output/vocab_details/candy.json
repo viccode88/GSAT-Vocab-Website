@@ -1,0 +1,54 @@
+{
+  "lemma": "candy",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some parents try to get rid of half of the candy after their children go to bed, but dentists say parents also need to separate the good kinds of treats from the bad.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/candy_ex_0_6aa1f4dd.mp3"
+      },
+      {
+        "text": "Therefore, potato chips are worse than candy because they get stuck between teeth.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/candy_ex_1_2c43032f.mp3"
+      },
+      {
+        "text": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/candy_ex_2_d8c4dd60.mp3"
+      },
+      {
+        "text": "Unlike hard candies, chocolate dissolves quickly in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/candy_ex_3_efcc6413.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "If children really love candy, dentists recommend that they eat chocolate instead.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Why are hard candies especially bad for teeth?",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Hard candies take a long time to consume and are also a bad choice for Halloween treats.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "糖果，一種通常由糖製成的甜食，常用於零食或甜點。",
+    "en_def": "A sweet food made from sugar or other sweeteners, often enjoyed as a snack or dessert.",
+    "example": "She bought a bag of candy for the party."
+  },
+  "sentences_removed": 1
+}

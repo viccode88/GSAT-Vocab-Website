@@ -1,0 +1,23 @@
+{
+  "lemma": "hopelessness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hopelessness_ex_0_b74ee962.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "絕望；失去希望的狀態或感覺。",
+    "en_def": "A state of despair or a feeling of having no hope.",
+    "example": "After several failed attempts, she felt a deep sense of hopelessness."
+  },
+  "sentences_removed": 0
+}

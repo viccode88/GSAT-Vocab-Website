@@ -1,0 +1,23 @@
+{
+  "lemma": "carrier",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "First, we replaced all our telephones with carrier pigeons.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/carrier_ex_0_6748d41e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "運輸者；承運人",
+    "en_def": "A person or company that transports goods or people.",
+    "example": "The carrier delivered the package on time."
+  },
+  "sentences_removed": 0
+}

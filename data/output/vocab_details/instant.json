@@ -1,0 +1,23 @@
+{
+  "lemma": "instant",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Digital cameras offer more than just the instant previewing of pictures on small color screens.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/instant_ex_0_81399ce6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瞬間，立刻的時刻或狀態。",
+    "en_def": "A very short period of time; a moment.",
+    "example": "She made an instant decision to help her friend."
+  },
+  "sentences_removed": 0
+}

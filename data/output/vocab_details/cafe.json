@@ -1,0 +1,23 @@
+{
+  "lemma": "cafe",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "28 , as he sat in a cafe in a small town, he had an idea.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cafe_ex_0_aaddb381.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "咖啡館；一種提供咖啡和輕食的休閒場所。",
+    "en_def": "A small restaurant or coffeehouse that serves coffee and light meals.",
+    "example": "I like to meet my friends at the cafe for brunch."
+  },
+  "sentences_removed": 0
+}

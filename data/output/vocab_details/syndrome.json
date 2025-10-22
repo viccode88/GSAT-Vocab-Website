@@ -1,0 +1,28 @@
+{
+  "lemma": "syndrome",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly “earworm.”",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/syndrome_ex_0_5fed6953.mp3"
+      },
+      {
+        "text": "Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/syndrome_ex_1_7d01350a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一組症狀或徵兆，通常與特定疾病或狀況相關。",
+    "en_def": "A group of symptoms or signs that are characteristic of a particular disease or condition.",
+    "example": "The doctor diagnosed her with a rare syndrome that affects her immune system."
+  },
+  "sentences_removed": 0
+}

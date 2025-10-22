@@ -1,0 +1,54 @@
+{
+  "lemma": "being",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What do we learn from this passage? (A) Human beings depend emotionally on animals.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/being_ex_0_7be519e2.mp3"
+      },
+      {
+        "text": "Only a few people worked with the whales so that they would not become too accustomed to human beings.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/being_ex_1_7001d953.mp3"
+      },
+      {
+        "text": "A lot of ancient civilizations, __(37)__ the Egyptians, Hindus, Greeks, and Mayans, have left writings and __(38)__ which indicate contacts with superior beings “from the stars.”",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/being_ex_2_069fddee.mp3"
+      },
+      {
+        "text": "Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/being_ex_3_7f624ef0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Human beings, too, 37 special devices to protect 38 .",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "We human beings may live without clothes, but food and air are ______ to our life.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "We human beings need to love and be loved, and this will come from our relationship with others.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "存在；生存；生命的狀態或本質",
+    "en_def": "The state or quality of having existence; the nature of life.",
+    "example": "Being kind to others can make a big difference."
+  },
+  "sentences_removed": 1
+}

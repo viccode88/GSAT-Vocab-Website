@@ -1,0 +1,29 @@
+{
+  "lemma": "thrill",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/thrill_ex_0_2234894e.mp3"
+      },
+      {
+        "text": "The boys were thrilled, for they could hardly believe that they were being paid to do something they 33 !",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/thrill_ex_1_c8e7e8be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "興奮；刺激",
+    "en_def": "A sudden feeling of excitement and pleasure.",
+    "example": "The roller coaster ride gave me a thrill like no other."
+  },
+  "sentences_removed": 0
+}

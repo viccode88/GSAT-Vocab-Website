@@ -1,0 +1,23 @@
+{
+  "lemma": "cemetery",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some people also visit the cemetery to clean up the family graves and pray for their ancestors.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cemetery_ex_0_62939ed5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "墓地，埋葬死者的地方。",
+    "en_def": "A burial ground; a place where the dead are buried.",
+    "example": "We visited the cemetery to pay our respects to our ancestors."
+  },
+  "sentences_removed": 0
+}

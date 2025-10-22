@@ -1,0 +1,23 @@
+{
+  "lemma": "emergence",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Now, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/emergence_ex_0_b58d689a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "出現；浮現；顯現",
+    "en_def": "The process of coming into view or becoming exposed.",
+    "example": "The emergence of new technologies has changed the way we communicate."
+  },
+  "sentences_removed": 0
+}

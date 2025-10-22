@@ -1,0 +1,23 @@
+{
+  "lemma": "broke",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She didn’t have any insurance, so she went broke because of her illness.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/broke_ex_0_3310df61.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "破裂的；無錢的",
+    "en_def": "Having been damaged or shattered; having no money.",
+    "example": "After spending all his savings, he realized he was completely broke."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,69 @@
+{
+  "lemma": "specie",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Recognizing the flashing code of her own species, a female signals back to the male, and he lands beside her.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/specie_ex_0_28fcb633.mp3"
+      },
+      {
+        "text": "The weta is a newly discovered insect species.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/specie_ex_1_e7f875ff.mp3"
+      },
+      {
+        "text": "D. Daniel To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/specie_ex_2_41eee2c0.mp3"
+      },
+      {
+        "text": "As there are a number of species of firefly, the males of each kind flash their own particular signal.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/specie_ex_3_c978517d.mp3"
+      },
+      {
+        "text": "When they are hungry, some female fireflies lure the males of other species to them.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/specie_ex_4_2bbfc773.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "B. Ben What gives humans the right to capture, confine, or breed other species?",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since rats love to hunt and eat wetas, the rat population on the island has its grown into a real problem for many of the native species that are unaccustomed to presence, and poses a serious threat to the native weta population.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some species might even become 32 or disappear completely.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "物種；生物分類的基本單位，指一群具有相似特徵且能夠繁殖的生物。",
+    "en_def": "A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.",
+    "example": "The endangered species is protected by law."
+  },
+  "sentences_removed": 4
+}

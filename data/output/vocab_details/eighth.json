@@ -1,0 +1,23 @@
+{
+  "lemma": "eighth",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She is the eighth woman and the first African American woman to win the honor.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/eighth_ex_0_597d8c53.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第八的，表示順序中的第八位。",
+    "en_def": "The ordinal number following seventh, representing the position in a sequence.",
+    "example": "She finished in eighth place in the race."
+  },
+  "sentences_removed": 0
+}

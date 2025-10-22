@@ -1,0 +1,23 @@
+{
+  "lemma": "bruce",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Who wrote the book about Native Americans’ view of death? (A) Bruce Brooks.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/bruce_ex_0_423426d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "布魯斯，一個常見的男性名字，源於古法語，通常用作姓氏或名字。",
+    "en_def": "Bruce is a common male given name of Old French origin, often used as a surname or first name.",
+    "example": "Bruce is planning to run a marathon next month."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "raisin",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For the same reason, raisins and crackers are not the best choice.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/raisin_ex_0_1ddc7c39.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "葡萄乾：經過乾燥處理的葡萄，通常用作零食或烘焙材料。",
+    "en_def": "A raisin is a dried grape, often used as a snack or in baking.",
+    "example": "She added raisins to the oatmeal for extra sweetness."
+  },
+  "sentences_removed": 0
+}

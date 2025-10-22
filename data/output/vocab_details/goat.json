@@ -1,0 +1,28 @@
+{
+  "lemma": "goat",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A goat came in our tent at night and ate most of our food!",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/goat_ex_0_88652aca.mp3"
+      },
+      {
+        "text": "Herds of goats and cows 26 enormous horns graze the lush green fields.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/goat_ex_1_43e05838.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "山羊，一種常見的家畜，通常用於提供乳製品、肉類和毛髮。",
+    "en_def": "A goat is a common domesticated animal, often kept for its milk, meat, and hair.",
+    "example": "The farmer has several goats in his pasture."
+  },
+  "sentences_removed": 0
+}

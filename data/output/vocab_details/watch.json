@@ -1,0 +1,115 @@
+{
+  "lemma": "watch",
+  "count": 21,
+  "pos_dist": {
+    "VERB": 20,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rock videos young people watch over and over again feature alcohol, too.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/watch_ex_0_38fabd13.mp3"
+      },
+      {
+        "text": "The following is a report by one of the team members: “I watched a small piece of the Amazon Rainforest disappear today.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/watch_ex_1_1abce5cf.mp3"
+      },
+      {
+        "text": "Game after game, she could do nothing but sit on the sidelines watching others play the game that she loved so much.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/watch_ex_2_b732f8da.mp3"
+      },
+      {
+        "text": "I went to a nightclub in New York and watched the stage lights go up.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/watch_ex_3_681a036b.mp3"
+      },
+      {
+        "text": "She watched as Laura walked down the block, turning and waving and walking backwards until she got to the corner.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/watch_ex_4_57193621.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "To begin with, football is a quicker, more physical sport, and football fans enjoy the emotional involvement they feel while watching.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "All my money was (40) and my \"friend\" had even taken my watch and my shoes! 31.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of following is a positive effect of stress? (A) Watching funny movies.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "An amplified voice of a human was used instead, while the listeners watched the robot.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Secondly, the shows young people watch on television encourage them to drink.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies have proved that watching funny movies can reduce pain and promote healing.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Every time we watch apes in their cages we are startled by their manlike behavior.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Beer companies often sponsor the sports events young people watch.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "手錶；觀看",
+    "en_def": "A small timepiece worn on the wrist or a verb meaning to look at something attentively.",
+    "example": "I like to watch the sunset every evening."
+  },
+  "sentences_removed": 2
+}

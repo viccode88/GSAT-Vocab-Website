@@ -1,0 +1,141 @@
+{
+  "lemma": "service",
+  "count": 27,
+  "pos_dist": {
+    "NOUN": 21,
+    "PROPN": 5,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "19 Happy Puppy is a relatively new service, we benefit from more than 20 years of experience in breeding and caring for dogs.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/service_ex_0_94415bee.mp3"
+      },
+      {
+        "text": "With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/service_ex_1_5adbf5c5.mp3"
+      },
+      {
+        "text": "Our well-trained staff will provide the best possible service for you and your dog.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/service_ex_2_91800217.mp3"
+      },
+      {
+        "text": "Without the services of a marine pilot, docking ships would be hazardous.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/service_ex_3_acb88a27.mp3"
+      },
+      {
+        "text": "According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/service_ex_4_ad23bcba.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "not only good service but also convenient public transport.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The postal special ________ service is very efficient.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One week after the typhoon, some bridges were finally opened and bus service _____ in the country’s most severely damaged areas.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Its staff members are always available to provide service.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides, birds are cheaper than telephone service.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Jack’s Disk Doctor Service has only one standard fee.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is PBS most famous for? (A) Cable services.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Jack and a few of his friends set up a company called “Jack’s Disk Doctor Service” in 1984.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In the year 1990 alone, the growth in trade in services was as high as 19%.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rather it is PBS, Public Broadcasting System, a non-profit public broadcasting TV service.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An international company requires a A major US corporation in the health and nutritional Service Technician industry has announced the opening of its direct selling To service and maintain electronic medical equipment division in Taiwan.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This service is available seven days a week during normal operating hours.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Dead mail is sent to one of the U.S. Postal Service’s dead mail offices in Atlanta, New York, Philadelphia, St. Paul, and San Francisco.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In some countries, military service is ______ for men only; women do not have to serve in the military.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The architect thought Jack's service was priceless 46.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "服務；提供某種幫助或便利的行為或工作。",
+    "en_def": "The action of helping or doing work for someone.",
+    "example": "The restaurant is known for its excellent service."
+  },
+  "sentences_removed": 2
+}

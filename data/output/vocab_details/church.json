@@ -1,0 +1,75 @@
+{
+  "lemma": "church",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 1980s, proms were held in local churches for teenagers to attend.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/church_ex_0_70caf5f4.mp3"
+      },
+      {
+        "text": "There never seemed to be enough time to go to church, which disturbed some friends and relatives.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/church_ex_1_cde93878.mp3"
+      },
+      {
+        "text": "He was bothered by a small irritation every Sunday as he sang in the church choir.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/church_ex_2_59c89d5a.mp3"
+      },
+      {
+        "text": "Run by a team of church volunteers, the shop will collect any surplus, good-quality items and store them until they can be redistributed to the people who are needing those particular things.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/church_ex_3_beeec1a2.mp3"
+      },
+      {
+        "text": "The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/church_ex_4_5f23402c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Unable to attend music school, she began her career as a singer for church gatherings.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The church was built with pine trees brought from the mainland, which was quite common for the 18th century.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following activities was NOT planned by the father for his children’s summer education? (A) Going to church.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She was born in Philadelphia and sang in church choirs during her childhood.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "教堂，基督教的宗教場所，供信徒聚會和崇拜之用。",
+    "en_def": "A building used for public Christian worship.",
+    "example": "They went to church every Sunday to attend the service."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "disc",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nowadays students can information from a variety of sources, such as computers, television, and compact discs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/disc_ex_0_f1230b9f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓盤狀物體，通常用於儲存數據或作為運動的物體。",
+    "en_def": "A flat, circular object or surface, often used for storing data or as a component in various activities.",
+    "example": "She placed the disc into the player to listen to her favorite music."
+  },
+  "sentences_removed": 0
+}

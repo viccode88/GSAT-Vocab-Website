@@ -1,0 +1,28 @@
+{
+  "lemma": "irish",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The newcomer speaks with a strong Irish _____; he must be from Ireland.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/irish_ex_0_3d72c365.mp3"
+      },
+      {
+        "text": "Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/irish_ex_1_8d3eec89.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "愛爾蘭的；與愛爾蘭有關的",
+    "en_def": "Relating to Ireland, its people, or its culture.",
+    "example": "She loves Irish music and often attends traditional dance performances."
+  },
+  "sentences_removed": 0
+}

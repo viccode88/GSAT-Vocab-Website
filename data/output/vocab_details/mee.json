@@ -1,0 +1,17 @@
+{
+  "lemma": "mee",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於表示自我或自己的一人稱代詞。",
+    "en_def": "A first-person pronoun used to refer to oneself.",
+    "example": "I saw me in the mirror."
+  },
+  "sentences_removed": 1
+}

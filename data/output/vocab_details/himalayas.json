@@ -1,0 +1,28 @@
+{
+  "lemma": "himalayas",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new analysis of satellite-based data has given precisely the rate 21 which the country is losing size as it pushes northward against the Himalayas.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/himalayas_ex_0_949df404.mp3"
+      },
+      {
+        "text": "As India’s size decreases, the thickness of the Himalayas increases.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/himalayas_ex_1_77471484.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "喜馬拉雅山脈，位於亞洲，是世界上最高的山脈，包含珠穆朗瑪峰等高峰。",
+    "en_def": "The Himalayas, a mountain range in Asia, is the highest in the world, containing peaks such as Mount Everest.",
+    "example": "The Himalayas are known for their breathtaking beauty and challenging climbing conditions."
+  },
+  "sentences_removed": 0
+}

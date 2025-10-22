@@ -1,0 +1,28 @@
+{
+  "lemma": "bracelet",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amy made sure her gold bracelet was secure on her wrist.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bracelet_ex_0_55c785e1.mp3"
+      },
+      {
+        "text": "Amy treasured the gold bracelet Laura gave her.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bracelet_ex_1_74fbcc93.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種佩戴在手腕上的裝飾性物品，通常由金屬、珠寶、皮革或其他材料製成。",
+    "en_def": "A decorative band worn around the wrist, typically made of metal, jewelry, leather, or other materials.",
+    "example": "She wore a beautiful silver bracelet to the party."
+  },
+  "sentences_removed": 1
+}

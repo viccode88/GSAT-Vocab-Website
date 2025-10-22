@@ -1,0 +1,59 @@
+{
+  "lemma": "tiny",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tiny_ex_0_2751dae4.mp3"
+      },
+      {
+        "text": "Plant diseases can also spread through tiny water drops that jump off leaves— a plant’s version of a sneeze.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tiny_ex_1_76ff8b50.mp3"
+      },
+      {
+        "text": "You 16 the mirror to find a tiny red spot on the base of your lower lashes.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tiny_ex_2_e35a7c32.mp3"
+      },
+      {
+        "text": "When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of “headlamps,” one beneath each eye.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/tiny_ex_3_721c10b5.mp3"
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/tiny_ex_4_3fc05fc0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Higher ocean temperatures kill the important food source for the coral—the algae, the tiny greenish-gold water plants that live on coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank. 43.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "非常小的，微小的。",
+    "en_def": "Very small in size or amount.",
+    "example": "The tiny kitten fit in the palm of my hand."
+  },
+  "sentences_removed": 1
+}

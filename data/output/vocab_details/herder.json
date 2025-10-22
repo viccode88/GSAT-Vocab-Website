@@ -1,0 +1,17 @@
+{
+  "lemma": "herder",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "牧人；放牧者，負責照顧和管理牲畜的人。",
+    "en_def": "A person who tends to and manages a herd of animals, especially livestock.",
+    "example": "The herder guided the sheep across the green pasture."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "silver",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Let the rain beat upon your head with silver liquid drops.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/silver_ex_0_9f0ab37d.mp3"
+      },
+      {
+        "text": "What does the phrase silver liquid drops refer to? 4.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/silver_ex_1_977e5587.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "銀是一種具有高導電性和導熱性的金屬，通常用於製作珠寶、貨幣和電子產品。",
+    "en_def": "Silver is a metallic element known for its high conductivity and luster, commonly used in jewelry, currency, and electronics.",
+    "example": "She wore a beautiful silver necklace to the party."
+  },
+  "sentences_removed": 1
+}

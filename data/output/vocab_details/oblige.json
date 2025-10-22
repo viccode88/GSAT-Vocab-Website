@@ -1,0 +1,23 @@
+{
+  "lemma": "oblige",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "None of them wanted to—though for some years afterwards I was left in no doubt that I was morally obliged to them, in the sense that it always seemed to be my round when it came to the buying of drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/oblige_ex_0_18465505.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使某人有義務或責任去做某事",
+    "en_def": "To make someone feel morally or legally bound to do something.",
+    "example": "The company was obliged to provide safety equipment for all employees."
+  },
+  "sentences_removed": 0
+}

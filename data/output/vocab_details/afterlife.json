@@ -1,0 +1,23 @@
+{
+  "lemma": "afterlife",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Other researchers believe it was because onions were known for their special curative properties, which would be helpful in the afterlife.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/afterlife_ex_0_89c02fc9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "死後的生活或存在，通常指人死後靈魂的狀態或世界。",
+    "en_def": "The existence or state of life after death, often referring to the soul's condition or realm following physical demise.",
+    "example": "Many cultures have different beliefs about the afterlife."
+  },
+  "sentences_removed": 0
+}

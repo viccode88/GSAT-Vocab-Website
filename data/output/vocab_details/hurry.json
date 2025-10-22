@@ -1,0 +1,23 @@
+{
+  "lemma": "hurry",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Disks are usually sent to the Disk Doctor by post, but sometimes people are in such a hurry that they cannot wait for the mail to come.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hurry_ex_0_827263dd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "匆忙，急促的行動或狀態。",
+    "en_def": "To move or act with great speed.",
+    "example": "We need to hurry to catch the bus."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "nopal",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Known locally as nopal, the prickly pear is farmed on a massive scale in Mexico.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/nopal_ex_0_4a3c6d90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "仙人掌的一種，通常用於食物或藥用，特別是在墨西哥料理中。",
+    "en_def": "A type of cactus, often used for food or medicinal purposes, especially in Mexican cuisine.",
+    "example": "Nopal is often grilled and served in salads or tacos."
+  },
+  "sentences_removed": 0
+}

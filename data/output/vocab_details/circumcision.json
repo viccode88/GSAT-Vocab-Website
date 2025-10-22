@@ -1,0 +1,23 @@
+{
+  "lemma": "circumcision",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Young men wear black for several months after their circumcision, a ritual signifying their coming of age.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/circumcision_ex_0_b61db1b4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "割包皮，指去除男性陰莖包皮的手術。",
+    "en_def": "The surgical removal of the foreskin from the penis.",
+    "example": "Circumcision is often performed for religious or medical reasons."
+  },
+  "sentences_removed": 0
+}

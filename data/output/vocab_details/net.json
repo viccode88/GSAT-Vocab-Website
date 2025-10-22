@@ -1,0 +1,43 @@
+{
+  "lemma": "net",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/net_ex_0_c0d7b070.mp3"
+      },
+      {
+        "text": "These nets are recognized by medical experts as the best hope for __(22)__ the spread of malaria－Cambodia’s most deadly disease.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/net_ex_1_4fe063ae.mp3"
+      },
+      {
+        "text": "the purchase of family-sized insecticide-treated mosquito nets costing $5 each.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/net_ex_2_361983c9.mp3"
+      },
+      {
+        "text": "Now, however, men have developed huge fishing nets that form underwater “walls” that __34__ for miles.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/net_ex_3_88931524.mp3"
+      },
+      {
+        "text": "When they are __36__ in the nets too long, they cannot breathe.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/net_ex_4_5ae25ab8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "網子；網狀物",
+    "en_def": "A material made of interwoven fibers or threads, used for catching fish or other objects.",
+    "example": "He cast the net into the water to catch some fish."
+  },
+  "sentences_removed": 0
+}

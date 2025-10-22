@@ -1,0 +1,23 @@
+{
+  "lemma": "roadhouse",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "27 on the videos sit in bars, nightclubs, and roadhouses.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/roadhouse_ex_0_ad916617.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "路邊酒吧或餐廳，通常提供食物和飲料，並有現場音樂或娛樂。",
+    "en_def": "A roadside establishment that typically serves food and drinks, often featuring live music or entertainment.",
+    "example": "We stopped at a roadhouse for dinner on our way to the concert."
+  },
+  "sentences_removed": 0
+}

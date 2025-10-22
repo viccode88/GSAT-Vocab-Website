@@ -1,0 +1,24 @@
+{
+  "lemma": "fisherman",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": [
+    {
+      "text": "So in many parts of the world dolphins and fishermen are in __32__ for tuna.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "In the past, there wasn’t much conflict __33__ dolphins and fishermen, because the numbers of tuna in the ocean were enormous.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "捕魚者，專門從事捕撈魚類的人。",
+    "en_def": "A person who catches fish for a living or as a hobby.",
+    "example": "The fisherman cast his net into the sea at dawn."
+  }
+}

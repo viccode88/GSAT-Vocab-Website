@@ -1,0 +1,23 @@
+{
+  "lemma": "andrew",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The medal was named after Andrew Carnegie.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/andrew_ex_0_c09c151b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "安德魯，一個常見的男性名字。",
+    "en_def": "Andrew, a common male given name.",
+    "example": "Andrew is planning to travel to Europe next summer."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "prior",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the years just prior to 1900, quite a few paperclip designs emerged.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/prior_ex_0_4fa9f956.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在時間、順序或重要性上更早或更重要的。",
+    "en_def": "Existing or occurring before something else; earlier in time or more important.",
+    "example": "She had a prior commitment that she couldn't cancel."
+  },
+  "sentences_removed": 0
+}

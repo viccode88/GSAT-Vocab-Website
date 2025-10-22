@@ -1,0 +1,23 @@
+{
+  "lemma": "chart",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Remember when Madonna hit the charts with her bra in full view while singing about \"virginity\"?",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/chart_ex_0_b48978ab.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圖表；用於顯示數據或信息的視覺表示。",
+    "en_def": "A graphical representation of data or information.",
+    "example": "The teacher used a chart to explain the results of the experiment."
+  },
+  "sentences_removed": 0
+}

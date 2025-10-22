@@ -1,0 +1,28 @@
+{
+  "lemma": "inquiry",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/inquiry_ex_0_efd6593b.mp3"
+      },
+      {
+        "text": "What does the author mean by “learning vicariously” in the second paragraph? (A) Making inquiries without reservation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/inquiry_ex_1_c94193d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "詢問；調查",
+    "en_def": "A request for information or an investigation into a matter.",
+    "example": "She made an inquiry about the job application process."
+  },
+  "sentences_removed": 0
+}

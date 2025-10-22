@@ -1,0 +1,28 @@
+{
+  "lemma": "interior",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Specifically, they did not have the interior loop we see today.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/interior_ex_0_4569538a.mp3"
+      },
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/interior_ex_1_7fd64a8e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "內部，指建築物或物體的內側或內部空間。",
+    "en_def": "The inner part or space of something, especially a building.",
+    "example": "The interior of the house was beautifully decorated."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "straight",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 3,
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scared straight out of your chair?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/straight_ex_0_c8aa0483.mp3"
+      },
+      {
+        "text": "Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/straight_ex_1_dc9b5090.mp3"
+      },
+      {
+        "text": "They have heavy and straight tree trunks.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/straight_ex_2_08669863.mp3"
+      },
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/straight_ex_3_1f5c7dc9.mp3"
+      },
+      {
+        "text": "The trunk of redwood trees is very stout and usually forms a single straight column.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/straight_ex_4_9f583881.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "直的，沒有彎曲或曲折的。",
+    "en_def": "Extending or moving in a straight line; not curved or bent.",
+    "example": "She walked straight to the store without stopping."
+  },
+  "sentences_removed": 0
+}

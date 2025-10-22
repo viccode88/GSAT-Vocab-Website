@@ -1,0 +1,23 @@
+{
+  "lemma": "questioning",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "23 the process of questioning, all the signals are recorded on a single strip of moving paper.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/questioning_ex_0_fda081f0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "質疑，詢問或探討某事的行為或過程。",
+    "en_def": "The act or process of asking questions or expressing doubts about something.",
+    "example": "The teacher encouraged questioning to promote critical thinking among students."
+  },
+  "sentences_removed": 0
+}

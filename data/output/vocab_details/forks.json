@@ -1,0 +1,17 @@
+{
+  "lemma": "forks",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "叉子，一種用於進食或烹飪的餐具，通常有兩個或更多的尖頭。",
+    "en_def": "Forks are utensils used for eating or cooking, typically having two or more prongs.",
+    "example": "She used a fork to eat her salad."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "magnetic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/magnetic_ex_0_98c869fa.mp3"
+      },
+      {
+        "text": "He used an instrument called an MRI (magnetic resonance imaging) to study the brains of two groups of bilingual people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/magnetic_ex_1_67f59f33.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "磁性的；有磁力的",
+    "en_def": "Having the properties of a magnet; capable of attracting certain materials, especially iron.",
+    "example": "The magnetic field around the magnet can attract metal objects."
+  },
+  "sentences_removed": 0
+}

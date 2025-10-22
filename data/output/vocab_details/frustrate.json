@@ -1,0 +1,23 @@
+{
+  "lemma": "frustrate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, “especially when everybody’s dancing, because I love to dance.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/frustrate_ex_0_b566d3ae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使沮喪；使失望",
+    "en_def": "To cause someone to feel upset or annoyed, especially because of inability to change or achieve something.",
+    "example": "The constant delays in the project began to frustrate the team."
+  },
+  "sentences_removed": 0
+}

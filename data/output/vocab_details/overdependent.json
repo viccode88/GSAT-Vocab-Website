@@ -1,0 +1,23 @@
+{
+  "lemma": "overdependent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Younger children tend to remain forever “the baby,” enjoyable to be around, but at times overdependent on others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/overdependent_ex_0_b5138ea0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "過度依賴的，對某人或某事物依賴過多的。",
+    "en_def": "Excessively reliant on someone or something.",
+    "example": "She became overdependent on her parents for financial support."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "stitch",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "縫合，將兩片布料或其他材料用針和線連接在一起的動作或過程。",
+    "en_def": "To join two pieces of fabric or other materials together using a needle and thread.",
+    "example": "She decided to stitch a patch onto her jeans."
+  },
+  "sentences_removed": 1
+}

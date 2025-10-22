@@ -1,0 +1,23 @@
+{
+  "lemma": "marking",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The feathers of peacocks are considered the most 25 part of the bird because the eye-shaped markings on them are associated with “evil eyes.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/marking_ex_0_df2dbe00.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "標記；標示",
+    "en_def": "The act of making a mark or indication on something.",
+    "example": "The teacher is marking the students' assignments."
+  },
+  "sentences_removed": 0
+}

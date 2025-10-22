@@ -1,0 +1,34 @@
+{
+  "lemma": "rebel",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 4,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "16.(A) rebel (B) to rebel (C) rebelling (D) be rebelled 17.(A)",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rebel_ex_0_93034279.mp3"
+      },
+      {
+        "text": "But it later turned out that it was exactly his courage to “rebel” and to express his own ideas that marks his films with distinct creativity.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rebel_ex_1_9ef6c2dd.mp3"
+      },
+      {
+        "text": "As a teenager, Cartier-Bresson rebelled against his parents’ formal ways of education.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/rebel_ex_2_a41fa5a6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "反叛者；反抗權威或政府的人",
+    "en_def": "A person who resists or opposes authority, control, or tradition.",
+    "example": "The young man decided to rebel against his parents' strict rules."
+  },
+  "sentences_removed": 0
+}

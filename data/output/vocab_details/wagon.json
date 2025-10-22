@@ -1,0 +1,33 @@
+{
+  "lemma": "wagon",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He hoped to sell 26 as material for tents or wagon covers.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wagon_ex_0_484a8a8a.mp3"
+      },
+      {
+        "text": "In the news recently was the story of a woman who died of a heart attack while driving her station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wagon_ex_1_abfc29bc.mp3"
+      },
+      {
+        "text": "For the five highway deaths, the author blames (A) a large heavy station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wagon_ex_2_694396b0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種有輪子的運輸工具，通常用於運送貨物或人。",
+    "en_def": "A wheeled vehicle used for transporting goods or people.",
+    "example": "The children enjoyed riding in the wagon during the picnic."
+  },
+  "sentences_removed": 0
+}

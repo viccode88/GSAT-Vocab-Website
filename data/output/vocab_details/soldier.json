@@ -1,0 +1,74 @@
+{
+  "lemma": "soldier",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the Second World War, a great number of American soldiers were stationed in Europe.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/soldier_ex_0_d4258c19.mp3"
+      },
+      {
+        "text": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/soldier_ex_1_657a27bc.mp3"
+      },
+      {
+        "text": "A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/soldier_ex_2_7218a3e6.mp3"
+      },
+      {
+        "text": "In the 1950s, flip-flops became popular in the United States as soldiers returning from occupied Japan brought zōris home.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/soldier_ex_3_2283fc39.mp3"
+      },
+      {
+        "text": "Even fewer people know that Dumas’ father rose rapidly from a soldier to a general in the French Army before he was 31.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/soldier_ex_4_e8fa760c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The Swiss army needed a knife for every soldier.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The knife was sold out to American soldiers.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The soldier was put on trial for to obey his commanding officer’s order.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The sandals American soldiers brought home from Japan later became modern flip-flops.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "士兵，軍隊中的成員，負責執行戰鬥任務或保護國家。",
+    "en_def": "A person who serves in an army, especially a member of the infantry.",
+    "example": "The soldier bravely defended his country during the war."
+  },
+  "sentences_removed": 0
+}

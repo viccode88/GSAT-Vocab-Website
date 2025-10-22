@@ -1,0 +1,23 @@
+{
+  "lemma": "excel",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/excel_ex_0_cdc06031.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由微軟開發的電子表格應用程式，用於數據計算和分析。",
+    "en_def": "A spreadsheet application developed by Microsoft used for data calculation and analysis.",
+    "example": "She used Excel to create a budget for her monthly expenses."
+  },
+  "sentences_removed": 1
+}

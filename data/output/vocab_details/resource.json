@@ -1,0 +1,84 @@
+{
+  "lemma": "resource",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/resource_ex_0_30818b36.mp3"
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/resource_ex_1_c21da94c.mp3"
+      },
+      {
+        "text": "The report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/resource_ex_2_44d8f7f6.mp3"
+      },
+      {
+        "text": "When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/resource_ex_3_013bf066.mp3"
+      },
+      {
+        "text": "The government project was started due to its rich natural resources.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/resource_ex_4_3f4f692c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In forested areas with thick tree crowns, there is intense struggle for these resources.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Air travel is especially criticized for exhausting natural resources and causing environmental damage.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These increases put great stress on the islands’ resources and environment.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The rise of oil prices made scientists search for new energy resources to ______ oil.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Being a rare natural resource, diamonds are 27 in supply.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "資源；可供利用的物品或材料。",
+    "en_def": "A source of supply or support that can be drawn upon when needed.",
+    "example": "The company is looking for new resources to improve its production efficiency."
+  },
+  "sentences_removed": 1
+}

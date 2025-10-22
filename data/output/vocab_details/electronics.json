@@ -1,0 +1,23 @@
+{
+  "lemma": "electronics",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/electronics_ex_0_0d82e19b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "電子學，研究電子設備和電路的科學和技術。",
+    "en_def": "The branch of science and technology that deals with the design and application of electronic devices and circuits.",
+    "example": "She studied electronics to become an engineer."
+  },
+  "sentences_removed": 0
+}

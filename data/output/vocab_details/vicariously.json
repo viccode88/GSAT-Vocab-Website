@@ -1,0 +1,28 @@
+{
+  "lemma": "vicariously",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/vicariously_ex_0_38b33a5f.mp3"
+      },
+      {
+        "text": "What does the author mean by “learning vicariously” in the second paragraph? (A) Making inquiries without reservation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/vicariously_ex_1_c94193d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "透過他人的經歷或感受來體驗某事。",
+    "en_def": "Experiencing something indirectly through another person's actions or feelings.",
+    "example": "She lived vicariously through her friend's adventures."
+  },
+  "sentences_removed": 0
+}

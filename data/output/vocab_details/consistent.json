@@ -1,0 +1,23 @@
+{
+  "lemma": "consistent",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The moral lesson is that 33 and consistent will always beat slow and steady.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/consistent_ex_0_8b97a26c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一致的，始終如一的，持續的",
+    "en_def": "Acting or done in the same way over time; unchanging in nature.",
+    "example": "Her consistent effort in studying led to excellent grades."
+  },
+  "sentences_removed": 0
+}

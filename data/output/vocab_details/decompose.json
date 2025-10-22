@@ -1,0 +1,23 @@
+{
+  "lemma": "decompose",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/decompose_ex_0_b8827587.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分解；使腐爛",
+    "en_def": "To break down into smaller parts or components; to decay or rot.",
+    "example": "The scientist will decompose the organic material to study its components."
+  },
+  "sentences_removed": 0
+}

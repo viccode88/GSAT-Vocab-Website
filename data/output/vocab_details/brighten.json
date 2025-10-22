@@ -1,0 +1,23 @@
+{
+  "lemma": "brighten",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Guests may enjoy facilities such as free Wi-Fi, mobile charging, and even a soundless alarm system that raises the sleeping guests into a seated position while gradually brightening the lights.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/brighten_ex_0_7d271a40.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使變得更明亮或更快樂。",
+    "en_def": "To make something more light or cheerful.",
+    "example": "The new paint will brighten the room."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "bother",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When Mike enters the living room, (C) the traffic and the noise bothered him greatly. 19.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bother_ex_0_20c072bf.mp3"
+      },
+      {
+        "text": "He was bothered by a small irritation every Sunday as he sang in the church choir.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bother_ex_1_59c89d5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "打擾；使煩惱",
+    "en_def": "To cause someone to feel worried, troubled, or annoyed.",
+    "example": "Please don't bother me while I'm working."
+  },
+  "sentences_removed": 1
+}

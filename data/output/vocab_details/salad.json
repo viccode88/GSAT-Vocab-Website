@@ -1,0 +1,33 @@
+{
+  "lemma": "salad",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With its delicate taste, the fresh onion is an ideal choice for salads and other lightly-cooked dishes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/salad_ex_0_9089951b.mp3"
+      },
+      {
+        "text": "Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/salad_ex_1_8eff4888.mp3"
+      },
+      {
+        "text": "Health-conscious Americans are adding tofu, the most popular soybean product, to salads and using it as a meat substitute.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/salad_ex_2_0d81e176.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "沙拉，一種通常由生菜、蔬菜和其他配料組成的冷盤，常用於作為開胃菜或配菜。",
+    "en_def": "A dish consisting of mixed pieces of food, typically including vegetables, often served cold.",
+    "example": "I made a fresh salad with tomatoes, cucumbers, and lettuce for lunch."
+  },
+  "sentences_removed": 0
+}

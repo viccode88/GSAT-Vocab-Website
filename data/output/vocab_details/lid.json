@@ -1,0 +1,23 @@
+{
+  "lemma": "lid",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 21 , the brain waves of a sleeping person are similar to those of a waking person, and the eyes move about rapidly under the closed lids.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lid_ex_0_5f30bba4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蓋子，通常用於覆蓋容器以保護內容物或防止洩漏。",
+    "en_def": "A cover or top for a container, used to protect its contents or prevent spillage.",
+    "example": "She put the lid back on the jar after using the jam."
+  },
+  "sentences_removed": 0
+}

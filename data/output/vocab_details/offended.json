@@ -1,0 +1,23 @@
+{
+  "lemma": "offended",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They didn’t really feel offended.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/offended_ex_0_ab184e7f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到冒犯的，受到傷害或不快的。",
+    "en_def": "Feeling upset or hurt due to a perceived insult or disrespect.",
+    "example": "She was offended by his rude comments."
+  },
+  "sentences_removed": 0
+}

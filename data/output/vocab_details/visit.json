@@ -1,0 +1,160 @@
+{
+  "lemma": "visit",
+  "count": 28,
+  "pos_dist": {
+    "VERB": 17,
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While the Iron Curtain was still in place under the communist government, Prague was ＿29＿ visited by foreigners.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/visit_ex_0_de8ba48f.mp3"
+      },
+      {
+        "text": "If a British businessman wants to visit some trade partners in Taiwan for about three weeks, what should he do?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/visit_ex_1_e86cc79d.mp3"
+      },
+      {
+        "text": "My father-in-law is coming to visit us next week.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/visit_ex_2_69a603e0.mp3"
+      },
+      {
+        "text": "1. Visit the websites of these colleges and find out which college has departments ___(27)___ courses that interest you or will help you prepare for your future career.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/visit_ex_3_298bb227.mp3"
+      },
+      {
+        "text": "Many people believe that __(31)__ from outer space have visited us for centuries.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/visit_ex_4_fe32bf4d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Her frequent visits there gave her a passion and respect for the profession.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The doctor insisted on office visits every three weeks, even when she was feeling well.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We weren’t able to visit the Rainbow Waterfalls as we planned, but… John",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "you want to give your family a nice, wholesome vacation, try visiting this charming town.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "To tell Tom of his parents' planned visit.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Still others think that most aliens visit Earth to study us like our scientists study primitive natives and animals, and have no interest in helping us __(40)__.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most physician office visits are for stress-related illnesses and complaints.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Mary: 33 I told her my parents were coming for a visit and I needed the room.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She never calls ______ to inform us of her visits.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Some people also visit the cemetery to clean up the family graves and pray for their ancestors.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The island continues to recover from its 1992 visit from Iniki, the most powerful hurricane to hit Hawaii this century.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "C. Cathy Zoos are a tradition, and a visit to a zoo is a wholesome family activity.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "If you want to know what your dreams mean, now there are websites you can visit to help you _____ them.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If you want to borrow magazines, tapes, or CDs, you can visit the library.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "She had as many as 25 doctor visits during one six-month period.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "the passing shoppers to visit his shop and buy the freshly baked bread.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We even managed to visit an aboriginal village in the forest.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Now, scientists from all over the world come to visit his 40 .",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "拜訪；造訪",
+    "en_def": "To go to see someone or a place for a short time.",
+    "example": "I plan to visit my grandmother this weekend."
+  },
+  "sentences_removed": 0
+}

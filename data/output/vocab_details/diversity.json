@@ -1,0 +1,23 @@
+{
+  "lemma": "diversity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The diversity of marine life. 47.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/diversity_ex_0_4d334b03.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多樣性；不同種類或形式的存在。",
+    "en_def": "The state of being diverse; a range of different things.",
+    "example": "The diversity of cultures in the city makes it a vibrant place to live."
+  },
+  "sentences_removed": 0
+}

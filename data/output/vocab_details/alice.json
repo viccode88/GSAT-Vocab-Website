@@ -1,0 +1,23 @@
+{
+  "lemma": "alice",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Alice: There’s a very good movie on television at eight tonight.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/alice_ex_0_427e9289.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "愛麗絲，一個常見的女性名字，源自古法語，意指「高貴的」或「真實的」。",
+    "en_def": "Alice, a common female name of Old French origin meaning 'noble' or 'truthful'.",
+    "example": "Alice loves to read books in her free time."
+  },
+  "sentences_removed": 0
+}

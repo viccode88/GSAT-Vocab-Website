@@ -1,0 +1,38 @@
+{
+  "lemma": "sett",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sett_ex_0_abb0d322.mp3"
+      },
+      {
+        "text": "Which of the following is a correct description about setts? (A)",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sett_ex_1_1b54520a.mp3"
+      },
+      {
+        "text": "One of the most distinctive features of the kilt is the pattern of squares, or sett, it exhibits.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sett_ex_2_a289cc27.mp3"
+      },
+      {
+        "text": "Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sett_ex_3_80829046.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "獾，特別是指一種生活在地下的哺乳動物，通常有粗壯的身體和短腿。",
+    "en_def": "A badger, especially a burrowing mammal known for its stout body and short legs.",
+    "example": "The badger dug a deep burrow in the forest."
+  },
+  "sentences_removed": 0
+}

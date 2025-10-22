@@ -1,0 +1,23 @@
+{
+  "lemma": "neutral",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While earworms might be annoying, most people who experience them nevertheless report that they are pleasant or at least neutral.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/neutral_ex_0_62906aa3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "中立的；不偏袒任何一方的",
+    "en_def": "Not taking sides; impartial.",
+    "example": "She remained neutral during the debate to avoid conflict."
+  },
+  "sentences_removed": 0
+}

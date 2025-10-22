@@ -1,0 +1,17 @@
+{
+  "lemma": "turnout",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "投票人數；出席人數",
+    "en_def": "The number of people who participate in an event, especially an election.",
+    "example": "The voter turnout for the election was higher than expected."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "accent",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I said I was interested in their regional accents, and that it would take only a few minutes.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accent_ex_0_23cb4d44.mp3"
+      },
+      {
+        "text": "I turned on the tape-recorder and each in turn solemnly counted from one to twenty in their best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accent_ex_1_7a1b8d10.mp3"
+      },
+      {
+        "text": "He wanted to discover who had the best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accent_ex_2_14418093.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "口音；重音",
+    "en_def": "A distinctive way of pronouncing a language, often associated with a particular region or social group.",
+    "example": "She has a charming French accent when she speaks English."
+  },
+  "sentences_removed": 0
+}

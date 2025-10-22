@@ -1,0 +1,23 @@
+{
+  "lemma": "hoist",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People hoist their glasses 30 they are sitting around ski lodges, sailing, dancing, or enjoying a football game.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hoist_ex_0_0a695c8a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提升，吊起或升起某物的行為或裝置。",
+    "en_def": "To raise or lift something, especially using a mechanical device.",
+    "example": "They used a crane to hoist the heavy equipment onto the truck."
+  },
+  "sentences_removed": 0
+}

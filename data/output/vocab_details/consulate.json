@@ -1,0 +1,17 @@
+{
+  "lemma": "consulate",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "領事館：一個國家在外國設立的官方機構，負責保護其公民的利益並提供各種服務。",
+    "en_def": "A consulate is an official office established by a country in a foreign nation to protect its citizens' interests and provide various services.",
+    "example": "She visited the consulate to renew her passport."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,64 @@
+{
+  "lemma": "cookie",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He enclosed thank- you notes in the cookies and served them to his guests with tea.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cookie_ex_0_ced2705b.mp3"
+      },
+      {
+        "text": "Each cookie 37 a strip of paper inside with an inspirational Bible quotation on it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cookie_ex_1_786bb5dd.mp3"
+      },
+      {
+        "text": "However, the more generally accepted story is that the fortune cookie first 38 in either 1907 or 1914 in San Francisco, created by a Japanese immigrant, Makoto Hagiwara.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cookie_ex_2_6bf2d878.mp3"
+      },
+      {
+        "text": "The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 .",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cookie_ex_3_58ef2d10.mp3"
+      },
+      {
+        "text": "Concerned about the poor people he saw wandering near his shop, he made cookies and passed them out free on the streets.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cookie_ex_4_68a3e7ee.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "There are several 31 stories about the origin of the fortune cookie.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This story may sound highly credible, but there seems to be no solid evidence that it inspired the creation of the 35 we know of today as fortune cookies.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another 36 claims that David Jung, a Chinese immigrant living in Los Angeles, created the fortune cookie in 1918.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One of these stories 32 the cookie’s origin back to 13th- and 14th-century China, which was then occupied by the Mongols.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種通常由麵粉、糖、黃油和其他成分製成的小甜點，通常是圓形的。",
+    "en_def": "A small, sweet baked treat typically made from flour, sugar, butter, and other ingredients, often round in shape.",
+    "example": "She baked a batch of chocolate chip cookies for the party."
+  },
+  "sentences_removed": 2
+}

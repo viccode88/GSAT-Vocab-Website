@@ -1,0 +1,43 @@
+{
+  "lemma": "relatively",
+  "count": 5,
+  "pos_dist": {
+    "ADV": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "19 Happy Puppy is a relatively new service, we benefit from more than 20 years of experience in breeding and caring for dogs.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/relatively_ex_0_94415bee.mp3"
+      },
+      {
+        "text": "Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/relatively_ex_1_16a582aa.mp3"
+      },
+      {
+        "text": "The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/relatively_ex_2_1faee1b8.mp3"
+      },
+      {
+        "text": "Music was moving out of the relatively small halls of Mozart’s day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn’t be heard.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/relatively_ex_3_9be5d012.mp3"
+      },
+      {
+        "text": "But the new device was still relatively expensive and unreliable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/relatively_ex_4_d3282300.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相對地，與其他事物相比較的方式。",
+    "en_def": "In a way that is considered in relation or in proportion to something else.",
+    "example": "The weather today is relatively warmer than it was last week."
+  },
+  "sentences_removed": 0
+}

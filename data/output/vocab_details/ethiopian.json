@@ -1,0 +1,24 @@
+{
+  "lemma": "ethiopian",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Ethiopian government has spared no efforts in promoting running.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ethiopian_ex_0_4a3cf9d3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埃塞俄比亞的；與埃塞俄比亞有關的。",
+    "en_def": "Relating to Ethiopia, its people, or its culture.",
+    "example": "Ethiopian cuisine is known for its rich flavors and unique dishes."
+  },
+  "sentences_removed": 1
+}

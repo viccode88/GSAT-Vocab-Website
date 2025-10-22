@@ -1,0 +1,23 @@
+{
+  "lemma": "halt",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Without the oxygen that plants give out, and without the food that they supply, life would grind to a halt and all animals would starve.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/halt_ex_0_18366882.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "停止，暫停",
+    "en_def": "To stop or cause to stop.",
+    "example": "The teacher asked the students to halt their conversations."
+  },
+  "sentences_removed": 0
+}

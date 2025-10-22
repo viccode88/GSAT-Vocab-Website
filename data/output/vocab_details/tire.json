@@ -1,0 +1,28 @@
+{
+  "lemma": "tire",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yes, we just lost a tire.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tire_ex_0_07c943ea.mp3"
+      },
+      {
+        "text": "The innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tire_ex_1_93c887e3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輪胎，通常用於汽車、摩托車等交通工具的圓形橡膠部件。",
+    "en_def": "A rubber covering around a wheel, used for vehicles such as cars and bicycles.",
+    "example": "I need to replace the flat tire on my bike."
+  },
+  "sentences_removed": 0
+}

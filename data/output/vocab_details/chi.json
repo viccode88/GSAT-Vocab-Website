@@ -1,0 +1,38 @@
+{
+  "lemma": "chi",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Tai Chi Chuan is not only a physical but also a 19 exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/chi_ex_0_41b619f9.mp3"
+      },
+      {
+        "text": "The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/chi_ex_1_7912369e.mp3"
+      },
+      {
+        "text": "People 16 Tai Chi mainly for its health benefits.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/chi_ex_2_7ad9cde2.mp3"
+      },
+      {
+        "text": "Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/chi_ex_3_0409a289.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "中國的傳統醫學概念，指的是生命能量或氣場。",
+    "en_def": "A concept in traditional Chinese medicine referring to the vital life force or energy.",
+    "example": "Practicing tai chi helps to balance and enhance the flow of chi in the body."
+  },
+  "sentences_removed": 1
+}

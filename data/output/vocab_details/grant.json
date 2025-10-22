@@ -1,0 +1,33 @@
+{
+  "lemma": "grant",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their Popole was granted asylum in 2014 by dreams.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/grant_ex_0_a1219801.mp3"
+      },
+      {
+        "text": "Another spectator said that too many Americans take the achievements of the space program for granted.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/grant_ex_1_8190ea72.mp3"
+      },
+      {
+        "text": "However, they often took their divinity for granted and 21 abused it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/grant_ex_2_96353095.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "授予；允許",
+    "en_def": "To give or allow someone something, often officially or formally.",
+    "example": "The school decided to grant scholarships to deserving students."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,69 @@
+{
+  "lemma": "capoeira",
+  "count": 13,
+  "pos_dist": {
+    "PROPN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capoeira_ex_0_7848b4e9.mp3"
+      },
+      {
+        "text": "Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capoeira_ex_1_1d805e1e.mp3"
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capoeira_ex_2_cff0c385.mp3"
+      },
+      {
+        "text": "At first, Capoeira was considered illegal in Brazil.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capoeira_ex_3_863386bf.mp3"
+      },
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capoeira_ex_4_bf84cbb9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The techniques of Capoeira. 46.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the slave owners realized the power of Capoeira, they began to punish those who practiced it.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following will probably NOT be found in the performance of Capoeira? (A) Singing with drums.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Capoeira? (A) It was greatly influenced by modern dancing styles.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the author’s attitude toward Capoeira as a sport? (A) Admiring.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種源自巴西的武術，結合舞蹈、音樂和體操元素。",
+    "en_def": "A Brazilian martial art that combines elements of dance, music, and acrobatics.",
+    "example": "He practices capoeira every weekend to improve his agility and rhythm."
+  },
+  "sentences_removed": 2
+}

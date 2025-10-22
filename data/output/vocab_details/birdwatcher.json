@@ -1,0 +1,23 @@
+{
+  "lemma": "birdwatcher",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/birdwatcher_ex_0_8ca89af9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "觀鳥者，專門觀察和研究鳥類的人。",
+    "en_def": "A person who observes and studies birds as a hobby or for scientific purposes.",
+    "example": "The birdwatcher quietly set up his binoculars to spot rare species in the forest."
+  },
+  "sentences_removed": 0
+}

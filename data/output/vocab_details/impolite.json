@@ -1,0 +1,23 @@
+{
+  "lemma": "impolite",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is impolite to _____ when someone else is speaking.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/impolite_ex_0_6c06cfca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不禮貌的，缺乏禮儀或尊重的行為。",
+    "en_def": "Not showing good manners; rude.",
+    "example": "It is impolite to interrupt someone while they are speaking."
+  },
+  "sentences_removed": 0
+}

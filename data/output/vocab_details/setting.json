@@ -1,0 +1,28 @@
+{
+  "lemma": "setting",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/setting_ex_0_fc2d4902.mp3"
+      },
+      {
+        "text": "Which season of the year serves as the setting of the poem?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/setting_ex_1_be27853b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "環境或背景，特別是在故事或事件發生的地方。",
+    "en_def": "The environment or background, especially where a story or event takes place.",
+    "example": "The setting of the novel is a small town in the 1950s."
+  },
+  "sentences_removed": 0
+}

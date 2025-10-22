@@ -1,0 +1,23 @@
+{
+  "lemma": "quotient",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From Binet’s work, the phrase “intelligence quotient” (“IQ”) entered the English vocabulary.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/quotient_ex_0_de0b80af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "商，指兩個數相除後的結果。",
+    "en_def": "The result of dividing one number by another.",
+    "example": "The quotient of 10 and 2 is 5."
+  },
+  "sentences_removed": 0
+}

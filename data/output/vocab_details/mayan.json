@@ -1,0 +1,23 @@
+{
+  "lemma": "mayan",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Still __(35)__ say that aliens were responsible for the growth of highly evolved civilizations which have __(36)__ perished, including the Incan and Mayan civilizations and the legendary Atlantis.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/mayan_ex_0_97714100.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瑪雅的；與瑪雅文明或其人民有關的。",
+    "en_def": "Relating to the Maya civilization or its people.",
+    "example": "The Mayan ruins are a popular tourist attraction in Mexico."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "repeat",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He first tried cotton, but it proved too soft and could not withstand repeated openings and closures.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/repeat_ex_0_1ee83aa5.mp3"
+      },
+      {
+        "text": "When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/repeat_ex_1_3552773a.mp3"
+      },
+      {
+        "text": "As the melody repeats, it becomes embedded into our mind.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/repeat_ex_2_0fbdb18e.mp3"
+      },
+      {
+        "text": "Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/repeat_ex_3_0c017882.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重複；再次說或做相同的事情。",
+    "en_def": "To say or do something again.",
+    "example": "Please repeat your question."
+  },
+  "sentences_removed": 0
+}

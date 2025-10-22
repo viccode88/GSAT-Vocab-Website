@@ -1,0 +1,23 @@
+{
+  "lemma": "faucet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/faucet_ex_0_40fc87df.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "水龍頭；供水的裝置，通常安裝在水槽或浴缸上。",
+    "en_def": "A device for controlling the flow of liquid, typically water, from a pipe.",
+    "example": "I turned on the faucet to wash my hands."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,74 @@
+{
+  "lemma": "contact",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most of us are comfortable with eye contact lasting a few seconds.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/contact_ex_0_59b65939.mp3"
+      },
+      {
+        "text": "Initial contact is made via e-mail, with subsequent communication usually by phone.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/contact_ex_1_bc8b8068.mp3"
+      },
+      {
+        "text": "It comes from direct human contact with birds infected with the virus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/contact_ex_2_4a9a8261.mp3"
+      },
+      {
+        "text": "A lot of ancient civilizations, __(37)__ the Egyptians, Hindus, Greeks, and Mayans, have left writings and __(38)__ which indicate contacts with superior beings “from the stars.”",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/contact_ex_3_069fddee.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "But eye contact which persists longer than that can make us nervous.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most people feel uneasy to have eye contact for over a few seconds.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT discussed in the passage? (A) Facial expressions. (B) Physical contact.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "接觸，聯繫或交往的行為或狀態。",
+    "en_def": "The act or state of communicating or being in touch with someone.",
+    "example": "Please make sure to contact me if you need any assistance."
+  },
+  "sentences_removed": 1
+}

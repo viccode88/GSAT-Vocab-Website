@@ -1,0 +1,23 @@
+{
+  "lemma": "purdue",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers at Purdue University recently concluded that a compound in green tea 17 the growth of cancer cells.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/purdue_ex_0_4c581b97.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "普渡大學，位於美國印第安納州的一所著名公立研究型大學。",
+    "en_def": "Purdue University, a prominent public research university located in Indiana, USA.",
+    "example": "She decided to attend Purdue to study engineering."
+  },
+  "sentences_removed": 0
+}

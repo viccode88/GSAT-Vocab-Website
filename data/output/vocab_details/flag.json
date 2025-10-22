@@ -1,0 +1,28 @@
+{
+  "lemma": "flag",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It appears in a prominent place on Mexico’s national flag.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/flag_ex_0_4d70e290.mp3"
+      },
+      {
+        "text": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico’s national flag.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/flag_ex_1_5b65afa9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "旗幟；用於表示國家、組織或運動的標誌。",
+    "en_def": "A piece of fabric with a distinctive design used as a symbol of a country, organization, or movement.",
+    "example": "The country raised its flag during the national celebration."
+  },
+  "sentences_removed": 0
+}

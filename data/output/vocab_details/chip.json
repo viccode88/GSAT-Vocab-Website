@@ -1,0 +1,60 @@
+{
+  "lemma": "chip",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One might think that somewhere a genius thought up the first potato chips, but it didn’t happen that way.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/chip_ex_0_2509ee68.mp3"
+      },
+      {
+        "text": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/chip_ex_1_d3f6844f.mp3"
+      },
+      {
+        "text": "In the 1920s a mechanical potato peeler was invented and soon there were potato chips in abundance.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/chip_ex_2_99c53da5.mp3"
+      },
+      {
+        "text": "The restaurant started selling small packages of the potato chips.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/chip_ex_3_2f50cb80.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Therefore, potato chips are worse than candy because they get stuck between teeth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, mass production of potato chips was made possible when ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Potato chips have been popular in the U.S. _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一小片薄片，通常由木材、塑料或金屬製成，或指計算機中的微小電路元件。",
+    "en_def": "A small piece of material, often made of wood, plastic, or metal, or a small electronic circuit component in computers.",
+    "example": "He added a chip of wood to the fire to keep it burning."
+  },
+  "sentences_removed": 2
+}

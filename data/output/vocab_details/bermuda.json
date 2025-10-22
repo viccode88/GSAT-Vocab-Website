@@ -1,0 +1,23 @@
+{
+  "lemma": "bermuda",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a _____.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bermuda_ex_0_3c6e61ba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "百慕達，位於大西洋的一組島嶼，以其美麗的海灘和旅遊業聞名。",
+    "en_def": "Bermuda, a group of islands in the Atlantic Ocean known for its beautiful beaches and tourism.",
+    "example": "We are planning a vacation to Bermuda next summer."
+  },
+  "sentences_removed": 0
+}

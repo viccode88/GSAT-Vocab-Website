@@ -1,0 +1,54 @@
+{
+  "lemma": "testing",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/testing_ex_0_2358e686.mp3"
+      },
+      {
+        "text": "After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/testing_ex_1_6fed6d52.mp3"
+      },
+      {
+        "text": "Hundreds of residents received free testing _____ from the city government to find out if their water contained any harmful chemicals.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/testing_ex_2_dfbf8466.mp3"
+      },
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/testing_ex_3_fd1da88a.mp3"
+      },
+      {
+        "text": "Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/testing_ex_4_b08e8ccb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Under the new doctor’s care, the regular testing stopped and Mrs. Power’s condition stabilized.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of Dognition’s testing is to control a dog’s behavior.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "測試，檢驗某物的性能或質量的過程。",
+    "en_def": "The process of evaluating the performance or quality of something.",
+    "example": "The software is currently undergoing testing to identify any bugs."
+  },
+  "sentences_removed": 0
+}

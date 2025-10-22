@@ -1,0 +1,28 @@
+{
+  "lemma": "motorcycle",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finding out which college suits you involves time and energy, but ___(25)___ more than those you might spend on buying a motorcycle or a computer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/motorcycle_ex_0_c6991213.mp3"
+      },
+      {
+        "text": "Jack is very proud of his fancy new motorcycle.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/motorcycle_ex_1_c23a6c31.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種兩輪的機動車輛，通常由引擎驅動，供人騎乘。",
+    "en_def": "A two-wheeled motor vehicle powered by an engine, designed for riding.",
+    "example": "He rides his motorcycle to work every day."
+  },
+  "sentences_removed": 0
+}

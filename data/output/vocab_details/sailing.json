@@ -1,0 +1,23 @@
+{
+  "lemma": "sailing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People hoist their glasses 30 they are sitting around ski lodges, sailing, dancing, or enjoying a football game.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sailing_ex_0_0a695c8a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "航行，指在水面上駕駛船隻，通常使用風力推動。",
+    "en_def": "The act of traveling by boat using sails, typically powered by the wind.",
+    "example": "They spent the weekend sailing along the coast."
+  },
+  "sentences_removed": 0
+}

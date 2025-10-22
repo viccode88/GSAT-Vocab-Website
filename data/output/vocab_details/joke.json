@@ -1,0 +1,39 @@
+{
+  "lemma": "joke",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cartier-Bresson’s family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents’ frugal ways, it often seemed as though his family was poor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/joke_ex_0_ffc3ccf5.mp3"
+      },
+      {
+        "text": "“I was a clothes addict,” he jokes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/joke_ex_1_e34ed905.mp3"
+      },
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/joke_ex_2_25185a8f.mp3"
+      },
+      {
+        "text": "He likes to _____ and play jokes on his younger sister when their parents are not around.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/joke_ex_3_3214848a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種幽默的話語或行為，旨在引起笑聲或娛樂。",
+    "en_def": "A humorous statement or action intended to provoke laughter or amusement.",
+    "example": "He told a funny joke that made everyone laugh."
+  },
+  "sentences_removed": 0
+}

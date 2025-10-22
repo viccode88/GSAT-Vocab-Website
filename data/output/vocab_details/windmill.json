@@ -1,0 +1,23 @@
+{
+  "lemma": "windmill",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It contains many historically significant and beautiful wooden structures, 19 windmills, boathouses, chapels, fish houses, and homes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/windmill_ex_0_11abf75f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "風車，一種利用風力轉動的機械裝置，通常用於磨粉或抽水。",
+    "en_def": "A windmill is a mechanical device that converts wind energy into rotational energy, typically used for grinding grain or pumping water.",
+    "example": "The old windmill on the hill has been standing for over a century."
+  },
+  "sentences_removed": 0
+}

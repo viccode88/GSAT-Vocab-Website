@@ -1,0 +1,23 @@
+{
+  "lemma": "overseas",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was worried about my first overseas trip, but my father ______ me that he would help plan the trip so that nothing would go wrong.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/overseas_ex_0_a09a5cf1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在國外或外國的，特別是指與本國相對的地方。",
+    "en_def": "In or to a foreign country, especially one across the sea.",
+    "example": "She plans to study overseas next year."
+  },
+  "sentences_removed": 0
+}

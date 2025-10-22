@@ -1,0 +1,28 @@
+{
+  "lemma": "deem",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In this line of work, the person is paid to do daring actions that are deemed too 21 for the regular actor to perform, including jumping from heights, crashing cars, or fighting with weapons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/deem_ex_0_b53d8b2c.mp3"
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/deem_ex_1_d0163eb7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "認為；視為",
+    "en_def": "To regard or consider in a specified way.",
+    "example": "The committee will deem the proposal acceptable if it meets all the requirements."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "allergic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The only reported negative effect of drinking green tea is a possible allergic reaction and insomnia due to the caffeine it contains.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/allergic_ex_0_d59e3758.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對某種物質過敏的，通常會引起身體不適或反應。",
+    "en_def": "Having an exaggerated reaction to a substance, often resulting in physical discomfort or adverse effects.",
+    "example": "She is allergic to peanuts, so she avoids eating anything that contains them."
+  },
+  "sentences_removed": 0
+}

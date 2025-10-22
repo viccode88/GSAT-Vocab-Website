@@ -1,0 +1,33 @@
+{
+  "lemma": "confuse",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Your brain’s confused reaction makes you feel sick.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/confuse_ex_0_2d0dad88.mp3"
+      },
+      {
+        "text": "And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/confuse_ex_1_b8309269.mp3"
+      },
+      {
+        "text": "How did Deborah feel when she first hurt her knee? (A) Excited. (B) Confused. (C) Ashamed.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/confuse_ex_2_354e4a10.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使困惑或混淆。",
+    "en_def": "To make someone unable to think clearly or understand something.",
+    "example": "The complicated instructions will confuse most people."
+  },
+  "sentences_removed": 0
+}

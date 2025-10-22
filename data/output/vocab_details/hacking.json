@@ -1,0 +1,23 @@
+{
+  "lemma": "hacking",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The preceding passage refers to the word 'hacking' in the context of (A) climbing Mount Everest. (B) a game for young individuals.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hacking_ex_0_e3999a3f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "非法侵入計算機系統或網絡以獲取信息或造成損害的行為。",
+    "en_def": "The act of illegally accessing computer systems or networks to obtain information or cause damage.",
+    "example": "Hacking into secure databases can lead to serious legal consequences."
+  },
+  "sentences_removed": 0
+}

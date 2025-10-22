@@ -1,0 +1,23 @@
+{
+  "lemma": "purposes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What’s a Friend for (B) Seashells and Mollusks (C) Appropriate Topics for Writing (D) Writing for Different Purposes 42.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/purposes_ex_0_b5b588be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "目的；意圖；用途",
+    "en_def": "Reasons for which something is done or created or for which something exists.",
+    "example": "The purposes of the meeting were to discuss future projects and budget allocations."
+  },
+  "sentences_removed": 0
+}

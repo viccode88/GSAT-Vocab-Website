@@ -1,0 +1,23 @@
+{
+  "lemma": "kerman",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the face of this tragedy, food and other supplies from around the world landed in the provincial capital of Kerman on Sunday.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/kerman_ex_0_a65d4e8c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "克爾曼（Kerman）是一個位於伊朗的城市，以其手工地毯和豐富的歷史而聞名。",
+    "en_def": "Kerman is a city in Iran known for its handmade carpets and rich history.",
+    "example": "The Kerman carpets are famous for their intricate designs and craftsmanship."
+  },
+  "sentences_removed": 0
+}

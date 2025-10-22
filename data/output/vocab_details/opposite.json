@@ -1,0 +1,50 @@
+{
+  "lemma": "opposite",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 4,
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite. 41.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/opposite_ex_0_f87aa199.mp3"
+      },
+      {
+        "text": "We may say we don't want our children to drink, but our messages say just the opposite.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/opposite_ex_1_7617400a.mp3"
+      },
+      {
+        "text": "Actually, quite the opposite is true.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/opposite_ex_2_9f24d49a.mp3"
+      },
+      {
+        "text": "However, the opposite is a greater cause for suspicion.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/opposite_ex_3_21cc5a49.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is a tailored garment that is wrapped around the wearer’s body at the waist starting from one side, around the front and back and across the front again to the opposite side.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which word in the poem is opposite in meaning to running? 5.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "相反的事物或情況。",
+    "en_def": "A thing that is completely different from something else; a contrary.",
+    "example": "The opposite of hot is cold."
+  },
+  "sentences_removed": 1
+}

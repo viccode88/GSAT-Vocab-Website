@@ -1,0 +1,43 @@
+{
+  "lemma": "fabric",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The most recognizable piece of clothing is the shúkà, a sheet of fabric worn wrapped around the body.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fabric_ex_0_3018949c.mp3"
+      },
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fabric_ex_1_1f5c7dc9.mp3"
+      },
+      {
+        "text": "A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fabric_ex_2_04227f50.mp3"
+      },
+      {
+        "text": "De Mestral’s first challenge was finding a fabric for a strong bonding system.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fabric_ex_3_1e3d6344.mp3"
+      },
+      {
+        "text": "“I have patchwork pieces that contain all sorts of combinations of fabrics.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/fabric_ex_4_ddfd2859.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "織物；布料，通常由纖維製成，用於製作衣物、家居用品等。",
+    "en_def": "A material, typically produced by weaving or knitting textile fibers, used for making clothes, furnishings, and other items.",
+    "example": "The dress is made of a soft and colorful fabric."
+  },
+  "sentences_removed": 0
+}

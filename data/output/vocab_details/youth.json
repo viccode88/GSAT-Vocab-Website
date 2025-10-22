@@ -1,0 +1,50 @@
+{
+  "lemma": "youth",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 6,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Fashion designer Tommy Hilfiger was fully aware of the power of youth culture.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/youth_ex_0_ff3e6c5d.mp3"
+      },
+      {
+        "text": "For example, proms organized by and for homeless youth were reported.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/youth_ex_1_95d64faa.mp3"
+      },
+      {
+        "text": "Marketers recognize this fact and often use elements of youth culture to promote their products.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/youth_ex_2_c5447525.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Her incredible story and superior swimming Brazilian government and later continued judo skills won her the opportunity to participate in the training at a youth facility.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this passage? (A) The Importance of Marketing (B) The Power of Youth Culture (C) The Popularity of Hip-hop Fashion (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "年輕時期，通常指青少年或年輕人的階段。",
+    "en_def": "The period of being young, typically referring to teenagers or young adults.",
+    "example": "The youth of today are more aware of global issues than ever before."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "branch",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/branch_ex_0_fe473fe6.mp3"
+      },
+      {
+        "text": "They are trapped by the sharp branches of the tea trees.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/branch_ex_1_5470d611.mp3"
+      },
+      {
+        "text": "He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/branch_ex_2_7848b4e9.mp3"
+      },
+      {
+        "text": "Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/branch_ex_3_100ffd4e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are highly branches in American forests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "樹的分支或延伸部分；某個組織或系統的分支。",
+    "en_def": "A part of a tree that grows out from the trunk or a main stem; a division or subdivision of a larger organization or system.",
+    "example": "The bird built its nest on a high branch of the tree."
+  },
+  "sentences_removed": 1
+}

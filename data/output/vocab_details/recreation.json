@@ -1,0 +1,23 @@
+{
+  "lemma": "recreation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 14th century, hoops were popular as a form of recreation in Great Britain.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/recreation_ex_0_da3d3474.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "消遣；娛樂活動",
+    "en_def": "Activities done for enjoyment when one is not working.",
+    "example": "Going hiking is my favorite form of recreation."
+  },
+  "sentences_removed": 0
+}

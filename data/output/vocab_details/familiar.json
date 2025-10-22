@@ -1,0 +1,33 @@
+{
+  "lemma": "familiar",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Almost a whole generation of children throughout the world is familiar with Sesame Street and the characters of The Muppet Show.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/familiar_ex_0_d9379152.mp3"
+      },
+      {
+        "text": "The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/familiar_ex_1_7912369e.mp3"
+      },
+      {
+        "text": "Familiar fables can be narrated differently or extended in interesting and humorous ways.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/familiar_ex_2_2fa16b64.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "熟悉的，親密的，常見的",
+    "en_def": "Well-known from long or close association.",
+    "example": "She felt familiar with the neighborhood after living there for a year."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "jail",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then they wanted to put him in jail and charged him with violation of law for climbing the building without a permit.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/jail_ex_0_1f12358f.mp3"
+      },
+      {
+        "text": "Mrs. Tuck kills the man and is jailed and sentenced to be executed.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/jail_ex_1_240e2fa5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "監獄，一個關押罪犯的地方。",
+    "en_def": "A place where individuals are confined as punishment for a crime.",
+    "example": "He was sent to jail for stealing."
+  },
+  "sentences_removed": 0
+}

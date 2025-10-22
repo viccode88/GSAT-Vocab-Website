@@ -1,0 +1,23 @@
+{
+  "lemma": "nurture",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thus, it can be nurtured and encouraged.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nurture_ex_0_3b55a565.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "培養；養育",
+    "en_def": "To care for and encourage the growth or development of someone or something.",
+    "example": "Parents should nurture their children's talents and interests."
+  },
+  "sentences_removed": 0
+}

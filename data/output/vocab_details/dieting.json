@@ -1,0 +1,38 @@
+{
+  "lemma": "dieting",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dieting_ex_0_96b597ce.mp3"
+      },
+      {
+        "text": "But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dieting_ex_1_7925f5c7.mp3"
+      },
+      {
+        "text": "Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dieting_ex_2_92f8d19e.mp3"
+      },
+      {
+        "text": "Another child said dieting meant “you fix food but you don’t eat it.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dieting_ex_3_669eecfc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "控制飲食以減輕體重或改善健康的行為。",
+    "en_def": "The practice of regulating food intake to lose weight or improve health.",
+    "example": "She is dieting to prepare for her wedding."
+  },
+  "sentences_removed": 1
+}

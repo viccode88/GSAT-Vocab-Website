@@ -1,0 +1,54 @@
+{
+  "lemma": "tropical",
+  "count": 11,
+  "pos_dist": {
+    "ADJ": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tropical_ex_0_e33b37e8.mp3"
+      },
+      {
+        "text": "They are places filled with giant tree lizards, sandy beaches, and tropical plants.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tropical_ex_1_a2d22307.mp3"
+      },
+      {
+        "text": "These tropical glaciers serve as a major source of water supply to one-sixth of the world’s population.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/tropical_ex_2_932add02.mp3"
+      },
+      {
+        "text": "Tropical infections are thus as much related to government inaction as they are to climate.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tropical_ex_3_c39f7d6d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is spread through air and water in tropical areas.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A newly published study, however, revealed that rising temperatures are posing an 27 threat to the last tropical glaciers in Indonesia’s Papua region.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The severity of tropical diseases is also a matter of whether governments are capable—and willing— to defend their populations against infections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "熱帶的；與熱帶地區有關的",
+    "en_def": "Relating to the tropics, the regions of the Earth between the Tropic of Cancer and the Tropic of Capricorn, characterized by a warm climate.",
+    "example": "The tropical rainforest is home to a diverse range of wildlife."
+  },
+  "sentences_removed": 4
+}

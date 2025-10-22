@@ -1,0 +1,33 @@
+{
+  "lemma": "extend",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/extend_ex_0_8703ca0a.mp3"
+      },
+      {
+        "text": "We all have grown up with this popular version, but the 31 fable can be extended with different twists.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/extend_ex_1_2f347835.mp3"
+      },
+      {
+        "text": "Familiar fables can be narrated differently or extended in interesting and humorous ways.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/extend_ex_2_2fa16b64.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "延伸，擴展或增加某物的範圍、大小或持續時間。",
+    "en_def": "To increase the length, area, or duration of something.",
+    "example": "We need to extend the deadline for the project."
+  },
+  "sentences_removed": 0
+}

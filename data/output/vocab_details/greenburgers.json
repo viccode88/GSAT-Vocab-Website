@@ -1,0 +1,23 @@
+{
+  "lemma": "greenburgers",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I’ve tried all kinds of vegan “burgers,” and GreenBurgers are closer to what I’m looking for.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/greenburgers_ex_0_236601b6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種以植物為基礎的漢堡，通常使用豆類、穀物或其他植物成分製作，旨在提供健康和環保的飲食選擇。",
+    "en_def": "A type of burger made primarily from plant-based ingredients, often using beans, grains, or other plant components, aimed at providing a healthy and environmentally friendly food option.",
+    "example": "Many people are choosing greenburgers as a delicious alternative to traditional meat burgers."
+  },
+  "sentences_removed": 0
+}

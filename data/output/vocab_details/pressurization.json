@@ -1,0 +1,23 @@
+{
+  "lemma": "pressurization",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/pressurization_ex_0_3552773a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "加壓，指在封閉空間內增加氣體或液體的壓力。",
+    "en_def": "The process of increasing the pressure of a gas or liquid within a closed system.",
+    "example": "The pressurization of the cabin is essential for passenger comfort during the flight."
+  },
+  "sentences_removed": 0
+}

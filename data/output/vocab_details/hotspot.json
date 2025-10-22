@@ -1,0 +1,23 @@
+{
+  "lemma": "hotspot",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hotspot_ex_0_1a7e8afb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "熱點；熱門地點或區域，通常指有高活動或關注的地方。",
+    "en_def": "A hotspot is a location that is popular or has a high level of activity or interest.",
+    "example": "The café became a hotspot for local artists and musicians."
+  },
+  "sentences_removed": 0
+}

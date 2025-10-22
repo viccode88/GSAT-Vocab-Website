@@ -1,0 +1,28 @@
+{
+  "lemma": "papa",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They went out for a last look at the garden Papa loved.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/papa_ex_0_20175e8a.mp3"
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/papa_ex_1_7f6ec1a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "父親；爸爸",
+    "en_def": "A term of endearment for one's father.",
+    "example": "My papa always tells the best stories."
+  },
+  "sentences_removed": 0
+}

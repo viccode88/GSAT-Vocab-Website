@@ -1,0 +1,23 @@
+{
+  "lemma": "battered",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Surprised by the father and son’s “pale faces” and their battered vessel, the Penghu police and fishers in Paisha rescued them.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/battered_ex_0_7455c275.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "受到重創的，受傷的，或經歷過長期虐待的。",
+    "en_def": "Damaged or injured by repeated blows or hard usage; also refers to someone who has been subjected to prolonged abuse.",
+    "example": "The battered old car struggled to start in the cold weather."
+  },
+  "sentences_removed": 0
+}

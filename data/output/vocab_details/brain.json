@@ -1,0 +1,196 @@
+{
+  "lemma": "brain",
+  "count": 42,
+  "pos_dist": {
+    "NOUN": 36,
+    "VERB": 5,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have found that certain parts of the brain are responsible for learning, memory, and language.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/brain_ex_0_6504c63e.mp3"
+      },
+      {
+        "text": "The brain of a chimpanzee has the same internal structure and on its surface the same pattern of folds as the human brain, which, however, is three times as large.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/brain_ex_1_68e2dc14.mp3"
+      },
+      {
+        "text": "After all, a brain is not a computer.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/brain_ex_2_82215636.mp3"
+      },
+      {
+        "text": "He used an instrument called an MRI (magnetic resonance imaging) to study the brains of two groups of bilingual people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/brain_ex_3_67f59f33.mp3"
+      },
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/brain_ex_4_ad2aff68.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "If teachers know whether their students are left-brained or right-brained, they can help them learn better. 47.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In the study, the subjects were placed inside the MRI scanner to (A) observe the activities of the brains when they used languages.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "They believe that some learners use one half of their brains more than the other half.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Mary is a typical left-brained learner.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The amygdala is located in different areas of the brain for boys and girls.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main difference between a chimpanzee’s brain and a human’s? 4.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This allowed Hirsch to see which parts of the brain were getting more blood and were more active.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers found that the parts of the brain involved in learning, memory, emotion, and touch became more active as the volunteers expected higher levels of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The links between certain parts of the brain develop earlier in girls than in boys.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies reveal that negative emotions are seated in an area of the brain called the amygdala.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Understanding how pain works in the mind and brain could eventually give doctors tools for helping people cope with painful medical treatments.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 21 , the brain waves of a sleeping person are similar to those of a waking person, and the eyes move about rapidly under the closed lids.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is your chance to play around with the extraordinary abilities buried in unused parts of your brain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The most compelling support, however, comes from brain scans, which show that color processing areas in the brain light up when these people listen to certain words.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The language center in the brain that is believed to control speech production is called (A) MRI.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "It offers an online test telling you about the brain behind the bark.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Right-brained learners look for a general picture and concentrate on relating new information to what they already know.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Their brain is 28 tricked into thinking they are eating more than they really are.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "But once that programming is complete, a different part of the brain must take over a new language.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Left-brained learners usually concentrate on memorizing les and lists.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It's your brain against the computer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "29 , it is a way for you to put the deepest areas of your brain to good use while you’re sleeping.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There is currently no reason to believe that plants experience pain, because they are devoid of central nervous systems and brains.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "He believes that, when language is first being programmed in young children, their brains may mix all languages into the same area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Your brain’s confused reaction makes you feel sick.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent study, the part of your brain that reacts to severe pain is largely the same part that reacts to expectation of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "大腦；中樞神經系統的主要部分，負責思考、記憶和感覺等功能。",
+    "en_def": "The organ in the body that is responsible for thought, memory, and sensory processing.",
+    "example": "The brain is a complex organ that controls all our actions and thoughts."
+  },
+  "sentences_removed": 4
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "particle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "微粒；粒子，指物質的最小單位。",
+    "en_def": "A small localized object to which can be ascribed physical properties.",
+    "example": "A particle of dust floated in the sunlight."
+  },
+  "sentences_removed": 1
+}

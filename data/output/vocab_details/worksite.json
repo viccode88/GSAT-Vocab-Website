@@ -1,0 +1,17 @@
+{
+  "lemma": "worksite",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "工作場所，通常指進行建設或其他工作的地點。",
+    "en_def": "A location where work is performed, often related to construction or other labor activities.",
+    "example": "The construction crew arrived early at the worksite to prepare for the day's tasks."
+  },
+  "sentences_removed": 1
+}

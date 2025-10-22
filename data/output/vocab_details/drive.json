@@ -1,0 +1,120 @@
+{
+  "lemma": "drive",
+  "count": 22,
+  "pos_dist": {
+    "VERB": 21,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/drive_ex_0_51c632f3.mp3"
+      },
+      {
+        "text": "Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/drive_ex_1_ed2286ac.mp3"
+      },
+      {
+        "text": "In the news recently was the story of a woman who died of a heart attack while driving her station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/drive_ex_2_abfc29bc.mp3"
+      },
+      {
+        "text": "The barking of the hound, which drives deer to panic, strengthens the effect of the warning noise, according to the RTRI.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/drive_ex_3_8003e6d9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Stretch limousines were hired to drive the prom-goers to expensive restaurants or discos for an all-night extravaganza.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He was trapped inside as the boat was driven under the water.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For a person who just turned 20, what is the legal alcohol level allowed while driving in the US?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "If you _____ a traffic law, such as drinking and driving, you may not drive for some time.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Visitors now can drive over sections of the park that previously took days of horseback riding to see.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the United States, the legal blood alcohol limit is 0.08% for people aged 21 years or older, while people under 21 are not allowed to drive a car with any level of alcohol in their body.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "As one swapper puts it, “Nobody is going to fly across the ocean or drive 600 miles to come steal your TV.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The medicine you take for a cold may cause _____; try not to drive after you take it.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Her purchases seem to be driven by some sudden force or desire.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park? (A) The scenery along the road is too beautiful for visitors to drive carefully.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Pacific islands like the Galápagos, Easter Island, and Tahiti, have economies that are driven almost completely by tourism.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Now, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "We are not blank hard drives waiting to be filled with data.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "駕駛；驅動",
+    "en_def": "To operate and control the direction and speed of a motor vehicle.",
+    "example": "She learned to drive when she turned sixteen."
+  },
+  "sentences_removed": 1
+}

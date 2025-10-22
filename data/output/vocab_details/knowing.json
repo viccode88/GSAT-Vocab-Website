@@ -1,0 +1,23 @@
+{
+  "lemma": "knowing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In our proper relationship with others, we will be known and seen for who we are, and love will come out of the seeing and the knowing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/knowing_ex_0_8be5e79c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "知道或理解某事的狀態或能力。",
+    "en_def": "The state or ability of being aware of or understanding something.",
+    "example": "Knowing the answer to the question made her feel confident."
+  },
+  "sentences_removed": 0
+}

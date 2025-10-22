@@ -1,0 +1,33 @@
+{
+  "lemma": "sky",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To avoid this, scientists have devised several ways for clearing the sky.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/sky_ex_0_295b4385.mp3"
+      },
+      {
+        "text": "When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sky_ex_1_3552773a.mp3"
+      },
+      {
+        "text": "the stars in the sky every night.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/sky_ex_2_3735803d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "天空：地球表面以上的空間，通常指大氣層和宇宙。",
+    "en_def": "The expanse of air over the Earth; the atmosphere and outer space.",
+    "example": "The sky was filled with stars on that clear night."
+  },
+  "sentences_removed": 0
+}

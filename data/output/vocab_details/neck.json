@@ -1,0 +1,28 @@
+{
+  "lemma": "neck",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After working in front of my computer for the entire day, my neck and shoulders got so that I couldn’t even turn my head.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/neck_ex_0_52b11e41.mp3"
+      },
+      {
+        "text": "Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/neck_ex_1_ce9a44dc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "脖子；連接頭部和身體的部分。",
+    "en_def": "The part of the body that connects the head to the torso.",
+    "example": "She wore a beautiful necklace around her neck."
+  },
+  "sentences_removed": 0
+}

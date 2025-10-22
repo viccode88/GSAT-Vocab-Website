@@ -1,0 +1,43 @@
+{
+  "lemma": "inform",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Authors also write about these things to inform by giving facts or ideas.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/inform_ex_0_6b8136c2.mp3"
+      },
+      {
+        "text": "She never calls ______ to inform us of her visits.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/inform_ex_1_1d9bb677.mp3"
+      },
+      {
+        "text": "To inform the reader how to reduce stress.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/inform_ex_2_83c2e5dd.mp3"
+      },
+      {
+        "text": "I will inform the early morning supervisor.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/inform_ex_3_ee091c6d.mp3"
+      },
+      {
+        "text": "To inform parents how they can help their children like varied foods. 54.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/inform_ex_4_71265095.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "通知；告知",
+    "en_def": "To give someone facts or information; to make someone aware of something.",
+    "example": "Please inform me about the meeting schedule."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "fashioned",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The “no pain, no gain” view of exercise is now considered old-fashioned.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/fashioned_ex_0_f580c047.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "以某種方式製作或設計的",
+    "en_def": "Made or shaped in a particular way.",
+    "example": "The dress was fashioned from silk and lace."
+  },
+  "sentences_removed": 0
+}

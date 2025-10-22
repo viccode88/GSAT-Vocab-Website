@@ -1,0 +1,23 @@
+{
+  "lemma": "nationality",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The objective is to promote peace all over the world, and to 26 barriers between every nationality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nationality_ex_0_48709d89.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "國籍，指一個人所屬的國家或民族的身份。",
+    "en_def": "The status of belonging to a particular nation, typically as a citizen or subject.",
+    "example": "Her nationality is Canadian."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "bedford",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Around 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o’clock.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bedford_ex_0_1eb0e20f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "貝德福德，一個位於英國的城市，通常指貝德福德郡的首府。",
+    "en_def": "Bedford, a town in England, often referred to as the county town of Bedfordshire.",
+    "example": "I visited Bedford last summer and enjoyed its beautiful parks."
+  },
+  "sentences_removed": 0
+}

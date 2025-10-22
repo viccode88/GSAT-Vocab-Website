@@ -1,0 +1,38 @@
+{
+  "lemma": "newspaper",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As more people rely on the Internet for information, it has newspapers as the most important source of news.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/newspaper_ex_0_640408e1.mp3"
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/newspaper_ex_1_e84c0edd.mp3"
+      },
+      {
+        "text": "all the newspaper and television attention, the problem of child abuse has become well-known.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/newspaper_ex_2_2185d4e4.mp3"
+      },
+      {
+        "text": "As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/newspaper_ex_3_a446ab15.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "報紙，一種定期出版的印刷媒介，通常包含新聞、評論、廣告和其他信息。",
+    "en_def": "A newspaper is a regularly published printed medium that typically contains news, articles, advertisements, and other information.",
+    "example": "I read the newspaper every morning to stay updated on current events."
+  },
+  "sentences_removed": 1
+}

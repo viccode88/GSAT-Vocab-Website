@@ -1,0 +1,54 @@
+{
+  "lemma": "last",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most of us are comfortable with eye contact lasting a few seconds.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/last_ex_0_59b65939.mp3"
+      },
+      {
+        "text": "Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.”",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/last_ex_1_e7c2124c.mp3"
+      },
+      {
+        "text": "About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/last_ex_2_e4397231.mp3"
+      },
+      {
+        "text": "The festival usually lasts for four to five days in August.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/last_ex_3_72f2487a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Each heat pulse lasted for 20 seconds.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the phrase “a lasting British institution” in the first paragraph mean? (A)",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "最後的；持續到最後的",
+    "en_def": "The final item in a series or the most recent in time.",
+    "example": "She was the last person to leave the party."
+  },
+  "sentences_removed": 0
+}

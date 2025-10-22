@@ -1,0 +1,34 @@
+{
+  "lemma": "headache",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/headache_ex_0_e4397231.mp3"
+      },
+      {
+        "text": "Moreover, the effect is often 20 space motion sickness, headaches, and nausea.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/headache_ex_1_d87e2bb3.mp3"
+      },
+      {
+        "text": "The Chinese and Indians 16 it for at least 4,000 years to treat everything from headache to depression.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/headache_ex_2_92cd85f7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "頭痛，一種常見的疼痛，通常發生在頭部或頸部。",
+    "en_def": "A headache is a common pain that occurs in the head or neck area.",
+    "example": "I couldn't concentrate on my work because I had a terrible headache."
+  },
+  "sentences_removed": 0
+}

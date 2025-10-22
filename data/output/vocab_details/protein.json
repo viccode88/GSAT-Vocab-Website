@@ -1,0 +1,49 @@
+{
+  "lemma": "protein",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Research shows that consuming a minimum of 25 grams of soy protein a day can lower blood cholesterol levels in people with high cholesterol problems.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/protein_ex_0_33e7fcaa.mp3"
+      },
+      {
+        "text": "Since it is cheap to produce and rich in protein, and has many uses, the soybean could provide food to the world’s growing population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/protein_ex_1_ef77650b.mp3"
+      },
+      {
+        "text": "Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/protein_ex_2_134c0a18.mp3"
+      },
+      {
+        "text": "If you are a vegetarian, or if your diet includes little meat, soy protein is a good alternative, and may even be essential to maintaining your health.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/protein_ex_3_375bd35f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The soybean is an almost perfect source of protein.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Tofu is a rich protein source.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "蛋白質是一種由氨基酸組成的生物大分子，對於生物體的結構和功能至關重要。",
+    "en_def": "Protein is a large biological molecule made up of amino acids, essential for the structure and function of living organisms.",
+    "example": "Eggs are a great source of protein."
+  },
+  "sentences_removed": 0
+}

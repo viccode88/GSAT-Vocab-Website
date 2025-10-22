@@ -1,0 +1,29 @@
+{
+  "lemma": "technical",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The The company offers the most lucrative compensation selected candidate will undergo a training program to plan in the industry and has paid over $3.5 billion NTD be conducted by our manufacturer’s trained technical in commissions in just 6 years in the US.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/technical_ex_0_829dc770.mp3"
+      },
+      {
+        "text": "This new device has been invented by a team at the country’s Railway Technical Research Institute (RTRI).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/technical_ex_1_aa407955.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "技術的，專業的，與技術或專業知識相關的。",
+    "en_def": "Relating to a particular subject, especially a field of science or technology.",
+    "example": "The engineer provided a technical explanation of the new software."
+  },
+  "sentences_removed": 0
+}

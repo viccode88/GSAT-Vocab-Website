@@ -1,0 +1,38 @@
+{
+  "lemma": "herd",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It may take some years, but the final aim is to release all of them to a wild herd.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/herd_ex_0_1d4644ee.mp3"
+      },
+      {
+        "text": "Herds of goats and cows 26 enormous horns graze the lush green fields.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/herd_ex_1_43e05838.mp3"
+      },
+      {
+        "text": "The Maasai are a semi-nomadic group in Kenya and northern Tanzania, wandering in bands and living almost entirely on the meat, blood, and milk of their herds.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/herd_ex_2_a5aa0ad7.mp3"
+      },
+      {
+        "text": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/herd_ex_3_925e31f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一群動物，特別是牛、羊或其他家畜，通常由一個人或一個家庭管理。",
+    "en_def": "A group of animals, especially cattle or sheep, that are managed together.",
+    "example": "The farmer led the herd of cattle to the pasture."
+  },
+  "sentences_removed": 0
+}

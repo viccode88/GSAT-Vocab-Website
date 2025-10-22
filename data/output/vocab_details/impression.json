@@ -1,0 +1,17 @@
+{
+  "lemma": "impression",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "印象；感覺或看法",
+    "en_def": "A mark, effect, or feeling produced by an experience or event.",
+    "example": "Her speech left a lasting impression on the audience."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "commonly",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Future plans include static barking sites where deer are commonly seen, but “the noises will not be blared in areas where people live beside the tracks.” 53.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/commonly_ex_0_45f1ea57.mp3"
+      },
+      {
+        "text": "The dot goes by different names in different Hindi dialects, and “bindi” is the one that is most commonly known.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/commonly_ex_1_c2f6b42e.mp3"
+      },
+      {
+        "text": "They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly “earworm.”",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/commonly_ex_2_5fed6953.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "通常地，普遍地",
+    "en_def": "In a way that is usual or typical.",
+    "example": "This type of fruit is commonly found in tropical regions."
+  },
+  "sentences_removed": 1
+}

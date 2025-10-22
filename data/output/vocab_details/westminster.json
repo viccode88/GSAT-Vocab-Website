@@ -1,0 +1,28 @@
+{
+  "lemma": "westminster",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Knight’s traffic signal was installed near London’s Westminster Bridge in December 1868, but the system was short-lived.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/westminster_ex_0_511e9fb2.mp3"
+      },
+      {
+        "text": "In 1476 he returned to England and established a printing press at Westminster.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/westminster_ex_1_65f54606.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "西敏寺，位於英國倫敦，是英國國會的所在地，也是英國歷史上重要的宗教和政治中心。",
+    "en_def": "Westminster is a district in London, known for being the seat of the UK Parliament and a significant site for British history and governance.",
+    "example": "The Prime Minister delivered a speech in Westminster yesterday."
+  },
+  "sentences_removed": 0
+}

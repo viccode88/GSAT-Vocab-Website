@@ -1,0 +1,34 @@
+{
+  "lemma": "mansion",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After making a fortune by writing novels, he built a mansion outside Paris and kept it open to starving artists, friends, and even strangers.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mansion_ex_0_69011ca3.mp3"
+      },
+      {
+        "text": "Luckily for his fans, the mansion has recently been restored and opened to the public.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mansion_ex_1_4a27ed4f.mp3"
+      },
+      {
+        "text": "At various times in history, the White House has been known as the “President’s Palace,” the “President’s House,” and the “Executive Mansion.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mansion_ex_2_d14f5bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大型豪華住宅，通常有多個房間和廣闊的庭院。",
+    "en_def": "A large, impressive house, typically one that is luxurious and has many rooms.",
+    "example": "The old mansion on the hill has been abandoned for years."
+  },
+  "sentences_removed": 0
+}

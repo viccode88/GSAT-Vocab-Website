@@ -1,0 +1,43 @@
+{
+  "lemma": "hunt",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To explain how Maasai warriors hunt for deer in the wild.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hunt_ex_0_96b2e9a0.mp3"
+      },
+      {
+        "text": "Since rats love to hunt and eat wetas, the rat population on the island has its grown into a real problem for many of the native species that are unaccustomed to presence, and poses a serious threat to the native weta population.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hunt_ex_1_237876da.mp3"
+      },
+      {
+        "text": "People in that remote village feed themselves by hunting and engaging in _____ forms of agriculture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/hunt_ex_2_c426c970.mp3"
+      },
+      {
+        "text": "Cartier-Bresson traveled to Africa in 1931 to hunt antelope and boar.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/hunt_ex_3_137c43e0.mp3"
+      },
+      {
+        "text": "Lots of people also go hunting for wild berries that grow along the roadsides.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hunt_ex_4_e96bd5aa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "狩獵；追捕",
+    "en_def": "To pursue and kill wild animals for food or sport.",
+    "example": "They decided to hunt for deer in the forest."
+  },
+  "sentences_removed": 0
+}

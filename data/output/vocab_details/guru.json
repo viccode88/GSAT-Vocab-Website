@@ -1,0 +1,33 @@
+{
+  "lemma": "guru",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Having received this 31 , the guru said, “Then this is what I’d like you to do for me.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/guru_ex_0_9633919a.mp3"
+      },
+      {
+        "text": "Soon after their 36 , the guru died and the sow did have a litter of four little pigs.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/guru_ex_1_dab6dac2.mp3"
+      },
+      {
+        "text": "The disciple said he would do whatever his guru asked him to do.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/guru_ex_2_bd400bdf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "導師；專家，尤其是在某一領域的權威。",
+    "en_def": "A teacher or expert, especially in a particular field.",
+    "example": "She is a yoga guru who has inspired many students."
+  },
+  "sentences_removed": 1
+}

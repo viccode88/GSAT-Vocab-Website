@@ -1,0 +1,28 @@
+{
+  "lemma": "loser",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Both 36 know their own drawbacks and limitations very well; therefore, they jointly decide to have one last race—not to decide who the winner or loser is, but just for their own pleasure and satisfaction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/loser_ex_0_537e22ed.mp3"
+      },
+      {
+        "text": "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.” (A) verbally (B) dominantly (C) legitimately (D)",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/loser_ex_1_d1c62f6e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "失敗者；在競賽或挑戰中未能獲勝的人。",
+    "en_def": "A person who fails to win or achieve success in a competition or situation.",
+    "example": "He felt like a loser after not getting the job he wanted."
+  },
+  "sentences_removed": 0
+}

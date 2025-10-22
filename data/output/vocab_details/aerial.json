@@ -1,0 +1,23 @@
+{
+  "lemma": "aerial",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/aerial_ex_0_7d925647.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "空中的；航空的",
+    "en_def": "Related to the air or atmosphere; existing or happening in the air.",
+    "example": "The aerial view of the city was breathtaking."
+  },
+  "sentences_removed": 0
+}

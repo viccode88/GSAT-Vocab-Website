@@ -1,0 +1,23 @@
+{
+  "lemma": "tailored",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is a tailored garment that is wrapped around the wearer’s body at the waist starting from one side, around the front and back and across the front again to the opposite side.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tailored_ex_0_512403ec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "量身訂做的，特別為某人或某事設計的。",
+    "en_def": "Made or adapted for a particular purpose or person.",
+    "example": "The suit was tailored to fit him perfectly."
+  },
+  "sentences_removed": 0
+}

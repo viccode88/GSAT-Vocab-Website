@@ -1,0 +1,33 @@
+{
+  "lemma": "silence",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What he had to say was 33 by an uncomfortable silence.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/silence_ex_0_2ca3897c.mp3"
+      },
+      {
+        "text": "During training, the volunteers would first hear a tone, followed by a period of silence, and then feel a heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/silence_ex_1_2679657b.mp3"
+      },
+      {
+        "text": "Silence in some way is as _____ as speech.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/silence_ex_2_c7ac5e3b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "沉默；安靜的狀態或環境。",
+    "en_def": "The absence of sound or noise; a state of quiet.",
+    "example": "The room fell into silence as everyone waited for the announcement."
+  },
+  "sentences_removed": 0
+}

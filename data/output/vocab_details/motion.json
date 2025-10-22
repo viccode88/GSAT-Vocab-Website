@@ -1,0 +1,44 @@
+{
+  "lemma": "motion",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You may experience the discomfort from the motion of cars, boats, or amusement park rides.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/motion_ex_0_fe8b5028.mp3"
+      },
+      {
+        "text": "Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/motion_ex_1_5dc1fa85.mp3"
+      },
+      {
+        "text": "Moreover, the effect is often 20 space motion sickness, headaches, and nausea.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/motion_ex_2_d87e2bb3.mp3"
+      },
+      {
+        "text": "As they were moving, the energy of the droplets in motion would be released.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/motion_ex_3_0d2cf809.mp3"
+      },
+      {
+        "text": "If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/motion_ex_4_db73d24b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "運動；移動",
+    "en_def": "The act or process of moving or being moved.",
+    "example": "The motion of the planets around the sun is governed by gravity."
+  },
+  "sentences_removed": 0
+}

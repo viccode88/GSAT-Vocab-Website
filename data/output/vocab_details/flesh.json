@@ -1,0 +1,28 @@
+{
+  "lemma": "flesh",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/flesh_ex_0_ea259e7a.mp3"
+      },
+      {
+        "text": "Over the years, only the edible soft inner flesh has been used.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/flesh_ex_1_d4c0cbd7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "肉體，特別是指動物或人的肌肉和皮膚。",
+    "en_def": "The soft substance of the body of a human or an animal, consisting of muscle and fat.",
+    "example": "The chef prepared a delicious dish using fresh fish flesh."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,279 @@
+{
+  "lemma": "paragraph",
+  "count": 53,
+  "pos_dist": {
+    "NOUN": 53
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the third paragraph mainly about? (A)",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/paragraph_ex_0_5078df70.mp3"
+      },
+      {
+        "text": "Why is “Iraq” mentioned in the second paragraph? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/paragraph_ex_1_f5977878.mp3"
+      },
+      {
+        "text": "Who does “they” in the third paragraph most likely refer to? (A) Physicians.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/paragraph_ex_2_42d57c7f.mp3"
+      },
+      {
+        "text": "The phrase dispose of in the first paragraph can best be replaced by .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/paragraph_ex_3_8f3c2670.mp3"
+      },
+      {
+        "text": "Which paragraph is most suitable to have it as the final sentence?",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/paragraph_ex_4_b60668d6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "How does the author conclude the passage in the last paragraph? (A) By adding new details.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The underlined word conduct in the first paragraph is closest in meaning to (A) behave.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the word “everything” in paragraph 2 mean? (A) All the problems.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “Others” in the third paragraph refer to? (A) Other artists.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the author mean by “a lightbulb moment” in the first paragraph? (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The word tips in the second paragraph refers to .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “a new chapter” in line 2, paragraph 1 mean? (A) A new unit of a book.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “a crucial time” in the last paragraph refer to? (A) When the vessel hits a flat.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The underlined word ulcer in the second paragraph refers to a particular kind of (A) mental illness.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the word “sedentary” in the third paragraph most likely mean? (A) Modern.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “ultra-accessible” in the second paragraph imply? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main purpose of the second paragraph in the passage? (A)",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What is paragraph 3 mainly about? (A)",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “replicated” in the third paragraph? (A) Reproduced.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "How does the author conclude the passage in the last paragraph? (A) By providing further facts.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the author mean by “learning vicariously” in the second paragraph? (A) Making inquiries without reservation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “the pieces of a blurred memory” in the third paragraph most likely refer to? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best defines “subject” in the first paragraph? (A) A kind of mental disease.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does a “fairy ring” in the last paragraph refer to? (A) Circled tree trunks.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “it” in the last paragraph refer to? (A) To certify elephant-friendly trenches and organizations.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the second paragraph mainly about? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why does the author quote Blixen’s comment at the end of the third paragraph? (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “this pioneering procedure” in the second paragraph refer to? (A) 100% Fish’s mission.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the phrase “in the balance” in the last paragraph most likely mean? (A) Being well taken care of.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the third paragraph mainly about? (A)",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the word rescued in the second paragraph mean? (A) recovered (B) prescribed (C) examined (D) discovered 45.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “It” in the third paragraph refer to? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “arid” in the first paragraph? (A) Occupied.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of the third paragraph? (A) Proper social behavior must be observed by prom-goers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the second paragraph mainly about? (A) How to exchange homes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to the word “undertones” in the first paragraph? (A) Consequences.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the most appropriate interpretation of “ ” in the last paragraph? (A)",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “ ” in the second paragraph? (A) advertises (B) dedicates (C) replaces (D) participates 51.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the highlighted “they” in the second paragraph refer to? (A) Iron rods.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the second paragraph mainly about? (A)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which is closest in meaning to the word “encroachment” in the last paragraph? (A) Invasion.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the project in the second paragraph refer to? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The following two paragraphs are examples of these two kinds.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.” Which paragraph is most suitable to have it as the final sentence?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the author mean by “the unforgiving nature of tons of onrushing rolling stock” in the third paragraph?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to the word “venture” in the second paragraph? (A) Creative measurement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the word “cash-strapped” in the second paragraph mean? (A) Making a lot of money.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the phrase “a lasting British institution” in the first paragraph mean? (A)",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “when that happens” mean in the last paragraph?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “This” in the fourth paragraph refer to? (A) The alcohol.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “this practice” refer to in the second paragraph? (A) Holding an inaugural open house.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "段落；一組連貫的句子，通常圍繞一個主題或思想。",
+    "en_def": "A distinct section of a piece of writing, usually dealing with a single theme or idea.",
+    "example": "The essay was divided into several paragraphs, each focusing on a different aspect of the topic."
+  },
+  "sentences_removed": 1
+}

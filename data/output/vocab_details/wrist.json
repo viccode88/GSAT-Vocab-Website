@@ -1,0 +1,23 @@
+{
+  "lemma": "wrist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amy made sure her gold bracelet was secure on her wrist.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/wrist_ex_0_55c785e1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "手腕，連接手和前臂的關節部位。",
+    "en_def": "The joint or area of the body where the hand connects to the forearm.",
+    "example": "She wore a beautiful bracelet on her wrist."
+  },
+  "sentences_removed": 0
+}

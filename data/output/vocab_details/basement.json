@@ -1,0 +1,23 @@
+{
+  "lemma": "basement",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the typhoon, the basement has been filled with water.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/basement_ex_0_56012c98.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地下室，通常用作儲藏或其他用途的房間或區域。",
+    "en_def": "A basement is a floor of a building that is below ground level, often used for storage or other purposes.",
+    "example": "We converted the basement into a home gym."
+  },
+  "sentences_removed": 0
+}

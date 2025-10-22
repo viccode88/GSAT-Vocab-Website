@@ -1,0 +1,33 @@
+{
+  "lemma": "charity",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Shoe That Grows, created by a charity called Because International, changes all this.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/charity_ex_0_580136f8.mp3"
+      },
+      {
+        "text": "Some people, however, are so grateful that they send extra money to Jack or to the charities his company supports.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/charity_ex_1_74d283aa.mp3"
+      },
+      {
+        "text": "They work from home and give all the money they earn to charity.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/charity_ex_2_1c2837f5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "慈善，指幫助有需要的人或社會的行為或組織。",
+    "en_def": "The voluntary giving of help, typically in the form of money, to those in need.",
+    "example": "She donated to the charity that supports homeless families."
+  },
+  "sentences_removed": 0
+}

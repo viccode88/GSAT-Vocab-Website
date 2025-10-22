@@ -1,0 +1,23 @@
+{
+  "lemma": "compile",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The list-based convention, on the other hand, is based on the list of typhoon names compiled in advance by a committee, and is more widely used.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/compile_ex_0_64b0137e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "編輯或整理資料以形成一個完整的文件或報告。",
+    "en_def": "To gather and organize information or data into a complete document or report.",
+    "example": "The team will compile the research findings into a final report."
+  },
+  "sentences_removed": 0
+}

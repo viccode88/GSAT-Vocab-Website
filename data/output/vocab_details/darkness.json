@@ -1,0 +1,23 @@
+{
+  "lemma": "darkness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After darkness falls in some parts of North America, female fireflies gather on the ground.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/darkness_ex_0_fb058c8f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "黑暗；缺乏光線或明亮的狀態。",
+    "en_def": "The absence of light or the state of being dark.",
+    "example": "The darkness of the night made it difficult to see anything."
+  },
+  "sentences_removed": 0
+}

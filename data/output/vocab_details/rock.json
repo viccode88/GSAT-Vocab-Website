@@ -1,0 +1,33 @@
+{
+  "lemma": "rock",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rock videos young people watch over and over again feature alcohol, too.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rock_ex_0_38fabd13.mp3"
+      },
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/rock_ex_1_a5d2f4ac.mp3"
+      },
+      {
+        "text": "It is surrounded by about 5,000 other islands, some of 17 are just rocks sticking out of the ground.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rock_ex_2_b6b82b51.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "岩石；石頭",
+    "en_def": "A solid mineral material forming part of the surface of the earth and other similar planets.",
+    "example": "She picked up a smooth rock from the riverbank."
+  },
+  "sentences_removed": 0
+}

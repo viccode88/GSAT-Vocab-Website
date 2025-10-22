@@ -1,0 +1,17 @@
+{
+  "lemma": "brightly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "明亮地；鮮明地",
+    "en_def": "In a way that produces or reflects a lot of light; vividly.",
+    "example": "The stars shone brightly in the night sky."
+  },
+  "sentences_removed": 1
+}

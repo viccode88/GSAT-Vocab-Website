@@ -1,0 +1,29 @@
+{
+  "lemma": "slim",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is intended for slim, fast people.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/slim_ex_0_6635584e.mp3"
+      },
+      {
+        "text": "Which of the following is true about Slim-Fast?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/slim_ex_1_1f443b17.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "苗條的，纖細的",
+    "en_def": "Having a small or slender body; not thick or heavy.",
+    "example": "She wore a slim dress that accentuated her figure."
+  },
+  "sentences_removed": 1
+}

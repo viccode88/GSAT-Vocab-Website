@@ -1,0 +1,39 @@
+{
+  "lemma": "coat",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I sometimes take John's coat for my own, because the two of them look so .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/coat_ex_0_ac1a5be7.mp3"
+      },
+      {
+        "text": "Researchers found that commercial popcorn companies often coat their microwave popcorn bags with a 33 called perfluorooctanoic acid (PFOA) which has been found to cause both cancer and lung disease in laboratory animals.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coat_ex_1_8e193387.mp3"
+      },
+      {
+        "text": "Then she put on both her sweater and her coat so that she wouldn’t have to carry them.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/coat_ex_2_8b25b073.mp3"
+      },
+      {
+        "text": "He then coated the glue on a paper sample and found that it was not only a good bookmark, but it was great for writing notes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/coat_ex_3_6e2da72d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "外套，一種用於保暖或遮擋的衣物，通常有長袖和前開口。",
+    "en_def": "A coat is an outer garment worn for warmth or protection, typically having long sleeves and a front opening.",
+    "example": "She wore a warm coat to protect herself from the cold wind."
+  },
+  "sentences_removed": 0
+}

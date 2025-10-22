@@ -1,0 +1,100 @@
+{
+  "lemma": "restaurant",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 16,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The restaurant has a _____ charge of NT$250 per person.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/restaurant_ex_0_511bc33a.mp3"
+      },
+      {
+        "text": "They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/restaurant_ex_1_a167e0ec.mp3"
+      },
+      {
+        "text": "\" So we went to the restaurant and sat by a window (38) the bay.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/restaurant_ex_2_7f99b8fa.mp3"
+      },
+      {
+        "text": "When holding a dinner party, some large restaurants or hotels will use an ice sculpture to decorate the table.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/restaurant_ex_3_ae987aaf.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "And 38 , Grants Pass has a lot of places to eat, ranging from a low-calorie dessert place to lovely restaurants, some of which o f f e r g o o d f o o d a n d g o r g e o u s v i e w s . 39 you can see, Grants Pass offers a lot to do in the summer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "John’s part-time experience at the cafeteria is good for running his own restaurant.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "(35) he offered to take me to his uncle’s seafood restaurant, just by the beach.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, the cook of the Moon Lake Restaurant _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Picture an elegant restaurant in Saratoga Springs, New York, in 1853.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Stretch limousines were hired to drive the prom-goers to expensive restaurants or discos for an all-night extravaganza.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The Moon Lake Restaurant’s menu included French-fried potatoes, a popular food recipe brought back from France by Thomas Jefferson.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The restaurant started selling small packages of the potato chips.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "餐廳，一個提供食物和飲料的場所，通常供顧客就餐。",
+    "en_def": "A restaurant is a place where meals are prepared and served to customers.",
+    "example": "We decided to try a new restaurant for dinner tonight."
+  },
+  "sentences_removed": 2
+}

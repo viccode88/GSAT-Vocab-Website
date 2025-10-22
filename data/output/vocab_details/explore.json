@@ -1,0 +1,54 @@
+{
+  "lemma": "explore",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/explore_ex_0_0efb8744.mp3"
+      },
+      {
+        "text": "They canoed down rivers, hiked along muddy trails, and climbed into the forest to explore and learn.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/explore_ex_1_6b436612.mp3"
+      },
+      {
+        "text": "Unconventional solutions can also be explored.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/explore_ex_2_708e9d3d.mp3"
+      },
+      {
+        "text": "A team of scientists, teachers, and students, the AmazonQuest team, recently explored some of the wonders of the Amazon Rainforest.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/explore_ex_3_bdea3e2e.mp3"
+      },
+      {
+        "text": "This interesting phenomenon becomes a subject explored by many scientists.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/explore_ex_4_0e67711b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "By doing so, the they have to work together to explore alternative flock members are able to keep a safe distance routes many times before they finally settle on the between themselves, and thus avoid crashing into most efficient one.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "探索；探險；仔細研究或調查某事物。",
+    "en_def": "To travel through an unfamiliar area to learn about it or to examine something in detail.",
+    "example": "We decided to explore the ancient ruins during our vacation."
+  },
+  "sentences_removed": 1
+}

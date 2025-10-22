@@ -1,0 +1,39 @@
+{
+  "lemma": "fair",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 2,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Small birds such as baby quails are fair game to the expanding colony.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/fair_ex_0_ae0015b6.mp3"
+      },
+      {
+        "text": "Two years later, it was awarded first prize again at Houston’s first annual Invention Fair.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/fair_ex_1_7ec68c69.mp3"
+      },
+      {
+        "text": "It is not always fair or kind.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fair_ex_2_29134f89.mp3"
+      },
+      {
+        "text": "At the Book Fair, exhibitors from 21 countries will _______ textbooks, novels, and comic books.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/fair_ex_3_590f2e96.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "公平的，公正的，合理的",
+    "en_def": "Treating people equally without favoritism or discrimination.",
+    "example": "The judge made a fair decision based on the evidence presented."
+  },
+  "sentences_removed": 0
+}

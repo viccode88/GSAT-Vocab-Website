@@ -1,0 +1,23 @@
+{
+  "lemma": "kimono",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Participants, often dressed in light cotton kimonos, are encouraged to dance to the music around the stage.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/kimono_ex_0_ebaaf136.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "和服，一種傳統的日本服裝，通常由長袖和寬鬆的布料製成，並用腰帶束緊。",
+    "en_def": "A kimono is a traditional Japanese garment characterized by long sleeves and a wrap-around design, typically secured with a sash.",
+    "example": "She wore a beautiful kimono to the festival."
+  },
+  "sentences_removed": 0
+}

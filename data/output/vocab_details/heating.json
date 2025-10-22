@@ -1,0 +1,28 @@
+{
+  "lemma": "heating",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Using a heating pad or taking warm baths can sometimes help to _____ pain in the lower back.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/heating_ex_0_9a87b270.mp3"
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/heating_ex_1_940acf73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "加熱，指提高物體或空氣的溫度的過程。",
+    "en_def": "The process of raising the temperature of an object or space.",
+    "example": "The heating in the house keeps us warm during winter."
+  },
+  "sentences_removed": 0
+}

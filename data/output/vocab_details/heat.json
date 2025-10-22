@@ -1,0 +1,105 @@
+{
+  "lemma": "heat",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 16,
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/heat_ex_0_6fed6d52.mp3"
+      },
+      {
+        "text": "Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/heat_ex_1_8ade67d3.mp3"
+      },
+      {
+        "text": "Each volunteer wore a device that gave out 20-second-long pulses of heat to the right leg.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/heat_ex_2_0f93ad12.mp3"
+      },
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/heat_ex_3_dc20d257.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Green tea leaves are heated in steam, rolled, and dried.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "During training, the volunteers would first hear a tone, followed by a period of silence, and then feel a heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From the length of the pause between a tone and the heat pulse. 56.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the pulses of heat in the study?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How did the volunteers learn to expect different levels of heat?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "the heat during the hot summer days.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The longer the pause, the stronger the heat pulse would be, causing more severe pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They then learned to associate the length of the silent pause with the intensity of the upcoming heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There were three levels of heat, producing mild, moderate, or strong pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To give the patient strong heat pulses beforehand.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Each heat pulse lasted for 20 seconds.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Next, they are heated several more times.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "熱，指物體的溫度或能量的增加。",
+    "en_def": "The quality of being hot; a form of energy that causes an increase in temperature.",
+    "example": "The heat from the sun warmed the entire beach."
+  },
+  "sentences_removed": 2
+}

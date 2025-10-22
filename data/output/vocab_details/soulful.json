@@ -1,0 +1,28 @@
+{
+  "lemma": "soulful",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/soulful_ex_0_8700ccfa.mp3"
+      },
+      {
+        "text": "As she sang, Whitfield’s voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/soulful_ex_1_6b6e3b90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "充滿靈魂的；感情深厚的",
+    "en_def": "Having or showing deep feeling or emotion.",
+    "example": "Her soulful voice captivated the audience."
+  },
+  "sentences_removed": 0
+}

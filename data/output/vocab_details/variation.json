@@ -1,0 +1,28 @@
+{
+  "lemma": "variation",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/variation_ex_0_d4f88572.mp3"
+      },
+      {
+        "text": "Decorative or sticker bindis come in all sizes, colors and variations, and can be worn by young and old, married and unmarried people alike.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/variation_ex_1_ec3a27ea.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "變化，變異；不同的形式或版本。",
+    "en_def": "A change or difference in condition, amount, or level, typically with certain limits.",
+    "example": "There is a variation in temperature between day and night."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "generously",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The wise woman generously opened her bag to 21 her food with the traveler.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/generously_ex_0_8dac2553.mp3"
+      },
+      {
+        "text": "Police and Glenn’s parade was attended by 500,000 -- a figure that appeared generously inflated.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/generously_ex_1_1700d558.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "慷慨地，寬宏大量地",
+    "en_def": "In a way that shows a readiness to give more of something, especially money or time, than is strictly necessary or expected.",
+    "example": "She generously donated to the local charity."
+  },
+  "sentences_removed": 0
+}

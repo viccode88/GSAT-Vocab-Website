@@ -1,0 +1,23 @@
+{
+  "lemma": "drift",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In his early adulthood, he even drifted toward communism.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/drift_ex_0_6dd46a1e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "漂流；緩慢移動或變化",
+    "en_def": "To be carried slowly by a current of air or water; to move aimlessly or without a fixed course.",
+    "example": "The leaves began to drift down from the trees as autumn approached."
+  },
+  "sentences_removed": 0
+}

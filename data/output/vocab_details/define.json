@@ -1,0 +1,34 @@
+{
+  "lemma": "define",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following best defines “subject” in the first paragraph? (A) A kind of mental disease.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/define_ex_0_b3a37e84.mp3"
+      },
+      {
+        "text": "In the future when the population grows, there will be no need for the recording because the howler monkeys will have more reason to check in with the neighbors to define their own territories.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/define_ex_1_94878bbc.mp3"
+      },
+      {
+        "text": "By defining and illustrating a concept.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/define_ex_2_7b29529a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "確定或解釋某事的意義或內容。",
+    "en_def": "To state the meaning or significance of something.",
+    "example": "Can you define what success means to you?"
+  },
+  "sentences_removed": 0
+}

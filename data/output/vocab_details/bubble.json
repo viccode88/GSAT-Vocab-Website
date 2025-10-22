@@ -1,0 +1,23 @@
+{
+  "lemma": "bubble",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It should also have the minimum amount of air bubbles.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bubble_ex_0_9c6377da.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "氣泡；泡沫",
+    "en_def": "A small, round pocket of air or gas in a liquid or solid.",
+    "example": "The children watched the bubbles float up into the sky."
+  },
+  "sentences_removed": 0
+}

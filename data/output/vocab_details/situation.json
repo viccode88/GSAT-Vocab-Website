@@ -1,0 +1,104 @@
+{
+  "lemma": "situation",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In everyday situations, too, stress can provide that extra push needed to do something difficult.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/situation_ex_0_8f06423f.mp3"
+      },
+      {
+        "text": "The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/situation_ex_1_afc4c51b.mp3"
+      },
+      {
+        "text": "They have been used to mark the hours of the day, to call the 27 to prayer, and to signal emergency situations such as fires and invasions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/situation_ex_2_9a844f77.mp3"
+      },
+      {
+        "text": "After suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/situation_ex_3_a4faf964.mp3"
+      },
+      {
+        "text": "A marine pilot goes on board at a crucial time and controls the vessel based on his or her knowledge of the port and the situation at hand.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/situation_ex_4_816c6ce7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This situation is so strange to us that we do not know what will __(29)__ of it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Faced with this new situation, people have __(30)__ to find out how to deal with it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When he was nine, the political situation there, Yusra sometimes had to country’s civil war claimed the life of his mother train in pools under roofs that had been blown open and left him homeless.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "If you had told me the situation earlier, (E) until he sees Mary immediately. (F) he’ll see John sitting by the fire.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "By the next day, city officials had reevaluated the situation.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Children born blind never see anybody smile, but they show the same kinds of smiles under the same situations as sighted people.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It was in response to this situation that The Carpenters’ Shop was opened in the town of Walsall, Staffordshire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In an uncertain situation. (C) Under control by the authority.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, advertisements for liquor, on TV and in print, show situations that are 29 to the young.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "情況；狀況",
+    "en_def": "A set of circumstances in which one finds oneself.",
+    "example": "The situation at work has become increasingly stressful."
+  },
+  "sentences_removed": 1
+}

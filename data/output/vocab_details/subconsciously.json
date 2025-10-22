@@ -1,0 +1,23 @@
+{
+  "lemma": "subconsciously",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/subconsciously_ex_0_55b8c9d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "潛意識地，無意識地",
+    "en_def": "In a way that is not fully aware or conscious; occurring without deliberate thought.",
+    "example": "She subconsciously reached for his hand during the scary movie."
+  },
+  "sentences_removed": 0
+}

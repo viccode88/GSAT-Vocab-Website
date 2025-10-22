@@ -1,0 +1,38 @@
+{
+  "lemma": "ban",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Daphne said that her dream for the future is to see ivory banned, all stored ivory destroyed and no one wearing an ivory ornament ever again.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ban_ex_0_19b7be7b.mp3"
+      },
+      {
+        "text": "The new vaccine was banned by the Food and Drug Administration due to its fatal side effects.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/ban_ex_1_e3d22789.mp3"
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/ban_ex_2_d0163eb7.mp3"
+      },
+      {
+        "text": "What is the author's main point in the passage above? (A) Large cars should be banned by the government.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ban_ex_3_1737345b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "禁止某人或某事物的行為或狀態。",
+    "en_def": "To prohibit or restrict someone or something from doing something.",
+    "example": "The school decided to ban cell phones during class."
+  },
+  "sentences_removed": 0
+}

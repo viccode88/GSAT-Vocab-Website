@@ -1,0 +1,19 @@
+{
+  "lemma": "abreast",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": [
+    {
+      "text": "That is why mothers who want to keep abreast of trends usually 18 the experts－their daughters.",
+      "source": "2010_99_02-99學測英文試卷定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "並排地，並肩地；跟上，保持同步",
+    "en_def": "Side by side; alongside; keeping up with or staying informed about something.",
+    "example": "The two runners kept abreast of each other throughout the race."
+  }
+}

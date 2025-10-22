@@ -1,0 +1,105 @@
+{
+  "lemma": "treat",
+  "count": 21,
+  "pos_dist": {
+    "VERB": 14,
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/treat_ex_0_6fed6d52.mp3"
+      },
+      {
+        "text": "However, this cannot be treated as a trivial finding in science.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/treat_ex_1_9802d378.mp3"
+      },
+      {
+        "text": "For example, Superman always arrives in the nick of time to prevent a disaster from happening, Peter Pan can fly at will to tease the bad guy Captain Hook, and Harry Potter has his magic power to take revenge on his uncle, aunt and cousin, who always ill-treat him. 44.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/treat_ex_2_bee79606.mp3"
+      },
+      {
+        "text": "Once the pests detect the chemical fog in the room, they’ll hide themselves in walls or other hideaways, where you’ll never be able to treat them effectively.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/treat_ex_3_606ad0fa.mp3"
+      },
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/treat_ex_4_c0a6266c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Some parents try to get rid of half of the candy after their children go to bed, but dentists say parents also need to separate the good kinds of treats from the bad.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "After all, they can’t be treating cancer on the inside of hospitals and contributing to it on the outside. 52.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is a better choice for Halloween treats? (A) Chocolate.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The Chinese and Indians 16 it for at least 4,000 years to treat everything from headache to depression.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of punishing Willig, the city treated him as a hero who attempted the impossible and met the challenge. 34.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "One way to get an appealing portrait of a cat or dog is to hold a biscuit or treat above the camera.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Laughter (40) is the best medicine, so why not give yourself a treat?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Lastly, treat relationship as an organism.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To discuss how cavities can be treated.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "the purchase of family-sized insecticide-treated mosquito nets costing $5 each.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Hard candies take a long time to consume and are also a bad choice for Halloween treats.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The animal’s longing look toward the food will be captured by the camera, but the treat won’t appear in the picture because it’s out of the camera’s range.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "對某人或某事物的對待或處理方式；款待或享受的事物。",
+    "en_def": "To behave toward someone or something in a particular way; to provide someone with something enjoyable.",
+    "example": "She decided to treat herself to a nice dinner after a long week."
+  },
+  "sentences_removed": 4
+}

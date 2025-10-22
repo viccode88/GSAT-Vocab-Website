@@ -1,0 +1,33 @@
+{
+  "lemma": "swing",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It swings from left to right to be attached to the cabinet door.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/swing_ex_0_8dbb826d.mp3"
+      },
+      {
+        "text": "The Kiddie Stool will swing out only when the cabinet door opens.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/swing_ex_1_62317479.mp3"
+      },
+      {
+        "text": "The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/swing_ex_2_cfff4461.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擺動；搖擺",
+    "en_def": "To move back and forth or from side to side.",
+    "example": "The children love to swing on the playground."
+  },
+  "sentences_removed": 0
+}

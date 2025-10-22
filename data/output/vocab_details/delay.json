@@ -1,0 +1,44 @@
+{
+  "lemma": "delay",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 4,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/delay_ex_0_defa366f.mp3"
+      },
+      {
+        "text": "The airport was closed because of the snowstorm, and our ______ for Paris had to be delayed until the following day.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/delay_ex_1_a868630d.mp3"
+      },
+      {
+        "text": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/delay_ex_2_71efca56.mp3"
+      },
+      {
+        "text": "His flight, _(21)_, was delayed for hours.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/delay_ex_3_f51aad7a.mp3"
+      },
+      {
+        "text": "According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/delay_ex_4_ad23bcba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "延遲，推遲或使某事物發生的時間變長。",
+    "en_def": "To make something happen at a later time than originally planned.",
+    "example": "The flight was delayed due to bad weather."
+  },
+  "sentences_removed": 0
+}

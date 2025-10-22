@@ -1,0 +1,23 @@
+{
+  "lemma": "burrs",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/burrs_ex_0_1f5c7dc9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "植物的刺果，通常附著在動物毛髮或衣物上，容易粘附。",
+    "en_def": "A prickly seed or dry fruit that clings to clothing or fur.",
+    "example": "The burrs stuck to my dog's fur after our walk in the park."
+  },
+  "sentences_removed": 0
+}

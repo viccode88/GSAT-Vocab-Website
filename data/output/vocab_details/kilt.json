@@ -1,0 +1,70 @@
+{
+  "lemma": "kilt",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 10,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One of the most distinctive features of the kilt is the pattern of squares, or sett, it exhibits.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kilt_ex_0_a289cc27.mp3"
+      },
+      {
+        "text": "Usually, the kilt covers the body from the waist down to just above the knees.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kilt_ex_1_957e5180.mp3"
+      },
+      {
+        "text": "On the front apron, there is often a kilt pin, topped with a small decorative family symbol.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kilt_ex_2_0946eba7.mp3"
+      },
+      {
+        "text": "A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kilt_ex_3_04227f50.mp3"
+      },
+      {
+        "text": "The kilt can also be worn with a sporran, which is the Gaelic word for pouch or purse.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kilt_ex_4_c1035013.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A small knife can be worn with the kilt too.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To persuade men to wear kilts.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following items is NOT typically worn with the kilt for decoration?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What’s the proper way of wearing the kilt? (A) It should be worn with underwear underneath it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The kilt can be worn with accessories.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "蘇格蘭傳統的裙子，通常由格子布製成，男性穿著，通常在膝蓋上方。",
+    "en_def": "A traditional Scottish garment, typically made of tartan fabric, worn by men and usually knee-length.",
+    "example": "He wore a kilt to the wedding to honor his Scottish heritage."
+  },
+  "sentences_removed": 0
+}

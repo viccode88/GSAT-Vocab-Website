@@ -1,0 +1,23 @@
+{
+  "lemma": "gama",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gama_ex_0_62919665.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伽馬，通常指伽馬射線或伽馬波，是一種高能電磁輻射。",
+    "en_def": "Gamma, often referring to gamma rays or gamma waves, is a form of high-energy electromagnetic radiation.",
+    "example": "Gamma rays are used in cancer treatment to target and destroy tumor cells."
+  },
+  "sentences_removed": 0
+}

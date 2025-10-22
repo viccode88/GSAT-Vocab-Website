@@ -1,0 +1,23 @@
+{
+  "lemma": "vow",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With such support, spiritual leader Ayatollah Ali Khamenei vowed, “We will rebuild Bam stronger than before.” 45.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/vow_ex_0_f31c1a55.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "誓言；發誓",
+    "en_def": "A solemn promise or commitment to do something.",
+    "example": "She made a vow to always support her friends."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "congo",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Due to the unstable Republic of the Congo.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/congo_ex_0_a36ced5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "剛果，位於非洲中部的國家，分為剛果共和國和剛果民主共和國。",
+    "en_def": "Congo, a country located in Central Africa, divided into the Republic of the Congo and the Democratic Republic of the Congo.",
+    "example": "The Congo River is one of the longest rivers in the world."
+  },
+  "sentences_removed": 0
+}

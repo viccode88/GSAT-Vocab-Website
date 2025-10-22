@@ -1,0 +1,23 @@
+{
+  "lemma": "renaissance",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Your dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/renaissance_ex_0_98f1cee9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "文藝復興：指14世紀至17世紀期間，歐洲在藝術、文學和科學等領域的重大文化復興運動。",
+    "en_def": "Renaissance: A cultural movement in Europe from the 14th to the 17th century marked by a revival of interest in art, literature, and science.",
+    "example": "The Renaissance brought about significant changes in art and philosophy."
+  },
+  "sentences_removed": 0
+}

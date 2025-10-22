@@ -1,0 +1,129 @@
+{
+  "lemma": "sell",
+  "count": 24,
+  "pos_dist": {
+    "VERB": 24
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The restaurant started selling small packages of the potato chips.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sell_ex_0_2f50cb80.mp3"
+      },
+      {
+        "text": "A man learns their secret and threatens to sell the water to the highest bidder.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/sell_ex_1_fb312c09.mp3"
+      },
+      {
+        "text": "Next, we sold the computers off to Stab, Grab, Grit, and Nasty, a firm of lawyers nearby.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sell_ex_2_070418bb.mp3"
+      },
+      {
+        "text": "Twenty-five million plastic hoops were sold in less than four months.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sell_ex_3_52f23dbe.mp3"
+      },
+      {
+        "text": "A 54-page manuscript written by Albert Einstein recently was sold for $398,500 at Christie’s in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sell_ex_4_8b363132.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A few years later, they were selling all over the United States.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Ohio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The instrument became so popular that thousands were built and sold.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, a 1798 dime is much rarer than a 1916 dime, but the 25 sells for significantly more, simply because many more people collect early 20th century dimes than dimes from the 1700s.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The knife was sold out to American soldiers.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In order for a new product to sell well, manufacturers often invest a large sum of money on its .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If he sold the stone, he thought, he 23 enough money for the rest of his life.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Selling fried chicken at the night market doesn’t seem to be a decent business, but it is actually quite ______.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "He hoped to sell 26 as material for tents or wagon covers.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, 23 a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Bottled water is mostly sold in plastic bottles and that’s why it is potentially health 26 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another fun 37 is shopping at the open market where local folks sell produce grown in their gardens.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "出售，轉讓商品或服務以換取金錢。",
+    "en_def": "To exchange goods or services for money.",
+    "example": "She decided to sell her old bicycle online."
+  },
+  "sentences_removed": 1
+}

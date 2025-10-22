@@ -1,0 +1,23 @@
+{
+  "lemma": "banquet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, in a wedding banquet it is common to see a pair of ice-sculpted swans that represent the union of the new couple. 49.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/banquet_ex_0_017e7e03.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "盛宴，通常是為了慶祝某個特別的場合而舉行的正式餐會。",
+    "en_def": "A formal meal or feast held in honor of a particular occasion.",
+    "example": "The company hosted a grand banquet to celebrate its anniversary."
+  },
+  "sentences_removed": 0
+}

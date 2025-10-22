@@ -1,0 +1,29 @@
+{
+  "lemma": "bin",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bin_ex_0_cb5d5ef5.mp3"
+      },
+      {
+        "text": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.” Which paragraph is most suitable to have it as the final sentence?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/bin_ex_1_30c753da.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "容器，用於儲存或處理物品，通常是大型的。",
+    "en_def": "A container used for storing or processing items, typically large.",
+    "example": "Please put the trash in the bin."
+  },
+  "sentences_removed": 0
+}

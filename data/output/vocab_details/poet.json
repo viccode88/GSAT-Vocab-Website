@@ -1,0 +1,33 @@
+{
+  "lemma": "poet",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is most likely true about the poet? (A)",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/poet_ex_0_7d7343ba.mp3"
+      },
+      {
+        "text": "Where was the poet? (A) In a garden.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/poet_ex_1_a4343565.mp3"
+      },
+      {
+        "text": "poems by famous Chinese poets.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/poet_ex_2_45d1ece3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "詩人，創作詩歌的人。",
+    "en_def": "A poet is a person who composes poetry.",
+    "example": "The poet recited her latest work at the open mic night."
+  },
+  "sentences_removed": 0
+}

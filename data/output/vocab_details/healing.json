@@ -1,0 +1,49 @@
+{
+  "lemma": "healing",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some religious groups organize special healing shrines for the sick.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/healing_ex_0_fc5575a3.mp3"
+      },
+      {
+        "text": "Studies have proved that watching funny movies can reduce pain and promote healing.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/healing_ex_1_be21a6f6.mp3"
+      },
+      {
+        "text": "Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/healing_ex_2_fc43e971.mp3"
+      },
+      {
+        "text": "With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/healing_ex_3_4ea2729d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The third kind is called “health spas,” or “faith healing.”",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "治療，恢復健康的過程或狀態。",
+    "en_def": "The process or state of becoming sound or healthy again.",
+    "example": "The healing of the wound took several weeks."
+  },
+  "sentences_removed": 0
+}

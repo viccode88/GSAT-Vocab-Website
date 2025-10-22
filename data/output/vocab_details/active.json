@@ -1,0 +1,59 @@
+{
+  "lemma": "active",
+  "count": 8,
+  "pos_dist": {
+    "ADJ": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The researchers found that the parts of the brain involved in learning, memory, emotion, and touch became more active as the volunteers expected higher levels of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/active_ex_0_b065423d.mp3"
+      },
+      {
+        "text": "They are very active in the daytime.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/active_ex_1_9fc6d8bb.mp3"
+      },
+      {
+        "text": "Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/active_ex_2_cb6d900f.mp3"
+      },
+      {
+        "text": "Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/active_ex_3_7194d5a5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This allowed Hirsch to see which parts of the brain were getting more blood and were more active.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "These were mainly the same areas that became active when participants actually felt pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We are completely 20 to helping dogs enjoy a full and active life.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, when active people consult him, he usually tells them to just keep exercising.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "活躍的；積極的",
+    "en_def": "Engaged in action; not passive.",
+    "example": "She leads an active lifestyle by jogging every morning."
+  },
+  "sentences_removed": 0
+}

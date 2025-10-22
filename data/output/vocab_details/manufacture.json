@@ -1,0 +1,29 @@
+{
+  "lemma": "manufacture",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the war, a giant paperclip statue was erected in Oslo to 40 Vaaler—even though his design was never actually manufactured.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/manufacture_ex_0_ee9986a0.mp3"
+      },
+      {
+        "text": "Its manufacture also leaves a smaller carbon footprint.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/manufacture_ex_1_a7fa55d1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "製造，尤其是大規模生產商品的過程。",
+    "en_def": "To make or produce goods, especially on a large scale using machinery.",
+    "example": "The company plans to manufacture new smartphones next year."
+  },
+  "sentences_removed": 0
+}

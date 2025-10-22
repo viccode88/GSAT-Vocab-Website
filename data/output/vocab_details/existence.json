@@ -1,0 +1,38 @@
+{
+  "lemma": "existence",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The apple is one of the world’s most cultivated fruit trees, 27 over 7,000 different kinds in existence.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/existence_ex_0_e4b1e319.mp3"
+      },
+      {
+        "text": "Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, 23 a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/existence_ex_1_2966432b.mp3"
+      },
+      {
+        "text": "We need to learn more about them and work together to stop the activities that may threaten their existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/existence_ex_2_bd1c4a79.mp3"
+      },
+      {
+        "text": "The circle-within-a-circle structure of an onion, for them, 34 the eternity of existence.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/existence_ex_3_49bc0164.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "存在；生存",
+    "en_def": "The state of being or having objective reality.",
+    "example": "The existence of life on other planets is still a topic of debate."
+  },
+  "sentences_removed": 1
+}

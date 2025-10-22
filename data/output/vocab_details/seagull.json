@@ -1,0 +1,23 @@
+{
+  "lemma": "seagull",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Standing on the seashore, we saw a of seagulls flying over the ocean before they glided down and settled on the water.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/seagull_ex_0_f67a6aa4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "海鷗，一種常見的海鳥，通常有白色的羽毛和灰色的翅膀，喜歡在海邊或湖邊活動。",
+    "en_def": "A seagull is a common coastal bird, typically having white feathers and gray wings, often found near the sea or lakes.",
+    "example": "The seagull swooped down to catch a fish from the water."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "district",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/district_ex_0_cbd24410.mp3"
+      },
+      {
+        "text": "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/district_ex_1_d14095bc.mp3"
+      },
+      {
+        "text": "The White House is located in a district not larger than ten miles square.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/district_ex_2_8ae75cc3.mp3"
+      },
+      {
+        "text": "The structure, to be erected in the redeveloped areas of the capital’s 13th district, will cost 250 million francs (US$42 million).",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/district_ex_3_819b4480.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "區域；行政區劃",
+    "en_def": "A defined area or region, often for administrative purposes.",
+    "example": "The school is located in a different district from where I live."
+  },
+  "sentences_removed": 0
+}

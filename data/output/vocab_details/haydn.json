@@ -1,0 +1,23 @@
+{
+  "lemma": "haydn",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Haydn, Schubert, and others wrote guitar music.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/haydn_ex_0_da42332e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "海頓（Franz Joseph Haydn）是奧地利作曲家，被譽為交響曲和弦樂四重奏的奠基人之一。",
+    "en_def": "Haydn is an Austrian composer known as one of the founders of the symphony and string quartet.",
+    "example": "Haydn's symphonies are celebrated for their innovative structures and melodies."
+  },
+  "sentences_removed": 0
+}

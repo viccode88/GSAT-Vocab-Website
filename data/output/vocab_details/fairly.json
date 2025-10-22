@@ -1,0 +1,33 @@
+{
+  "lemma": "fairly",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fairly_ex_0_4189a600.mp3"
+      },
+      {
+        "text": "It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fairly_ex_1_bbbf82a6.mp3"
+      },
+      {
+        "text": "From the 10th through the 13th centuries, forks were fairly common among the wealthy in Byzantium.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fairly_ex_2_26f3b1d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相當地；公平地",
+    "en_def": "To a moderate extent; reasonably.",
+    "example": "She did fairly well on her exam."
+  },
+  "sentences_removed": 0
+}

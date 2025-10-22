@@ -1,0 +1,23 @@
+{
+  "lemma": "reportedly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/reportedly_ex_0_77bec1d5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "據報導，根據消息來源或新聞的說法。",
+    "en_def": "According to what has been reported; as stated by sources or news.",
+    "example": "The event was reportedly attended by several celebrities."
+  },
+  "sentences_removed": 0
+}

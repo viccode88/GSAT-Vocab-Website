@@ -1,0 +1,28 @@
+{
+  "lemma": "emperor",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/emperor_ex_0_844f9b1b.mp3"
+      },
+      {
+        "text": "The Chinese emperor Shen Nung in 2737 B.C. introduced the drink.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/emperor_ex_1_53d0f0ee.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "皇帝，指統治一個帝國的最高統治者。",
+    "en_def": "A sovereign ruler of great power and rank, especially one ruling an empire.",
+    "example": "The emperor issued a decree to improve the lives of his subjects."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "dull",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And without stress, life would be dull.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dull_ex_0_15bab8e7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無趣的；遲鈍的；暗淡的",
+    "en_def": "Lacking interest or excitement; not sharp or bright.",
+    "example": "The movie was so dull that I fell asleep halfway through."
+  },
+  "sentences_removed": 0
+}

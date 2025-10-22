@@ -1,0 +1,43 @@
+{
+  "lemma": "expand",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/expand_ex_0_d9db5d02.mp3"
+      },
+      {
+        "text": "If it can be expanded, the prickly pear could be the key to Mexico’s energy future.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/expand_ex_1_ad4c2fa9.mp3"
+      },
+      {
+        "text": "New products continue to expand the market.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/expand_ex_2_f19a94a2.mp3"
+      },
+      {
+        "text": "They come 24 two sizes, and can expand in three places.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/expand_ex_3_2f4516aa.mp3"
+      },
+      {
+        "text": "Small birds such as baby quails are fair game to the expanding colony.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/expand_ex_4_ae0015b6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擴展或增加某物的大小、範圍或數量。",
+    "en_def": "To increase in size, range, or amount; to spread out.",
+    "example": "The company plans to expand its operations into new markets."
+  },
+  "sentences_removed": 0
+}

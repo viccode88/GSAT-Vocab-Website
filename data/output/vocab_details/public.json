@@ -1,0 +1,131 @@
+{
+  "lemma": "public",
+  "count": 25,
+  "pos_dist": {
+    "ADJ": 15,
+    "NOUN": 9,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "not only good service but also convenient public transport.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/public_ex_0_9ffee937.mp3"
+      },
+      {
+        "text": "With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/public_ex_1_5adbf5c5.mp3"
+      },
+      {
+        "text": "Luckily for his fans, the mansion has recently been restored and opened to the public.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/public_ex_2_4a27ed4f.mp3"
+      },
+      {
+        "text": "Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/public_ex_3_544e1b9e.mp3"
+      },
+      {
+        "text": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/public_ex_4_1752cc30.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Public dwellings lined its ground level; a marketplace and two mosques also fit comfortably inside.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about public television stations? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Sasaki opened his wind phone to the public in 2011, after the devastating tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Rather it is PBS, Public Broadcasting System, a non-profit public broadcasting TV service.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When a lot of dead mail has piled up, the dead mail offices hold public auctions.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Government policies were made and public organizations established to prevent the spread of alcoholism in the country.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "American presidents can express their individual style in how they decorate the house and in how they receive the public.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over 95 percent of all public television stations have tele-courses.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "公開的，公眾的，與社會或社區有關的。",
+    "en_def": "Relating to or concerning the people as a whole; accessible to all.",
+    "example": "The public library offers free access to books and resources."
+  },
+  "sentences_removed": 1
+}

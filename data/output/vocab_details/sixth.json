@@ -1,0 +1,29 @@
+{
+  "lemma": "sixth",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sixth_ex_0_73b77ec7.mp3"
+      },
+      {
+        "text": "These tropical glaciers serve as a major source of water supply to one-sixth of the world’s population.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sixth_ex_1_932add02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第六的，表示順序中的第六個。",
+    "en_def": "The ordinal number corresponding to the number six, indicating position in a sequence.",
+    "example": "She finished in sixth place in the race."
+  },
+  "sentences_removed": 0
+}

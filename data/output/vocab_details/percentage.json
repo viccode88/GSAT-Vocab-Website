@@ -1,0 +1,38 @@
+{
+  "lemma": "percentage",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "(4) Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/percentage_ex_0_87102a2b.mp3"
+      },
+      {
+        "text": "One of __(34)__ measures is to calculate the percentage of income that people spend on certain necessities.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/percentage_ex_1_c5ec229c.mp3"
+      },
+      {
+        "text": "The higher this percentage is, the __(35)__ is the standard of living of these people.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/percentage_ex_2_9d656dd5.mp3"
+      },
+      {
+        "text": "They also have an 25 flavor and a higher percentage of solids.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/percentage_ex_3_a4c0c30d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "百分比，表示某一數量相對於整體的比例，通常以百分之幾表示。",
+    "en_def": "A fraction or ratio expressed as a part of 100, indicating how much of something there is in relation to the whole.",
+    "example": "The percentage of students who passed the exam was 85%."
+  },
+  "sentences_removed": 1
+}

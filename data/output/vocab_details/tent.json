@@ -1,0 +1,28 @@
+{
+  "lemma": "tent",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He hoped to sell 26 as material for tents or wagon covers.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tent_ex_0_484a8a8a.mp3"
+      },
+      {
+        "text": "A goat came in our tent at night and ate most of our food!",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tent_ex_1_88652aca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "帳篷，一種可移動的遮蔽物，通常由布料或其他材料製成，用於露營或戶外活動。",
+    "en_def": "A tent is a portable shelter made of fabric or other materials, typically used for camping or outdoor activities.",
+    "example": "We set up our tent by the lake for a weekend camping trip."
+  },
+  "sentences_removed": 0
+}

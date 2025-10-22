@@ -1,0 +1,23 @@
+{
+  "lemma": "screen",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Digital cameras offer more than just the instant previewing of pictures on small color screens.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/screen_ex_0_81399ce6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "顯示器；篩選器",
+    "en_def": "A flat surface on which images or data are displayed; a device used to filter or separate items.",
+    "example": "I watched my favorite movie on the big screen."
+  },
+  "sentences_removed": 0
+}

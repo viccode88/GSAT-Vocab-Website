@@ -1,0 +1,23 @@
+{
+  "lemma": "selfish",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/selfish_ex_0_2f11f77c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自私的；只考慮自己利益的",
+    "en_def": "Concerned primarily with one's own interests, benefits, or welfare, often at the expense of others.",
+    "example": "He was too selfish to share his toys with his friends."
+  },
+  "sentences_removed": 0
+}

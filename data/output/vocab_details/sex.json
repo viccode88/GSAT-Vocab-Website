@@ -1,0 +1,33 @@
+{
+  "lemma": "sex",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/sex_ex_0_a8f1c3c3.mp3"
+      },
+      {
+        "text": "One research report shows men and women use much the same grammar and vocabulary in English, although each sex uses certain kinds of words and structures more frequently than the other.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sex_ex_1_3a620b74.mp3"
+      },
+      {
+        "text": "Sex differences should be ignored in education.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/sex_ex_2_cca72c35.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "性別或性行為的總稱。",
+    "en_def": "The biological distinction between male and female, or the act of sexual intercourse.",
+    "example": "They discussed the differences between sex and gender."
+  },
+  "sentences_removed": 0
+}

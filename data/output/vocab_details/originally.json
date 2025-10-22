@@ -1,0 +1,54 @@
+{
+  "lemma": "originally",
+  "count": 7,
+  "pos_dist": {
+    "ADV": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The liquid was originally a grape alcohol introduced from France in the late 14th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/originally_ex_0_f9473dce.mp3"
+      },
+      {
+        "text": "34 Originally dedicated to the deceased, the dances have now become a symbol of the summer festival themselves.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/originally_ex_1_d4b8a62f.mp3"
+      },
+      {
+        "text": "Many folk tales originally had some basis in fact and grew out of the lives of real people.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/originally_ex_2_31b523d6.mp3"
+      },
+      {
+        "text": "They originally came from Belize.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/originally_ex_3_1686443e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Apparently (C) Immediately (D) Originally 12.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The red ant was originally found in North America.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The city council originally proposed 18 the pigeon population by gathering the birds and shooting them.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "最初，原本，起初",
+    "en_def": "At first; in the beginning.",
+    "example": "Originally, the project was planned to be completed in six months."
+  },
+  "sentences_removed": 0
+}

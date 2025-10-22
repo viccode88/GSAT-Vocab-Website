@@ -1,0 +1,49 @@
+{
+  "lemma": "loss",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/loss_ex_0_b9c85021.mp3"
+      },
+      {
+        "text": "My father started to suffer from memory loss right after his marriage.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/loss_ex_1_80f1f475.mp3"
+      },
+      {
+        "text": "They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/loss_ex_2_e7a95169.mp3"
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/loss_ex_3_48a0f229.mp3"
+      },
+      {
+        "text": "Grieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/loss_ex_4_1c2edb9b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The mother’s fear of loss especially makes sense since the infant/toddler years of life are fragile ones.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "失去，損失；喪失的東西或人。",
+    "en_def": "The state of no longer having something or someone; the act of losing.",
+    "example": "The team felt the loss of their star player deeply."
+  },
+  "sentences_removed": 2
+}

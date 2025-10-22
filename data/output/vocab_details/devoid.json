@@ -1,0 +1,23 @@
+{
+  "lemma": "devoid",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is currently no reason to believe that plants experience pain, because they are devoid of central nervous systems and brains.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/devoid_ex_0_4f5da02e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "缺乏的，沒有的",
+    "en_def": "Completely lacking or free from something.",
+    "example": "The landscape was devoid of any vegetation."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "valuable",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When he found her, he said, “I know how valuable this stone is, but I’m giving it back to you, 24 that you can give me something even more precious.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/valuable_ex_0_f09d4563.mp3"
+      },
+      {
+        "text": "She still possessed her most valuable asset—her mind.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/valuable_ex_1_1bb75a6d.mp3"
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/valuable_ex_2_0467c519.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有價值的；重要的",
+    "en_def": "Having worth or importance.",
+    "example": "This antique vase is very valuable."
+  },
+  "sentences_removed": 0
+}

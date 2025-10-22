@@ -1,0 +1,54 @@
+{
+  "lemma": "cow",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dioxin travels by air currents and settles onto grass, which is then eaten by cows and chickens in their feed.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/cow_ex_0_1a72b377.mp3"
+      },
+      {
+        "text": "Some regions prepare horses made of cucumbers and cows made of eggplants, hoping that the spirits will come back to Earth quickly, on a horse, and leave slowly, riding the cow.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cow_ex_1_ae4aa0fc.mp3"
+      },
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cow_ex_2_8a194e44.mp3"
+      },
+      {
+        "text": "They couldn’t tell a cow’s head from its tail in the satellite pictures.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cow_ex_3_f5fd9e89.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Herds of goats and cows 26 enormous horns graze the lush green fields.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "If I wanted to eat a dead cow, I would go for real burgers.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種大型的草食性動物，通常被飼養以提供牛奶、肉類和皮革。",
+    "en_def": "A large herbivorous animal, commonly raised for milk, meat, and leather.",
+    "example": "The farmer has a herd of cows in the pasture."
+  },
+  "sentences_removed": 0
+}

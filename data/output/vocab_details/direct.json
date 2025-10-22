@@ -1,0 +1,55 @@
+{
+  "lemma": "direct",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 6,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/direct_ex_0_652ff331.mp3"
+      },
+      {
+        "text": "It comes from direct human contact with birds infected with the virus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/direct_ex_1_4a9a8261.mp3"
+      },
+      {
+        "text": "Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/direct_ex_2_1e63c479.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "An international company requires a A major US corporation in the health and nutritional Service Technician industry has announced the opening of its direct selling To service and maintain electronic medical equipment division in Taiwan.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He made his instruction and direct so that everyone could follow easily.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot is needed to direct large ships into a port, where there are often deep water channels surrounded by shallower seabeds.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "直接的；不經過中介的",
+    "en_def": "To guide or manage something in a straightforward manner without intermediaries.",
+    "example": "She gave him direct instructions on how to complete the task."
+  },
+  "sentences_removed": 0
+}

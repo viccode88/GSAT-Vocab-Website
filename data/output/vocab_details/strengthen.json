@@ -1,0 +1,28 @@
+{
+  "lemma": "strengthen",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The barking of the hound, which drives deer to panic, strengthens the effect of the warning noise, according to the RTRI.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/strengthen_ex_0_8003e6d9.mp3"
+      },
+      {
+        "text": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/strengthen_ex_1_11a510ad.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "增強，使更強大或更有效。",
+    "en_def": "To make something stronger or more powerful.",
+    "example": "We need to strengthen our team's communication skills."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "exciting",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Exciting or challenging events __(39)__ the birth of a child, completion of a major project at work, or moving to a new city generate __(40)__ much stress as does tragedy or disaster.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/exciting_ex_0_3e2327cf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人興奮的；刺激的",
+    "en_def": "Causing great enthusiasm and eagerness.",
+    "example": "The concert was so exciting that everyone was dancing."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "slip",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滑動或滑落的動作，通常指物體失去平衡或控制而移動。",
+    "en_def": "To slide unintentionally or to lose grip, often resulting in a fall or movement.",
+    "example": "Be careful not to slip on the wet floor."
+  },
+  "sentences_removed": 1
+}

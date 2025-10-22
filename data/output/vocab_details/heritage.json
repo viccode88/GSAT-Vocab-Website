@@ -1,0 +1,23 @@
+{
+  "lemma": "heritage",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They were named as a World Heritage Site in 1995.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/heritage_ex_0_b724e803.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "遺產；傳承的文化、價值觀或傳統。",
+    "en_def": "Property or traditions passed down from previous generations.",
+    "example": "The festival celebrates our cultural heritage."
+  },
+  "sentences_removed": 0
+}

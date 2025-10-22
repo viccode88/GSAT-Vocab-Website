@@ -1,0 +1,38 @@
+{
+  "lemma": "howard",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It can be inferred from the passage that Howard will probably gain his weight back again.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/howard_ex_0_f333214b.mp3"
+      },
+      {
+        "text": "The students lost an average of 2.34 kilograms during the past two months, and the student who lost the most, the nine-year-old Howard Chang, shed more than six kilograms.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/howard_ex_1_ce65e3de.mp3"
+      },
+      {
+        "text": "Why is Howard Chang specifically mentioned in the passage? 4.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/howard_ex_2_a2add8a6.mp3"
+      },
+      {
+        "text": "“Howard calculated the calories of everything he ate during his participation in the program,” his mother said.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/howard_ex_3_62507c26.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "霍華德，一個常見的男性名字，源自古英語，意指“守衛者”。",
+    "en_def": "Howard is a common male given name of Old English origin, meaning 'guardian'.",
+    "example": "Howard decided to take a different route to work today."
+  },
+  "sentences_removed": 0
+}

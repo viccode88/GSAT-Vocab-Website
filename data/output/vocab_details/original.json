@@ -1,0 +1,59 @@
+{
+  "lemma": "original",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/original_ex_0_6f350793.mp3"
+      },
+      {
+        "text": "Brazil’s Environmental Ministry estimates that in 1970, 99 percent of the original Amazon Rainforest remained, but in 2000, only 85 percent.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/original_ex_1_5fe9e530.mp3"
+      },
+      {
+        "text": "Winning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/original_ex_2_eaffa7d1.mp3"
+      },
+      {
+        "text": "The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/original_ex_3_6b0eb0e8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "(4) Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The discovery did not surprise me___(40)__ more than the original request that I should take them off.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1979, however, male names were also included because women protested against the original naming 34 for reasons of gender equality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why was red chosen as the original color of the bindi?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "最初的，未經改變的，或最早的形式。",
+    "en_def": "The first or earliest form; not derived from something else.",
+    "example": "The original painting was displayed in the museum."
+  },
+  "sentences_removed": 1
+}

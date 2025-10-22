@@ -1,0 +1,65 @@
+{
+  "lemma": "hair",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/hair_ex_0_e7a95169.mp3"
+      },
+      {
+        "text": "They all have blond hair and “strange eyes.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hair_ex_1_6f1e5645.mp3"
+      },
+      {
+        "text": "Across the United States each day, 300,000 pounds of hair and fur are cut.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hair_ex_2_75a2d17b.mp3"
+      },
+      {
+        "text": "The hair and fur are made into mats and brooms and sent to 24 waters to absorb the oil.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hair_ex_3_96939244.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Matter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable 22 : human hair, of which there is an unlimited supply.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Matter of Trust is helping organize the collection of this 25 hair and fur through thousands of salons, pet groomers, and ranchers.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur. 21.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to 23 the thousands of oil spills that happen each year.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sincerely yours, Eleanor Lightly Spokeswoman and Company Hair Stylist ABC Activity Insurance: Insure against overdoing it 41.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "頭髮，生長在人的頭部的纖維狀物質。",
+    "en_def": "The fine strands that grow from the skin on the head of a human or animal.",
+    "example": "She decided to cut her hair short for the summer."
+  },
+  "sentences_removed": 0
+}

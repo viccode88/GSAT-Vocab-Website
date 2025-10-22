@@ -1,0 +1,43 @@
+{
+  "lemma": "wet",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The donkey was so much weighed down by the wet sand that he could hardly get out of the stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wet_ex_0_e5ff23fe.mp3"
+      },
+      {
+        "text": "They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/wet_ex_1_eadf4d90.mp3"
+      },
+      {
+        "text": "When the donkey jumped into the stream and got the sacks wet, they became much ___(39)___.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wet_ex_2_441bdeef.mp3"
+      },
+      {
+        "text": "This extinct volcano is considered the wettest spot on earth, with almost 500 inches of rainfall each year.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wet_ex_3_d5aafbb5.mp3"
+      },
+      {
+        "text": "The performer’s fingers have to be slightly wet when playing it.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wet_ex_4_fe1cb88e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "潮濕的，含水分的",
+    "en_def": "Covered with, or saturated with liquid, especially water.",
+    "example": "The ground was wet after the rain."
+  },
+  "sentences_removed": 0
+}

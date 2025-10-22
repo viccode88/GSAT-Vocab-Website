@@ -1,0 +1,80 @@
+{
+  "lemma": "clear",
+  "count": 12,
+  "pos_dist": {
+    "ADJ": 10,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Perfectly clear ice blocks weighing 140 kg and measuring 100 cm × 50 cm",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/clear_ex_0_a1de07d5.mp3"
+      },
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/clear_ex_1_05664a62.mp3"
+      },
+      {
+        "text": "The term “lucid” means clear; lucid dreamers know that they are dreaming and 26 they are dreaming of.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clear_ex_2_e6c7de59.mp3"
+      },
+      {
+        "text": "A redefinition of the term “olive oil” is also proposed to make a clear distinction between virgin olive oil and pure olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/clear_ex_3_b12ef574.mp3"
+      },
+      {
+        "text": "He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/clear_ex_4_5298624e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Much larger clear blocks are produced in Europe and Canada or harvested from a frozen river in Sweden.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This eco-friendly leather has clear 24 for the environment, compared to real leather and synthetic leathers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Yet, lucid dreaming is 28 just having a clear dream.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To avoid this, scientists have devised several ways for clearing the sky.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The many awards that Professor Wang has won over the years are clear ______ that he is a distinguished scholar.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "清楚的；無障礙的；明確的",
+    "en_def": "Free of obstruction; easy to perceive, understand, or interpret.",
+    "example": "The instructions were clear and easy to follow."
+  },
+  "sentences_removed": 0
+}

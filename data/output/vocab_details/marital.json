@@ -1,0 +1,23 @@
+{
+  "lemma": "marital",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While it is generally taken as an indicator of their marital status, the practice is primarily related to the Hindu religion.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/marital_ex_0_d2675fa8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "婚姻的；與婚姻有關的",
+    "en_def": "Relating to marriage or the relationship between married partners.",
+    "example": "They attended marital counseling to improve their relationship."
+  },
+  "sentences_removed": 0
+}

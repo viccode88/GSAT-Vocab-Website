@@ -1,0 +1,23 @@
+{
+  "lemma": "educator",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the United States, parents and educators have come to regard the prom as an important lesson in social skills.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/educator_ex_0_274cd422.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "教育工作者，負責教授和指導學生的專業人士。",
+    "en_def": "A person who provides instruction or education; a teacher.",
+    "example": "The educator inspired her students to pursue their dreams."
+  },
+  "sentences_removed": 0
+}

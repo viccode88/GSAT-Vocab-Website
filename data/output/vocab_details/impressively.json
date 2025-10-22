@@ -1,0 +1,17 @@
+{
+  "lemma": "impressively",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人印象深刻地",
+    "en_def": "In a manner that evokes admiration or respect.",
+    "example": "She performed impressively at the talent show."
+  },
+  "sentences_removed": 1
+}

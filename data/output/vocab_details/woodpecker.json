@@ -1,0 +1,23 @@
+{
+  "lemma": "woodpecker",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "21 , a woodpecker, when seen near the home, is regarded as a good sign.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/woodpecker_ex_0_8d7588c5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "啄木鳥，一種以啄擊樹木尋找昆蟲為食的鳥類。",
+    "en_def": "A woodpecker is a bird that drills into wood to find insects to eat.",
+    "example": "The woodpecker tapped on the tree trunk in search of food."
+  },
+  "sentences_removed": 0
+}

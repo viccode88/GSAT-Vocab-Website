@@ -1,0 +1,38 @@
+{
+  "lemma": "bible",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Boys’ names such as John, Peter, and Thomas are chosen from the Bible.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bible_ex_0_c5a658ca.mp3"
+      },
+      {
+        "text": "Each cookie 37 a strip of paper inside with an inspirational Bible quotation on it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bible_ex_1_786bb5dd.mp3"
+      },
+      {
+        "text": "The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bible_ex_2_4f121471.mp3"
+      },
+      {
+        "text": "One of the first European books to be printed in movable type was Johannes Gutenberg's 42-line Bible.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bible_ex_3_3b6d9bf4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聖經：基督教的經典文獻，包含舊約和新約。",
+    "en_def": "The Bible: A collection of sacred texts in Christianity, consisting of the Old Testament and the New Testament.",
+    "example": "She reads a passage from the Bible every morning."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,51 @@
+{
+  "lemma": "cathedral",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 5,
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Located at the heart of Paris, this medieval cathedral is 21 for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/cathedral_ex_0_9219cc54.mp3"
+      },
+      {
+        "text": "Mounted in the two tall towers of the cathedral, Notre-Dame’s bells have been ringing for over 800 years.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/cathedral_ex_1_7abdb5c0.mp3"
+      },
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cathedral_ex_2_779daa9e.mp3"
+      },
+      {
+        "text": "Over centuries, the bells have become a 26 part of life in Paris, where they are known as “the cathedral’s voice.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/cathedral_ex_3_1e2fefa3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In fact, there is documented 22 to the ringing of bells even before the cathedral’s construction was completed, dating as far back as the 12th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "However, after the devastating fire that damaged the cathedral in 2019, the bells fell 29 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "大教堂，通常是基督教的主教座堂，具有重要的宗教和建築意義。",
+    "en_def": "A cathedral is a large and important church, typically the principal church of a diocese, where a bishop's throne is located.",
+    "example": "The cathedral was built in the 12th century and is known for its stunning stained glass windows."
+  },
+  "sentences_removed": 1
+}

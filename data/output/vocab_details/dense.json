@@ -1,0 +1,23 @@
+{
+  "lemma": "dense",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are the loudest land animal and their howls can be heard three miles away through dense forests.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dense_ex_0_8d4127f0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "密集的，稠密的，難以理解的",
+    "en_def": "Closely packed together; having a high concentration or complexity.",
+    "example": "The forest was so dense that sunlight barely reached the ground."
+  },
+  "sentences_removed": 0
+}

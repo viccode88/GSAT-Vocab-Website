@@ -1,0 +1,28 @@
+{
+  "lemma": "eve",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/eve_ex_0_494b22f2.mp3"
+      },
+      {
+        "text": "The Fourth of July means beer and New Year's Eve is an entire night dedicated to the proposition that everyone must get 25 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/eve_ex_1_ed74b990.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "前夕；特定事件或節日的前一天",
+    "en_def": "The evening or day before a particular event, especially a holiday.",
+    "example": "We always have a family dinner on Christmas Eve."
+  },
+  "sentences_removed": 0
+}

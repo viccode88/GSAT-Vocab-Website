@@ -1,0 +1,23 @@
+{
+  "lemma": "camouflage",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/camouflage_ex_0_7e5a97a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "偽裝；隱蔽的技術或方法，通常用於保護自己不被發現。",
+    "en_def": "The act of concealing or disguising something to blend in with the surroundings.",
+    "example": "The soldier wore camouflage to avoid being seen by the enemy."
+  },
+  "sentences_removed": 0
+}

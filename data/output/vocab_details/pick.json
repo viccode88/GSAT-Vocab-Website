@@ -1,0 +1,104 @@
+{
+  "lemma": "pick",
+  "count": 17,
+  "pos_dist": {
+    "VERB": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, some people just pick a name the sound of which they like, 40 of its meaning, its origins, or its popularity.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/pick_ex_0_81360a63.mp3"
+      },
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/pick_ex_1_05664a62.mp3"
+      },
+      {
+        "text": "He picked up the parrot and threw the bird into the chicken house.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pick_ex_2_4ed33497.mp3"
+      },
+      {
+        "text": "The sensors pick up signals from the person’s blood pressure, pulse, and perspiration.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/pick_ex_3_00456af7.mp3"
+      },
+      {
+        "text": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/pick_ex_4_38b33a5f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Sometimes, people pick foreign names for their children because those names are unusual and will thus make their children more 39 and distinctive.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE about tea preparation? (A) Black tea leaves need to be picked on a cloudy day.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "If he were here now, Amy knew he would pick one of the prettiest carnations and gave it to Mama.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "__(18)__ a small child, he would pick up a broom and pretend to be playing guitar for the entertainment of family guests.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "When you arrive for pick-up, your dog will be well-exercised and beautiful.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Then the disciple 37 his knife and picked out the little pig with a mark on its brow.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of them act as cleaners for other fish and pick dead tissue from their bodies.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They lick the rails to pick up iron filings caused by the action of wheels against tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, even these people may look at the calendar to pick a lucky day when they make their choice.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Picking up on teens' interest in computer games, Hilfiger sponsored a Nintendo competition and installed Nintendo terminals in his stores.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "選擇或挑選某物。",
+    "en_def": "To select or choose something from a group.",
+    "example": "Please pick a book from the shelf."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "sternly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sternly_ex_0_755d4981.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "嚴厲地，嚴肅地",
+    "en_def": "In a serious and strict manner.",
+    "example": "The teacher spoke sternly to the students about their behavior."
+  },
+  "sentences_removed": 0
+}

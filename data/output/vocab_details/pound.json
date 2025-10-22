@@ -1,0 +1,43 @@
+{
+  "lemma": "pound",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They would carry their supplies in backpacks each weighing up to fifty pounds; it usually took at least 40 trips to get everything to the top and over the pass.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/pound_ex_0_96918f06.mp3"
+      },
+      {
+        "text": "Already in Britain people say that computer crimes are costing companies between 500 million pounds and 2.5 billion pounds a year.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pound_ex_1_053179d0.mp3"
+      },
+      {
+        "text": "In Samoa a woman is not considered attractive unless she weighs more than 200 pounds.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/pound_ex_2_beda27be.mp3"
+      },
+      {
+        "text": "“We’d put half a pound of butter on a steak.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/pound_ex_3_f5f93c6c.mp3"
+      },
+      {
+        "text": "Across the United States each day, 300,000 pounds of hair and fur are cut.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pound_ex_4_75a2d17b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "磅：一種重量單位，等於約453.6克。",
+    "en_def": "Pound: A unit of weight equal to approximately 453.6 grams.",
+    "example": "The package weighs five pounds."
+  },
+  "sentences_removed": 1
+}

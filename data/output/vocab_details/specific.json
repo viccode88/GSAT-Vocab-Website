@@ -1,0 +1,54 @@
+{
+  "lemma": "specific",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, the change is not made at random; it happens for a specific reason.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/specific_ex_0_f4d24478.mp3"
+      },
+      {
+        "text": "The book reads like a prayer, expressing specific beliefs about dying.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/specific_ex_1_3000b7b5.mp3"
+      },
+      {
+        "text": "Dr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/specific_ex_2_cfd6bc96.mp3"
+      },
+      {
+        "text": "The totem pole can be grouped into specific categories, depending on its location and the occasion for which it was carved.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/specific_ex_3_1eb66f0c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Many scientists, however, say there is no evidence that Blue Monday causes any more sadness than other specific days of the year.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Totem poles are important expressions of specific Aboriginal cultures.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "特定的，明確的",
+    "en_def": "Clearly defined or identified.",
+    "example": "She gave a specific answer to the question."
+  },
+  "sentences_removed": 0
+}

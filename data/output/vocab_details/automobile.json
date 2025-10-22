@@ -1,0 +1,28 @@
+{
+  "lemma": "automobile",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Those unnecessary deaths are attributable in part to the woman's choice of a large automobile.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/automobile_ex_0_398d7935.mp3"
+      },
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/automobile_ex_1_30818b36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由引擎驅動的交通工具，通常有四個輪子，用於運輸人員或貨物。",
+    "en_def": "A vehicle powered by an engine, typically with four wheels, used for transporting people or goods.",
+    "example": "She drove her automobile to work every day."
+  },
+  "sentences_removed": 0
+}

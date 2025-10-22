@@ -1,0 +1,29 @@
+{
+  "lemma": "coconut",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Coconut water, which contains salt and carbohydrates, is also more functional than water at restoring and maintaining a normal fluid 26 after exercise.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/coconut_ex_0_7b0a1ec2.mp3"
+      },
+      {
+        "text": "They also contain a very large amount of processed coconut oil, which is even worse than lard.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/coconut_ex_1_c0a2f32b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "椰子，一種熱帶水果，外殼硬，內部含有液體和可食用的果肉。",
+    "en_def": "A coconut is a tropical fruit with a hard shell that contains liquid and edible flesh inside.",
+    "example": "She drank the fresh coconut water on the beach."
+  },
+  "sentences_removed": 0
+}

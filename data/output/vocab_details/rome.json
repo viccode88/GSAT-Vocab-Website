@@ -1,0 +1,28 @@
+{
+  "lemma": "rome",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They were organized for the first time in Rome in 1960.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/rome_ex_0_05eb641f.mp3"
+      },
+      {
+        "text": "But in Greece and Rome, men 13 use them.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rome_ex_1_a324a6c5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "羅馬，意大利的首都，以其悠久的歷史和文化著稱。",
+    "en_def": "Rome, the capital of Italy, known for its ancient history and cultural significance.",
+    "example": "I visited Rome last summer and saw the Colosseum."
+  },
+  "sentences_removed": 0
+}

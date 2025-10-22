@@ -1,0 +1,43 @@
+{
+  "lemma": "kareem",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kareem had to fetch the water from a source that was a kilometer away.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/kareem_ex_0_9bf04915.mp3"
+      },
+      {
+        "text": "Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/kareem_ex_1_05baacd8.mp3"
+      },
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/kareem_ex_2_0c46082e.mp3"
+      },
+      {
+        "text": "Kareem let his forest grow naturally, without using fertilizers or insecticides.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/kareem_ex_3_f6de3ea1.mp3"
+      },
+      {
+        "text": "Greatly 37 by the result, Kareem planted more trees and his man-made forest began to take shape.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/kareem_ex_4_acf12ab6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個常見的阿拉伯男性名字，意指慷慨或高貴。",
+    "en_def": "A common Arabic male name meaning generous or noble.",
+    "example": "Kareem is known for his kindness and generosity towards others."
+  },
+  "sentences_removed": 0
+}

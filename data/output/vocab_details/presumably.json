@@ -1,0 +1,23 @@
+{
+  "lemma": "presumably",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But during the dry season when there is no rain, snakes presumably have nothing to drink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/presumably_ex_0_5951d3d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "據推測，假定，推測上",
+    "en_def": "Used to convey that what is assumed is likely to be true based on available evidence.",
+    "example": "She is presumably at home since her car is in the driveway."
+  },
+  "sentences_removed": 0
+}

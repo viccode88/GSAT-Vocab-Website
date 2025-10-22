@@ -1,0 +1,23 @@
+{
+  "lemma": "gash",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Waimea Canyon, called the \"Grand Canyon of the Pacific\" by Mark Twain, cuts a deep gash through the rugged central mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/gash_ex_0_f22b279a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在表面上切或劃出一條長而淺的傷口或裂縫。",
+    "en_def": "To make a long, deep cut or wound in a surface.",
+    "example": "He accidentally made a gash in the wall while moving the furniture."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "dooley",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dooley keeps Peanuts company while the adults in the family attend to Grandfather.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/dooley_ex_0_93daab58.mp3"
+      },
+      {
+        "text": "With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/dooley_ex_1_4ea2729d.mp3"
+      },
+      {
+        "text": "Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/dooley_ex_2_f716c5cf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於運輸或搬運的工具，通常有兩個輪子和一個平坦的底部。",
+    "en_def": "A type of cart or vehicle used for transporting or carrying items, typically having two wheels and a flat base.",
+    "example": "He used a dooley to move the heavy boxes across the yard."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "swear",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/swear_ex_0_d602ba35.mp3"
+      },
+      {
+        "text": "The young engineer swore that he had never heard the proposal made and rejected.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/swear_ex_1_1693ee61.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發誓；咒罵",
+    "en_def": "To make a solemn promise or to use offensive language.",
+    "example": "He swore to tell the truth in court."
+  },
+  "sentences_removed": 0
+}

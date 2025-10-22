@@ -1,0 +1,44 @@
+{
+  "lemma": "weapon",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": [
+    {
+      "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+      "source": "2017_106_02-106學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "In this line of work, the person is paid to do daring actions that are deemed too 21 for the regular actor to perform, including jumping from heights, crashing cars, or fighting with weapons.",
+      "source": "2022_111_02-111學測英文試卷",
+      "audio_file": ""
+    },
+    {
+      "text": "To exemplify the types of weapons used by Maasai warriors.",
+      "source": "2022_111_02-111學測英文試卷",
+      "audio_file": ""
+    },
+    {
+      "text": "In Blixen’s words, “their weapons and finery are as much a part of their being as are a stag’s antlers” (a male deer’s horns).",
+      "source": "2022_111_02-111學測英文試卷",
+      "audio_file": ""
+    },
+    {
+      "text": "But it soon became a strong weapon in the life-or-death struggle against their oppressors.",
+      "source": "2017_106_02-106學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "It is the only one of the whole group that 24 the French Revolution, while the rest were melted down for weapons.",
+      "source": "2025_114_02-114學測英文試題",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "用於攻擊或防禦的工具或裝置。",
+    "en_def": "An instrument or device used for attack or defense.",
+    "example": "The soldier carried a weapon for protection during the mission."
+  }
+}

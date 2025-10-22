@@ -1,0 +1,44 @@
+{
+  "lemma": "reward",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some heroes have been rewarded for their bravery.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reward_ex_0_2de5a619.mp3"
+      },
+      {
+        "text": "The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/reward_ex_1_6feafc23.mp3"
+      },
+      {
+        "text": "One such reward is the Carnegie Medal.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reward_ex_2_0d1a3594.mp3"
+      },
+      {
+        "text": "Sometimes heroes are rewarded for their brave acts.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reward_ex_3_118f5fda.mp3"
+      },
+      {
+        "text": "As a reward, the government gave her a house.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/reward_ex_4_898b2e6f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "報酬；獎勵",
+    "en_def": "Something given in recognition of service, effort, or achievement.",
+    "example": "She received a reward for her hard work on the project."
+  },
+  "sentences_removed": 0
+}

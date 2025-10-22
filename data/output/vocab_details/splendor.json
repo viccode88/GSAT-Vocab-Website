@@ -1,0 +1,23 @@
+{
+  "lemma": "splendor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/splendor_ex_0_1b0ce33e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壯麗；光輝；輝煌",
+    "en_def": "Magnificent and splendid appearance or display.",
+    "example": "The splendor of the sunset took our breath away."
+  },
+  "sentences_removed": 0
+}

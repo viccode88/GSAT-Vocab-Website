@@ -1,0 +1,23 @@
+{
+  "lemma": "overtire",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is a ________ to one’s capacity; one should not make oneself overtired.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/overtire_ex_0_c9a84ecd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使過度疲勞或過度使用",
+    "en_def": "To tire someone or something excessively.",
+    "example": "He tends to overtire himself by working long hours without breaks."
+  },
+  "sentences_removed": 0
+}

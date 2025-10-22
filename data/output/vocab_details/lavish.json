@@ -1,0 +1,23 @@
+{
+  "lemma": "lavish",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Whether simple or lavish, proms have always been more or less traumatic events for adolescents who worry about self-image and fitting in with their peers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/lavish_ex_0_50712879.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奢華的；浪費的",
+    "en_def": "Sumptuously rich, elaborate, or luxurious.",
+    "example": "They hosted a lavish party to celebrate their anniversary."
+  },
+  "sentences_removed": 0
+}

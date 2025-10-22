@@ -1,0 +1,49 @@
+{
+  "lemma": "pigeon",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pigeon_ex_0_3470d2c3.mp3"
+      },
+      {
+        "text": "In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/pigeon_ex_1_cadee1be.mp3"
+      },
+      {
+        "text": "First, we replaced all our telephones with carrier pigeons.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pigeon_ex_2_6748d41e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The city council originally proposed 18 the pigeon population by gathering the birds and shooting them.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "鴿子，一種常見的鳥類，通常有圓圓的身體和短短的尾巴，常見於城市和鄉村。",
+    "en_def": "A pigeon is a common bird with a rounded body and short tail, often found in urban and rural areas.",
+    "example": "The pigeon landed on the windowsill, cooing softly."
+  },
+  "sentences_removed": 0
+}

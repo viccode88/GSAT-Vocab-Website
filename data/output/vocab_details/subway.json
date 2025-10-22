@@ -1,0 +1,23 @@
+{
+  "lemma": "subway",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/subway_ex_0_2bc0c079.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地鐵，城市中用於運輸乘客的地下鐵路系統。",
+    "en_def": "A subway is an underground railway system used for transporting passengers in urban areas.",
+    "example": "I take the subway to work every day."
+  },
+  "sentences_removed": 1
+}

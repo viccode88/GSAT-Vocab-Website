@@ -1,0 +1,23 @@
+{
+  "lemma": "upside",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They almost turned the whole house upside down.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/upside_ex_0_aa38d7cd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "上面，正面；有利的一面或優勢。",
+    "en_def": "The upper side or surface; a favorable aspect or advantage.",
+    "example": "There is an upside to working late; you can finish your projects without distractions."
+  },
+  "sentences_removed": 0
+}

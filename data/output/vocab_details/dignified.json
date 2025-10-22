@@ -1,0 +1,23 @@
+{
+  "lemma": "dignified",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dignified_ex_0_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有尊嚴的，莊重的",
+    "en_def": "Having or showing a composed or serious manner that is worthy of respect.",
+    "example": "She walked into the room with a dignified presence."
+  },
+  "sentences_removed": 0
+}

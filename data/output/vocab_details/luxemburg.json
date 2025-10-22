@@ -1,0 +1,17 @@
+{
+  "lemma": "luxemburg",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "盧森堡：位於西歐的一個小國，以其金融業和高生活水平而聞名。",
+    "en_def": "Luxembourg: A small landlocked country in Western Europe known for its financial sector and high standard of living.",
+    "example": "Luxembourg is one of the richest countries in the world."
+  },
+  "sentences_removed": 1
+}

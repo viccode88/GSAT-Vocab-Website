@@ -1,0 +1,38 @@
+{
+  "lemma": "left",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mary is a typical left-brained learner.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/left_ex_0_a14c72a6.mp3"
+      },
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/left_ex_1_ad2aff68.mp3"
+      },
+      {
+        "text": "It swings from left to right to be attached to the cabinet door.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/left_ex_2_8dbb826d.mp3"
+      },
+      {
+        "text": "The left hemisphere deals with rules, lists of information, and short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/left_ex_3_4b25d54b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "左邊的，或與右邊相對的方向或位置。",
+    "en_def": "The direction or position that is opposite to right; also refers to the side of the body that is to the west when facing north.",
+    "example": "She turned left at the intersection."
+  },
+  "sentences_removed": 0
+}

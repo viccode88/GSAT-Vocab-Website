@@ -1,0 +1,89 @@
+{
+  "lemma": "potato",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One might think that somewhere a genius thought up the first potato chips, but it didn’t happen that way.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/potato_ex_0_2509ee68.mp3"
+      },
+      {
+        "text": "In the 1920s a mechanical potato peeler was invented and soon there were potato chips in abundance.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/potato_ex_1_99c53da5.mp3"
+      },
+      {
+        "text": "These were thickly cut potatoes, fried until golden brown and crisp on the outside.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/potato_ex_2_e8eafc0a.mp3"
+      },
+      {
+        "text": "The Moon Lake Restaurant’s menu included French-fried potatoes, a popular food recipe brought back from France by Thomas Jefferson.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/potato_ex_3_3d0c0eac.mp3"
+      },
+      {
+        "text": "The restaurant started selling small packages of the potato chips.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/potato_ex_4_2f50cb80.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He was so happy with them that other guests started ordering the new potatoes.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, mass production of potato chips was made possible when ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, potato chips are worse than candy because they get stuck between teeth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "By this time the cook was angry and decided to do exactly what the dinner guest wanted: slice the potatoes as thin as possible.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the paper-thin browned potatoes arrived, the diner was pleased.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Potato chips have been popular in the U.S. _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "One evening a guest in the dining hall felt that his potatoes were too thick and sent them back to the kitchen.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The cook sliced some potatoes thinner than before and prepared them for the complaining guest.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種常見的根莖類蔬菜，通常呈圓形或橢圓形，外皮粗糙，內部柔軟，富含澱粉。",
+    "en_def": "A common starchy tuber that is usually round or oval in shape, with a rough skin and soft interior.",
+    "example": "I like to eat mashed potatoes with gravy."
+  },
+  "sentences_removed": 2
+}

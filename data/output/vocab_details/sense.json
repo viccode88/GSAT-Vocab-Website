@@ -1,0 +1,75 @@
+{
+  "lemma": "sense",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 11,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many people try to save a lot of money before _____, since having enough money would give them a sense of security for their future.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/sense_ex_0_3c941dbb.mp3"
+      },
+      {
+        "text": "They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sense_ex_1_ac4d2fd3.mp3"
+      },
+      {
+        "text": "If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise “makes a lot of sense.” (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sense_ex_2_bba92d97.mp3"
+      },
+      {
+        "text": "None of them wanted to—though for some years afterwards I was left in no doubt that I was morally obliged to them, in the sense that it always seemed to be my round when it came to the buying of drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sense_ex_3_18465505.mp3"
+      },
+      {
+        "text": "These and thousands of other features point to a blood relationship in the truest sense of the word.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sense_ex_4_3be8caeb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The mother’s fear of loss especially makes sense since the infant/toddler years of life are fragile ones.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "For instance, people who have a 23 sense of self-esteem usually act with confidence.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Synesthesia is a condition in which people’s senses intermix.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "This poem may be __________ in several different ways and each of them makes sense.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "感覺；意識；理解力",
+    "en_def": "A faculty by which the body perceives an external stimulus; a feeling or perception.",
+    "example": "She has a strong sense of responsibility."
+  },
+  "sentences_removed": 1
+}

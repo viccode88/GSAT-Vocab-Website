@@ -1,0 +1,23 @@
+{
+  "lemma": "chiefly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The author writes the above passage chiefly to .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chiefly_ex_0_1da85b3e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "主要地；首要地",
+    "en_def": "For the most part; primarily.",
+    "example": "The project was chiefly funded by private donations."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cornerstone",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Construction began when the first cornerstone was laid in October of 1792.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cornerstone_ex_0_e758f4d7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "基石；事物的基礎或重要部分",
+    "en_def": "A fundamental principle or element that supports or underlies something.",
+    "example": "Education is the cornerstone of a successful society."
+  },
+  "sentences_removed": 0
+}

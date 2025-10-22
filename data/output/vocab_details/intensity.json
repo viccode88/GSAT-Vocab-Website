@@ -1,0 +1,23 @@
+{
+  "lemma": "intensity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They then learned to associate the length of the silent pause with the intensity of the upcoming heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/intensity_ex_0_7af6fbcc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "強度；強烈程度",
+    "en_def": "The quality of being intense; the degree of strength or force.",
+    "example": "The intensity of the storm increased as night fell."
+  },
+  "sentences_removed": 0
+}

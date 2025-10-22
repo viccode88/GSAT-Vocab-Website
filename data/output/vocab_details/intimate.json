@@ -1,0 +1,28 @@
+{
+  "lemma": "intimate",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While intimacy is often limited to the sexual bond, we can be intimate with many people without sexuality.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intimate_ex_0_9b3b8913.mp3"
+      },
+      {
+        "text": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/intimate_ex_1_4014a219.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "親密的，私密的，密切的",
+    "en_def": "Closely acquainted; familiar, private, or personal.",
+    "example": "They shared an intimate conversation over dinner."
+  },
+  "sentences_removed": 1
+}

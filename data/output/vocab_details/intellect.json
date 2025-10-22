@@ -1,0 +1,28 @@
+{
+  "lemma": "intellect",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The procedure for evaluating a dog’s intellect on Dognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intellect_ex_0_46d179d5.mp3"
+      },
+      {
+        "text": "Dognition’s test measures a dog’s intellect in several aspects—from empathy to memory to reasoning skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intellect_ex_1_87b6343f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "智力；思維能力",
+    "en_def": "The ability to think, understand, and learn; mental capacity.",
+    "example": "Her intellect allowed her to solve complex problems quickly."
+  },
+  "sentences_removed": 0
+}

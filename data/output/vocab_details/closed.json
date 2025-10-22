@@ -1,0 +1,23 @@
+{
+  "lemma": "closed",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 21 , the brain waves of a sleeping person are similar to those of a waking person, and the eyes move about rapidly under the closed lids.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/closed_ex_0_5f30bba4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "關閉的，無法進入或使用的。",
+    "en_def": "Not open; shut; inaccessible.",
+    "example": "The store is closed on Sundays."
+  },
+  "sentences_removed": 0
+}

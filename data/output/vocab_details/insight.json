@@ -1,0 +1,38 @@
+{
+  "lemma": "insight",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/insight_ex_0_8bf368d0.mp3"
+      },
+      {
+        "text": "It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/insight_ex_1_17ca55f8.mp3"
+      },
+      {
+        "text": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/insight_ex_2_4014a219.mp3"
+      },
+      {
+        "text": "Studies on jackdaws and turtle ants may provide some insights into the issue.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/insight_ex_3_7d72011b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "洞察力；深刻的理解或見解",
+    "en_def": "The capacity to gain an accurate and deep understanding of someone or something.",
+    "example": "Her insight into human behavior helped her become a successful psychologist."
+  },
+  "sentences_removed": 0
+}

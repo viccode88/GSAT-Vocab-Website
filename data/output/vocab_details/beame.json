@@ -1,0 +1,28 @@
+{
+  "lemma": "beame",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Beame announced that the city would not punish \"The Human Fly.\"",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/beame_ex_0_6459dfcc.mp3"
+      },
+      {
+        "text": "At City Hall, Mayor Abraham Beame hosted a news conference that turned into a ceremony in George Willig's honor.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/beame_ex_1_8aad586f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "光束；光線",
+    "en_def": "A ray or shaft of light.",
+    "example": "The sun's beam illuminated the room."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,49 @@
+{
+  "lemma": "concentrate",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists found that sharp corners are natural weak spots where stress concentrates.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/concentrate_ex_0_677e9f02.mp3"
+      },
+      {
+        "text": "Just concentrate on your studies.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/concentrate_ex_1_d261f4dd.mp3"
+      },
+      {
+        "text": "Right-brained learners look for a general picture and concentrate on relating new information to what they already know.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/concentrate_ex_2_7fd79a47.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "30 , baseball fans are more content to concentrate on the game’s finer details and spend the breaks between innings filling out their own private scorecards.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Left-brained learners usually concentrate on memorizing les and lists.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The rainfall concentrates in some spots.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "集中注意力或力量於某一事物上。",
+    "en_def": "To focus one's attention or mental effort on a particular task or subject.",
+    "example": "It's hard to concentrate when there are so many distractions around."
+  },
+  "sentences_removed": 1
+}

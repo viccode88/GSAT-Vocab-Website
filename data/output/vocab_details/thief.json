@@ -1,0 +1,28 @@
+{
+  "lemma": "thief",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The thief went into the apartment building and stole some jewelry.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/thief_ex_0_bfe09d7d.mp3"
+      },
+      {
+        "text": "They’re thieves and murderers, all of them.”",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/thief_ex_1_011a6121.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小偷；竊賊，指偷竊他人財物的人。",
+    "en_def": "A person who steals, especially secretly or without using force.",
+    "example": "The thief was caught trying to steal a bicycle."
+  },
+  "sentences_removed": 0
+}

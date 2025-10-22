@@ -1,0 +1,23 @@
+{
+  "lemma": "nasty",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Next, we sold the computers off to Stab, Grab, Grit, and Nasty, a firm of lawyers nearby.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/nasty_ex_0_070418bb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人厭惡的；不愉快的",
+    "en_def": "Very unpleasant or offensive.",
+    "example": "The food had a nasty smell that made everyone feel sick."
+  },
+  "sentences_removed": 0
+}

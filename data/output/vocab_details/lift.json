@@ -1,0 +1,23 @@
+{
+  "lemma": "lift",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We all fantasize about being able to fly and lift buildings off the ground.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/lift_ex_0_2d0552a9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提升；舉起",
+    "en_def": "To raise or elevate something to a higher position.",
+    "example": "She used a pulley to lift the heavy box."
+  },
+  "sentences_removed": 1
+}

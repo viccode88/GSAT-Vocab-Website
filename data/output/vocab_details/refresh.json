@@ -1,0 +1,23 @@
+{
+  "lemma": "refresh",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She believed that the _____ of flowers refreshed her mind.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/refresh_ex_0_2a961df8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使恢復活力或新鮮度；更新或重新整理。",
+    "en_def": "To make something fresh or new again; to update or renew.",
+    "example": "I need to refresh my memory before the exam."
+  },
+  "sentences_removed": 0
+}

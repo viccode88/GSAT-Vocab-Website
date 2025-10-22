@@ -1,0 +1,23 @@
+{
+  "lemma": "remedy",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The remedy is as simple as standing up and taking activity breaks.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/remedy_ex_0_369c5b90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "治療方法；補救措施",
+    "en_def": "A means of counteracting or eliminating something undesirable; a solution or treatment.",
+    "example": "The doctor prescribed a remedy for her persistent cough."
+  },
+  "sentences_removed": 0
+}

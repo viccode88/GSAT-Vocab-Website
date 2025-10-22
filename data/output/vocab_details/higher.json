@@ -1,0 +1,28 @@
+{
+  "lemma": "higher",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/higher_ex_0_0456b133.mp3"
+      },
+      {
+        "text": "The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/higher_ex_1_6b0eb0e8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "更高的，較高的，超過其他事物的。",
+    "en_def": "Of greater height or elevation than something else.",
+    "example": "The mountain is higher than the valley."
+  },
+  "sentences_removed": 0
+}

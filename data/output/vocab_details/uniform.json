@@ -1,0 +1,23 @@
+{
+  "lemma": "uniform",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The laborers mostly wore dark and dirty uniforms.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/uniform_ex_0_9a7b3fbc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "統一的服裝或服飾，通常用於學校、軍隊或工作場所。",
+    "en_def": "A distinctive outfit worn by members of an organization or a group, often for identification or uniformity.",
+    "example": "The students wore their school uniform proudly during the parade."
+  },
+  "sentences_removed": 1
+}

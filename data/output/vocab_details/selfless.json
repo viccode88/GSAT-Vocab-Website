@@ -1,0 +1,23 @@
+{
+  "lemma": "selfless",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Heroes are selfless people who perform extraordinary acts.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/selfless_ex_0_01e8df94.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無私的，指不考慮自己利益而關心他人或社會的行為或態度。",
+    "en_def": "Concerned more with the needs and wishes of others than with one's own; unselfish.",
+    "example": "Her selfless acts of kindness inspired everyone around her."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "unclear",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不明確的；模糊的",
+    "en_def": "Not clear; difficult to understand or perceive.",
+    "example": "The instructions were unclear, leading to confusion among the team."
+  },
+  "sentences_removed": 1
+}

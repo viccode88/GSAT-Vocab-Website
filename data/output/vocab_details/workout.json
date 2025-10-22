@@ -1,0 +1,23 @@
+{
+  "lemma": "workout",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/workout_ex_0_9343c1c4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鍛煉身體的活動或運動，通常為了增強體力或改善健康。",
+    "en_def": "A session of physical exercise or training, typically aimed at improving fitness or health.",
+    "example": "I go to the gym every morning for my workout."
+  },
+  "sentences_removed": 0
+}

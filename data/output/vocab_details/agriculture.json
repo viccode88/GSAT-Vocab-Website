@@ -1,0 +1,28 @@
+{
+  "lemma": "agriculture",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To predict the future agriculture policy of Mexico.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/agriculture_ex_0_68c1fdd4.mp3"
+      },
+      {
+        "text": "People in that remote village feed themselves by hunting and engaging in _____ forms of agriculture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/agriculture_ex_1_c426c970.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "農業：涉及土壤耕作、作物種植和動物飼養的科學和實踐。",
+    "en_def": "Agriculture: The science and practice of farming, including the cultivation of soil for growing crops and the rearing of animals for food.",
+    "example": "Agriculture plays a crucial role in the economy of many countries."
+  },
+  "sentences_removed": 0
+}

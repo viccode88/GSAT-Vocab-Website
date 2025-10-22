@@ -1,0 +1,23 @@
+{
+  "lemma": "arabians",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/arabians_ex_0_a5665c69.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿拉伯人，指來自阿拉伯半島及其周邊地區的人。",
+    "en_def": "Arabians, referring to people from the Arabian Peninsula and surrounding regions.",
+    "example": "The Arabians have a rich cultural heritage that dates back thousands of years."
+  },
+  "sentences_removed": 0
+}

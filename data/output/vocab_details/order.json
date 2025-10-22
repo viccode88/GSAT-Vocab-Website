@@ -1,0 +1,175 @@
+{
+  "lemma": "order",
+  "count": 33,
+  "pos_dist": {
+    "NOUN": 27,
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To live an efficient life, we have to arrange the things to do in order of _____ and start with the most important ones.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/order_ex_0_b8415518.mp3"
+      },
+      {
+        "text": "It seemed to me that the management had gone beyond their legal right in making this order.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/order_ex_1_089db5e3.mp3"
+      },
+      {
+        "text": "Swappers are supposed to make sure their home is in order before they depart, but one person’s idea of “clean” may be more forgiving than another’s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/order_ex_2_8d79461d.mp3"
+      },
+      {
+        "text": "In what order did the following protective hats appear? a. fiberglass hats b. hats with see-through shields c. hats with canvas and leather d. hats with tar over them (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/order_ex_3_3cb115a5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He was so happy with them that other guests started ordering the new potatoes.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The staff in a dead mail office may open a package in order to find .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In order of time. (C) By cause and effect.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the order of importance. (C) In the sequence of time.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following describes the order of changes in the features of a blackspot angelfish during gender change? (A) Size  behavior  color  stripes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the 140 names are all used in order, they will be 38 .",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Or did she throw away goods that she didn’t need in order to travel lighter?",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When Jeffery doesn’t feel like cooking, he often orders pizza online and has it ______ to his house.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In order for a new product to sell well, manufacturers often invest a large sum of money on its .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to write a report on stars, we decided to ______",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The soldier was put on trial for to obey his commanding officer’s order.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to stay healthy and fit, John exercises _____.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1905 he developed a test in which he 27 children do tasks such as follow commands, copy patterns, name objects, and put things in order or arrange them properly.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "He had to make a phone call to order some drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Based on the passage, in order to break into computer codes, one needs (A) an elaborate and expensive multi-media computer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The amount, the police department reported, would pay the costs of rushing special equipment and eighty police officers in order to save him.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to draw her family tree, Mary tried to trace her back to their arrival in North America.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "命令；訂單；順序",
+    "en_def": "A request to supply something or a sequence of items arranged in a specific way.",
+    "example": "I would like to place an order for a pizza."
+  },
+  "sentences_removed": 2
+}

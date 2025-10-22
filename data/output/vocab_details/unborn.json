@@ -1,0 +1,23 @@
+{
+  "lemma": "unborn",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This poses special problems for childbearing women, who pass dioxin to an unborn baby or to a breastfeeding baby.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/unborn_ex_0_7af37ac0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "尚未出生的，指胎兒或未來的生命。",
+    "en_def": "Not yet born; referring to a fetus or future life.",
+    "example": "The unborn child is developing in the mother's womb."
+  },
+  "sentences_removed": 0
+}

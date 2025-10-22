@@ -1,0 +1,80 @@
+{
+  "lemma": "function",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 11,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To introduce the functions of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/function_ex_0_04c13ef4.mp3"
+      },
+      {
+        "text": "The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/function_ex_1_6f350793.mp3"
+      },
+      {
+        "text": "This new computer is obviously _____ to the old one because it has many new functions.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/function_ex_2_5b963ad6.mp3"
+      },
+      {
+        "text": "Then, what is the function of the content?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/function_ex_3_794ff9a6.mp3"
+      },
+      {
+        "text": "Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/function_ex_4_2fcca14f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Green tea is also helpful 18 infection and damaged immune function.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is a function of the tree bark as mentioned in the passage? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This common 31 is a wonder of simplicity and function.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "John’s clock is not functioning _____.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The functions of different traffic signals.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following aspects about hard hats is NOT discussed in the passage? (A) Their functions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a function of the prickly pear?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "函數：一組特定的操作或計算，通常用於數學或計算機科學中。",
+    "en_def": "A function is a specific set of operations or calculations, often used in mathematics or computer science.",
+    "example": "In programming, a function can be used to perform a specific task repeatedly."
+  },
+  "sentences_removed": 1
+}

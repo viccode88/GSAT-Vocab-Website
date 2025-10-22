@@ -1,0 +1,43 @@
+{
+  "lemma": "officially",
+  "count": 6,
+  "pos_dist": {
+    "ADV": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "President Theodore Roosevelt officially gave the White House its current name in 1901. 41.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/officially_ex_0_cae43883.mp3"
+      },
+      {
+        "text": "It was officially recognized in Brazil through the effort of Mestre Bimba.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/officially_ex_1_ae9bb4a3.mp3"
+      },
+      {
+        "text": "In March 1872, lawmakers officially made Yellowstone a national park, the world’s first.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/officially_ex_2_465b0233.mp3"
+      },
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/officially_ex_3_1b0ce33e.mp3"
+      },
+      {
+        "text": "To ______ the new product, the company offered some free samples before they officially launched it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/officially_ex_4_b740a96c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "正式地；官方地",
+    "en_def": "In a formal or authorized manner.",
+    "example": "The event was officially announced by the mayor."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "rainwater",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists already knew earlier that wind and splashes of rainwater can move bacteria and other germs from leaf to leaf.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rainwater_ex_0_e25eff8b.mp3"
+      },
+      {
+        "text": "The pollutants run with rainwater into rivers and streams, which 36 the poisons into the ocean.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/rainwater_ex_1_86799921.mp3"
+      },
+      {
+        "text": "They can drink seawater when it mixes with rainwater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/rainwater_ex_2_83c00426.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雨水，指降落到地面的水，通常來自降雨。",
+    "en_def": "Water that falls to the ground as precipitation, typically from rain.",
+    "example": "The garden benefits from collecting rainwater for irrigation."
+  },
+  "sentences_removed": 0
+}

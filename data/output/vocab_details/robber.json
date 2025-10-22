@@ -1,0 +1,23 @@
+{
+  "lemma": "robber",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Future bank robbers will not need explosives to blow open bank safes—all they will need is someone who can break computer codes.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/robber_ex_0_c9d5669a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "搶劫者，指以暴力或威脅手段非法奪取他人財物的人。",
+    "en_def": "A person who steals from others using force or threats.",
+    "example": "The robber escaped with a bag full of money."
+  },
+  "sentences_removed": 0
+}

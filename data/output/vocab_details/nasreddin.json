@@ -1,0 +1,54 @@
+{
+  "lemma": "nasreddin",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ali gladly agreed and waited to see if Nasreddin would again give him back two pots.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nasreddin_ex_0_a4b3776c.mp3"
+      },
+      {
+        "text": "“I’m sorry, your pot has died,” said Nasreddin. “Died!” said Ali.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nasreddin_ex_1_2d9af02f.mp3"
+      },
+      {
+        "text": "Why did Ali take Nasreddin’s words that his pot had a baby?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nasreddin_ex_2_a4206320.mp3"
+      },
+      {
+        "text": "One week later Nasreddin asked Ali to lend him the pot again.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nasreddin_ex_3_7db71d8a.mp3"
+      },
+      {
+        "text": "He believed in whatever Nasreddin said.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nasreddin_ex_4_efac0482.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "“Yes, it is,” said Nasreddin.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Nasreddin gave Ali an extra small pot in the beginning because .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "納斯雷丁，一位著名的中東民間故事角色，以其智慧和幽默感聞名。",
+    "en_def": "Nasreddin, a famous character in Middle Eastern folklore known for his wit and humor.",
+    "example": "Nasreddin's stories often teach valuable lessons through his clever antics."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "crochet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Named “Velcro,” from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/crochet_ex_0_5002e6a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用鉤針編織的技術或工藝，通常用於製作衣物、裝飾品等。",
+    "en_def": "A method of creating fabric by interlocking loops of yarn with a hooked needle.",
+    "example": "She learned to crochet a blanket for her new baby."
+  },
+  "sentences_removed": 0
+}

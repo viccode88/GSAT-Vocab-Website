@@ -1,0 +1,23 @@
+{
+  "lemma": "demonstrate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This can be clearly demonstrated by comparing the genes of chimpanzees and those of humans: the difference between them is just about 2 percent. .",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/demonstrate_ex_0_68fab1e0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "展示；證明；表明",
+    "en_def": "To show or prove something clearly through actions or examples.",
+    "example": "She will demonstrate how to use the new software during the meeting."
+  },
+  "sentences_removed": 0
+}

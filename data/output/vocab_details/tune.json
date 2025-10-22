@@ -1,0 +1,39 @@
+{
+  "lemma": "tune",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kids are tuned into their parents’ eating preferences and are far more likely to try foods if they see their mother or father eating them.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tune_ex_0_dd698c08.mp3"
+      },
+      {
+        "text": "Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tune_ex_1_a10ec47f.mp3"
+      },
+      {
+        "text": "It is a tune memorized in a personal way.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tune_ex_2_ddc295e8.mp3"
+      },
+      {
+        "text": "Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tune_ex_3_89fa5b4f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "旋律；調子",
+    "en_def": "A melody or a musical composition; to adjust or modify something for better performance.",
+    "example": "She hummed a cheerful tune while walking in the park."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "production",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 19
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/production_ex_0_949e617f.mp3"
+      },
+      {
+        "text": "Laughter, too, has a beneficial effect on our immune system, (38) the production of white blood cells and increasing our resistance to infection.(39) makes a difference to our appearance, too, when we relax our facial muscles!",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/production_ex_1_123bf9b4.mp3"
+      },
+      {
+        "text": "An estimated 2.5 million tons of carbon dioxide were generated in 2006 by the production of plastic for bottled water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/production_ex_2_b09a295e.mp3"
+      },
+      {
+        "text": "Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/production_ex_3_ed2286ac.mp3"
+      },
+      {
+        "text": "This means that no increased competition arises for the water or land presently used for food production.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/production_ex_4_46b28d35.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The production of driverless cars is still far away.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about vodka production? (A) Vodka production in Russia started in the 15th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The musical has been performed in more than nine languages, with more productions than any 23 musical.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The language center in the brain that is believed to control speech production is called (A) MRI.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, mass production of potato chips was made possible when ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The research on the production of solar energy.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "生產；製造過程或結果。",
+    "en_def": "The process of creating, manufacturing, or producing goods or services.",
+    "example": "The production of the new movie will begin next month."
+  },
+  "sentences_removed": 2
+}

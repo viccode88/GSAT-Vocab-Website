@@ -1,0 +1,209 @@
+{
+  "lemma": "reason",
+  "count": 38,
+  "pos_dist": {
+    "NOUN": 38
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One reason the earthquake caused such damage was that Bam's buildings were made mostly from baked mud.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/reason_ex_0_e4b67354.mp3"
+      },
+      {
+        "text": "He had no reason to doubt it.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reason_ex_1_f064be86.mp3"
+      },
+      {
+        "text": "The architect did it for security reasons (C)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reason_ex_2_4dac9360.mp3"
+      },
+      {
+        "text": "In 1979, however, male names were also included because women protested against the original naming 34 for reasons of gender equality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/reason_ex_3_695248b5.mp3"
+      },
+      {
+        "text": "One reason is that it’s easier for a company to attract new employees if it has a casual dress code.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/reason_ex_4_e70a43e1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Global warming is another reason.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the change is not made at random; it happens for a specific reason.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For these reasons, storage onions are the best choice for spicy dishes that require longer cooking times or more flavor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Dom, the main reason for the accident was that __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "McCarroll has good reasons for rejecting fur.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted to find a way to measure the ability to think and reason, apart from education in any particular field.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In the future when the population grows, there will be no need for the recording because the howler monkeys will have more reason to check in with the neighbors to define their own territories.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to psychologist Dean Burnett, people feel down in January 29 post-holiday discontent, and the Blue Monday claim makes it seem like there are scientific reasons for this.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For that reason (C) On the contrary (D)",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "For safety reasons, it shouldn’t be overloaded.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People enter the world of fantasy for the following reasons EXCEPT that __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Zeke Emanuel, which of the following is a reason for the brothers’ success? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He saw no reason why this could not be adapted for use on the busy London intersections.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The problem of illegal drug use is very complex and cannot be traced to merely one _____ reason.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the real reason many collectors want autographs?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is a reason why Dallas was hit most seriously in the U.S. in 2012? (A)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The main reason is that these stories offer us chances to get away from this real, frustrating world and allow us to find some magical solutions to our problems.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Winning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They may also pretend to be 14 customers, arguing with a salesperson without a good reason.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The main reason for holding the summer school was .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For this reason, milk can actually be more 24 than drinking water.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "For the same reason, raisins and crackers are not the best choice.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The reason was 38 : Dad would not remember any of it, we thought.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For this last case, Jack had to go in person to Thatcher's office ‘for security reasons’!",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What reason do the major museums provide for not handing back the ancient objects?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In such hard times, there seems to be no reason to smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a reason for writing the letter?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "There is currently no reason to believe that plants experience pain, because they are devoid of central nervous systems and brains.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Another reason is that people seem happier and more productive when they are wearing comfortable clothes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "理由；原因；解釋",
+    "en_def": "A cause, explanation, or justification for an action or event.",
+    "example": "She had a good reason for being late to the meeting."
+  },
+  "sentences_removed": 0
+}

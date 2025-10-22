@@ -1,0 +1,115 @@
+{
+  "lemma": "god",
+  "count": 20,
+  "pos_dist": {
+    "PROPN": 12,
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They also talk to the priests and pray to the gods.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/god_ex_0_ba72ca5d.mp3"
+      },
+      {
+        "text": "She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/god_ex_1_c2d5cdc7.mp3"
+      },
+      {
+        "text": "Brahma called a council of the gods to help him decide on a place to hide the divinity.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/god_ex_2_14b024ac.mp3"
+      },
+      {
+        "text": "Korea and Japan 37 animal names and China likes names of gods such as Longwang (dragon king) and Fengshen (god of the wind).",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/god_ex_3_bbef5b1d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As such, the dot signifies piety and serves as a constant reminder to keep God in the front of a believer’s thoughts.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "“Why should a person need a fork when God had given him hands?” they asked.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 22 it could never be found.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They 37 as a funeral offering shown upon the altars of the gods.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The gods suggested that they hide it 23 in the earth or take it to the top of the highest mountain.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, __(34)__ the fairies and dwarfs in many classical tales, were in fact “space people” living here.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "“I don’t believe God is after me,” he theorized.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "So, the gods gave up.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "New Zealanders have given it the nickname , which is a native Maori word meaning “god of bad looks.”",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The red dot represented the blood of God.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "神，通常指一個超自然的存在，擁有創造和控制宇宙的能力。",
+    "en_def": "A deity or supreme being, often regarded as the creator and ruler of the universe.",
+    "example": "Many people believe in a god who watches over them."
+  },
+  "sentences_removed": 0
+}

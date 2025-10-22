@@ -1,0 +1,17 @@
+{
+  "lemma": "hughes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "休斯（Hughes）是一個常見的英語姓氏，可能指代多位著名人物或地名。",
+    "en_def": "Hughes is a common English surname that may refer to various notable individuals or places.",
+    "example": "Langston Hughes was a prominent figure in the Harlem Renaissance."
+  },
+  "sentences_removed": 1
+}

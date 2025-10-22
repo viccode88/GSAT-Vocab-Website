@@ -1,0 +1,28 @@
+{
+  "lemma": "classical",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The students in Professor Smith’s classical Chinese class are required to _____",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/classical_ex_0_f09178f2.mp3"
+      },
+      {
+        "text": "what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, __(34)__ the fairies and dwarfs in many classical tales, were in fact “space people” living here.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/classical_ex_1_1b0f1b75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "古典的，傳統的，特別是指古代的藝術、文學或音樂。",
+    "en_def": "Relating to the ancient Greek or Roman world, or to the literature, art, and music of that period; also refers to traditional styles.",
+    "example": "She enjoys listening to classical music while studying."
+  },
+  "sentences_removed": 1
+}

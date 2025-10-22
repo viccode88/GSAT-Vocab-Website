@@ -1,0 +1,49 @@
+{
+  "lemma": "theory",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/theory_ex_0_1cb4adca.mp3"
+      },
+      {
+        "text": "The team is beginning to test the GABA theory on mice.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/theory_ex_1_864126e3.mp3"
+      },
+      {
+        "text": "The women’s softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/theory_ex_2_f75f477b.mp3"
+      },
+      {
+        "text": "It is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/theory_ex_3_469f2d3b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The theory behind the questionnaire used in the Dognition test.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The problems of Darwin’s theory.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "理論；一套解釋或理解現象的原則或觀點。",
+    "en_def": "A system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+    "example": "The theory of evolution explains how species change over time."
+  },
+  "sentences_removed": 1
+}

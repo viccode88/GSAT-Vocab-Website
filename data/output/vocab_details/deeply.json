@@ -1,0 +1,28 @@
+{
+  "lemma": "deeply",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/deeply_ex_0_d893d24e.mp3"
+      },
+      {
+        "text": "Studies show that the unbiased media are in fact often deeply influenced by political ideology.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/deeply_ex_1_b06e73a8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "深深地；深入地",
+    "en_def": "In a profound or intense manner.",
+    "example": "She was deeply moved by the film."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "scurvy",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was carried on sailing ships around the world because it was found to help prevent scurvy, a disease that often 25 sailors on long voyages.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/scurvy_ex_0_d8326d28.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壞血病，一種由於缺乏維生素C而引起的疾病，特徵包括疲勞、牙齦出血和皮膚問題。",
+    "en_def": "A disease caused by a deficiency of vitamin C, characterized by fatigue, bleeding gums, and skin issues.",
+    "example": "Sailors in the past often suffered from scurvy due to a lack of fresh fruits and vegetables."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "melody",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/melody_ex_0_e0b31df6.mp3"
+      },
+      {
+        "text": "As the melody repeats, it becomes embedded into our mind.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/melody_ex_1_0fbdb18e.mp3"
+      },
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/melody_ex_2_e1abf914.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "旋律；音樂的主題或主要部分。",
+    "en_def": "A sequence of musical notes that are perceived as a single entity, often forming the main theme of a piece of music.",
+    "example": "The melody of the song was so catchy that everyone started singing along."
+  },
+  "sentences_removed": 1
+}

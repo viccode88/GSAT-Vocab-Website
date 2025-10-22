@@ -1,0 +1,28 @@
+{
+  "lemma": "advancement",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What they may offer in medical advancements. 44.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/advancement_ex_0_ed4522af.mp3"
+      },
+      {
+        "text": "Rapid advancement in motor engineering makes it _____ possible to build a flying car in the near future.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/advancement_ex_1_0c77c4f4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "進步；發展",
+    "en_def": "The process of promoting a cause or plan or the act of moving forward in position or progress.",
+    "example": "The advancement of technology has changed the way we communicate."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "nopale",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To argue for the benefits of nopales.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/nopale_ex_0_b7db4dde.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種來自仙人掌科植物的可食用部分，常用於墨西哥料理中。",
+    "en_def": "The edible pads of the prickly pear cactus, commonly used in Mexican cuisine.",
+    "example": "I added nopale to my salad for a unique flavor and texture."
+  },
+  "sentences_removed": 0
+}

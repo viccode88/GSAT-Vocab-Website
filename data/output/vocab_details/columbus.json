@@ -1,0 +1,28 @@
+{
+  "lemma": "columbus",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Columbus brought it, along with many other new things, back to Europe with him.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/columbus_ex_0_6520686b.mp3"
+      },
+      {
+        "text": "Natives planted the fruit across South and Central America and in the Caribbean region, 23 Christopher Columbus first found it.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/columbus_ex_1_2696fe57.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "哥倫布，一位意大利探險家，於1492年發現美洲大陸。",
+    "en_def": "Columbus, an Italian explorer who discovered the Americas in 1492.",
+    "example": "Christopher Columbus made his famous voyage across the Atlantic Ocean in 1492."
+  },
+  "sentences_removed": 0
+}

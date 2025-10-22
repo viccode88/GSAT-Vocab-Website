@@ -1,0 +1,79 @@
+{
+  "lemma": "skill",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the United States, parents and educators have come to regard the prom as an important lesson in social skills.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/skill_ex_0_274cd422.mp3"
+      },
+      {
+        "text": "This was a slow process, requiring much skill and patience, and every page of every book had to be cut separately.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/skill_ex_1_54f5fb62.mp3"
+      },
+      {
+        "text": "This can be done by, for example, learning new skills or traveling to new countries.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/skill_ex_2_8699c88d.mp3"
+      },
+      {
+        "text": "A dog’s cognitive profile is composed of nine cognitive skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/skill_ex_3_157ff269.mp3"
+      },
+      {
+        "text": "The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/skill_ex_4_5b54d4cb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The skill of playing the glass armonica was very hard to master.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Her incredible story and superior swimming Brazilian government and later continued judo skills won her the opportunity to participate in the training at a youth facility.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They are important events for teenagers to learn social skills.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today magicians try hard to find new ways to show their practiced skills.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The word “prom” was first used in the 1890s, referring to formal dances in which the guests of a party would display their fashions and dancing skills during the evening’s grand march.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Such demand increased with the rise of western movies, and many cowboys with masterful skills on horseback found a new 27 as a stunt person.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Dognition’s test measures a dog’s intellect in several aspects—from empathy to memory to reasoning skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "技能；專業知識或能力。",
+    "en_def": "The ability to do something well, usually gained through training or experience.",
+    "example": "She has a skill for painting that impresses everyone."
+  },
+  "sentences_removed": 1
+}

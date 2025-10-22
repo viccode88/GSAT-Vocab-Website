@@ -1,0 +1,33 @@
+{
+  "lemma": "guide",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Celebration often begins with mukaebi (welcoming fire), during which people make a small bonfire in front of their house to guide spirits upon their return back home.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/guide_ex_0_8b486eae.mp3"
+      },
+      {
+        "text": "But the captain of a ship is responsible for guiding the vessel until they hit a port, waiting to enter the harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/guide_ex_1_475cf348.mp3"
+      },
+      {
+        "text": "Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/guide_ex_2_cf3b420b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指導或引導某人或某事的行為或過程。",
+    "en_def": "To lead or direct someone or something.",
+    "example": "She will guide us through the museum."
+  },
+  "sentences_removed": 0
+}

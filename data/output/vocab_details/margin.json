@@ -1,0 +1,23 @@
+{
+  "lemma": "margin",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Continuous as the stars that shine And twinkle on the Milky Way, They stretched in never-ending line Along the margin of a bay:",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/margin_ex_0_e56bf8b9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "邊緣；利潤；餘地",
+    "en_def": "The space or edge surrounding something; the difference between the cost and selling price.",
+    "example": "She wrote her notes in the margin of the page."
+  },
+  "sentences_removed": 0
+}

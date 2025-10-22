@@ -1,0 +1,23 @@
+{
+  "lemma": "devastate",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1945, devastated from the war, the country set about establishing a cheap industry that could rebuild its economy.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/devastate_ex_0_67d8f455.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "摧毀；使極度悲痛或震驚",
+    "en_def": "To cause severe and overwhelming shock or grief; to destroy or ruin something completely.",
+    "example": "The hurricane will devastate the coastal towns if it makes landfall."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "performance",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/performance_ex_0_a11a1cd2.mp3"
+      },
+      {
+        "text": "Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/performance_ex_1_8bb491bb.mp3"
+      },
+      {
+        "text": "There is, however, a significant 27 between such beliefs and the actual effect of weather on people’s performance at work.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/performance_ex_2_d79d40ca.mp3"
+      },
+      {
+        "text": "He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/performance_ex_3_8b7e82ef.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Jack’s excellent performance in last week’s game has _____",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Then, when he was studying film in college, he would exhaust himself just for a performance tour.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The conflicts between John and his teacher made it difficult for the teacher to judge his performance _____.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following will probably NOT be found in the performance of Capoeira? (A) Singing with drums.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Girls were __(28)__ more sensitive to sounds and more skillful at fine motor performance than boys.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "On the basis of the clues, can you predict the of the story? (A) outcome (B) headline (C) cause (D) performance 5.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of the performance was not accompanied by any instrument.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2011, they were voted as one of the world’s top five performance groups by audiences of Japan Broadcasting Corporation’s Amazing Voice program.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "表現；演出",
+    "en_def": "The act of performing a task, function, or role; a presentation of a play, concert, or other artistic work.",
+    "example": "The performance of the orchestra was breathtaking."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,60 @@
+{
+  "lemma": "search",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 5,
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In a search for (C) With a view to (D)",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/search_ex_0_9a8e9418.mp3"
+      },
+      {
+        "text": "In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/search_ex_1_d1f87f77.mp3"
+      },
+      {
+        "text": "A search for African American values.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/search_ex_2_22137f9b.mp3"
+      },
+      {
+        "text": "search strategies to link their food source to their Normally, the birds enjoy a smooth flight together nests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/search_ex_3_6ec303ab.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They construct their colonies on precious farmland, invading crops while searching for insects underground.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The rise of oil prices made scientists search for new energy resources to ______ oil.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The police searched the house of the suspect _____.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "尋找或查詢某物或某信息的行為。",
+    "en_def": "The act of looking for or inquiring about something or information.",
+    "example": "I need to search for my lost keys."
+  },
+  "sentences_removed": 1
+}

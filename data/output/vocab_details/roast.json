@@ -1,0 +1,23 @@
+{
+  "lemma": "roast",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/roast_ex_0_e4fa81d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "烤，通常指用熱源加熱食物，特別是肉類，直到外表變得金黃色和酥脆。",
+    "en_def": "To cook food, especially meat, by exposing it to dry heat in an oven or over a fire.",
+    "example": "We decided to roast a chicken for dinner."
+  },
+  "sentences_removed": 0
+}

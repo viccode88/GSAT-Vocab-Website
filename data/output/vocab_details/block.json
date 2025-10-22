@@ -1,0 +1,75 @@
+{
+  "lemma": "block",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 6,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The first printing was done from wood blocks one letter at a time by hand.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/block_ex_0_955ad89a.mp3"
+      },
+      {
+        "text": "She watched as Laura walked down the block, turning and waving and walking backwards until she got to the corner.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/block_ex_1_57193621.mp3"
+      },
+      {
+        "text": "As the key building block for enduring relationships, trust is a bond that evolves as two persons get to know each other and experience safety in opening their hearts.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/block_ex_2_da32def5.mp3"
+      },
+      {
+        "text": "And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/block_ex_3_a51e2ac8.mp3"
+      },
+      {
+        "text": "These large ice blocks are used for large ice sculpting events and for building ice hotels.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/block_ex_4_d6547b96.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Perfectly clear ice blocks weighing 140 kg and measuring 100 cm × 50 cm",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Much larger clear blocks are produced in Europe and Canada or harvested from a frozen river in Sweden.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The first English book printed in movable type was (A) done from wood blocks one letter at a time.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "She injured her knee when she was trying to block her opponent.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "阻止或妨礙某事的行動或物體。",
+    "en_def": "To obstruct or impede something.",
+    "example": "They decided to block the road to prevent traffic."
+  },
+  "sentences_removed": 0
+}

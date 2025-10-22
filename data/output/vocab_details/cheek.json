@@ -1,0 +1,33 @@
+{
+  "lemma": "cheek",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cheek_ex_0_16a582aa.mp3"
+      },
+      {
+        "text": "Some cultures are found to show preference for dimples on one’s cheeks, as the feature is claimed to be a sign of 32 .",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cheek_ex_1_fcc64b0f.mp3"
+      },
+      {
+        "text": "Many babies, for example, have dimples on their 37 cheeks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cheek_ex_2_20f36465.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "臉頰，位於臉部的側面，通常指嘴巴和耳朵之間的部分。",
+    "en_def": "The fleshy part of the face located on either side of the mouth, between the nose and the ear.",
+    "example": "She smiled, revealing her dimples in her cheeks."
+  },
+  "sentences_removed": 1
+}

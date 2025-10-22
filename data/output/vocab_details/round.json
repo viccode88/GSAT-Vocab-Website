@@ -1,0 +1,81 @@
+{
+  "lemma": "round",
+  "count": 12,
+  "pos_dist": {
+    "ADJ": 6,
+    "ADV": 4,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They can be round like the moon, long like a jackknife, or shaped like boxes, fans, or tops.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/round_ex_0_383115f7.mp3"
+      },
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/round_ex_1_bd32af92.mp3"
+      },
+      {
+        "text": "Rising more than 5,000 feet, Mt. Waialeale stands at the center of the nearly round island.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/round_ex_2_c647f866.mp3"
+      },
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/round_ex_3_0d7d8441.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This in turn enriched subsequent rounds of conversation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "I jumped out of the car, ran round to open the trunk and there inside 40 .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "None of them wanted to—though for some years afterwards I was left in no doubt that I was morally obliged to them, in the sense that it always seemed to be my round when it came to the buying of drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The island of Kauai is almost round in shape.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Once I invited a group of friends round to my house, telling them that I was going to record their speech.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When it was over, I turned the tape-recorder off and brought round the drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "圓形的；圓的；圓周的",
+    "en_def": "Having a shape that is like a circle or a sphere.",
+    "example": "The table is round, making it perfect for family gatherings."
+  },
+  "sentences_removed": 0
+}

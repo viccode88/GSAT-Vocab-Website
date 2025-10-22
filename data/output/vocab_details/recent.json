@@ -1,0 +1,135 @@
+{
+  "lemma": "recent",
+  "count": 25,
+  "pos_dist": {
+    "ADJ": 24,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to a recent marketing study, young adults influence 88% of household clothing purchases.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recent_ex_0_16ce76c8.mp3"
+      },
+      {
+        "text": "This process, known as “coral bleaching,” has happened more and more frequently in recent years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/recent_ex_1_45a1a90b.mp3"
+      },
+      {
+        "text": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural _____ in Taiwan in recent decades.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recent_ex_2_8822a40b.mp3"
+      },
+      {
+        "text": "Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recent_ex_3_0c017882.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But this story written 40 years ago __(27)__ predicted the arrival of a recent method of genetic engineering—cloning.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The recent flood completely _____",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent experiments with this device showed that 80% of the participants were fooled by the smell.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent research has shown that there are biological differences between boys and girls.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent research has found lots of evidence to the drug company’s claims about its “miracle” tablets for curing cancer.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent study, almost three-quarters of American high school juniors said they felt stress at least once a week, some almost daily.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, recent studies have shown (70) interest in storytelling for adults is returning.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "did you know that according to recent research, people are losing the art of laughter and it could have a (33) effect on our health?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the tradition of men wearing it has faded in recent times, so nowadays we see a lot more women than men wearing one.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In recent years, the soybean has been used in making many different foods and has become the atom of health food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Both issues result from the tide of violence that has crossed the region in recent years.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO).",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent study, the part of your brain that reacts to severe pain is largely the same part that reacts to expectation of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The recent cooking oil scandals have led to calls for tougher ______ of sales of food products.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "最近的，近來的",
+    "en_def": "Having happened or started only a short time ago.",
+    "example": "I read a recent article about climate change."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,50 @@
+{
+  "lemma": "card",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although there are extra costs involved in going digital—the cost of memory cards for storage and the special paper for printing—many buyers have been willing to make the switch.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/card_ex_0_b6df8381.mp3"
+      },
+      {
+        "text": "It is said that the playwright once sent Churchill two tickets for the opening night of one of his plays, together with a card, which said, “Bring a friend (if you have one).”",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/card_ex_1_262caf8a.mp3"
+      },
+      {
+        "text": "Credit Card donations are also accepted.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/card_ex_2_ce4223d7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What was Shaw trying to say to Churchill on his card? (A) Churchill should not go to the play alone.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "some money in the birthday card she gave him.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一張通常由紙或塑料製成的平面物體，常用於傳遞信息、進行交易或娛樂。",
+    "en_def": "A flat object typically made of paper or plastic, used for conveying information, conducting transactions, or for entertainment.",
+    "example": "She handed me a birthday card with a heartfelt message inside."
+  },
+  "sentences_removed": 0
+}

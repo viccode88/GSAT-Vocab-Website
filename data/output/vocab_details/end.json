@@ -1,0 +1,120 @@
+{
+  "lemma": "end",
+  "count": 21,
+  "pos_dist": {
+    "NOUN": 13,
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was at the end of one of these long voyages that the pineapple came to Hawaii to stay.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/end_ex_0_f0b51a6d.mp3"
+      },
+      {
+        "text": "In the end, Ali lost patience and went to demand his pot.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/end_ex_1_d873dcfc.mp3"
+      },
+      {
+        "text": "According to the passage, death is not the end of life, but rather (A) supports many forms of life.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/end_ex_2_f4d4fdc1.mp3"
+      },
+      {
+        "text": "The end of the famous fable of “The Tortoise and the Hare” is well known to all: the tortoise wins the race against the hare.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/end_ex_3_9cff4f66.mp3"
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/end_ex_4_2ffca69b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Seventy-five million pieces of mail can end up in these offices in one year.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It can be inferred that Ali had at the end of the story.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the end, you get a report of your dog’s cognitive profile.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But here any resemblance to a twentieth-century hotel ends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Continuous as the stars that shine And twinkle on the Milky Way, They stretched in never-ending line Along the margin of a bay:",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Why does the author quote Blixen’s comment at the end of the third paragraph? (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, an injured runner might end up cycling and swimming instead of running.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the end of the class, you __(25)__ with you classmates the meals you have created, and you will leave with recipe handouts and , more importantly, the ability to cook two weeks of fantastic, low-cost meals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the end of the first two weeks, the boys came to the old man’s house, and went away 34 with their 25 rupees.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Everyone starts and ends the day by howling to check out where their nearest competitors are.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the end of the fifth week, the boys came back again and knocked at the old man’s house, waiting for their 38 .",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "結束，終止或結尾的狀態或行為。",
+    "en_def": "The final part or conclusion of something.",
+    "example": "We reached the end of the road."
+  },
+  "sentences_removed": 1
+}

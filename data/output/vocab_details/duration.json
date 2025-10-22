@@ -1,0 +1,23 @@
+{
+  "lemma": "duration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The maximum duration of stay is 14 days.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/duration_ex_0_6dcde5d3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "持續的時間或期間。",
+    "en_def": "The length of time that something lasts.",
+    "example": "The duration of the movie is two hours."
+  },
+  "sentences_removed": 0
+}

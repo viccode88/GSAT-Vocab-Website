@@ -1,0 +1,23 @@
+{
+  "lemma": "cast",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cast_ex_0_b6fa7f95.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "投擲或拋出物體的動作；也指演員陣容或角色分配。",
+    "en_def": "To throw something forcefully; also refers to the group of actors in a play or film.",
+    "example": "She decided to cast her fishing line into the lake."
+  },
+  "sentences_removed": 0
+}

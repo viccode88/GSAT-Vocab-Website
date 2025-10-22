@@ -1,0 +1,19 @@
+{
+  "lemma": "accidentally",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": [
+    {
+      "text": "Do you think Teresa asked that question on purpose? (A) accidentally (B) gradually (C) intentionally (D) permanently 17.",
+      "source": "1997_86_86年學測英文科",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "意外地，無意中地",
+    "en_def": "In a manner that is not intended or planned; by chance.",
+    "example": "She accidentally spilled coffee on her shirt."
+  }
+}

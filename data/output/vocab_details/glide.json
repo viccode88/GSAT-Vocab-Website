@@ -1,0 +1,28 @@
+{
+  "lemma": "glide",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Standing on the seashore, we saw a of seagulls flying over the ocean before they glided down and settled on the water.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/glide_ex_0_f67a6aa4.mp3"
+      },
+      {
+        "text": "It glides through the atmosphere.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/glide_ex_1_b4da0269.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滑行；輕輕移動",
+    "en_def": "To move smoothly and effortlessly, often in a graceful manner.",
+    "example": "The swan began to glide across the surface of the lake."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "radish",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/radish_ex_0_8eff4888.mp3"
+      },
+      {
+        "text": "The children who do not love radishes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/radish_ex_1_4a50763e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種根菜，通常為圓形或長形，外皮可為紅色、白色或紫色，味道辛辣。",
+    "en_def": "A root vegetable that is typically round or elongated, with a skin that can be red, white, or purple, and has a spicy flavor.",
+    "example": "She added sliced radish to the salad for extra crunch."
+  },
+  "sentences_removed": 0
+}

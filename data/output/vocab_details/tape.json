@@ -1,0 +1,94 @@
+{
+  "lemma": "tape",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you want to borrow magazines, tapes, or CDs, you can visit the library.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/tape_ex_0_2309d19e.mp3"
+      },
+      {
+        "text": "An estimated 3,474 tons of confetti and ticker-tape rained down along a seven-mile route.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tape_ex_1_957a9e3b.mp3"
+      },
+      {
+        "text": "He had to check whether his tape-recorder was working.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tape_ex_2_35acd553.mp3"
+      },
+      {
+        "text": "I should add, perhaps, that I did tell my friends what had happened to them, after the event was over, and gave them the option of destroying the tape.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tape_ex_3_c9da88c1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "On a tape-recorder in another room. (D) In a studio. 53.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In front of each easy chair there was a microphone at head height, with wires leading to a tape-recorder in the middle of the floor.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones which stayed in front of their chairs, only a few inches from their mouths, thus giving excellent sound quality.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Only John Glenn has received the ticker-tape parade more than once.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "On the tape-recorder in the middle of the floor. (B) Through hidden microphones.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For, of course, the microphones were not connected to the tape-recorder in the middle of the room at all but to another one, which was turning happily away in the kitchen.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "I turned on the tape-recorder and each in turn solemnly counted from one to twenty in their best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Glenn’s first ticker-tape parade on March 1, 1962, after his Mercury flight, is considered the largest ever in New York.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted to turn off a tape recorder in another room.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When it was over, I turned the tape-recorder off and brought round the drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種長條狀的材料，通常用於粘合物品或包裝。",
+    "en_def": "A long strip of material, typically used for sticking objects together or for packaging.",
+    "example": "I need some tape to wrap this gift."
+  },
+  "sentences_removed": 0
+}

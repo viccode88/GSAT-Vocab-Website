@@ -1,0 +1,28 @@
+{
+  "lemma": "christianity",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To link Russians’ vodka consumption to their adoption of Christianity. 44.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/christianity_ex_0_3381d3d9.mp3"
+      },
+      {
+        "text": "Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/christianity_ex_1_9ee64108.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "基督教：信奉耶穌基督為救世主的宗教，基於聖經的教義。",
+    "en_def": "Christianity: A religion based on the life and teachings of Jesus Christ, centered on the belief in one God and the salvation of humanity.",
+    "example": "Christianity teaches the importance of love and compassion towards others."
+  },
+  "sentences_removed": 0
+}

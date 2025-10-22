@@ -1,0 +1,115 @@
+{
+  "lemma": "remain",
+  "count": 20,
+  "pos_dist": {
+    "VERB": 19,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They gradually spread all over the world, and have remained popular ever since. 41.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/remain_ex_0_5de31566.mp3"
+      },
+      {
+        "text": "Younger children tend to remain forever “the baby,” enjoyable to be around, but at times overdependent on others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/remain_ex_1_b5138ea0.mp3"
+      },
+      {
+        "text": "Cartier-Bresson’s approach to photography remained much the same throughout his life.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/remain_ex_2_e2fd2d09.mp3"
+      },
+      {
+        "text": "It is better for those objects to remain at a certain place than to be moved around.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/remain_ex_3_cd6bb921.mp3"
+      },
+      {
+        "text": "The movement continued over the years; however, the problem remains.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/remain_ex_4_2e5af82b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "All of them successfully 28 the destruction of postwar redevelopment and remained unchanged.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Inside the burial box were the remains of the deceased.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A few hotels are still being rebuilt, but Kauai remains as beautiful as ever.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "But it was art that remained at the center of his life.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The size of the food they are about to eat is magnified while 27 of their hand remains normal.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For the average person, however, water remains a very good 27 for keeping hydrated—if you know how to drink it.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "A lighter and smaller car probably wouldn't have gone through the fence, its remaining energy would have been much less, and this would have reduced the chances of serious injury or death.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Brazil’s Environmental Ministry estimates that in 1970, 99 percent of the original Amazon Rainforest remained, but in 2000, only 85 percent.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In society, the former player does not look upon himself as a lone wolf who has the right to remain 36 from the society and go his own way.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Though the figures on attendance for each vary with every new season, certain 26 remain the same.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "They have remained popular due to their convenience, and are often worn with bathing suits or summer clothing.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "保持不變，繼續存在或留在某個地方。",
+    "en_def": "To continue to exist, stay in the same place, or not change.",
+    "example": "Please remain seated until the show is over."
+  },
+  "sentences_removed": 1
+}

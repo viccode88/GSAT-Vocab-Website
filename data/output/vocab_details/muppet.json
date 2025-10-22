@@ -1,0 +1,23 @@
+{
+  "lemma": "muppet",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Almost a whole generation of children throughout the world is familiar with Sesame Street and the characters of The Muppet Show.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/muppet_ex_0_d9379152.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由布料製成的手偶，通常用於娛樂和表演。",
+    "en_def": "A type of fabric puppet, often used for entertainment and performance.",
+    "example": "The children laughed as the muppet danced across the stage."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "christopher",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Natives planted the fruit across South and Central America and in the Caribbean region, 23 Christopher Columbus first found it.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/christopher_ex_0_2696fe57.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "克里斯多福，一個常見的男性名字，源自希臘語，意為「基督的承載者」。",
+    "en_def": "Christopher is a common male given name derived from Greek, meaning 'bearer of Christ.'",
+    "example": "Christopher loves to explore new places during his travels."
+  },
+  "sentences_removed": 0
+}

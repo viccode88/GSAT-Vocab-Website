@@ -1,0 +1,74 @@
+{
+  "lemma": "decision",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/decision_ex_0_e830ef29.mp3"
+      },
+      {
+        "text": "The residents worried about the county’s decision and action.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/decision_ex_1_94734163.mp3"
+      },
+      {
+        "text": "They had not made any decision yet.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/decision_ex_2_17be6cad.mp3"
+      },
+      {
+        "text": "However, later children are often less ambitious and may be uncomfortable making decisions for others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/decision_ex_3_341c5472.mp3"
+      },
+      {
+        "text": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/decision_ex_4_ef1e3866.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When people encounter a complex issue and form an opinion, how thoroughly have they 26 all the important factors involved before they make their decisions?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "the temptation of money and make the right decision.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "29 , it is not unusual for them to come up with a decision before they have the time to do so.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which word in the passage most likely means “to think about something seriously and carefully, especially before making an important decision”? 5.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She always ______ them before she makes important decisions.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "決定，選擇或判斷的過程或結果。",
+    "en_def": "The process or result of making a choice or judgment.",
+    "example": "After much deliberation, she made her decision about which job to take."
+  },
+  "sentences_removed": 0
+}

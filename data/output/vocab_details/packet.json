@@ -1,0 +1,28 @@
+{
+  "lemma": "packet",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As 19.(A) who (B) while (C) that (D) when 20.(A) relieved (B) relaxed (C) relied (D) reacted European politicians are trying to get the UK Government to make cigarette companies print photos on the packets.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/packet_ex_0_27a4707c.mp3"
+      },
+      {
+        "text": "At the moment EU tobacco manufacturers only have to put written health warnings on cigarette packets __(24)__",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/packet_ex_1_bf9e6c5d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一小包或一小袋，通常用來包裝食物或其他物品。",
+    "en_def": "A small package or bag, typically used to contain food or other items.",
+    "example": "She opened a packet of cookies to share with her friends."
+  },
+  "sentences_removed": 0
+}

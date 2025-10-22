@@ -1,0 +1,23 @@
+{
+  "lemma": "orient",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The researchers concluded that cattle do generally orient themselves in a north-south direction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/orient_ex_0_abee7595.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使朝向某個方向或位置，特別是東方。",
+    "en_def": "To position or align something in a particular direction, especially towards the east.",
+    "example": "She used a compass to orient herself in the unfamiliar city."
+  },
+  "sentences_removed": 1
+}

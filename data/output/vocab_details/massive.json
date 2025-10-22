@@ -1,0 +1,28 @@
+{
+  "lemma": "massive",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, the sea snake’s salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/massive_ex_0_c6d86148.mp3"
+      },
+      {
+        "text": "Known locally as nopal, the prickly pear is farmed on a massive scale in Mexico.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/massive_ex_1_4a3c6d90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巨大的，龐大的",
+    "en_def": "Very large in size, quantity, or extent.",
+    "example": "The massive building towered over the city skyline."
+  },
+  "sentences_removed": 1
+}

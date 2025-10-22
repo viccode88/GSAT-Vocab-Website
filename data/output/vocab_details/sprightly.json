@@ -1,0 +1,23 @@
+{
+  "lemma": "sprightly",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ten thousand saw I at a glance, Tossing their heads in sprightly dance.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sprightly_ex_0_62fc5b62.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "活潑的，生氣勃勃的",
+    "en_def": "Full of energy and spirit; lively.",
+    "example": "The sprightly puppy chased after the butterflies in the garden."
+  },
+  "sentences_removed": 0
+}

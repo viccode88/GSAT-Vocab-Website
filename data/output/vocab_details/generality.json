@@ -1,0 +1,23 @@
+{
+  "lemma": "generality",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, there are (26) to that generality.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/generality_ex_0_7651621e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一般性；普遍性",
+    "en_def": "The quality or state of being general; a broad or universal aspect.",
+    "example": "The generality of the rules applies to all participants."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "embassy",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大使館，代表一國在另一國的官方機構，負責外交事務和保護國民的利益。",
+    "en_def": "A diplomatic mission or office representing a country in another country, responsible for diplomatic relations and protecting the interests of its citizens.",
+    "example": "The ambassador held a meeting at the embassy to discuss trade agreements."
+  },
+  "sentences_removed": 2
+}

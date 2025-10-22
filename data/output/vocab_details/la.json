@@ -1,0 +1,23 @@
+{
+  "lemma": "la",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A giant egg-timer will be set up in the Place de la Concorde and its sand will begin running after a solar eclipse scheduled on April 11, 1999.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/la_ex_0_4c0f9919.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "音樂中的一個音符，通常是音階中的第六個音。",
+    "en_def": "A musical note, typically the sixth note of a scale.",
+    "example": "In the song, the note 'la' follows 'sol' in the melody."
+  },
+  "sentences_removed": 0
+}

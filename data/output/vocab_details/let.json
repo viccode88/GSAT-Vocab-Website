@@ -1,0 +1,69 @@
+{
+  "lemma": "let",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the kernels start 38 , shake the pot to let the steam escape and to let the unpopped kernels fall to the bottom.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/let_ex_0_c1bde56f.mp3"
+      },
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/let_ex_1_373d4295.mp3"
+      },
+      {
+        "text": "the use of the laboratory equipment before she lets her students use it on their own.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/let_ex_2_9c107792.mp3"
+      },
+      {
+        "text": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/let_ex_3_38f0fb76.mp3"
+      },
+      {
+        "text": "Let’s send it back to the _____ to have it inspected and repaired. (A) lecturer (B) publisher (C) researcher (D) manufacturer 4.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/let_ex_4_baf555c8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements can be supported by the passage? (A) A robot was designed to let humans decrease their productivity.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Let the rain sing you a lullaby.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Kareem let his forest grow naturally, without using fertilizers or insecticides.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Let the rain beat upon your head with silver liquid drops.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "允許或讓某事發生的動詞，通常用於編程語言中以聲明變量。",
+    "en_def": "To allow or permit something to happen; in programming, it is used to declare a variable.",
+    "example": "You can let the program run without any interruptions."
+  },
+  "sentences_removed": 2
+}

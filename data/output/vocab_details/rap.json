@@ -1,0 +1,40 @@
+{
+  "lemma": "rap",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sales of rap music and videos each exceed that amount.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rap_ex_0_26b1773d.mp3"
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rap_ex_1_083afdfe.mp3"
+      },
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rap_ex_2_eece5146.mp3"
+      },
+      {
+        "text": "How much money do sales of rap music and videos together make each year?",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rap_ex_3_50cd17c2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種以節奏和韻律為基礎的音樂風格，通常伴隨著快速的語言表達。",
+    "en_def": "A music genre characterized by rhythmic speech and often accompanied by beats.",
+    "example": "He loves to rap along with his favorite songs."
+  },
+  "sentences_removed": 0
+}

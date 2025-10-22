@@ -1,0 +1,81 @@
+{
+  "lemma": "diet",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 11,
+    "VERB": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their diet consists mainly of sponge and algae.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/diet_ex_0_439b49ff.mp3"
+      },
+      {
+        "text": "The children whose parents are on a diet.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/diet_ex_1_bd7f179e.mp3"
+      },
+      {
+        "text": "The dead material and waste matter form the diet of a group of living organisms called decomposers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/diet_ex_2_f0fb9552.mp3"
+      },
+      {
+        "text": "If you are a vegetarian, or if your diet includes little meat, soy protein is a good alternative, and may even be essential to maintaining your health.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/diet_ex_3_375bd35f.mp3"
+      },
+      {
+        "text": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/diet_ex_4_74166249.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Nevertheless, poor diet, stress, a bad working environment, and carelessness can 39 good health.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some simple strategies can help even the pickiest eater learn to like a more varied diet.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another strategy is not to diet in front of your children.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Deer are attracted to railway lines because of a need for iron in their diets.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Tree products have been an important part of diets for thousands of years, from early humans 26 fruits and nuts to the first cultivation of important trees, such as mango and apple.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.”",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "飲食，特別是為了健康或減肥而特定選擇的食物和飲料。",
+    "en_def": "The kinds of food and drink that a person regularly consumes, especially for health or weight management purposes.",
+    "example": "She decided to follow a vegetarian diet for better health."
+  },
+  "sentences_removed": 1
+}

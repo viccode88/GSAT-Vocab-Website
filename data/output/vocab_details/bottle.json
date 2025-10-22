@@ -1,0 +1,60 @@
+{
+  "lemma": "bottle",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They asked test subjects to drink a full can or bottle of an energy drink and then gave each subject an ABT one minute and 15 minutes after the drink was finished.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/bottle_ex_0_b68420da.mp3"
+      },
+      {
+        "text": "The team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 29 than it actually is.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottle_ex_1_eae266db.mp3"
+      },
+      {
+        "text": "According to one research, 90% of the bottles used are not recycled and lie for ages in landfills.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottle_ex_2_0314aaa8.mp3"
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bottle_ex_3_2234894e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Processing the plastic can lead to the release of harmful chemical substances into the water contained in the bottles.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In an airtight glass bottle in a kitchen cupboard. (D) In an airproof bottle next to a well-lighted window. 52.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Bottled water is mostly sold in plastic bottles and that’s why it is potentially health 26 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "瓶子，一種用於盛裝液體的容器，通常由玻璃或塑料製成。",
+    "en_def": "A container, typically made of glass or plastic, used for holding liquids.",
+    "example": "She filled the bottle with water before going for a hike."
+  },
+  "sentences_removed": 0
+}

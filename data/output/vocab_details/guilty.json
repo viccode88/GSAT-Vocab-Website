@@ -1,0 +1,23 @@
+{
+  "lemma": "guilty",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His photos told the world who was guilty of assassinating Gandhi. 52.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/guilty_ex_0_fa0c0ca5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有罪的；內疚的",
+    "en_def": "Having committed a crime or offense; feeling remorseful for a wrongdoing.",
+    "example": "She felt guilty for not helping her friend when she needed support."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,50 @@
+{
+  "lemma": "farm",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/farm_ex_0_462acf39.mp3"
+      },
+      {
+        "text": "The profits of Prince Charles’s organic farm go to _____ to help the poor and the sick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/farm_ex_1_a04c43f3.mp3"
+      },
+      {
+        "text": "Members can access thousands of listings for apartments, villas, suburban homes and farms around the world.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/farm_ex_2_02a9d5f3.mp3"
+      },
+      {
+        "text": "In the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant’s habitats and endangering their population.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/farm_ex_3_348c4c35.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Known locally as nopal, the prickly pear is farmed on a massive scale in Mexico.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "農場；農田，專門用來種植作物或飼養動物的地方。",
+    "en_def": "A piece of land used for growing crops or raising animals.",
+    "example": "The farmer worked hard every day on his farm."
+  },
+  "sentences_removed": 0
+}

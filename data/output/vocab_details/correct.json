@@ -1,0 +1,38 @@
+{
+  "lemma": "correct",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is a correct description about setts? (A)",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/correct_ex_0_1b54520a.mp3"
+      },
+      {
+        "text": "Many ordinary clocks are hard to read early in the morning, deceiving students of the correct time, __22__ causing them to be late for school.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/correct_ex_1_5f7d379c.mp3"
+      },
+      {
+        "text": "Unless (D) However 25. (A) best (B) correct (C) well (D) good 26.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/correct_ex_2_f7240c74.mp3"
+      },
+      {
+        "text": "Which of the following is CORRECT about the earthquake in Bam? (A) About 50,000 people survived the earthquake.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/correct_ex_3_94d39b13.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "正確的；符合事實或標準的。",
+    "en_def": "Free from error; in accordance with fact or truth.",
+    "example": "Please make sure your answers are correct before submitting the test."
+  },
+  "sentences_removed": 0
+}

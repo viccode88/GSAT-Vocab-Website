@@ -1,0 +1,23 @@
+{
+  "lemma": "environmentalist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro’s snows and glaciers are melting and are 23 to disappear by 2020.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/environmentalist_ex_0_f25f75cc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "環保人士，致力於保護自然環境和推廣可持續發展的人。",
+    "en_def": "A person who is concerned with or advocates for the protection of the environment.",
+    "example": "The environmentalist organized a community clean-up to raise awareness about pollution."
+  },
+  "sentences_removed": 0
+}

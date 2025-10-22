@@ -1,0 +1,43 @@
+{
+  "lemma": "wang",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mr. Wang’s arguments were very , and the committee finally accepted his proposal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wang_ex_0_2725553b.mp3"
+      },
+      {
+        "text": "After retirement, Mr. Wang _____ ice skating, which he had always loved but had not had time for. (A) appealed to (B) took to (C) related to (D) saw to 15.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wang_ex_1_44f6b51c.mp3"
+      },
+      {
+        "text": "Because Mr. Wang changes his mind, it’s very difficult to predict what he will do next.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wang_ex_2_0259faa8.mp3"
+      },
+      {
+        "text": "Wang Chien-ming, the Yankees’ best pitcher last year, already showed his great _____ for baseball when he was still a teenager.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/wang_ex_3_c89d4d79.mp3"
+      },
+      {
+        "text": "The many awards that Professor Wang has won over the years are clear ______ that he is a distinguished scholar.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/wang_ex_4_c96e6caa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "王：指君主或統治者，或用作姓氏。",
+    "en_def": "Wang: A surname in Chinese, also meaning 'king' or 'monarch'.",
+    "example": "Mr. Wang is a respected leader in the community."
+  },
+  "sentences_removed": 0
+}

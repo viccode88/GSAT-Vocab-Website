@@ -1,0 +1,28 @@
+{
+  "lemma": "naughty",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/naughty_ex_0_ec3f00db.mp3"
+      },
+      {
+        "text": "Tom is really a naughty boy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/naughty_ex_1_4f2ea2c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "調皮的，頑皮的，常指小孩不守規矩或做壞事。",
+    "en_def": "Behaving badly or mischievously, often used to describe children.",
+    "example": "The naughty puppy chewed on the furniture."
+  },
+  "sentences_removed": 0
+}

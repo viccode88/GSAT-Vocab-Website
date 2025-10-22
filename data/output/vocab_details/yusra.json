@@ -1,0 +1,33 @@
+{
+  "lemma": "yusra",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When he was nine, the political situation there, Yusra sometimes had to country’s civil war claimed the life of his mother train in pools under roofs that had been blown open and left him homeless.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/yusra_ex_0_3783a940.mp3"
+      },
+      {
+        "text": "Yusra Mardini is a swimmer who grew up in Popole Misenga was born in the Democratic the war-torn country of Syria.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/yusra_ex_1_f82a32ad.mp3"
+      },
+      {
+        "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their Popole was granted asylum in 2014 by dreams.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/yusra_ex_2_a1219801.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "尤斯拉（Yusra）是一個阿拉伯女性名字，意指「幸福」或「繁榮」。",
+    "en_def": "Yusra is an Arabic female name meaning 'ease' or 'prosperity.'",
+    "example": "Yusra is excited to start her new job next week."
+  },
+  "sentences_removed": 1
+}

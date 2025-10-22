@@ -1,0 +1,64 @@
+{
+  "lemma": "relate",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists now relate left and right hemispheres to the way different individuals learn languages.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/relate_ex_0_0d46aff9.mp3"
+      },
+      {
+        "text": "That is, by relating heart to heart.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/relate_ex_1_dd3dcf27.mp3"
+      },
+      {
+        "text": "Tropical infections are thus as much related to government inaction as they are to climate.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/relate_ex_2_c39f7d6d.mp3"
+      },
+      {
+        "text": "Right-brained learners look for a general picture and concentrate on relating new information to what they already know.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/relate_ex_3_7fd79a47.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The development of fork-related table manners.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After retirement, Mr. Wang _____ ice skating, which he had always loved but had not had time for. (A) appealed to (B) took to (C) related to (D) saw to 15.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While it is generally taken as an indicator of their marital status, the practice is primarily related to the Hindu religion.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Most physician office visits are for stress-related illnesses and complaints.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "使有關聯；使相關",
+    "en_def": "To show or establish a connection or relationship between two or more things.",
+    "example": "She can relate her experiences to the themes of the book."
+  },
+  "sentences_removed": 0
+}

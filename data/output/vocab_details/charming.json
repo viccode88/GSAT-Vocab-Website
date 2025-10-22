@@ -1,0 +1,23 @@
+{
+  "lemma": "charming",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "you want to give your family a nice, wholesome vacation, try visiting this charming town.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/charming_ex_0_1fe3a526.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "迷人的，吸引人的",
+    "en_def": "Delightful and attractive; having a pleasing quality.",
+    "example": "The charming village was filled with colorful flowers and friendly locals."
+  },
+  "sentences_removed": 0
+}

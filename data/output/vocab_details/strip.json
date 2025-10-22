@@ -1,0 +1,50 @@
+{
+  "lemma": "strip",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/strip_ex_0_bd32af92.mp3"
+      },
+      {
+        "text": "As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/strip_ex_1_0f672b5c.mp3"
+      },
+      {
+        "text": "23 the process of questioning, all the signals are recorded on a single strip of moving paper.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/strip_ex_2_fda081f0.mp3"
+      },
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/strip_ex_3_779daa9e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Each cookie 37 a strip of paper inside with an inspirational Bible quotation on it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They can quickly strip fruit trees of their fruit.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "剝去、脫去或去除某物的外層或覆蓋物。",
+    "en_def": "To remove the outer layer or covering of something.",
+    "example": "She decided to strip the old paint off the furniture."
+  },
+  "sentences_removed": 0
+}

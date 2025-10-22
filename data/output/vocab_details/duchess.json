@@ -1,0 +1,23 @@
+{
+  "lemma": "duchess",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Around 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o’clock.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/duchess_ex_0_1eb0e20f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "女公爵，指一位擁有公爵頭銜的女性，通常是貴族或王室成員。",
+    "en_def": "A female member of the nobility who holds the rank of duke, often a title of high social status.",
+    "example": "The duchess attended the royal gala in a stunning gown."
+  },
+  "sentences_removed": 0
+}

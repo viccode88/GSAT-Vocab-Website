@@ -1,0 +1,23 @@
+{
+  "lemma": "handy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Jack says you'll not only find it handy in your studies, but a great argument-saver when playing Scrabble with your friends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/handy_ex_0_a53ec584.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "方便的，易於使用的",
+    "en_def": "Convenient to handle or use; useful.",
+    "example": "This tool is very handy for fixing small appliances."
+  },
+  "sentences_removed": 0
+}

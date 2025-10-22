@@ -1,0 +1,23 @@
+{
+  "lemma": "troop",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His pictures of the Union troops won international recognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/troop_ex_0_70c6856a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "部隊；軍隊；一群人或動物",
+    "en_def": "A group of soldiers or a collection of people or animals.",
+    "example": "The troop marched through the forest during their training exercise."
+  },
+  "sentences_removed": 0
+}

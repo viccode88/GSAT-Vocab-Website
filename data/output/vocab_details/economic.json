@@ -1,0 +1,50 @@
+{
+  "lemma": "economic",
+  "count": 8,
+  "pos_dist": {
+    "ADJ": 6,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/economic_ex_0_2500abb9.mp3"
+      },
+      {
+        "text": "With the worsening of global economic conditions, it seems wiser and more _____ to keep cash in the bank rather than to invest in the stock market.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/economic_ex_1_de2dd517.mp3"
+      },
+      {
+        "text": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/economic_ex_2_71efca56.mp3"
+      },
+      {
+        "text": "Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/economic_ex_3_7f624ef0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "However, their demand is high because many people buy them to tell the world that they have money, 28 as conspicuous consumption in economics.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Called the diamond-water paradox, this is a classic problem posed to students of economics.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "經濟的；與經濟有關的",
+    "en_def": "Relating to the economy or the management of resources.",
+    "example": "The government implemented new policies to improve the economic situation."
+  },
+  "sentences_removed": 2
+}

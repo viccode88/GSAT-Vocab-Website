@@ -1,0 +1,23 @@
+{
+  "lemma": "soloist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1955, Anderson became the first black soloist to sing with the Metropolitan Opera of New York City.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/soloist_ex_0_9315ca3a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "獨奏者，指在音樂表演中單獨演奏或演唱的人。",
+    "en_def": "A musician or singer who performs alone, especially in a concert or recital.",
+    "example": "The soloist captivated the audience with her stunning performance."
+  },
+  "sentences_removed": 0
+}

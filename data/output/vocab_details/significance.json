@@ -1,0 +1,33 @@
+{
+  "lemma": "significance",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the significance of the third eye in Hindu tradition? (A) To stay in harmony with nature.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/significance_ex_0_5dafac9a.mp3"
+      },
+      {
+        "text": "What significance did Cartier-Bresson have to Gandhi of India?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/significance_ex_1_3a7270ef.mp3"
+      },
+      {
+        "text": "The significance of the relocation of Taiwu Elementary School.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/significance_ex_2_6077ba00.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重要性；意義",
+    "en_def": "The quality of being worthy of attention; importance.",
+    "example": "The significance of her research cannot be overstated."
+  },
+  "sentences_removed": 0
+}

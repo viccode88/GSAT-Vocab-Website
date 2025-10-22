@@ -1,0 +1,23 @@
+{
+  "lemma": "resolution",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/resolution_ex_0_2ffca69b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "解決方案；決心；分辨率",
+    "en_def": "A firm decision to do or not to do something; the quality of being resolute; the degree of detail visible in a digital image.",
+    "example": "She made a resolution to exercise more regularly this year."
+  },
+  "sentences_removed": 0
+}

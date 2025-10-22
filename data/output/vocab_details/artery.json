@@ -1,0 +1,23 @@
+{
+  "lemma": "artery",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/artery_ex_0_881d3aca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "動脈：將血液從心臟運送到身體各部分的血管。",
+    "en_def": "An artery is a blood vessel that carries blood away from the heart to various parts of the body.",
+    "example": "The surgeon carefully repaired the damaged artery during the operation."
+  },
+  "sentences_removed": 0
+}

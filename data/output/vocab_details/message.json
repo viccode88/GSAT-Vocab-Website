@@ -1,0 +1,74 @@
+{
+  "lemma": "message",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/message_ex_0_83e55e5a.mp3"
+      },
+      {
+        "text": "We may say we don't want our children to drink, but our messages say just the opposite.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/message_ex_1_7617400a.mp3"
+      },
+      {
+        "text": "May I leave a message? (B) Any moment.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/message_ex_2_3a201a80.mp3"
+      },
+      {
+        "text": "What is the major message the author is trying to convey to readers? (A) All people, especially those working in the hospitals, should reduce the use of plastics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/message_ex_3_e53e60f8.mp3"
+      },
+      {
+        "text": "Drinking, the message goes, is cool.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/message_ex_4_5d0dc558.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Jane: O.K. I'll give him the message.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Can I take a message?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For those who speak into the wind phone, 30 is always there: They believe that their messages will— through some unknown way—reach the deceased.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She ____ them by using them for taking telephone messages.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "When you begin a new job in an office, E.…make your message brief.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "信息；消息；傳遞的內容或通訊。",
+    "en_def": "A piece of information or communication sent or received.",
+    "example": "I received a message from my friend yesterday."
+  },
+  "sentences_removed": 0
+}

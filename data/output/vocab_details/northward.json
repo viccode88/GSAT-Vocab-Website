@@ -1,0 +1,29 @@
+{
+  "lemma": "northward",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new analysis of satellite-based data has given precisely the rate 21 which the country is losing size as it pushes northward against the Himalayas.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/northward_ex_0_949df404.mp3"
+      },
+      {
+        "text": "Unless (D) Though 24. (A) wayward (B) downward (C) northward (D) outward 25. (A) yet (B) even (C) rather (D) indeed",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/northward_ex_1_117af888.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "向北的方向或位置。",
+    "en_def": "In the direction of the north.",
+    "example": "The birds flew northward as winter approached."
+  },
+  "sentences_removed": 0
+}

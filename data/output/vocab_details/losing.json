@@ -1,0 +1,23 @@
+{
+  "lemma": "losing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "what 28. (A) losing (B) by (C) with (D) have 29.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/losing_ex_0_5f5afe5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "失去，無法再擁有或獲得。",
+    "en_def": "The act of no longer having something or someone.",
+    "example": "She is losing her patience with the constant delays."
+  },
+  "sentences_removed": 0
+}

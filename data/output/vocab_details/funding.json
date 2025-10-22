@@ -1,0 +1,23 @@
+{
+  "lemma": "funding",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to this article, PBS received part of its funding from _________.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/funding_ex_0_7b8d4b2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "資金，通常指用於支持某項計劃或項目的財務資源。",
+    "en_def": "Financial resources provided to support a project or initiative.",
+    "example": "The organization received funding to develop new educational programs."
+  },
+  "sentences_removed": 1
+}

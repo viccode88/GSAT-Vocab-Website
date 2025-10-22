@@ -1,0 +1,33 @@
+{
+  "lemma": "nourish",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/nourish_ex_0_c1a8b781.mp3"
+      },
+      {
+        "text": "They are properly watered and nourished.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nourish_ex_1_a7536006.mp3"
+      },
+      {
+        "text": "These sprouts grow slowly, nourished by the root system of the “mother” tree.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nourish_ex_2_7f8f1945.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滋養；提供營養以促進生長或健康。",
+    "en_def": "To provide with the food or other substances necessary for growth, health, and good condition.",
+    "example": "It is important to nourish your body with healthy foods."
+  },
+  "sentences_removed": 0
+}

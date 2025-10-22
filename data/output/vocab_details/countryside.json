@@ -1,0 +1,23 @@
+{
+  "lemma": "countryside",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Jackdaws are birds in the crow family often Turtle ants often live in the cavities of dead found in the English countryside.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/countryside_ex_0_360d0a47.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鄉村地區，通常指城市以外的農村或自然環境。",
+    "en_def": "The land and scenery of a rural area, typically characterized by farms, fields, and natural landscapes.",
+    "example": "She loves to spend her weekends in the countryside, away from the hustle and bustle of the city."
+  },
+  "sentences_removed": 0
+}

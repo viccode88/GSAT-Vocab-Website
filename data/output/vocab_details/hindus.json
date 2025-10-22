@@ -1,0 +1,23 @@
+{
+  "lemma": "hindus",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A lot of ancient civilizations, __(37)__ the Egyptians, Hindus, Greeks, and Mayans, have left writings and __(38)__ which indicate contacts with superior beings “from the stars.”",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/hindus_ex_0_069fddee.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "印度教徒，信奉印度教的人。",
+    "en_def": "Followers of Hinduism, a major religion originating from the Indian subcontinent.",
+    "example": "Many Hindus celebrate Diwali as a festival of lights."
+  },
+  "sentences_removed": 0
+}

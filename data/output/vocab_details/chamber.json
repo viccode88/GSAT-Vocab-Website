@@ -1,0 +1,23 @@
+{
+  "lemma": "chamber",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The chambers are stacked side-by-side, two units high, with the upper rooms reached by a ladder.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/chamber_ex_0_846bb459.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "房間；室內空間，通常用於特定目的。",
+    "en_def": "A room or enclosed space, typically used for a specific purpose.",
+    "example": "The senator held a meeting in the chamber to discuss new legislation."
+  },
+  "sentences_removed": 0
+}

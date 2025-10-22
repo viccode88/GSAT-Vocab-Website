@@ -1,0 +1,23 @@
+{
+  "lemma": "input",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/input_ex_0_fd1da88a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輸入的行為或過程，通常指將數據或信息輸入到系統或設備中。",
+    "en_def": "The act or process of putting data or information into a system or device.",
+    "example": "Please input your password to access the account."
+  },
+  "sentences_removed": 0
+}

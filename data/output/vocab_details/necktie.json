@@ -1,0 +1,23 @@
+{
+  "lemma": "necktie",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He hardly ever wears a necktie.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/necktie_ex_0_4f4917ac.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "領帶，一種用於裝飾或正式場合的服裝配件，通常繞在脖子上並垂掛在胸前。",
+    "en_def": "A necktie is a piece of clothing worn around the neck, typically made of cloth, that hangs down the front of a shirt and is often used for formal occasions.",
+    "example": "He wore a blue necktie to the wedding."
+  },
+  "sentences_removed": 0
+}

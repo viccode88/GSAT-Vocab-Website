@@ -1,0 +1,50 @@
+{
+  "lemma": "grandfather",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/grandfather_ex_0_f716c5cf.mp3"
+      },
+      {
+        "text": "Dooley keeps Peanuts company while the adults in the family attend to Grandfather.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/grandfather_ex_1_93daab58.mp3"
+      },
+      {
+        "text": "For example, my grandfather was one of ten children in his family, but I am the only child.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/grandfather_ex_2_dc19cc34.mp3"
+      },
+      {
+        "text": "Peanuts’ beloved grandfather has suffered a heart attack.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/grandfather_ex_3_7766c687.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "My grandfather has astonishing powers of .",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Peanuts is sad over the possibility of losing his grandfather.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "祖父；外祖父",
+    "en_def": "The father of one's parent.",
+    "example": "My grandfather tells the best stories from his childhood."
+  },
+  "sentences_removed": 0
+}

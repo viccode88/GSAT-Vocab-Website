@@ -1,0 +1,43 @@
+{
+  "lemma": "calculate",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The task of calculating a carbon footprint.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/calculate_ex_0_a8531de4.mp3"
+      },
+      {
+        "text": "To introduce a new method of calculating blood alcohol levels.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/calculate_ex_1_51a671ac.mp3"
+      },
+      {
+        "text": "One of __(34)__ measures is to calculate the percentage of income that people spend on certain necessities.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/calculate_ex_2_c5ec229c.mp3"
+      },
+      {
+        "text": "“Howard calculated the calories of everything he ate during his participation in the program,” his mother said.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/calculate_ex_3_62507c26.mp3"
+      },
+      {
+        "text": "As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another’s company.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/calculate_ex_4_4b2fef4c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "計算，通過數學運算得出結果。",
+    "en_def": "To determine the amount or number of something mathematically.",
+    "example": "Please calculate the total cost of the items in your cart."
+  },
+  "sentences_removed": 0
+}

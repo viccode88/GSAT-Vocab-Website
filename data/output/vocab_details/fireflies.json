@@ -1,0 +1,23 @@
+{
+  "lemma": "fireflies",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/fireflies_ex_0_87acf125.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "螢火蟲是一種能夠發光的小昆蟲，通常在夏季的夜晚出現。",
+    "en_def": "Fireflies are small insects that can produce light, commonly seen during summer nights.",
+    "example": "The garden was filled with fireflies, creating a magical atmosphere."
+  },
+  "sentences_removed": 0
+}

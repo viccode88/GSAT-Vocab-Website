@@ -1,0 +1,23 @@
+{
+  "lemma": "beep",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/beep_ex_0_5e8db381.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發出短促的聲音，通常用於警告或提示。",
+    "en_def": "A short, sharp sound, often used as a warning or signal.",
+    "example": "The car's horn let out a loud beep to alert the pedestrians."
+  },
+  "sentences_removed": 0
+}

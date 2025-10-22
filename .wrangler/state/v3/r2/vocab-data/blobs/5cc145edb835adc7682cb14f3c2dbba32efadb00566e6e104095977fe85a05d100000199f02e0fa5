@@ -1,0 +1,49 @@
+{
+  "lemma": "dolphin",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": [
+    {
+      "text": "Dolphins, like us, have to breathe air.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "Now you can buy tuna with the label “dolphin-free tuna.”",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "They wrote letters to the tuna companies and supermarkets asking them to find a way to spare dolphins.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "So in many parts of the world dolphins and fishermen are in __32__ for tuna.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "Dolphins, like most of us, love to eat tuna.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "Unfortunately, they __35__ catch many dolphins at the same time.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "In the past, there wasn’t much conflict __33__ dolphins and fishermen, because the numbers of tuna in the ocean were enormous.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "海豚：一種智力高、社交性強的海洋哺乳動物，屬於鯨目，通常以群體生活，並以魚類和其他海洋生物為食。",
+    "en_def": "Dolphin: A highly intelligent and social marine mammal belonging to the order Cetacea, typically living in groups and feeding on fish and other marine organisms.",
+    "example": "The dolphin jumped gracefully out of the water."
+  }
+}

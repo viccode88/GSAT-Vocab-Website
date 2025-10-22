@@ -1,0 +1,23 @@
+{
+  "lemma": "evaluation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To be qualified as “extra virgin,” the oil must also pass both an official test in a laboratory and a sensory evaluation by a trained tasting panel.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/evaluation_ex_0_576023fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "評估；評價",
+    "en_def": "The process of assessing or judging the value, quality, or significance of something.",
+    "example": "The teacher conducted an evaluation of the students' performance."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,104 @@
+{
+  "lemma": "tend",
+  "count": 17,
+  "pos_dist": {
+    "VERB": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/tend_ex_0_c0a6266c.mp3"
+      },
+      {
+        "text": "Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/tend_ex_1_af6b548b.mp3"
+      },
+      {
+        "text": "Such dimples tend to occur in families, and are assumed to be an inherited feature.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tend_ex_2_0f72fc95.mp3"
+      },
+      {
+        "text": "Boys tend to pay less attention in class than girls.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/tend_ex_3_326c4da1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Before a match is made, potential swappers tend to discuss a lot.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "30 , they tend to believe criticism to be suggestion for improvement.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, the first child tends to be __________.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 29 outside of work.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They tend to stand or move around less on days they work out.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, the idea 30 a very complex issue regarding depression into something simple and easily understandable, and that tends to appeal to a lot of people. 26.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People in this community tend to _____ with the group they belong to, and often put group interests before personal ones.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Younger children tend to remain forever “the baby,” enjoyable to be around, but at times overdependent on others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "People wearing the physical smile tend to feel happier.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "As is often observed, most of us tend to associate lower notes with darker colors and higher notes with brighter colors.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The problem with Jane is that she tends to take criticism too and gets angry easily.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "照顧；傾向於某種行為或狀態",
+    "en_def": "To take care of or look after; to have a tendency or inclination towards something.",
+    "example": "She tends to her garden every morning."
+  },
+  "sentences_removed": 0
+}

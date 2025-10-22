@@ -1,0 +1,28 @@
+{
+  "lemma": "imaginative",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Folk tales are both down-to-earth and highly imaginative.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/imaginative_ex_0_43ff8e62.mp3"
+      },
+      {
+        "text": "With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/imaginative_ex_1_4ea2729d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "富有想像力的，創造性的。",
+    "en_def": "Having a creative or inventive mind; able to think of new ideas.",
+    "example": "The imaginative story captivated the children and sparked their creativity."
+  },
+  "sentences_removed": 0
+}

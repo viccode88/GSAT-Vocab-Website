@@ -1,0 +1,43 @@
+{
+  "lemma": "elderly",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If this works, huge numbers of elderly and disabled people can regain their personal mobility.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/elderly_ex_0_6e426ab9.mp3"
+      },
+      {
+        "text": "The elderly will become more mobile.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/elderly_ex_1_c7cbe552.mp3"
+      },
+      {
+        "text": "Elderly shoppers in this store are advised to take the elevator rather than the _____, which may move too fast for them to keep their balance.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/elderly_ex_2_4e7afec9.mp3"
+      },
+      {
+        "text": "Some—especially the elderly and those with weak immune systems—die.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/elderly_ex_3_6af4254c.mp3"
+      },
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/elderly_ex_4_aa8f9bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "年長的，通常指年齡較大的人，特別是老年人。",
+    "en_def": "Referring to people who are advanced in age, typically older adults.",
+    "example": "The elderly often require special care and attention."
+  },
+  "sentences_removed": 0
+}

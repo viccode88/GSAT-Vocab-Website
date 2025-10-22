@@ -1,0 +1,23 @@
+{
+  "lemma": "coating",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/coating_ex_0_64140f1a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "覆蓋物；塗層",
+    "en_def": "A layer of material applied to the surface of an object.",
+    "example": "The car has a protective coating to prevent rust."
+  },
+  "sentences_removed": 0
+}

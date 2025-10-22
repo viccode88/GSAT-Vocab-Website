@@ -1,0 +1,23 @@
+{
+  "lemma": "qualifications",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "(3) Aggressive, energetic, and willing to learn If you believe you have what it takes to develop this business, please call 2742-6996 C D Wanted: Reporters & Editors Southeastern Travel Services Qualifications: ﹪",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/qualifications_ex_0_c6e2efd6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "資格，通常指某人具備的能力、經驗或學歷，以滿足特定要求或標準。",
+    "en_def": "Qualifications refer to the skills, experience, or education that make someone suitable for a particular job or activity.",
+    "example": "Her qualifications include a master's degree in engineering and five years of work experience."
+  },
+  "sentences_removed": 0
+}

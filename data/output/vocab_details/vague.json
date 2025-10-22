@@ -1,0 +1,23 @@
+{
+  "lemma": "vague",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The parents’ vague understanding of their own tradition.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vague_ex_0_96674221.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "模糊的，不清楚的，缺乏明確性的。",
+    "en_def": "Not clearly expressed or defined; lacking precision or detail.",
+    "example": "Her explanation was too vague for me to understand the main point."
+  },
+  "sentences_removed": 0
+}

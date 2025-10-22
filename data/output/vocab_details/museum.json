@@ -1,0 +1,90 @@
+{
+  "lemma": "museum",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 14,
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world’s leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/museum_ex_0_1ea6a844.mp3"
+      },
+      {
+        "text": "Situated on both banks of the winding River Vltava, Prague is like one big open-air museum.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/museum_ex_1_e747283b.mp3"
+      },
+      {
+        "text": "While many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/museum_ex_2_34bfe4a2.mp3"
+      },
+      {
+        "text": "For example, Egyptian culture would not have become so well-known if the museums had not put Egyptian mummies on show.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/museum_ex_3_92370774.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The British Museum has not signed the declaration, but says it fully supports it.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Only in the leading museums can the objects be fully appreciated by the world.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The entire island of Kizhi is, 18 , an outdoor museum of wooden architecture created in 1966.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Such is the case with an old leather shoe in a museum in Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What reason do the major museums provide for not handing back the ancient objects?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "But the British Museum has said that the Museum is the best possible place for them.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "concerning the tragic incident have now been preserved in the museum.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "博物館：收藏、保護和展示藝術品、文物或科學標本的機構。",
+    "en_def": "A museum is an institution that collects, conserves, and displays artworks, artifacts, or scientific specimens.",
+    "example": "We visited the museum to see the new art exhibition."
+  },
+  "sentences_removed": 2
+}

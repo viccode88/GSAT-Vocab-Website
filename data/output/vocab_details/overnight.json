@@ -1,0 +1,23 @@
+{
+  "lemma": "overnight",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, they provide low-budget, overnight lodging in commerce centers in large cities worldwide.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/overnight_ex_0_6e1b0daa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一整夜的，過夜的",
+    "en_def": "For or during the night; occurring or lasting for one night.",
+    "example": "We decided to stay overnight at the hotel."
+  },
+  "sentences_removed": 0
+}

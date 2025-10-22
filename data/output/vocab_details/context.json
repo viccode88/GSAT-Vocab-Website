@@ -1,0 +1,23 @@
+{
+  "lemma": "context",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The preceding passage refers to the word 'hacking' in the context of (A) climbing Mount Everest. (B) a game for young individuals.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/context_ex_0_e3999a3f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "上下文；背景；情境",
+    "en_def": "The circumstances or setting surrounding an event, statement, or idea that help to clarify its meaning.",
+    "example": "To understand the author's message, you need to consider the historical context of the story."
+  },
+  "sentences_removed": 0
+}

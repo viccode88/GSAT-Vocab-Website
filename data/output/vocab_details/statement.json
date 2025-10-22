@@ -1,0 +1,299 @@
+{
+  "lemma": "statement",
+  "count": 57,
+  "pos_dist": {
+    "NOUN": 57
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements can be inferred from the article?",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/statement_ex_0_2aa494ef.mp3"
+      },
+      {
+        "text": "The author's statement about the highway fence's ability to retain a smaller and lighter car (A) is the author's assumption.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/statement_ex_1_6414c909.mp3"
+      },
+      {
+        "text": "From the statement “But … most people don’t take any notice of the doctor's advice!”",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/statement_ex_2_9b498a5c.mp3"
+      },
+      {
+        "text": "Which of the following statements is explicitly mentioned in the passage? (A) Amy’s father planted carnations in the garden.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/statement_ex_3_2c64e6c6.mp3"
+      },
+      {
+        "text": "Wearing a bindi has become more of a fashion statement than a religious custom.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/statement_ex_4_47d9ae26.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements is true regarding GABA in zebrafish? (A) Increasing GABA level facilitates neuron activities.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about how the glass armonica works? (A) Water has to be poured into the glass hemispheres. (B) Colored paint makes it sound better and last longer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about the prickly pear cactus is true? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the process of sculpting ice?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Wetas are unpleasant to the eye.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is TRUE?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the practice of wearing a bindi today?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about how the Kiddie Stool works? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about extra virgin olive oil?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the earliest travel document?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Different dogs display strengths in different intelligences.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true? (A) Magic began about 3,700 years ago.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Toni Morrison? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is TRUE? (A) Company workers started to dress down about twenty years ago.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about the hard hat? (A) Global sales have doubled every ten years.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Wesla Whitfield’s physical disability?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Capoeira? (A) It was greatly influenced by modern dancing styles.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Small living things like bacteria provide food for other living things.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is FALSE about the island of Kauai? (A)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about Velcro is true?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about Alexander Dumas is FALSE?",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the Yellowstone National Park?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true according to the passage? (A) Rapid speech without mistakes is a reliable sign of intelligence.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about space junk?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about V2V? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Jack’s Disk Doctor Service has only one standard fee.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about fireflies is true? (A) All kinds of fireflies use the same signals.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Kamba and Maasai people? (A) Maasai people are a threat to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about West Nile? (A) Its symptoms usually appear within two weeks.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Willig was fined $250,000.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is TRUE?",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements can be inferred from the passage? (A)",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true? (A) Unconventional proms have been organized since the 1960s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about horror movies can be inferred from the passage? (A) Most horror movie lovers are prone to aggressive behavior.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Robot Redford was a talking machine. (B) Robot Redford walked to the stage by itself.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about elephants and the tea gardens is true according to the passage? (A)",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is FALSE? (A)",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements can be supported by the passage? (A) A robot was designed to let humans decrease their productivity.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Tofu is a rich protein source.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Morgan’s Wonderland? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Folk healers choose different herbs to cure diseases without any sound basis.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the color of angelfish? (A) Female angelfish are blue in color.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements about foggers is true? (A)",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about use of the hoop in history?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Carnegie knew Hunter in person.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true, according to the passage? (A) Knight was injured in the explosion of his traffic light.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about tall tales is NOT TRUE? (A) Tall tales are factual stories.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Mixing salt with water is not as easy as removing salt from seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "陳述；聲明；報告",
+    "en_def": "A clear expression of something in speech or writing.",
+    "example": "The statement was read aloud to the audience."
+  },
+  "sentences_removed": 1
+}

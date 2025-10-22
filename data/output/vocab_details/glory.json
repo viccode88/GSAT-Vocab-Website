@@ -1,0 +1,23 @@
+{
+  "lemma": "glory",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The glory lies not in the achievement but in the sacrifice.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/glory_ex_0_fe8da5b9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "榮耀；光榮的狀態或品質",
+    "en_def": "High renown or honor won by notable achievements.",
+    "example": "The athlete achieved glory by winning the gold medal."
+  },
+  "sentences_removed": 0
+}

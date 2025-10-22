@@ -1,0 +1,23 @@
+{
+  "lemma": "magnet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/magnet_ex_0_456b446e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種能夠吸引鐵或其他磁性材料的物體，通常由鐵氧體或其他磁性材料製成。",
+    "en_def": "An object that produces a magnetic field and can attract iron or other magnetic materials, typically made from ferromagnetic materials.",
+    "example": "The magnet stuck to the refrigerator door."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cup",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.”",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cup_ex_0_e7c2124c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "杯子，一種用來盛飲料的容器，通常有把手。",
+    "en_def": "A small, typically cylindrical container used for drinking beverages, often with a handle.",
+    "example": "She poured coffee into her favorite cup."
+  },
+  "sentences_removed": 1
+}

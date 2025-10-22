@@ -1,0 +1,23 @@
+{
+  "lemma": "showcase",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/showcase_ex_0_f4630afa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "展示，展覽，特別展示某物以引起注意或興趣。",
+    "en_def": "To display or exhibit something, especially to attract attention or interest.",
+    "example": "The artist will showcase her new paintings at the gallery this weekend."
+  },
+  "sentences_removed": 0
+}

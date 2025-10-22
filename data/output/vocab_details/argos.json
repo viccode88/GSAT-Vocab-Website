@@ -1,0 +1,28 @@
+{
+  "lemma": "argos",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/argos_ex_0_adc4360e.mp3"
+      },
+      {
+        "text": "16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/argos_ex_1_2434db40.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿爾戈斯，希臘神話中的城市，以其在神話和歷史上的重要性而聞名。",
+    "en_def": "Argos, a city in ancient Greece known for its significance in mythology and history.",
+    "example": "In ancient times, Argos was a powerful city-state in Greece."
+  },
+  "sentences_removed": 0
+}

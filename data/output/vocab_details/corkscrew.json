@@ -1,0 +1,23 @@
+{
+  "lemma": "corkscrew",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/corkscrew_ex_0_729fc548.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "開瓶器，一種用於拔出瓶塞的工具，通常用於葡萄酒瓶。",
+    "en_def": "A tool used for removing corks from bottles, typically wine bottles.",
+    "example": "He used a corkscrew to open the bottle of wine."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "asleep",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On his first trip to Europe, why did Camake think the audience might fall asleep? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/asleep_ex_0_2e5c821c.mp3"
+      },
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/asleep_ex_1_e1abf914.mp3"
+      },
+      {
+        "text": "He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/asleep_ex_2_8b7e82ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "睡著的，處於睡眠狀態的。",
+    "en_def": "In a state of sleep; not awake.",
+    "example": "The baby is sound asleep in her crib."
+  },
+  "sentences_removed": 0
+}

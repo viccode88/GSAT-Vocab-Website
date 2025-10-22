@@ -1,0 +1,28 @@
+{
+  "lemma": "improper",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The boy to the teacher for his improper behavior.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/improper_ex_0_890c178c.mp3"
+      },
+      {
+        "text": "G…and it is improper to say so.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/improper_ex_1_b15ace1f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不當的；不合適的",
+    "en_def": "Not proper or suitable; inappropriate.",
+    "example": "His behavior at the meeting was considered improper."
+  },
+  "sentences_removed": 0
+}

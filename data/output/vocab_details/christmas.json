@@ -1,0 +1,33 @@
+{
+  "lemma": "christmas",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But __16__ that Christmas is just a few weeks away, __17__ is a gift idea.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/christmas_ex_0_600d0860.mp3"
+      },
+      {
+        "text": "On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/christmas_ex_1_494b22f2.mp3"
+      },
+      {
+        "text": "Glenn began the day with decorating the Rockefeller Center Christmas tree.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/christmas_ex_2_af80412c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聖誕節，一個慶祝耶穌基督誕生的節日，通常在每年的12月25日慶祝。",
+    "en_def": "Christmas, a holiday celebrating the birth of Jesus Christ, typically observed on December 25th.",
+    "example": "We decorate the tree and exchange gifts every Christmas."
+  },
+  "sentences_removed": 0
+}

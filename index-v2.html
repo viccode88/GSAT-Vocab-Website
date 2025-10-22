@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>學測高頻單字</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://gsat-vocab-api.vic0407lu.workers.dev" crossorigin>
+    <link rel="preload" as="fetch" href="https://gsat-vocab-api.vic0407lu.workers.dev/api/vocab/index" crossorigin="anonymous">
+    <link rel="preload" as="fetch" href="https://gsat-vocab-api.vic0407lu.workers.dev/api/search-index" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <style>
+        html, body {
+            height: 100%;
+        }
+        body {
+            font-family: 'Inter', 'Noto Sans TC', sans-serif;
+        }
+        
+        /* 美化滾動條 */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #f8fafc; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        
+        /* 高亮樣式 */
+        .highlight {
+            background-color: #e0e7ff;
+            color: #4338ca;
+            font-weight: 600;
+            padding: 0 4px;
+            border-radius: 4px;
+        }
+        
+        /* 行動裝置詳細頁面滑入效果 */
+        @media (max-width: 1023px) {
+            #detail-wrapper {
+                transform: translateX(100%);
+                transition: transform 0.3s ease-in-out;
+                will-change: transform;
+            }
+            .mobile-detail-view-active #detail-wrapper {
+                transform: translateX(0);
+            }
+        }
+
+        /* 篩選器按鈕樣式 */
+        .filter-btn {
+            padding: 8px 12px;
+            border-radius: 6px;
+            transition: all 0.2s ease-in-out;
+            background-color: #f1f5f9;
+            color: #334155;
+            border: 1px solid #e2e8f0;
+            font-size: 0.875rem;
+        }
+        .filter-btn:hover {
+            background-color: #e2e8f0;
+        }
+        .filter-btn.active {
+            background-color: #4f46e5;
+            color: white;
+            font-weight: 600;
+            border-color: #4f46e5;
+        }
+        
+        /* 網格瀏覽模式樣式 */
+        .browse-mode #word-list-container {
+            background-color: #f8fafc;
+        }
+        .browse-mode #word-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+            gap: 0.75rem;
+            padding: 1rem;
+        }
+        .browse-cell {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem 0.25rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.5rem;
+            background-color: white;
+            font-weight: 500;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+            font-size: 1rem;
+            line-height: 1.2;
+            word-break: break-all;
+        }
+        .browse-cell:hover {
+            border-color: #a5b4fc;
+            background-color: #eef2ff;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px -1px rgb(0 0 0 / 0.07);
+        }
+        .browse-cell.active-item {
+            background-color: #c7d2fe;
+            border-color: #818cf8;
+            color: #1e3a8a;
+            font-weight: 600;
+        }
+
+        /* 列表模式中被選中項目的高亮樣式 */
+        .list-item.active-item {
+            background-color: #eef2ff;
+        }
+        
+        /* 頻率滑動條樣式 */
+        .freq-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 6px;
+            border-radius: 3px;
+            background: linear-gradient(to right, #10b981 0%, #f59e0b 50%, #ef4444 100%);
+            outline: none;
+        }
+        .freq-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #4f46e5;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        .freq-slider::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #4f46e5;
+            cursor: pointer;
+            border: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        /* 字卡翻轉效果 */
+        .flashcard {
+            perspective: 1000px;
+            cursor: pointer;
+        }
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+        }
+        .flashcard.flipped .flashcard-inner {
+            transform: rotateY(180deg);
+        }
+        .flashcard-front, .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-radius: 1rem;
+            padding: 2rem;
+        }
+        .flashcard-back {
+            transform: rotateY(180deg);
+        }
+        
+        /* 測驗選項樣式 */
+        .quiz-option {
+            transition: all 0.2s;
+        }
+        .quiz-option:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .quiz-option.correct {
+            background-color: #dcfce7;
+            border-color: #16a34a;
+        }
+        .quiz-option.incorrect {
+            background-color: #fee2e2;
+            border-color: #dc2626;
+        }
+        
+        /* 加載動畫 */
+        .loading-spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #4f46e5;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* 隱藏類 */
+        .hidden {
+            display: none !important;
+        }
+        
+        /* 網格瀏覽懸浮預覽浮窗 - 清爽毛玻璃風格 */
+        .browse-preview-tooltip {
+            position: fixed;
+            z-index: 9999;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(20px) saturate(180%);
+            -webkit-backdrop-filter: blur(20px) saturate(180%);
+            color: #1e293b;
+            padding: 16px 20px;
+            border-radius: 16px;
+            border: 1px solid rgba(148, 163, 184, 0.2);
+            box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.12), 
+                        0 10px 20px -5px rgba(0, 0, 0, 0.08),
+                        inset 0 1px 1px rgba(255, 255, 255, 0.6);
+            pointer-events: none;
+            opacity: 0;
+            transform: translateY(-8px) scale(0.95);
+            transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1), 
+                        transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            max-width: 320px;
+            min-width: 240px;
+        }
+        .browse-preview-tooltip.show {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+        .browse-preview-tooltip::before {
+            content: '';
+            position: absolute;
+            bottom: -7px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 0;
+            border-left: 9px solid transparent;
+            border-right: 9px solid transparent;
+            border-top: 9px solid rgba(255, 255, 255, 0.85);
+            filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.08));
+        }
+        .browse-preview-word {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 6px;
+            color: #0f172a;
+            letter-spacing: 0.3px;
+        }
+        .browse-preview-pos {
+            display: inline-block;
+            font-size: 0.7rem;
+            color: #6366f1;
+            background: rgba(99, 102, 241, 0.1);
+            padding: 3px 8px;
+            border-radius: 6px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 8px;
+        }
+        .browse-preview-def {
+            font-size: 0.875rem;
+            color: #475569;
+            line-height: 1.5;
+            margin-top: 4px;
+            max-height: 3em;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        .browse-preview-count {
+            font-size: 0.7rem;
+            color: #94a3b8;
+            margin-top: 8px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .browse-preview-count::before {
+            content: '•';
+            color: #cbd5e1;
+        }
+        
+        /* 手機版預覽狀態 */
+        @media (max-width: 1023px) {
+            .browse-cell.preview-active {
+                background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+                border-color: #818cf8;
+                transform: scale(1.05);
+                box-shadow: 0 12px 24px -8px rgba(79, 70, 229, 0.25);
+                position: relative;
+            }
+            .browse-cell.preview-active::after {
+                content: attr(data-preview-text);
+                position: absolute;
+                bottom: -50px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: rgba(255, 255, 255, 0.95);
+                backdrop-filter: blur(10px);
+                padding: 8px 12px;
+                border-radius: 8px;
+                font-size: 0.75rem;
+                color: #475569;
+                white-space: nowrap;
+                max-width: 200px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+                border: 1px solid rgba(148, 163, 184, 0.2);
+                z-index: 100;
+                pointer-events: none;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slate-100 text-slate-700 antialiased">
+
+    <div id="app" class="h-full flex flex-col">
+        <!-- 頂部導航欄 -->
+        <header class="flex-shrink-0 bg-white/80 backdrop-blur-sm border-b border-slate-200 p-3 px-4 sm:px-6 flex items-center justify-between z-20">
+            <div class="flex items-center gap-3">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-7 h-7 text-indigo-600">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="m12 14 9-5-9-5-9 5 9 5Z" />
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 14v7m-9-5v7m18-7v7" />
+                </svg>
+                <h1 id="home-link" class="text-xl font-bold text-slate-800 cursor-pointer">學測高頻單字</h1>
+            </div>
+            <div class="flex items-center gap-2 sm:gap-4">
+                <!-- 模式切換按鈕 -->
+                <button id="browse-mode-btn" class="mode-btn p-2 rounded-md hover:bg-slate-200 transition-colors bg-indigo-100" data-mode="browse" title="瀏覽模式">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25A2.25 2.25 0 0 1 13.5 8.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
+                    </svg>
+                </button>
+                <button id="flashcard-mode-btn" class="mode-btn p-2 rounded-md hover:bg-slate-200 transition-colors" data-mode="flashcard" title="字卡模式">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 7.125C2.25 6.504 2.754 6 3.375 6h6c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-6a1.125 1.125 0 0 1-1.125-1.125v-3.75ZM14.25 8.625c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v8.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 0 1-1.125-1.125v-8.25ZM3.75 16.125c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v2.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 0 1-1.125-1.125v-2.25Z" />
+                    </svg>
+                </button>
+                <button id="quiz-mode-btn" class="mode-btn p-2 rounded-md hover:bg-slate-200 transition-colors" data-mode="quiz" title="測驗模式">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 0 0 2.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 0 0-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75 2.25 2.25 0 0 0-.1-.664m-5.8 0A2.251 2.251 0 0 1 13.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25ZM6.75 12h.008v.008H6.75V12Zm0 3h.008v.008H6.75V15Zm0 3h.008v.008H6.75V18Z" />
+                    </svg>
+                </button>
+                
+            </div>
+        </header>
+
+        <!-- 主內容區 -->
+        <div id="main-content" class="flex-1 grid grid-cols-12 relative overflow-hidden min-h-0">
+            <!-- 側邊欄控制面板 -->
+            <aside id="control-panel" class="h-full col-span-12 lg:col-span-3 xl:col-span-2 bg-white border-r border-slate-200 p-4 flex flex-col space-y-6 overflow-y-auto absolute lg:relative inset-y-0 left-0 transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out z-40 lg:z-10 w-4/5 sm:w-1/2 lg:w-full">
+                <!-- 搜索框 -->
+                <div class="relative">
+                    <svg class="w-5 h-5 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+                    </svg>
+                    <input type="text" id="search-input" placeholder="搜尋單字..." class="w-full bg-slate-100 border border-slate-200 rounded-md py-2 pl-10 pr-4 focus:ring-2 focus:ring-indigo-500 focus:outline-none focus:border-indigo-500 transition">
+                </div>
+                
+                <!-- 頻率滑動條 -->
+                <div>
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="text-xs font-semibold uppercase text-slate-500">按頻率篩選</h3>
+                        <span id="freq-range-display" class="text-xs font-mono text-indigo-600">1-348</span>
+                    </div>
+                    <input type="range" id="freq-slider-min" min="1" max="6359" value="1" class="freq-slider mb-2">
+                    <input type="range" id="freq-slider-max" min="1" max="6359" value="20" class="freq-slider">
+                    <div id="freq-mini-tools" class="mt-3 grid grid-cols-2 gap-2 text-xs">
+                        <input id="freq-input-min" type="number" class="w-full px-2 py-1 border rounded" min="1" max="6359" value="1" placeholder="最小值" />
+                        <input id="freq-input-max" type="number" class="w-full px-2 py-1 border rounded" min="1" max="6359" value="20" placeholder="最大值" />
+                        <button id="freq-reset-1-20" class="col-span-2 filter-btn">重設為 1-20</button>
+                    </div>
+                </div>
+                
+                <!-- 詞性分類 -->
+                <div>
+                    <h3 class="text-xs font-semibold uppercase text-slate-500 mb-2">按詞性分類</h3>
+                    <div id="pos-filter-group" class="grid grid-cols-2 gap-2 text-sm">
+                        <button class="filter-btn pos-filter active" data-pos="all">全部詞性</button>
+                        <button class="filter-btn pos-filter" data-pos="NOUN">名詞</button>
+                        <button class="filter-btn pos-filter" data-pos="VERB">動詞</button>
+                        <button class="filter-btn pos-filter" data-pos="ADJ">形容詞</button>
+                        <button class="filter-btn pos-filter" data-pos="ADV">副詞</button>
+                    </div>
+                </div>
+                
+                <!-- 隨機單字按鈕 -->
+                <div>
+                    <button id="random-word-btn" class="w-full bg-indigo-600 text-white font-semibold rounded-md py-2.5 hover:bg-indigo-700 active:bg-indigo-800 transition-transform active:scale-95 flex items-center justify-center gap-2">
+                        <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 21v-7.5A2.25 2.25 0 0 0 11.25 11.25H4.5A2.25 2.25 0 0 0 2.25 13.5V21M3 3h2.25M3 6h2.25m1.5-3h2.25m-2.25 3h2.25M3 9h2.25M6 9h2.25m1.5-6h2.25m-2.25 3h2.25m-2.25 3h2.25M9 3h2.25M9 6h2.25m9-3h2.25M15 6h2.25m1.5-3h2.25m-2.25 3h2.25m1.5 3h2.25M18 9h2.25" />
+                        </svg>
+                        隨機一字
+                    </button>
+                </div>
+            </aside>
+            
+            <!-- 遮罩層（行動裝置） -->
+            <div id="overlay" class="fixed inset-0 bg-black/30 z-30 hidden lg:hidden"></div>
+
+            <!-- 瀏覽模式 -->
+            <div id="browse-container" class="h-full col-span-12 lg:col-span-9 xl:col-span-10 flex overflow-hidden">
+                <!-- 單字列表 -->
+                <main id="word-list-container" class="h-full bg-white border-r border-slate-200 flex flex-col flex-shrink-0">
+                    <div id="results-header" class="flex-shrink-0 p-4 border-b border-slate-200 flex justify-between items-center">
+                        <p id="results-count" class="text-sm text-slate-500">正在載入數據...</p>
+                        <div class="flex items-center gap-1.5">
+                            <button id="show-filters-btn" class="lg:hidden p-1.5 rounded hover:bg-slate-100" title="顯示篩選器">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-slate-600">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6h9.75M10.5 6a1.5 1.5 0 1 1-3 0m3 0a1.5 1.5 0 1 0-3 0M3.75 6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m-3.75 0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 0 1-3 0m3 0a1.5 1.5 0 0 0-3 0m-9.75 0h9.75" />
+                                </svg>
+                            </button>
+                            <button id="grid-toggle-btn" class="p-1.5 rounded hover:bg-slate-100" title="切換網格視圖">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-slate-600">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25A2.25 2.25 0 0 1 13.5 8.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                    <div id="word-list" class="flex-1 overflow-y-auto"></div>
+                </main>
+
+                <!-- Resizer -->
+                <div id="resizer" class="h-full w-1.5 cursor-col-resize bg-slate-200 hover:bg-indigo-200 transition-colors duration-200 ease-in-out"></div>
+
+                <!-- 詳情面板 -->
+                <div id="detail-wrapper" class="absolute inset-0 lg:relative lg:flex-1 z-20 lg:z-0">
+                    <section id="detail-panel" class="h-full w-full bg-slate-50 p-6 lg:p-8 overflow-y-auto relative">
+                        <button id="back-to-list-btn" class="lg:hidden absolute top-4 left-4 p-2 rounded-full bg-white/60 backdrop-blur-sm hover:bg-slate-200 z-50">
+                            <svg class="w-6 h-6 text-slate-700" xmlns="http://www.w.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
+                            </svg>
+                        </button>
+                        
+                        <div id="welcome-view" class="h-full flex flex-col justify-center">
+                            <h2 class="text-2xl font-bold text-slate-800">歡迎使用單字探索工具</h2>
+                            <p class="mt-2 text-slate-500">從左側開始搜尋、篩選，或點擊「隨機一字」。</p>
+                            <div class="mt-12 text-center">
+                                <svg class="w-24 h-24 mx-auto text-slate-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6a7.5 7.5 0 1 0 7.5 7.5h-7.5V6Z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 10.5H21A7.5 7.5 0 0 0 13.5 3v7.5Z" />
+                                </svg>
+                                <p id="loading-state" class="mt-4 text-slate-400 animate-pulse">正在獲取數據...</p>
+                            </div>
+                        </div>
+                        
+                        <div id="detail-view" class="hidden pt-12 lg:pt-0"></div>
+                    </section>
+                </div>
+            </div>
+
+            <!-- 字卡模式 -->
+            <div id="flashcard-container" class="hidden h-full col-span-12 flex flex-col items-center justify-center p-8 bg-slate-50">
+                <div class="flashcard w-full max-w-2xl h-96" id="flashcard">
+                    <div class="flashcard-inner h-full">
+                        <div class="flashcard-front bg-white shadow-2xl">
+                            <button id="flashcard-play" class="absolute top-3 right-3 p-2 rounded-full hover:bg-slate-100" title="播放發音">
+                                <svg class="w-6 h-6 text-slate-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.01 9.01 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" />
+                                </svg>
+                            </button>
+                            <h2 id="flashcard-word" class="text-4xl md:text-5xl font-bold text-indigo-700 mb-4 break-words">Loading...</h2>
+                            <p id="flashcard-pos" class="text-slate-500"></p>
+                            <p class="text-sm text-slate-400 mt-8">點擊查看釋義</p>
+                        </div>
+                        <div class="flashcard-back bg-indigo-50 shadow-2xl">
+                            <div id="flashcard-definitions" class="text-center space-y-4 max-w-xl overflow-y-auto max-h-80"></div>
+                            <p class="text-sm text-slate-400 mt-8">點擊返回</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-6 flex flex-wrap gap-2 justify-center">
+                    <button id="flashcard-prev" class="px-4 py-2 text-sm sm:text-base bg-slate-200 rounded-lg hover:bg-slate-300">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
+                        </svg>
+                    </button>
+                    <button id="flashcard-known" class="px-4 py-2 text-sm sm:text-base bg-green-500 text-white rounded-lg hover:bg-green-600">已掌握</button>
+                    <button id="flashcard-review" class="px-4 py-2 text-sm sm:text-base bg-yellow-500 text-white rounded-lg hover:bg-yellow-600">需複習</button>
+                    <button id="flashcard-next" class="px-4 py-2 text-sm sm:text-base bg-slate-200 rounded-lg hover:bg-slate-300">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="mt-4 text-center">
+                    <p id="flashcard-progress" class="text-sm text-slate-500"></p>
+                </div>
+                <div id="flashcard-summary" class="hidden w-full max-w-2xl bg-white rounded-lg shadow-xl p-6">
+                    <h3 class="text-2xl font-bold text-slate-800 mb-4">本輪練習結算</h3>
+                    <div class="grid grid-cols-3 gap-4 mb-6 text-center">
+                        <div><div class="text-3xl font-bold text-slate-800" id="fc-total">0</div><div class="text-sm text-slate-500">總題數</div></div>
+                        <div><div class="text-3xl font-bold text-green-600" id="fc-known">0</div><div class="text-sm text-slate-500">已掌握</div></div>
+                        <div><div class="text-3xl font-bold text-yellow-600" id="fc-review">0</div><div class="text-sm text-slate-500">需複習</div></div>
+                    </div>
+                    <div class="flex flex-wrap gap-3">
+                        <button id="fc-restart-all" class="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700">重練全部</button>
+                        <button id="fc-restart-review" class="px-4 py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600">只練需複習</button>
+                        <button id="fc-export-review" class="px-4 py-2 bg-slate-200 rounded-lg hover:bg-slate-300">導出需複習清單</button>
+                        <button id="fc-back-to-setup" class="ml-auto px-4 py-2 bg-slate-100 rounded-lg hover:bg-slate-200">返回設定</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 測驗模式 -->
+            <div id="quiz-container" class="hidden h-full col-span-12 overflow-y-auto bg-slate-50">
+                <!-- 測驗選擇界面 -->
+                <div id="quiz-selection" class="p-8 max-w-4xl mx-auto">
+                    <h2 class="text-3xl font-bold text-slate-800 mb-8">選擇測驗模式</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <button class="quiz-type-btn p-6 bg-white rounded-lg border-2 border-slate-200 hover:border-indigo-500 transition text-left" data-type="choice">
+                            <h3 class="text-xl font-semibold mb-2">選擇題測驗</h3>
+                            <p class="text-slate-600">給定義選單詞，或給單詞選定義</p>
+                        </button>
+                        <button class="quiz-type-btn p-6 bg-white rounded-lg border-2 border-slate-200 hover:border-indigo-500 transition text-left" data-type="spelling">
+                            <h3 class="text-xl font-semibold mb-2">拼寫測驗</h3>
+                            <p class="text-slate-600">看定義後拼寫單詞</p>
+                        </button>
+                        <button class="quiz-type-btn p-6 bg-white rounded-lg border-2 border-slate-200 hover:border-indigo-500 transition text-left" data-type="fill">
+                            <h3 class="text-xl font-semibold mb-2">填空測驗</h3>
+                            <p class="text-slate-600">從例句中選擇正確的單詞</p>
+                        </button>
+                    </div>
+                    <div class="mt-8 space-y-4">
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">題目數量</label>
+                            <input type="number" id="quiz-count" value="10" min="1" max="100" class="w-full px-4 py-2 border border-slate-300 rounded-md focus:ring-2 focus:ring-indigo-500 focus:outline-none">
+                        </div>
+
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">選擇題方向</label>
+                            <div class="flex flex-wrap gap-4 items-center text-sm">
+                                <label class="inline-flex items-center gap-2">
+                                    <input type="radio" name="quiz-choice-direction" value="word_to_def" checked>
+                                    <span>單字考定義</span>
+                                </label>
+                                <label class="inline-flex items-center gap-2">
+                                    <input type="radio" name="quiz-choice-direction" value="def_to_word">
+                                    <span>定義考單字</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">詞性（可多選）</label>
+                            <div id="quiz-pos-group" class="grid grid-cols-3 gap-2">
+                                <button type="button" class="filter-btn pos-chip active" data-pos="NOUN">名詞</button>
+                                <button type="button" class="filter-btn pos-chip active" data-pos="VERB">動詞</button>
+                                <button type="button" class="filter-btn pos-chip active" data-pos="ADJ">形容詞</button>
+                                <button type="button" class="filter-btn pos-chip active" data-pos="ADV">副詞</button>
+                                <button type="button" class="filter-btn pos-chip" data-pos="PROPN">專有名詞</button>
+                            </div>
+                            <label class="inline-flex items-center gap-2 text-sm text-slate-600 mt-2">
+                                <input id="quiz-exclude-propn" type="checkbox" checked>
+                                <span>排除專有名詞</span>
+                            </label>
+                        </div>
+
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 mb-2">單字頻率範圍（count）</label>
+                            <div class="grid grid-cols-2 gap-3">
+                                <input type="number" id="quiz-freq-min" value="1" min="1" class="w-full px-4 py-2 border border-slate-300 rounded-md focus:ring-2 focus:ring-indigo-500 focus:outline-none" placeholder="最小值">
+                                <input type="number" id="quiz-freq-max" value="5" min="1" class="w-full px-4 py-2 border border-slate-300 rounded-md focus:ring-2 focus:ring-indigo-500 focus:outline-none" placeholder="最大值">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 測驗進行界面 -->
+                <div id="quiz-active" class="hidden p-8 max-w-3xl mx-auto">
+                    <div class="mb-6 flex justify-between items-center">
+                        <h3 class="text-xl font-semibold">題目 <span id="quiz-current">1</span> / <span id="quiz-total">10</span></h3>
+                        <button id="quiz-exit" class="px-4 py-2 text-slate-600 hover:text-slate-900">離開測驗</button>
+                    </div>
+                    <div id="quiz-question-container" class="bg-white rounded-lg p-8 shadow-lg"></div>
+                </div>
+
+                <!-- 測驗結果界面 -->
+                <div id="quiz-results" class="hidden p-8 max-w-3xl mx-auto">
+                    <h2 class="text-3xl font-bold text-slate-800 mb-6">測驗結果</h2>
+                    <div class="bg-white rounded-lg p-8 shadow-lg">
+                        <div class="text-center mb-8">
+                            <div class="text-6xl font-bold text-indigo-600 mb-2" id="quiz-score">0%</div>
+                            <p class="text-slate-600">正確率</p>
+                        </div>
+                        <div class="grid grid-cols-3 gap-4 mb-8">
+                            <div class="text-center">
+                                <div class="text-2xl font-bold text-green-600" id="quiz-correct-count">0</div>
+                                <p class="text-sm text-slate-600">正確</p>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-2xl font-bold text-red-600" id="quiz-incorrect-count">0</div>
+                                <p class="text-sm text-slate-600">錯誤</p>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-2xl font-bold text-slate-600" id="quiz-total-count">0</div>
+                                <p class="text-sm text-slate-600">總計</p>
+                            </div>
+                        </div>
+                        <div class="space-y-2" id="quiz-review-list"></div>
+                        <div class="mt-6 flex gap-4">
+                            <button id="quiz-restart" class="flex-1 px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700">再測驗一次</button>
+                            <button id="quiz-back" class="flex-1 px-6 py-3 bg-slate-200 rounded-lg hover:bg-slate-300">返回選擇</button>
+                            <button id="quiz-retry-incorrect" class="flex-1 px-6 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600">只重測錯題</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 字卡設定視窗 -->
+            <div id="flashcard-setup" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-black/40">
+                <div class="bg-white w-full max-w-xl rounded-lg p-6 space-y-4">
+                    <h3 class="text-xl font-semibold">字卡設定</h3>
+                    <div class="grid grid-cols-1 gap-4">
+                        <div>
+                            <label class="text-sm font-medium">題數</label>
+                            <input id="flashcard-count" type="number" min="1" max="100" value="20" class="w-full mt-1 px-3 py-2 border rounded" />
+                        </div>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">詞性（可多選）</label>
+                        <div id="flashcard-pos-group" class="grid grid-cols-3 gap-2">
+                            <button type="button" class="filter-btn pos-chip active" data-pos="NOUN">名詞</button>
+                            <button type="button" class="filter-btn pos-chip active" data-pos="VERB">動詞</button>
+                            <button type="button" class="filter-btn pos-chip active" data-pos="ADJ">形容詞</button>
+                            <button type="button" class="filter-btn pos-chip active" data-pos="ADV">副詞</button>
+                            <button type="button" class="filter-btn pos-chip" data-pos="PROPN">專有名詞</button>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium mb-2">單字頻率範圍（count）</label>
+                        <div class="grid grid-cols-2 gap-3">
+                            <input type="number" id="flashcard-freq-min" value="1" min="1" class="w-full px-3 py-2 border rounded" placeholder="最小值" />
+                            <input type="number" id="flashcard-freq-max" value="10" min="1" class="w-full px-3 py-2 border rounded" placeholder="最大值" />
+                        </div>
+                    </div>
+                    <div>
+                        <label class="inline-flex items-center gap-2 text-sm text-slate-700">
+                            <input id="flashcard-auto-speak" type="checkbox" checked />
+                            <span>自動發音（每張卡顯示時自動播放）</span>
+                        </label>
+                    </div>
+                    <details>
+                        <summary class="cursor-pointer text-sm text-slate-600">手動勾選（從當前條件前 100 個）</summary>
+                        <div class="mt-2 flex gap-2 items-center">
+                            <input id="flashcard-manual-search" type="text" placeholder="搜尋單字..." class="w-full px-3 py-2 border rounded text-sm" />
+                        </div>
+                        <div id="flashcard-manual-list" class="mt-2 max-h-56 overflow-auto border rounded p-2 text-sm"></div>
+                    </details>
+                    <div class="flex gap-3 justify-end pt-2">
+                        <button id="flashcard-setup-cancel" class="px-4 py-2 rounded bg-slate-200 hover:bg-slate-300">取消</button>
+                        <button id="flashcard-setup-start" class="px-5 py-2 rounded bg-indigo-600 text-white hover:bg-indigo-700">開始練習</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 加載提示 -->
+    <div id="loading-overlay" class="fixed inset-0 bg-black/50 flex items-center justify-center z-50 hidden">
+        <div class="bg-white rounded-lg p-8 flex flex-col items-center">
+            <div class="loading-spinner mb-4"></div>
+            <p class="text-slate-700" id="loading-text">載入中...</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        const resizer = document.getElementById('resizer');
+        const leftPanel = document.getElementById('word-list-container');
+
+        function setupLayout() {
+            if (window.innerWidth >= 1024) { // Desktop
+                if (leftPanel.style.width === '100%' || leftPanel.style.width === '') {
+                    leftPanel.style.width = '50%';
+                }
+                resizer.style.display = 'block';
+            } else { // Mobile
+                leftPanel.style.width = '100%';
+                resizer.style.display = 'none';
+            }
+        }
+
+        let isResizing = false;
+        resizer.addEventListener('mousedown', (e) => {
+            if (window.innerWidth < 1024) return;
+            e.preventDefault();
+            isResizing = true;
+            document.body.style.cursor = 'col-resize';
+            document.body.style.userSelect = 'none';
+
+            document.addEventListener('mousemove', onMouseMove);
+            document.addEventListener('mouseup', onMouseUp);
+        });
+
+        function onMouseMove(e) {
+            if (!isResizing) return;
+            const containerRect = leftPanel.parentElement.getBoundingClientRect();
+            let newWidth = e.clientX - containerRect.left;
+            
+            const minWidth = 250;
+            const maxWidth = containerRect.width - 250;
+
+            if (newWidth < minWidth) newWidth = minWidth;
+            if (newWidth > maxWidth) newWidth = maxWidth;
+
+            leftPanel.style.width = `${newWidth}px`;
+        }
+
+        function onMouseUp() {
+            isResizing = false;
+            document.body.style.cursor = 'default';
+            document.body.style.userSelect = 'auto';
+
+            document.removeEventListener('mousemove', onMouseMove);
+            document.removeEventListener('mouseup', onMouseUp);
+        }
+
+        // Initial setup and event listener
+        setupLayout();
+        window.addEventListener('resize', setupLayout);
+        (function () {
+            const minSlider = document.getElementById('freq-slider-min');
+            const maxSlider = document.getElementById('freq-slider-max');
+            const minInput  = document.getElementById('freq-input-min');
+            const maxInput  = document.getElementById('freq-input-max');
+            const display   = document.getElementById('freq-range-display');
+            const resetBtn  = document.getElementById('freq-reset-1-20');
+
+            if (!minSlider || !maxSlider || !minInput || !maxInput || !display) return;
+
+            const clamp = (v, lo, hi) => Math.min(Math.max(v, lo), hi);
+            const syncDisplayOnly = () => {};
+
+            const syncFromInputs = () => {
+                let minV = Number(minInput.value || 1);
+                let maxV = Number(maxInput.value || 20);
+                const hi = Number(maxSlider.max || 6359);
+                const lo = Number(minSlider.min || 1);
+                minV = clamp(minV, lo, hi);
+                maxV = clamp(maxV, lo, hi);
+                if (minV > maxV) [minV, maxV] = [maxV, minV];
+                minSlider.value = String(minV);
+                maxSlider.value = String(maxV);
+                if (typeof updateFreqRange === 'function') {
+                    updateFreqRange();
+                } else {
+                    syncDisplayOnly();
+                }
+            };
+
+            const syncFromSliders = () => {
+                let minV = Number(minSlider.value);
+                let maxV = Number(maxSlider.value);
+                if (minV > maxV) [minV, maxV] = [maxV, minV];
+                minInput.value = String(minV);
+                maxInput.value = String(maxV);
+                syncDisplayOnly();
+            };
+
+            minInput.addEventListener('change', syncFromInputs);
+            maxInput.addEventListener('change', syncFromInputs);
+            minSlider.addEventListener('input', syncFromSliders);
+            maxSlider.addEventListener('input', syncFromSliders);
+            if (resetBtn) {
+                resetBtn.addEventListener('click', () => {
+                    minSlider.value = '1';
+                    maxSlider.value = '20';
+                    // 先同步輸入框，再套用篩選
+                    syncFromSliders();
+                    if (typeof updateFreqRange === 'function') {
+                        updateFreqRange();
+                    }
+                });
+            }
+
+            // 初始化一次
+            syncFromSliders();
+        })();
+    </script>
+</body>
+</html>

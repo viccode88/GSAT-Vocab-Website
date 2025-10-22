@@ -1,0 +1,23 @@
+{
+  "lemma": "sophie",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Girls’ names such as Faith, Patience, and Sophie (wisdom) are chosen because they symbolize Christian qualities.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/sophie_ex_0_eddb3588.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "索菲，常見的女性名字。",
+    "en_def": "Sophie is a common female given name.",
+    "example": "Sophie loves to read books in her free time."
+  },
+  "sentences_removed": 0
+}

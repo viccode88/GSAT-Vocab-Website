@@ -1,0 +1,28 @@
+{
+  "lemma": "secondly",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Secondly, the shows young people watch on television encourage them to drink.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/secondly_ex_0_48bb3312.mp3"
+      },
+      {
+        "text": "Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/secondly_ex_1_af6b548b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "其次，第二點",
+    "en_def": "In the second place; as the next point or consideration.",
+    "example": "Firstly, we need to gather all the data; secondly, we will analyze the results."
+  },
+  "sentences_removed": 0
+}

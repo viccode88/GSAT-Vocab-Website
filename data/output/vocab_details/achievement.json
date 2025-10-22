@@ -1,0 +1,59 @@
+{
+  "lemma": "achievement",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/achievement_ex_0_10ed9fcf.mp3"
+      },
+      {
+        "text": "The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/achievement_ex_1_81b0003b.mp3"
+      },
+      {
+        "text": "The glory lies not in the achievement but in the sacrifice.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/achievement_ex_2_fe8da5b9.mp3"
+      },
+      {
+        "text": "Another spectator said that too many Americans take the achievements of the space program for granted.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/achievement_ex_3_8190ea72.mp3"
+      },
+      {
+        "text": "Firstborns, under normal circumstances, are usually the most strongly motivated toward achievement.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/achievement_ex_4_81067cf9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Of his many achievements, probably the least well- known are his accomplishments in music.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "They emphasize the participants’ athletic achievements 27 their physical disability.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To congratulate Tom on his wonderful achievement.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "成就；成功達成的結果或目標",
+    "en_def": "A thing done successfully, typically by effort, courage, or skill.",
+    "example": "Winning the championship was her greatest achievement."
+  },
+  "sentences_removed": 0
+}

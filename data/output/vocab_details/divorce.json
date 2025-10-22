@@ -1,0 +1,28 @@
+{
+  "lemma": "divorce",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Divorced black women in American society.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/divorce_ex_0_8b580c92.mp3"
+      },
+      {
+        "text": "In 1964, Morrison got divorced and devoted herself to writing.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/divorce_ex_1_a54875c4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "離婚，指夫妻之間法律上解除婚姻關係的過程。",
+    "en_def": "The legal dissolution of a marriage by a court or other competent body.",
+    "example": "After years of conflict, they decided to file for divorce."
+  },
+  "sentences_removed": 0
+}

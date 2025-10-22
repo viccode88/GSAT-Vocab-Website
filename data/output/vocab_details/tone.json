@@ -1,0 +1,38 @@
+{
+  "lemma": "tone",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But when I tried again in my most sincere tone, it was gladly accepted.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tone_ex_0_cf1e01c6.mp3"
+      },
+      {
+        "text": "During training, the volunteers would first hear a tone, followed by a period of silence, and then feel a heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tone_ex_1_2679657b.mp3"
+      },
+      {
+        "text": "The overall tone (attitude) of this passage is _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/tone_ex_2_6cab4fde.mp3"
+      },
+      {
+        "text": "From the length of the pause between a tone and the heat pulse. 56.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tone_ex_3_5324683b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "音調；語氣；色調",
+    "en_def": "The quality or character of sound, or the attitude expressed in speech or writing.",
+    "example": "She spoke in a cheerful tone that lifted everyone's spirits."
+  },
+  "sentences_removed": 0
+}

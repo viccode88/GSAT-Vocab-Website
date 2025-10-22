@@ -1,0 +1,29 @@
+{
+  "lemma": "eshetu",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They crowd the classrooms at Bekoji Elementary School, where Eshetu works as a physical-education instructor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/eshetu_ex_0_d04337e5.mp3"
+      },
+      {
+        "text": "He saw a hope in running and joined Santayehu Eshetu’s training program.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/eshetu_ex_1_1a69f1af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種在某些文化中用來描述女性的詞彙，通常指年輕而有吸引力的女性。",
+    "en_def": "A term used in some cultures to describe a woman, often implying youth and attractiveness.",
+    "example": "She is considered an eshetu in her community, admired for her beauty and grace."
+  },
+  "sentences_removed": 0
+}

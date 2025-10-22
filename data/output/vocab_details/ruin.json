@@ -1,0 +1,39 @@
+{
+  "lemma": "ruin",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/ruin_ex_0_faad0f0d.mp3"
+      },
+      {
+        "text": "Amir tried to get to the market on the following days, but the donkey ___(34)___ the same trick and ruined the salt.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ruin_ex_1_330325ce.mp3"
+      },
+      {
+        "text": "From then on, the donkey learned the lesson, and ___(40)___ carried Amir’s salt to the market without ruining it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ruin_ex_2_be08131f.mp3"
+      },
+      {
+        "text": "As a result, much of the salt melted in the water, ruining the salt for Amir but ___(33)___",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ruin_ex_3_b2a5813f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "毀壞；破壞；使失去原有的狀態或價值。",
+    "en_def": "To damage something severely or destroy it.",
+    "example": "The heavy rain could ruin the picnic plans."
+  },
+  "sentences_removed": 0
+}

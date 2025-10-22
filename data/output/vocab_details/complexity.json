@@ -1,0 +1,23 @@
+{
+  "lemma": "complexity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Beaded jewelry is made by women, and is famous for its complexity.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/complexity_ex_0_5079a08a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "複雜性；事物的複雜程度或難度。",
+    "en_def": "The state or quality of being intricate or complicated.",
+    "example": "The complexity of the project made it difficult to complete on time."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "sanctuary",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Belize, where howler monkeys were newly reintroduced into a wildlife sanctuary, the howler monkeys were heard only a few times a week rather than every day.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sanctuary_ex_0_0aaebbbf.mp3"
+      },
+      {
+        "text": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sanctuary_ex_1_c8f5003b.mp3"
+      },
+      {
+        "text": "Why do the keepers at the sanctuary use recorded howls? (A) To prevent the howler monkeys from getting homesick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sanctuary_ex_2_923f4541.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "避難所；庇護所",
+    "en_def": "A place of refuge or safety.",
+    "example": "The old church served as a sanctuary for those seeking shelter from the storm."
+  },
+  "sentences_removed": 0
+}

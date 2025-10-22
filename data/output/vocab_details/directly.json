@@ -1,0 +1,23 @@
+{
+  "lemma": "directly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/directly_ex_0_b2d6b2c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "直接地，毫不掩飾地",
+    "en_def": "In a straightforward manner without any intervening factors.",
+    "example": "She spoke directly to the audience about her experiences."
+  },
+  "sentences_removed": 0
+}

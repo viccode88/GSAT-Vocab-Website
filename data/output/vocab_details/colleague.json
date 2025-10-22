@@ -1,0 +1,33 @@
+{
+  "lemma": "colleague",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He remembered a kind of glue developed by a colleague that everyone thought 18 a failure because it did not stick very well.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/colleague_ex_0_e81ad59d.mp3"
+      },
+      {
+        "text": "Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/colleague_ex_1_98c869fa.mp3"
+      },
+      {
+        "text": "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.” (A) verbally (B) dominantly (C) legitimately (D)",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/colleague_ex_2_d1c62f6e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "同事；在同一工作場所或職業中與他人合作的人。",
+    "en_def": "A person with whom one works, especially in a profession or business.",
+    "example": "My colleague helped me finish the project on time."
+  },
+  "sentences_removed": 0
+}

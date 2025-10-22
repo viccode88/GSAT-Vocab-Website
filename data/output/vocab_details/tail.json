@@ -1,0 +1,33 @@
+{
+  "lemma": "tail",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They couldn’t tell a cow’s head from its tail in the satellite pictures.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tail_ex_0_f5fd9e89.mp3"
+      },
+      {
+        "text": "Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room _____.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/tail_ex_1_b13189cf.mp3"
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tail_ex_2_2ffca69b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "尾巴；物體的末端或延伸部分。",
+    "en_def": "The rear part of an animal's body, especially when it is long and flexible; the end part of something.",
+    "example": "The dog wagged its tail happily."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "tiredness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is caused by disruption to the internal biological clock, and may lead to digestive problems, tiredness, and sleep disruption.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/tiredness_ex_0_868c048d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "疲倦，缺乏精力或活力的狀態。",
+    "en_def": "A state of feeling weary or lacking energy.",
+    "example": "After a long day at work, I felt a deep sense of tiredness."
+  },
+  "sentences_removed": 0
+}

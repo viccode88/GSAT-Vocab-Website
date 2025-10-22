@@ -1,0 +1,23 @@
+{
+  "lemma": "conclusively",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/conclusively_ex_0_469f2d3b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "決定性地，明確地",
+    "en_def": "In a way that is decisive and leaves no room for doubt.",
+    "example": "The evidence presented in court conclusively proved his innocence."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "convention",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/convention_ex_0_ad4c879a.mp3"
+      },
+      {
+        "text": "Following the number-based convention, typhoons are coded with 31 types of numbers such as a 4-digit or a 6-digit code.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/convention_ex_1_4746ad69.mp3"
+      },
+      {
+        "text": "The list-based convention, on the other hand, is based on the list of typhoon names compiled in advance by a committee, and is more widely used.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/convention_ex_2_64b0137e.mp3"
+      },
+      {
+        "text": "The 32 of this convention, however, is that a number is hard to remember.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/convention_ex_3_18d03d3f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "會議；慣例；習俗",
+    "en_def": "A meeting or formal assembly, often for discussion or decision-making; a general agreement or practice.",
+    "example": "The annual convention will take place in July."
+  },
+  "sentences_removed": 1
+}

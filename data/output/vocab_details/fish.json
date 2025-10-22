@@ -1,0 +1,211 @@
+{
+  "lemma": "fish",
+  "count": 42,
+  "pos_dist": {
+    "NOUN": 38,
+    "VERB": 2,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These patterns actually help the fish to hide from danger among roots and plants.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fish_ex_0_1c7b20ba.mp3"
+      },
+      {
+        "text": "Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fish_ex_1_ba561358.mp3"
+      },
+      {
+        "text": "Iceland has increased their fish catch by 30% in the last 20 years.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fish_ex_2_13e53940.mp3"
+      },
+      {
+        "text": "Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fish_ex_3_134c0a18.mp3"
+      },
+      {
+        "text": "When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of “headlamps,” one beneath each eye.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/fish_ex_4_721c10b5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Fishing in the area is another popular activity.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Flashlight fish in the Red Sea give out light at night _____.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank. 43.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, NEITHER flashlight fish NOR fireflies send out light to _____.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "This suggested that GABA plays an important role in the fish’s ability to regain their sight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Another interesting fact about angelfish is that they have an occupation in the fish world.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some fish are found to produce light in the blackness of the sea.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “this pioneering procedure” in the second paragraph refer to? (A) 100% Fish’s mission.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the job of an angelfish in the sea? (A) Being a cleaner for other fish.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If people keep polluting the rivers, no fish there will survive ______.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "It contains many historically significant and beautiful wooden structures, 19 windmills, boathouses, chapels, fish houses, and homes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Reducing waste of fish catch has become a serious issue today, when many countries are faced with food crises.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At night, when these fish become inactive, their colors may become pale.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "With the light produced by bacteria living there, they communicate with other flashlight fish to avoid getting too close to each other, so that the fish may spread out evenly to get enough food.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Slowly, her behavior toward the other fish also changes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The colors of the fish become less bright at night.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The adult fish and the young ones have the same colors. 43.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.” Which paragraph is most suitable to have it as the final sentence?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The death of the male fish in a group. 44.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Without these underwater “apartment houses,” there would be fewer fish in the ocean.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Angelfish live in groups, and each group has one male fish, which is blue in color, and four female fish, which are yellow.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of them act as cleaners for other fish and pick dead tissue from their bodies.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the primary goal of 100% Fish? (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are stony structures full of dark hideaways where fish and sea animals can lay their eggs and 31 from predators.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "魚類，通常生活在水中，具有鰭和鱗片的脊椎動物。",
+    "en_def": "A limbless cold-blooded vertebrate animal with gills and fins, living in water.",
+    "example": "We caught a big fish during our trip to the lake."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "cloning",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But this story written 40 years ago __(27)__ predicted the arrival of a recent method of genetic engineering—cloning.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cloning_ex_0_2d7c03a1.mp3"
+      },
+      {
+        "text": "Cloning is the genetic process of producing copies of an individual.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cloning_ex_1_6371858c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "克隆：通過無性繁殖或其他技術，創造出與原始生物基因相同的生物。",
+    "en_def": "Cloning: The process of creating a genetically identical copy of an organism through asexual reproduction or other techniques.",
+    "example": "Scientists are researching cloning to potentially save endangered species."
+  },
+  "sentences_removed": 0
+}

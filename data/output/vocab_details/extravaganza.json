@@ -1,0 +1,23 @@
+{
+  "lemma": "extravaganza",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Stretch limousines were hired to drive the prom-goers to expensive restaurants or discos for an all-night extravaganza.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/extravaganza_ex_0_59f84541.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "盛會；華麗的表演或活動",
+    "en_def": "A spectacular event or performance, often involving elaborate displays or entertainment.",
+    "example": "The festival was an extravagant extravaganza filled with music, dance, and colorful decorations."
+  },
+  "sentences_removed": 0
+}

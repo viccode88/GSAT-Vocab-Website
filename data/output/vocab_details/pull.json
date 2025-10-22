@@ -1,0 +1,49 @@
+{
+  "lemma": "pull",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They had apparently pulled out the back seat, crawled behind it, and then had not been able to push the seat forward again.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pull_ex_0_8f40c6be.mp3"
+      },
+      {
+        "text": "By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/pull_ex_1_76597737.mp3"
+      },
+      {
+        "text": "When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/pull_ex_2_389d042a.mp3"
+      },
+      {
+        "text": "When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/pull_ex_3_bfddf8fc.mp3"
+      },
+      {
+        "text": "Others have pulled people in front of moving trains or saved them from attacks by wild animals.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pull_ex_4_78f41705.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "拉，拖，或吸引某物向自己或某個方向移動。",
+    "en_def": "To exert force on something to move it toward oneself or in a specified direction.",
+    "example": "She had to pull the heavy door to open it."
+  },
+  "sentences_removed": 0
+}

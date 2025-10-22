@@ -1,0 +1,28 @@
+{
+  "lemma": "instruction",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When taking medicine, we should read the instructions on the ______ carefully because they provide important information such as how and when to take it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/instruction_ex_0_59abadab.mp3"
+      },
+      {
+        "text": "He made his instruction and direct so that everyone could follow easily.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/instruction_ex_1_9cb3e7f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指導或命令某人如何做某事的過程或行為。",
+    "en_def": "A direction or order on how to do something.",
+    "example": "Please follow the instruction carefully to complete the task."
+  },
+  "sentences_removed": 0
+}

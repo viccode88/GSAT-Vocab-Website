@@ -1,0 +1,23 @@
+{
+  "lemma": "perspiration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The sensors pick up signals from the person’s blood pressure, pulse, and perspiration.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/perspiration_ex_0_00456af7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "汗水；出汗的過程",
+    "en_def": "The process of sweating or the fluid that is excreted through the skin.",
+    "example": "After running for an hour, I was covered in perspiration."
+  },
+  "sentences_removed": 0
+}

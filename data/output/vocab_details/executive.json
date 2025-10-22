@@ -1,0 +1,51 @@
+{
+  "lemma": "executive",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 4,
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/executive_ex_0_9e31f671.mp3"
+      },
+      {
+        "text": "He is the executive vice president of the HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/executive_ex_1_72e2508e.mp3"
+      },
+      {
+        "text": "At various times in history, the White House has been known as the “President’s Palace,” the “President’s House,” and the “Executive Mansion.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/executive_ex_2_d14f5bb4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The company is _____ and making great profits under the wise leadership of the chief executive officer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The answer is: not very thoroughly, 27 they are executives, specialized experts, or ordinary people in the street.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "執行的；管理的；行政的",
+    "en_def": "A person with senior managerial responsibility in a business or organization.",
+    "example": "The executive made a crucial decision that affected the entire company."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "extremely",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Once thought to be extremely rare, synesthesia is now found to affect about one to four percent of the population.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/extremely_ex_0_634245ac.mp3"
+      },
+      {
+        "text": "An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/extremely_ex_1_6d136cce.mp3"
+      },
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/extremely_ex_2_ad2aff68.mp3"
+      },
+      {
+        "text": "Interviewer: You’re the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/extremely_ex_3_040100b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "極其，極度地",
+    "en_def": "To a very high degree; exceedingly.",
+    "example": "She was extremely happy with her exam results."
+  },
+  "sentences_removed": 0
+}

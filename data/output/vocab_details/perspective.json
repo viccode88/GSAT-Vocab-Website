@@ -1,0 +1,23 @@
+{
+  "lemma": "perspective",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/perspective_ex_0_af6b548b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "觀點；視角",
+    "en_def": "A particular attitude toward or way of regarding something; a point of view.",
+    "example": "Her perspective on the issue helped us understand it better."
+  },
+  "sentences_removed": 0
+}

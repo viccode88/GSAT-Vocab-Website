@@ -1,0 +1,17 @@
+{
+  "lemma": "iran",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伊朗，位於中東的國家，以其豐富的歷史和文化著稱。",
+    "en_def": "Iran, a country in the Middle East known for its rich history and culture.",
+    "example": "Iran has a diverse landscape that includes mountains, deserts, and forests."
+  },
+  "sentences_removed": 1
+}

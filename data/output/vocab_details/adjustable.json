@@ -1,0 +1,23 @@
+{
+  "lemma": "adjustable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/adjustable_ex_0_c0f0ddb9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可調整的，能夠根據需要改變或調整的。",
+    "en_def": "Capable of being changed or modified to suit different conditions or requirements.",
+    "example": "The chair is adjustable, allowing you to change its height for comfort."
+  },
+  "sentences_removed": 0
+}

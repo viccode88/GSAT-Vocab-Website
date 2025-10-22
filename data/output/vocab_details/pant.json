@@ -1,0 +1,38 @@
+{
+  "lemma": "pant",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Upon their return home, he found a lot of burrs (from plants) stuck to the dog’s fur and his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/pant_ex_0_18be629c.mp3"
+      },
+      {
+        "text": "Today David wears casual clothes—khaki pants and a sports shirt—to the office.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/pant_ex_1_710913a0.mp3"
+      },
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/pant_ex_2_b1b536b7.mp3"
+      },
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/pant_ex_3_1f5c7dc9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "褲子，通常指長褲或短褲，穿在下身的衣物。",
+    "en_def": "A piece of clothing worn from the waist down, covering both legs.",
+    "example": "He wore a pair of blue pants to the party."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "gravity",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gravity_ex_0_a78da21e.mp3"
+      },
+      {
+        "text": "However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gravity_ex_1_21b5c987.mp3"
+      },
+      {
+        "text": "In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gravity_ex_2_b69018f1.mp3"
+      },
+      {
+        "text": "Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gravity_ex_3_fc12d97f.mp3"
+      },
+      {
+        "text": "When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gravity_ex_4_bfddf8fc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重力：使物體相互吸引的自然力，特別是地球對物體的吸引力。",
+    "en_def": "Gravity: The natural force that attracts two bodies toward each other, especially the attraction of the Earth for objects.",
+    "example": "The apple fell from the tree due to gravity."
+  },
+  "sentences_removed": 1
+}

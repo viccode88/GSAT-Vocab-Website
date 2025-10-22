@@ -1,0 +1,28 @@
+{
+  "lemma": "altar",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They 37 as a funeral offering shown upon the altars of the gods.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/altar_ex_0_fceeb53f.mp3"
+      },
+      {
+        "text": "32 Food offerings are presented at house altars and temples.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/altar_ex_1_e82e8a07.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "祭壇，通常用於宗教儀式或崇拜活動的地方。",
+    "en_def": "A raised structure used for religious rituals or worship.",
+    "example": "The priest placed the offerings on the altar during the ceremony."
+  },
+  "sentences_removed": 0
+}

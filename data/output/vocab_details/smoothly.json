@@ -1,0 +1,23 @@
+{
+  "lemma": "smoothly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For the soul to travel smoothly, the body had to 18 unharmed.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/smoothly_ex_0_27be505b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "平滑地；順利地",
+    "en_def": "In a smooth manner; without difficulty or interruption.",
+    "example": "The car drove smoothly along the highway."
+  },
+  "sentences_removed": 0
+}

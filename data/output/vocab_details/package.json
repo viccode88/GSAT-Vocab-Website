@@ -1,0 +1,49 @@
+{
+  "lemma": "package",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A package sent can be received in a couple of hours.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/package_ex_0_78e59340.mp3"
+      },
+      {
+        "text": "First of all, they look for clues that can help them deliver the mail; they open packages in the hope that something inside will show where the package came from or is going to.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/package_ex_1_678f0709.mp3"
+      },
+      {
+        "text": "This tour package is very appealing, and that one looks _____ attractive.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/package_ex_2_77752d1a.mp3"
+      },
+      {
+        "text": "The restaurant started selling small packages of the potato chips.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/package_ex_3_2f50cb80.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The staff in a dead mail office may open a package in order to find .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "包裝或容器，通常用於運送或儲存物品。",
+    "en_def": "A container or wrapping for goods, often used for shipping or storage.",
+    "example": "I received a package in the mail today."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "fitting",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Whether simple or lavish, proms have always been more or less traumatic events for adolescents who worry about self-image and fitting in with their peers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fitting_ex_0_50712879.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "合適的，適合的",
+    "en_def": "Suitable or appropriate for a particular purpose or situation.",
+    "example": "The dress was a perfect fitting for the occasion."
+  },
+  "sentences_removed": 0
+}

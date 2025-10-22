@@ -1,0 +1,105 @@
+{
+  "lemma": "mountain",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 16,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mountain_ex_0_2dde4d8d.mp3"
+      },
+      {
+        "text": "Whenever I set foot on the soil of Rwanda, a country in east-central Africa, I feel as if I have entered paradise: green hills, red earth, sparkling rivers and mountain lakes.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/mountain_ex_1_2e545510.mp3"
+      },
+      {
+        "text": "Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/mountain_ex_2_095a7c01.mp3"
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/mountain_ex_3_f34a4bc1.mp3"
+      },
+      {
+        "text": "There would only be a vast mountain range along the southern coast of China.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/mountain_ex_4_79ee2120.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It was a great for his family that he had survived the cold weather in the mountain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The existing mountain roads were destroyed.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But Brahma thought 24 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the center of the island rises a high mountain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Eventually, the demand for a road across the mountains led to the building of the Going-to-the-Sun Road.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Waimea Canyon, called the \"Grand Canyon of the Pacific\" by Mark Twain, cuts a deep gash through the rugged central mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It rains a lot except in high mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The gods suggested that they hide it 23 in the earth or take it to the top of the highest mountain.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rising temperatures, an effect of global warming, 25 threaten the ecosystem of this mountain area.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But some mountain ranges of South America, Africa, and Indonesia are also 26 glaciers and ice sheets.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "山：地球表面的一種高地，通常比丘陵高，具有陡峭的坡度。",
+    "en_def": "A mountain is a large landform that rises prominently above its surroundings, typically characterized by steep slopes.",
+    "example": "The hikers reached the summit of the mountain just before sunset."
+  },
+  "sentences_removed": 0
+}

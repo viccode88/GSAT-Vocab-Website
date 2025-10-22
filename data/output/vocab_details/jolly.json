@@ -1,0 +1,23 @@
+{
+  "lemma": "jolly",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/jolly_ex_0_755d4981.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "快樂的，愉快的",
+    "en_def": "Cheerful and full of happiness.",
+    "example": "The jolly children played in the park."
+  },
+  "sentences_removed": 0
+}

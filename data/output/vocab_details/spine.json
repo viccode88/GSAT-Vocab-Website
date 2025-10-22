@@ -1,0 +1,33 @@
+{
+  "lemma": "spine",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/spine_ex_0_134c0a18.mp3"
+      },
+      {
+        "text": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/spine_ex_1_564e31bf.mp3"
+      },
+      {
+        "text": "The cactus’s thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/spine_ex_2_e71c9f77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "脊椎，脊柱；支撐結構或骨架。",
+    "en_def": "The backbone or series of vertebrae that encloses the spinal cord; a central support structure.",
+    "example": "The doctor explained how the spine protects the spinal cord."
+  },
+  "sentences_removed": 0
+}

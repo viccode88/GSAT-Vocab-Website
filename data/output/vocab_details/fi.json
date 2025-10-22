@@ -1,0 +1,23 @@
+{
+  "lemma": "fi",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Guests may enjoy facilities such as free Wi-Fi, mobile charging, and even a soundless alarm system that raises the sleeping guests into a seated position while gradually brightening the lights.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/fi_ex_0_7d271a40.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "音樂中的一種指示，表示要迅速地演奏或表現。",
+    "en_def": "A musical directive indicating to perform or play quickly.",
+    "example": "The conductor signaled the orchestra to play the passage 'fi' for a lively effect."
+  },
+  "sentences_removed": 0
+}

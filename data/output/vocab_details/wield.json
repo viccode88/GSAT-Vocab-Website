@@ -1,0 +1,23 @@
+{
+  "lemma": "wield",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Whether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/wield_ex_0_a3af143c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "揮舞；使用（武器、工具等）",
+    "en_def": "To hold and use (a weapon or tool) effectively.",
+    "example": "He can wield a sword with great skill."
+  },
+  "sentences_removed": 0
+}

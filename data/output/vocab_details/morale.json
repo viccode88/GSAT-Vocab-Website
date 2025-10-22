@@ -1,0 +1,23 @@
+{
+  "lemma": "morale",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In a study conducted by Levi Strauss and Company, 85 percent of employers said that they believe that casual dress improves employee morale.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/morale_ex_0_02212d1c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "士氣；精神狀態",
+    "en_def": "The confidence, enthusiasm, and discipline of a person or group at a particular time.",
+    "example": "The team's morale was high after their recent victory."
+  },
+  "sentences_removed": 0
+}

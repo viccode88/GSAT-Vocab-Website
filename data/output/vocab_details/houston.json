@@ -1,0 +1,23 @@
+{
+  "lemma": "houston",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Two years later, it was awarded first prize again at Houston’s first annual Invention Fair.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/houston_ex_0_7ec68c69.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "休士頓：美國德克薩斯州的一個城市，以其石油工業和航天中心而聞名。",
+    "en_def": "Houston: A city in Texas, USA, known for its oil industry and space exploration center.",
+    "example": "Houston is the fourth largest city in the United States."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "length",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/length_ex_0_37f64fdf.mp3"
+      },
+      {
+        "text": "Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/length_ex_1_ba561358.mp3"
+      },
+      {
+        "text": "The straps on the heel and toe control the length of the shoe, 25 the two on either side allow for different widths.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/length_ex_2_f24eaf7a.mp3"
+      },
+      {
+        "text": "They then learned to associate the length of the silent pause with the intensity of the upcoming heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/length_ex_3_7af6fbcc.mp3"
+      },
+      {
+        "text": "From the length of the pause between a tone and the heat pulse. 56.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/length_ex_4_5324683b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "長度；某物的測量或延伸的距離。",
+    "en_def": "The measurement or extent of something from end to end.",
+    "example": "The length of the table is six feet."
+  },
+  "sentences_removed": 0
+}

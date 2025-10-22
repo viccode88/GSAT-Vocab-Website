@@ -1,0 +1,28 @@
+{
+  "lemma": "spacecraft",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The major problem with the space trash is that it may hit working satellites and damage traveling spacecraft.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/spacecraft_ex_0_bae2adb3.mp3"
+      },
+      {
+        "text": "They are also used on ships and spacecraft for their greater structural integrity.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/spacecraft_ex_1_9d4e20b5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "太空船，指用於太空探索或運輸的飛行器。",
+    "en_def": "A vehicle designed for travel or operation in outer space.",
+    "example": "The spacecraft successfully landed on Mars after a seven-month journey."
+  },
+  "sentences_removed": 0
+}

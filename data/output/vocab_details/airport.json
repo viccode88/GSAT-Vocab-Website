@@ -1,0 +1,90 @@
+{
+  "lemma": "airport",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 12,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He must obtain a landing-visa at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/airport_ex_0_4c5c29fd.mp3"
+      },
+      {
+        "text": "This group of islands off the coast of Ecuador has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/airport_ex_1_89469594.mp3"
+      },
+      {
+        "text": "The airport was closed because of the snowstorm, and our ______ for Paris had to be delayed until the following day.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/airport_ex_2_a868630d.mp3"
+      },
+      {
+        "text": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/airport_ex_3_d2603a2c.mp3"
+      },
+      {
+        "text": "It suddenly me that I had to get to the airport to meet a friend.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/airport_ex_4_bf339dd3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The background of building a green airport.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The plan to build a green airport.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When an American lady wants to enter Taiwan for a one-week sight-seeing trip, one of the requirements is (A) to obtain a landing-visa at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "\"I (33) you at the airport.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Now they will be famous for one more thing: the world’s first green airport.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The greening of airports is just one of these attempts.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Where will the world’s first green airport be built? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He just needs to apply for a non-visa entry when he arrives at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "機場：供飛機起降和旅客、貨物進出的一個設施。",
+    "en_def": "An airport is a facility where aircraft take off and land, and where passengers and cargo are transported.",
+    "example": "We arrived at the airport two hours before our flight."
+  },
+  "sentences_removed": 0
+}

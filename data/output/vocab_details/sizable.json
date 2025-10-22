@@ -1,0 +1,23 @@
+{
+  "lemma": "sizable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sizable_ex_0_0876dcc2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相當大的，尺寸或數量可觀的",
+    "en_def": "Fairly large in size, amount, or extent.",
+    "example": "The house has a sizable backyard perfect for entertaining."
+  },
+  "sentences_removed": 0
+}

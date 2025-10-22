@@ -1,0 +1,28 @@
+{
+  "lemma": "appoint",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Showing great talent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief illustrator by age 34.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/appoint_ex_0_09e0b3a9.mp3"
+      },
+      {
+        "text": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/appoint_ex_1_5dfba093.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指定，任命某人擔任某職位或角色。",
+    "en_def": "To assign a person to a position or role.",
+    "example": "The manager will appoint a new team leader next week."
+  },
+  "sentences_removed": 0
+}

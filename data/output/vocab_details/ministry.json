@@ -1,0 +1,38 @@
+{
+  "lemma": "ministry",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/ministry_ex_0_c0d7b070.mp3"
+      },
+      {
+        "text": "Brazil’s Environmental Ministry estimates that in 1970, 99 percent of the original Amazon Rainforest remained, but in 2000, only 85 percent.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ministry_ex_1_5fe9e530.mp3"
+      },
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ministry_ex_2_6769b4ff.mp3"
+      },
+      {
+        "text": "According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ministry_ex_3_ad23bcba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "部門；政府的某個部門，負責特定的公共事務或政策。",
+    "en_def": "A government department responsible for a specific area of public policy, government function, or service.",
+    "example": "The ministry announced new regulations to improve public health."
+  },
+  "sentences_removed": 1
+}

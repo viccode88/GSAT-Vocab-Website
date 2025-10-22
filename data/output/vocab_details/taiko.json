@@ -1,0 +1,23 @@
+{
+  "lemma": "taiko",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The style of the dances varies from region to region but is normally based on the rhythms of taiko drums.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/taiko_ex_0_e3a7010e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "太鼓，一種日本傳統的打擊樂器，通常由木製框架和動物皮製成的鼓面組成。",
+    "en_def": "Taiko is a traditional Japanese percussion instrument made from a wooden frame and animal skin drumhead.",
+    "example": "The festival featured a spectacular taiko performance that captivated the audience."
+  },
+  "sentences_removed": 0
+}

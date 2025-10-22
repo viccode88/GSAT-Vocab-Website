@@ -1,0 +1,23 @@
+{
+  "lemma": "uncommon",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/uncommon_ex_0_2358e686.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不常見的；稀有的",
+    "en_def": "Not commonly encountered; rare.",
+    "example": "Finding a four-leaf clover is quite uncommon."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "photographer",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why do some professional photographers NOT like to take pictures of pets?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/photographer_ex_0_978f68c4.mp3"
+      },
+      {
+        "text": "In 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/photographer_ex_1_64d2afb6.mp3"
+      },
+      {
+        "text": "However, because it’s hard to get them to sit still and “perform on command,” some professional photographers refuse to photograph pets.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/photographer_ex_2_45b7a694.mp3"
+      },
+      {
+        "text": "He was the first photographer to take Gandhi’s photo.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/photographer_ex_3_15216bcd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "攝影師：專門從事拍攝照片的人。",
+    "en_def": "A photographer is a person who takes photographs, especially as a profession.",
+    "example": "The photographer captured the stunning sunset perfectly."
+  },
+  "sentences_removed": 1
+}

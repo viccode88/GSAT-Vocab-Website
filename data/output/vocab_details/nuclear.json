@@ -1,0 +1,28 @@
+{
+  "lemma": "nuclear",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some waste from nuclear power plants is buried in ________ containers.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/nuclear_ex_0_6fb4d6f7.mp3"
+      },
+      {
+        "text": "Mr. Lin: Don’t you think our government should build another nuclear power plant in Taiwan?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nuclear_ex_1_571b754b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與原子核或核能相關的，特別是指核反應或核武器。",
+    "en_def": "Relating to the nucleus of an atom or to nuclear energy, especially in the context of nuclear reactions or weapons.",
+    "example": "The country is investing in nuclear energy to reduce its reliance on fossil fuels."
+  },
+  "sentences_removed": 0
+}

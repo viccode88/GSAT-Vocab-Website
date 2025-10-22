@@ -1,0 +1,23 @@
+{
+  "lemma": "landscaping",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For gardening and landscaping. 43.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/landscaping_ex_0_59a173a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "景觀美化，指對戶外空間進行設計和改造，以提升其美觀和功能性。",
+    "en_def": "The process of designing and modifying outdoor spaces to enhance their aesthetic appeal and functionality.",
+    "example": "The landscaping around the house includes beautiful flower beds and a well-maintained lawn."
+  },
+  "sentences_removed": 0
+}

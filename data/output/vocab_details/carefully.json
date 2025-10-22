@@ -1,0 +1,54 @@
+{
+  "lemma": "carefully",
+  "count": 7,
+  "pos_dist": {
+    "ADV": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park? (A) The scenery along the road is too beautiful for visitors to drive carefully.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/carefully_ex_0_fae6038f.mp3"
+      },
+      {
+        "text": "First, ice must be carefully selected so that it is suitable for sculpting.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/carefully_ex_1_bfc6f4ed.mp3"
+      },
+      {
+        "text": "When taking medicine, we should read the instructions on the ______ carefully because they provide important information such as how and when to take it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/carefully_ex_2_59abadab.mp3"
+      },
+      {
+        "text": "The speaker, carefully programmed, arrived on the stage under its own power and proceeded to tell the audience of 658 graduates, their families, and friends that they would have to learn to work with robots and technology to solve society’s problems.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/carefully_ex_3_3d01548a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The family’s history was carefully carved into each pole.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which word in the passage most likely means “to think about something seriously and carefully, especially before making an important decision”? 5.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He preferred to edit his images carefully in his darkroom.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "小心地，謹慎地",
+    "en_def": "In a way that shows attention to detail and avoids mistakes or accidents.",
+    "example": "She carefully placed the fragile vase on the shelf."
+  },
+  "sentences_removed": 0
+}

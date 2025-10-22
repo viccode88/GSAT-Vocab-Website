@@ -1,0 +1,23 @@
+{
+  "lemma": "developer",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The park was built by Gordon Hartman, a former real estate developer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/developer_ex_0_ab35624e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "開發者，指從事軟體或應用程式開發的人。",
+    "en_def": "A developer is a person who creates software or applications.",
+    "example": "The developer released a new version of the app with improved features."
+  },
+  "sentences_removed": 0
+}

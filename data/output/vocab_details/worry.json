@@ -1,0 +1,75 @@
+{
+  "lemma": "worry",
+  "count": 12,
+  "pos_dist": {
+    "VERB": 9,
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The residents worried about the county’s decision and action.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/worry_ex_0_94734163.mp3"
+      },
+      {
+        "text": "Some critics worry that online students will miss out on the social aspects of college.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/worry_ex_1_a2a09a9c.mp3"
+      },
+      {
+        "text": "With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/worry_ex_2_4b31a95e.mp3"
+      },
+      {
+        "text": "Don’t worry about your grades.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/worry_ex_3_6f829e6b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Conversely, worry can give a person an ulcer, high blood pressure, or even a heart attack.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "To talk to the patient and ease his/her worries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Though the family knows she cannot be killed, they worry that their secret will be revealed when they try to kill her.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Whether simple or lavish, proms have always been more or less traumatic events for adolescents who worry about self-image and fitting in with their peers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This information came from a very _____ source, so you don’t have to worry about being cheated.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "You needn’t worry about the harm of a sedentary lifestyle because you exercise regularly, right?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "擔心或焦慮的情緒，通常對未來的事情感到不安。",
+    "en_def": "A feeling of concern or anxiety about something that may happen in the future.",
+    "example": "She couldn't help but worry about the upcoming exam."
+  },
+  "sentences_removed": 1
+}

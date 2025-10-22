@@ -1,0 +1,23 @@
+{
+  "lemma": "tunes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is NOT mentioned as a feature that would trigger earworms? (A) Tunes repeatedly encountered.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tunes_ex_0_479234e5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "旋律；音樂的曲調",
+    "en_def": "Melodies or musical compositions, often catchy or memorable.",
+    "example": "She hummed a few tunes while cooking dinner."
+  },
+  "sentences_removed": 0
+}

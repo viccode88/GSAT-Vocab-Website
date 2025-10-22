@@ -1,0 +1,23 @@
+{
+  "lemma": "lakes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Just across the border, in Canada, is the Waterton Lakes National Park.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/lakes_ex_0_54d82474.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "湖泊是大型的淡水或鹹水體，通常被陸地包圍。",
+    "en_def": "Lakes are large bodies of freshwater or saltwater, typically surrounded by land.",
+    "example": "The children enjoyed swimming in the clear lake during the summer."
+  },
+  "sentences_removed": 0
+}

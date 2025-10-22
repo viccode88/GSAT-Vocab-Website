@@ -1,0 +1,28 @@
+{
+  "lemma": "carl",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Who gave the name “the Swiss army knife” to the knife discussed in the passage? (A) Carl Elsener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/carl_ex_0_1d0852d5.mp3"
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/carl_ex_1_c4705e52.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "卡爾，一個常見的男性名字。",
+    "en_def": "Carl, a common male given name.",
+    "example": "Carl enjoys playing basketball on weekends."
+  },
+  "sentences_removed": 0
+}

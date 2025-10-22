@@ -1,0 +1,60 @@
+{
+  "lemma": "spot",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/spot_ex_0_1e01808f.mp3"
+      },
+      {
+        "text": "This extinct volcano is considered the wettest spot on earth, with almost 500 inches of rainfall each year.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/spot_ex_1_d5aafbb5.mp3"
+      },
+      {
+        "text": "You 16 the mirror to find a tiny red spot on the base of your lower lashes.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spot_ex_2_e35a7c32.mp3"
+      },
+      {
+        "text": "Scientists found that sharp corners are natural weak spots where stress concentrates.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/spot_ex_3_677e9f02.mp3"
+      },
+      {
+        "text": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico’s national flag.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/spot_ex_4_5b65afa9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A month after their release, the whales were spotted.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The rainfall concentrates in some spots.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Pus will build up in the center of the stye, causing a yellowish spot.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "點、斑點；注意到或發現某物",
+    "en_def": "A small mark or stain; to notice or identify something.",
+    "example": "She found a spot of ink on her shirt."
+  },
+  "sentences_removed": 2
+}

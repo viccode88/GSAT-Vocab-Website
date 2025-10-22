@@ -1,0 +1,23 @@
+{
+  "lemma": "shooting",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These people were not trained to perform stunts, so they often 24 things for the first time during the actual shooting.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shooting_ex_0_6e4cb758.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "射擊；開槍",
+    "en_def": "The act of firing a weapon or taking a photograph.",
+    "example": "The shooting at the range improved his marksmanship."
+  },
+  "sentences_removed": 1
+}

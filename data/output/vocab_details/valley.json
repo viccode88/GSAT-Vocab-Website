@@ -1,0 +1,39 @@
+{
+  "lemma": "valley",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/valley_ex_0_9a26b85d.mp3"
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/valley_ex_1_f34a4bc1.mp3"
+      },
+      {
+        "text": "Jack: Oh, in a lovely valley, about three miles north of the National Park.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/valley_ex_2_e5d68104.mp3"
+      },
+      {
+        "text": "With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/valley_ex_3_b9bca2ec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "山谷，通常是兩側有山或丘陵的低地。",
+    "en_def": "A low area of land between hills or mountains, typically with a river or stream running through it.",
+    "example": "The hikers enjoyed the beautiful view of the valley from the mountain top."
+  },
+  "sentences_removed": 1
+}

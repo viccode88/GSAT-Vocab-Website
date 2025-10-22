@@ -1,0 +1,23 @@
+{
+  "lemma": "residual",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/residual_ex_0_02943189.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "剩餘的，殘留的部分或量。",
+    "en_def": "Remaining after the greater part has been removed or has gone.",
+    "example": "The residual effects of the medication lasted for several hours."
+  },
+  "sentences_removed": 0
+}

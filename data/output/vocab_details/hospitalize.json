@@ -1,0 +1,28 @@
+{
+  "lemma": "hospitalize",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She had to be hospitalized for three weeks whenever she had a cold.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/hospitalize_ex_0_e6f0aa31.mp3"
+      },
+      {
+        "text": "Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/hospitalize_ex_1_3a2dfefe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "住院，指因病或受傷而被送入醫院接受治療。",
+    "en_def": "To admit someone to a hospital for medical treatment.",
+    "example": "The doctor decided to hospitalize the patient for further observation."
+  },
+  "sentences_removed": 0
+}

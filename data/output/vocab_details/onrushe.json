@@ -1,0 +1,28 @@
+{
+  "lemma": "onrushe",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This dietary need has led to a constant battle to keep the deer separate from the unforgiving nature of tons of onrushing rolling stock.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/onrushe_ex_0_4fb86aa8.mp3"
+      },
+      {
+        "text": "What does the author mean by “the unforgiving nature of tons of onrushing rolling stock” in the third paragraph?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/onrushe_ex_1_3a6dcb6e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "急促的行動或活動，通常伴隨著混亂或匆忙。",
+    "en_def": "A hurried or chaotic action or activity, often characterized by a lack of organization.",
+    "example": "The onrush of customers during the sale overwhelmed the staff."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "scan",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/scan_ex_0_4402e9bb.mp3"
+      },
+      {
+        "text": "For example, when the riders scan the band at the Off-Road Adventure, a photo will be taken and sent to their email.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/scan_ex_1_a77d0a90.mp3"
+      },
+      {
+        "text": "The most compelling support, however, comes from brain scans, which show that color processing areas in the brain light up when these people listen to certain words.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/scan_ex_2_d7ef2592.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "掃描，檢查或讀取某物以獲取信息或圖像。",
+    "en_def": "To examine or read something in order to obtain information or an image.",
+    "example": "I will scan the document to send it via email."
+  },
+  "sentences_removed": 0
+}

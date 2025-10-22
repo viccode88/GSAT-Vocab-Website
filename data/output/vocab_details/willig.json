@@ -1,0 +1,49 @@
+{
+  "lemma": "willig",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead of punishing Willig, the city treated him as a hero who attempted the impossible and met the challenge. 34.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/willig_ex_0_11a834ef.mp3"
+      },
+      {
+        "text": "Instead, like a human fly, George Willig climbed the outside of the immense 110-story building.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/willig_ex_1_8241f210.mp3"
+      },
+      {
+        "text": "At City Hall, Mayor Abraham Beame hosted a news conference that turned into a ceremony in George Willig's honor.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/willig_ex_2_8aad586f.mp3"
+      },
+      {
+        "text": "At the top, Willig was greeted by both police and reporters.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/willig_ex_3_aaae64d9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Willig was fined $250,000.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "George Willig reached the top of the World Trade Center in New York at (A) six thirty in the morning of May 26, 1977.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "願意的，樂意的",
+    "en_def": "Ready, eager, or prepared to do something.",
+    "example": "She was willing to help her friend with the project."
+  },
+  "sentences_removed": 1
+}

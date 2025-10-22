@@ -1,0 +1,23 @@
+{
+  "lemma": "discontent",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to psychologist Dean Burnett, people feel down in January 29 post-holiday discontent, and the Blue Monday claim makes it seem like there are scientific reasons for this.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discontent_ex_0_7f82da7a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不滿，對現狀或情況的不滿意。",
+    "en_def": "A feeling of dissatisfaction or unhappiness with one's circumstances.",
+    "example": "She expressed her discontent with the new policies at the meeting."
+  },
+  "sentences_removed": 0
+}

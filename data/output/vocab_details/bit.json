@@ -1,0 +1,33 @@
+{
+  "lemma": "bit",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When they saw the room they were a bit alarmed, for it was laid out as a studio.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bit_ex_0_5ce39460.mp3"
+      },
+      {
+        "text": "Isn’t writing a book about how great your family is a bit odd? Zeke:",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bit_ex_1_d39e4011.mp3"
+      },
+      {
+        "text": "That is, after he 16 his pages in the hymn book with small bits of paper, the small pieces would invariably fall out all over the floor.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bit_ex_2_4f4a97b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "位元，計算機中最小的數據單位，通常表示為0或1。",
+    "en_def": "A bit is the smallest unit of data in computing, representing a binary value of either 0 or 1.",
+    "example": "The computer processes information in bits."
+  },
+  "sentences_removed": 1
+}

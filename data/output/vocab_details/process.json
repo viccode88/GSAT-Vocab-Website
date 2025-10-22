@@ -1,0 +1,135 @@
+{
+  "lemma": "process",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 18,
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cloning is the genetic process of producing copies of an individual.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/process_ex_0_6371858c.mp3"
+      },
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/process_ex_1_8700ccfa.mp3"
+      },
+      {
+        "text": "According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/process_ex_2_52ae9911.mp3"
+      },
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/process_ex_3_fd1da88a.mp3"
+      },
+      {
+        "text": "This was a slow process, requiring much skill and patience, and every page of every book had to be cut separately.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/process_ex_4_54f5fb62.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Processing the plastic can lead to the release of harmful chemical substances into the water contained in the bottles.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An enjoyable process for engineers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the process of sculpting ice?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "During the process of evolution, man has shown remarkable ability to to the environment.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This process, known as “coral bleaching,” has happened more and more frequently in recent years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach children about the meal preparation process.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They also contain a very large amount of processed coconut oil, which is even worse than lard.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Without the carbon dioxide released from the process, all plant life would die out.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Another difficulty in the process of ice sculpting is time control.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They’re highly processed and contain no vegetables.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It replays the image back through the glasses after processing it on an attached computer.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The building went through a complex and time-consuming process of 30 , and the famous monument was finally reopened on December 8, 2024.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "23 the process of questioning, all the signals are recorded on a single strip of moving paper.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "過程；處理；程序",
+    "en_def": "A series of actions or steps taken to achieve a particular end.",
+    "example": "The process of making bread involves mixing ingredients, kneading the dough, and baking."
+  },
+  "sentences_removed": 1
+}

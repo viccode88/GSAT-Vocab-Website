@@ -1,0 +1,34 @@
+{
+  "lemma": "intimacy",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While intimacy is often limited to the sexual bond, we can be intimate with many people without sexuality.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intimacy_ex_0_9b3b8913.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is true? (A) Intimacy is limited to the sexual bond.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intimacy_ex_1_daeb829f.mp3"
+      },
+      {
+        "text": "In this way, intimacy enables us to thrive and grow.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intimacy_ex_2_e0f046ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "親密，指人際關係中的親近感或情感聯繫。",
+    "en_def": "Intimacy refers to a close familiarity or friendship; closeness in a relationship.",
+    "example": "Their intimacy grew stronger as they shared their deepest secrets."
+  },
+  "sentences_removed": 0
+}

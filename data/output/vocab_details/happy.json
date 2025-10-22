@@ -1,0 +1,100 @@
+{
+  "lemma": "happy",
+  "count": 18,
+  "pos_dist": {
+    "ADJ": 14,
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was so happy with them that other guests started ordering the new potatoes.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/happy_ex_0_ec9a962d.mp3"
+      },
+      {
+        "text": "I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.”",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/happy_ex_1_2d6ceea0.mp3"
+      },
+      {
+        "text": "That is why, every once in a while, we like to escape into the world of fantasy—a place where things always go our way and there is always a happy ending.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/happy_ex_2_a76716a2.mp3"
+      },
+      {
+        "text": "Many people were happy that the government had finally _____",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/happy_ex_3_1cedd856.mp3"
+      },
+      {
+        "text": "Doing exercise makes you happy, and you don’t have to be a fitness 32 to do it.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/happy_ex_4_f52eeb66.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After a spa treatment at Happy Puppy, dogs come home 16 pampered and relaxed.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "19 Happy Puppy is a relatively new service, we benefit from more than 20 years of experience in breeding and caring for dogs.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": ", she is not happy about his being late again.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And in the real world there are not always happy endings.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "People wearing the physical smile tend to feel happier.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "At Happy Puppy, your dog can enjoy a half day of care and then be taken to the salon at naptime.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "You can also bring your dog to Happy Puppy and wash it yourself.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Another reason is that people seem happier and more productive when they are wearing comfortable clothes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "感到愉快或滿足的情緒狀態。",
+    "en_def": "A state of feeling or showing pleasure or contentment.",
+    "example": "She felt happy when she received the good news."
+  },
+  "sentences_removed": 2
+}

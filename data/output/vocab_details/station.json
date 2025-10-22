@@ -1,0 +1,75 @@
+{
+  "lemma": "station",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 11,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In a panic (B) With delight (C) Out of sorrow (D) Filled with embarrassment 39. (A) they had seen my car (B) there was a shop nearby (C) they had seen two small girls (D) there was a police station in the neighborhood 40.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/station_ex_0_63dc492c.mp3"
+      },
+      {
+        "text": "Ground stations have been built to monitor larger pieces of space trash to prevent them from crashing into working satellites or space shuttles.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/station_ex_1_09378cf5.mp3"
+      },
+      {
+        "text": "In the news recently was the story of a woman who died of a heart attack while driving her station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/station_ex_2_abfc29bc.mp3"
+      },
+      {
+        "text": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/station_ex_3_2bc0c079.mp3"
+      },
+      {
+        "text": "PBS has 349 member television stations in the U.S. and some member stations by cable in Canada.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/station_ex_4_6c763d28.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following is true about public television stations? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the Second World War, a great number of American soldiers were stationed in Europe.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "A police officer was stationed by the side to operate the system.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Over 95 percent of all public television stations have tele-courses.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "For the five highway deaths, the author blames (A) a large heavy station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "車站；站點，通常用於公共交通系統中，供乘客上下車的地方。",
+    "en_def": "A place where vehicles, especially trains or buses, stop to allow passengers to board or disembark.",
+    "example": "We arrived at the train station just in time to catch our train."
+  },
+  "sentences_removed": 1
+}

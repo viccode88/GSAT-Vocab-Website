@@ -1,0 +1,125 @@
+{
+  "lemma": "late",
+  "count": 22,
+  "pos_dist": {
+    "ADJ": 18,
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/late_ex_0_ad4c879a.mp3"
+      },
+      {
+        "text": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m. (A) relative (B) severe (C) primitive (D) flexible 2.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/late_ex_1_4d86e1d9.mp3"
+      },
+      {
+        "text": "Many ordinary clocks are hard to read early in the morning, deceiving students of the correct time, __22__ causing them to be late for school.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/late_ex_2_5f7d379c.mp3"
+      },
+      {
+        "text": "RTRI researchers say late-night tests, at times when deer are most frequently seen by railway tracks, have resulted in a 45 percent reduction of deer sighting.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/late_ex_3_775877d7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself _____ in class.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the late 19th century, the most common way to hold papers together was by using a pin.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California’s Wham-O toy company.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": ", she is not happy about his being late again.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The latest issue of a magazine.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The liquid was originally a grape alcohol introduced from France in the late 14th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "But many others enjoy a good fear spectacle, and line up to see the latest scary movie.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Plastics used to account for as little as 10% of medical waste in the late 1970s, before disposables began rapidly replacing reusables.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The melted bells were recast in the late 19th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In late 17th century France, larger forks with four curved tines were developed.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest 14 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Here is a sentence: “This design was adopted in later traffic light designs across the world.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He was late for the meeting the heavy rain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A west-to-east journey, on the other hand, makes us late compared to the local time.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "This often 31 their anniversary celebration, for his rose bouquet always came one month late.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "遲到的，晚的",
+    "en_def": "After the expected or usual time.",
+    "example": "She arrived late to the meeting."
+  },
+  "sentences_removed": 1
+}

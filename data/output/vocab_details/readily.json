@@ -1,0 +1,28 @@
+{
+  "lemma": "readily",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Unfortunately, shoes are not always readily available for people living in poverty, 21 shoes that are the right size.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/readily_ex_0_d804bc9e.mp3"
+      },
+      {
+        "text": "28 the information on storage and shipment is not always readily available to consumers, bottled water may not be a better alternative to tap water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/readily_ex_1_67a8a134.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輕易地；迅速地",
+    "en_def": "In a willing or eager manner; without hesitation.",
+    "example": "She readily accepted the invitation to the party."
+  },
+  "sentences_removed": 1
+}

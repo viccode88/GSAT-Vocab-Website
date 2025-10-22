@@ -1,0 +1,135 @@
+{
+  "lemma": "issue",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 16,
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/issue_ex_0_47eb7c04.mp3"
+      },
+      {
+        "text": "The latest issue of a magazine.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/issue_ex_1_38598c6d.mp3"
+      },
+      {
+        "text": "Both issues result from the tide of violence that has crossed the region in recent years.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/issue_ex_2_b22c8490.mp3"
+      },
+      {
+        "text": "Another issue is the suitability of exposing feet on the street and places other than the beach.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/issue_ex_3_6d6d2726.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The issue of environmental protection has not received much attention until very .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "By showing opposing views of an issue.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The government issued a travel _____ for Taiwanese in response to the outbreak of civil war in Syria.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was issued by the king of Judah.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the deer issue discussed in the passage? (A) RTRI’s new invention prompts deer to run away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Reducing waste of fish catch has become a serious issue today, when many countries are faced with food crises.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies on jackdaws and turtle ants may provide some insights into the issue.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To have a full discussion of the issue, the committee spent a whole hour _____ their ideas at the meeting.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides these 29 issues, bottled water has other disadvantages.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When people encounter a complex issue and form an opinion, how thoroughly have they 26 all the important factors involved before they make their decisions?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The government did not issue a warning about the disease in time.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "to apply for a visa before leaving the U.S.A. (C) to make sure her passport was issued before May 1, 1995.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, the idea 30 a very complex issue regarding depression into something simple and easily understandable, and that tends to appeal to a lot of people. 26.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "問題；爭議；發行物",
+    "en_def": "A matter or problem that is in dispute or requires attention; a publication or edition.",
+    "example": "The company will issue a statement regarding the recent changes."
+  },
+  "sentences_removed": 1
+}

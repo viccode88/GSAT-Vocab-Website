@@ -1,0 +1,23 @@
+{
+  "lemma": "perception",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/perception_ex_0_92f8d19e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感知；對事物的理解或看法",
+    "en_def": "The ability to see, hear, or become aware of something through the senses; the way in which something is regarded, understood, or interpreted.",
+    "example": "Her perception of the situation changed after she heard both sides of the story."
+  },
+  "sentences_removed": 1
+}

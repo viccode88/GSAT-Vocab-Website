@@ -1,0 +1,23 @@
+{
+  "lemma": "handout",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At the end of the class, you __(25)__ with you classmates the meals you have created, and you will leave with recipe handouts and , more importantly, the ability to cook two weeks of fantastic, low-cost meals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/handout_ex_0_47401af8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發放的資料或文件，通常用於會議或課堂上提供給參與者的資訊。",
+    "en_def": "A document or piece of information distributed to participants at a meeting or class.",
+    "example": "The teacher gave each student a handout with the lesson summary."
+  },
+  "sentences_removed": 0
+}

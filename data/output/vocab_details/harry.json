@@ -1,0 +1,33 @@
+{
+  "lemma": "harry",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The amazing adventures of Superman, Peter Pan, and Harry Potter have charmed many people, children and adults alike.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/harry_ex_0_5cccb188.mp3"
+      },
+      {
+        "text": "Superman, Peter Pan, and Harry Potter have charmed many people, because __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/harry_ex_1_b90ac4d6.mp3"
+      },
+      {
+        "text": "For example, Superman always arrives in the nick of time to prevent a disaster from happening, Peter Pan can fly at will to tease the bad guy Captain Hook, and Harry Potter has his magic power to take revenge on his uncle, aunt and cousin, who always ill-treat him. 44.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/harry_ex_2_bee79606.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "哈利，一個常見的男性名字。",
+    "en_def": "Harry, a common male given name.",
+    "example": "Harry loves to play soccer on weekends."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "reborn",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I’ve just 32 that I’ll die very soon and I’m going to be reborn as a pig.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/reborn_ex_0_63747101.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重生；再生，通常指在精神或情感上獲得新的生命或狀態。",
+    "en_def": "To be born again or to experience a revival or renewal.",
+    "example": "After a long break, she felt reborn and ready to take on new challenges."
+  },
+  "sentences_removed": 0
+}

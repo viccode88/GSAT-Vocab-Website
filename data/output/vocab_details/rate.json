@@ -1,0 +1,39 @@
+{
+  "lemma": "rate",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new analysis of satellite-based data has given precisely the rate 21 which the country is losing size as it pushes northward against the Himalayas.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/rate_ex_0_949df404.mp3"
+      },
+      {
+        "text": "Extra virgin oil, the finest grade, is made from the first pressing of the olives and has a very low acidity rate (under 1%).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rate_ex_1_edb33bf9.mp3"
+      },
+      {
+        "text": "Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/rate_ex_2_3b8a0650.mp3"
+      },
+      {
+        "text": "Teens rated Hilfiger jeans as their number one brand in a survey in 2000.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rate_ex_3_c9961fa0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "評價；評分",
+    "en_def": "To assess the value or quality of something.",
+    "example": "The teacher will rate the students' projects on a scale of one to ten."
+  },
+  "sentences_removed": 0
+}

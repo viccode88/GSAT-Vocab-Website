@@ -1,0 +1,23 @@
+{
+  "lemma": "drawing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1968, he began to turn away from photography and returned to his passion for drawing and painting.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/drawing_ex_0_8abf0c9e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "繪畫，通常指用筆、鉛筆或其他工具在紙上創作的藝術作品。",
+    "en_def": "The act of creating a picture or diagram by marking a surface with a tool, typically a pencil or pen.",
+    "example": "She enjoys drawing landscapes in her sketchbook."
+  },
+  "sentences_removed": 0
+}

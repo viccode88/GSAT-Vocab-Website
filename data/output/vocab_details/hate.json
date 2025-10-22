@@ -1,0 +1,23 @@
+{
+  "lemma": "hate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, John Steinbeck is (27) to have been an excellent listener, yet he was hated by some of the people he wrote about.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hate_ex_0_29c89806.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對某人或某事感到強烈的厭惡或反感。",
+    "en_def": "A strong feeling of dislike or aversion towards someone or something.",
+    "example": "She felt a deep hate for the injustice she witnessed."
+  },
+  "sentences_removed": 0
+}

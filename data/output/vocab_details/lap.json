@@ -1,0 +1,23 @@
+{
+  "lemma": "lap",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/lap_ex_0_013bf066.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "膝部以上的部分，通常指坐著時大腿上面的區域。",
+    "en_def": "The upper part of the legs when sitting, typically the area above the knees.",
+    "example": "She placed the book on her lap while waiting for the bus."
+  },
+  "sentences_removed": 0
+}

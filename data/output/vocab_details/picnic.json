@@ -1,0 +1,28 @@
+{
+  "lemma": "picnic",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "our plan for the weekend picnic because of the bad weather.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/picnic_ex_0_a3c9d332.mp3"
+      },
+      {
+        "text": "Completely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/picnic_ex_1_335bb207.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "野餐，指在戶外享用食物的活動，通常與朋友或家人一起進行。",
+    "en_def": "A picnic is an outdoor meal eaten in a relaxed manner, often with family or friends.",
+    "example": "We decided to have a picnic in the park on Saturday."
+  },
+  "sentences_removed": 0
+}

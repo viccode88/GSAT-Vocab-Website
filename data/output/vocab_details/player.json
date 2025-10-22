@@ -1,0 +1,79 @@
+{
+  "lemma": "player",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Couples danced to music provided by a local amateur band or a record player.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/player_ex_0_41515d8a.mp3"
+      },
+      {
+        "text": "As Deborah shuffled sideways to block the player, her knee went out and she collapsed on the court in burning pain.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/player_ex_1_245a1ea1.mp3"
+      },
+      {
+        "text": "Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/player_ex_2_0ad88cf8.mp3"
+      },
+      {
+        "text": "The goals of becoming an outstanding player and playing college ball were never far from Deborah’s mind.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/player_ex_3_2bca43c3.mp3"
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/player_ex_4_d0b2f04b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In society, the former player does not look upon himself as a lone wolf who has the right to remain 36 from the society and go his own way.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In teaching young players to cooperate with their fellows on the practice 32 , the game shows them the necessity of teamwork in society.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She knew that she couldn’t be a basketball player when she was a child.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Wherever football is played, the players learn the rough-and-tumble lesson that only through the 34 of each member can the team win.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The women’s softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A player of Mills had possession of the ball, and Deborah ran to guard against her.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Our team will certainly win this baseball game, because all the players are highly ________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "參與遊戲或運動的人。",
+    "en_def": "A person who participates in a game or sport.",
+    "example": "She is a talented player on the basketball team."
+  },
+  "sentences_removed": 0
+}

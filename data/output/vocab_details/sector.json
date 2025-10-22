@@ -1,0 +1,23 @@
+{
+  "lemma": "sector",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sector_ex_0_b8b54b8b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個特定的區域或領域，通常用於經濟、社會或技術的分類。",
+    "en_def": "A distinct part or division of a larger area, often used in economic, social, or technical contexts.",
+    "example": "The technology sector is rapidly growing and creating new job opportunities."
+  },
+  "sentences_removed": 0
+}

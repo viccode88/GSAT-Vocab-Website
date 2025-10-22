@@ -1,0 +1,23 @@
+{
+  "lemma": "betty",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Betty was to accept her friend’s suggestion because she thought she could come up with a better idea herself.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/betty_ex_0_02f1b1a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "貝蒂是一個女性名字，通常用作貝特麗斯或伊麗莎白的暱稱。",
+    "en_def": "Betty is a female given name, often used as a diminutive of Beatrice or Elizabeth.",
+    "example": "Betty loves to bake cookies on the weekends."
+  },
+  "sentences_removed": 0
+}

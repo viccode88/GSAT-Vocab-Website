@@ -1,0 +1,28 @@
+{
+  "lemma": "vivid",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He achieved international fame with his vivid paintings of England.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vivid_ex_0_d502bba3.mp3"
+      },
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/vivid_ex_1_1b0ce33e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生動的；鮮明的",
+    "en_def": "Producing powerful feelings or strong, clear images in the mind.",
+    "example": "The artist used vivid colors to bring the landscape to life."
+  },
+  "sentences_removed": 0
+}

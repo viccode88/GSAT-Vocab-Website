@@ -1,0 +1,90 @@
+{
+  "lemma": "window",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 13,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "\" So we went to the restaurant and sat by a window (38) the bay.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/window_ex_0_7f99b8fa.mp3"
+      },
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/window_ex_1_779daa9e.mp3"
+      },
+      {
+        "text": "The car doors were still locked, the windows tightly shut, and on the back seat were their two jackets.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/window_ex_2_e78bdb3c.mp3"
+      },
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/window_ex_3_0d7d8441.mp3"
+      },
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/window_ex_4_a5d2f4ac.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Located at the heart of Paris, this medieval cathedral is 21 for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Kevin is , because he broke the living room window this afternoon.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In an airtight glass bottle in a kitchen cupboard. (D) In an airproof bottle next to a well-lighted window. 52.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early days of aviation, plane windows 17 square in shape.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "窗戶；窗格，通常用於讓光線進入或通風。",
+    "en_def": "An opening in a wall or structure, typically covered with glass, allowing light and air to enter.",
+    "example": "She opened the window to let in some fresh air."
+  },
+  "sentences_removed": 0
+}

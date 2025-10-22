@@ -1,0 +1,23 @@
+{
+  "lemma": "domestic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Currently, health care costs account for __(37)__ twelve percent of the gross domestic product.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/domestic_ex_0_04dd57e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與家庭或國內有關的；本國的",
+    "en_def": "Relating to the home or country; not foreign.",
+    "example": "The domestic market is growing rapidly."
+  },
+  "sentences_removed": 0
+}

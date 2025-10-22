@@ -1,0 +1,23 @@
+{
+  "lemma": "definite",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One key factor to success is to have a definite goal first and then do your best to the goal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/definite_ex_0_bb62ccd8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "明確的，確定的",
+    "en_def": "Clearly defined or determined; not vague or general.",
+    "example": "She gave a definite answer to the question."
+  },
+  "sentences_removed": 0
+}

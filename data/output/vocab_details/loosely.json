@@ -1,0 +1,23 @@
+{
+  "lemma": "loosely",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It should loosely fit on the body to be turned around.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/loosely_ex_0_3c51aaba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鬆散地，隨意地，不嚴格地",
+    "en_def": "In a relaxed or casual manner; not tightly or strictly.",
+    "example": "She loosely tied her hair back with a ribbon."
+  },
+  "sentences_removed": 0
+}

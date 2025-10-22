@@ -1,0 +1,28 @@
+{
+  "lemma": "café",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The World Café was 15 created.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/café_ex_0_b1b40551.mp3"
+      },
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/café_ex_1_9a26b85d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "咖啡館；提供咖啡和輕食的地方。",
+    "en_def": "A small restaurant or coffeehouse where coffee and light meals are served.",
+    "example": "I like to meet my friends at the café for a cup of coffee."
+  },
+  "sentences_removed": 0
+}

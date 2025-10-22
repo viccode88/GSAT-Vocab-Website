@@ -1,0 +1,85 @@
+{
+  "lemma": "demand",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Like it or not, zoos will continue to exist as long as there is a demand for them.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/demand_ex_0_936f43de.mp3"
+      },
+      {
+        "text": "Eventually, the demand for a road across the mountains led to the building of the Going-to-the-Sun Road.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/demand_ex_1_4a22a7e3.mp3"
+      },
+      {
+        "text": "The answer has to do with supply and demand.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/demand_ex_2_fa2bd0d2.mp3"
+      },
+      {
+        "text": "Furthermore, the demand for a particular coin will also 24 influence coin values.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/demand_ex_3_6d11c3f0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the end, Ali lost patience and went to demand his pot.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "However, CGI has difficulties of its own, and there will always be a demand for the realism and thrilling 30 of an actual stunt.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "However, their demand is high because many people buy them to tell the world that they have money, 28 as conspicuous consumption in economics.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many athletes and VIPs demand payment for their signatures, and many people are willing to pay.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Such demand increased with the rise of western movies, and many cowboys with masterful skills on horseback found a new 27 as a stunt person.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In response to rising demands, these hotels are embracing a wave of innovation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "It often demands even greater effort in adjustment since we are not quick enough to catch up with the new time schedule.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "需求，要求或請求某物的行為或狀態。",
+    "en_def": "The desire or need for a product or service, often accompanied by the ability to pay for it.",
+    "example": "There is a high demand for electric cars in the market."
+  },
+  "sentences_removed": 0
+}

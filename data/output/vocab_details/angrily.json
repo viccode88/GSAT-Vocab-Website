@@ -1,0 +1,23 @@
+{
+  "lemma": "angrily",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/angrily_ex_0_6d6b613e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "憤怒地；生氣地",
+    "en_def": "In a manner that shows strong displeasure or hostility.",
+    "example": "She spoke angrily after hearing the unfair decision."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "buddhism",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Buddhism is the _____ religion in Thailand, with 90% of the total population identified as Buddhists.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/buddhism_ex_0_0c5983fe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "佛教：一種基於釋迦牟尼的教導，強調苦、無常和無我，並追求解脫與覺悟的宗教信仰。",
+    "en_def": "Buddhism: A religion based on the teachings of Siddhartha Gautama, emphasizing suffering, impermanence, and non-self, and seeking liberation and enlightenment.",
+    "example": "Buddhism teaches that understanding the nature of suffering is essential for achieving enlightenment."
+  },
+  "sentences_removed": 0
+}

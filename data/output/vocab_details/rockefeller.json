@@ -1,0 +1,23 @@
+{
+  "lemma": "rockefeller",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Glenn began the day with decorating the Rockefeller Center Christmas tree.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rockefeller_ex_0_af80412c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "洛克菲勒（John D. Rockefeller）是美國著名的石油大亨和慈善家，創立了標準石油公司，對美國經濟和慈善事業有重大影響。",
+    "en_def": "Rockefeller refers to John D. Rockefeller, an American oil industry magnate and philanthropist who founded the Standard Oil Company and had a significant impact on the American economy and charitable causes.",
+    "example": "John D. Rockefeller is often regarded as one of the wealthiest individuals in history."
+  },
+  "sentences_removed": 0
+}

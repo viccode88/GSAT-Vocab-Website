@@ -1,0 +1,23 @@
+{
+  "lemma": "oppressor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But it soon became a strong weapon in the life-or-death struggle against their oppressors.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/oppressor_ex_0_13759610.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壓迫者；施加不公正或殘酷對待的人或力量。",
+    "en_def": "A person or group that exercises authority or power in a cruel or unjust manner.",
+    "example": "The oppressor silenced the voices of those who dared to speak out."
+  },
+  "sentences_removed": 0
+}

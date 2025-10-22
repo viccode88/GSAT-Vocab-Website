@@ -1,0 +1,23 @@
+{
+  "lemma": "romantic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She is very artistic and romantic.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/romantic_ex_0_10c8fbd7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "浪漫的；與愛情或浪漫情感有關的。",
+    "en_def": "Concerning love or a romantic relationship; characterized by or suggestive of an idealized view of love.",
+    "example": "They had a romantic dinner by candlelight."
+  },
+  "sentences_removed": 0
+}

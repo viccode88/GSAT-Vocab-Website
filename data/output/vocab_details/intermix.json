@@ -1,0 +1,29 @@
+{
+  "lemma": "intermix",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Animals were able to move and intermix with __(26)__.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/intermix_ex_0_1169e993.mp3"
+      },
+      {
+        "text": "Synesthesia is a condition in which people’s senses intermix.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/intermix_ex_1_dce78c7c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "混合，交融",
+    "en_def": "To mix or blend different elements together.",
+    "example": "The artist decided to intermix various colors to create a unique painting."
+  },
+  "sentences_removed": 0
+}

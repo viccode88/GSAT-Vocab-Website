@@ -1,0 +1,23 @@
+{
+  "lemma": "map",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, where is Zanzibar most likely located on the following map? North America Europe Asia ○ A Atlantic Pacific Pacific Ocean ○ Ocean C Ocean Africa South ○ B Indian America Ocean ○ D (A) A (B) B (C) C (D) D 45.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/map_ex_0_ae968bd3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地圖；圖示，顯示某地區或事物的圖形表示。",
+    "en_def": "A representation of an area, showing physical features, cities, roads, etc.",
+    "example": "I used a map to find the best route to the museum."
+  },
+  "sentences_removed": 0
+}

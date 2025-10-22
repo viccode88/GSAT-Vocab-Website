@@ -1,0 +1,59 @@
+{
+  "lemma": "manage",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This group of islands off the coast of Ecuador has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/manage_ex_0_89469594.mp3"
+      },
+      {
+        "text": "The skydiver managed to land safely after jumping out of the aircraft, even though her _____ failed to open in midair.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/manage_ex_1_16941a73.mp3"
+      },
+      {
+        "text": "Churchill, however, managed to get the better of this exchange.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/manage_ex_2_25340e05.mp3"
+      },
+      {
+        "text": "All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/manage_ex_3_da153e9a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She managed to reach There, Popole discovered judo, from which he Turkey through Lebanon.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In view of all these strengths, in the 1930s the United States and Canada undertook a research project in which they managed to breed an especially nutritious soybean with a high oil content.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "We even managed to visit an aboriginal village in the forest.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "管理；處理；經營",
+    "en_def": "To be in charge of or control something.",
+    "example": "She was hired to manage the new project."
+  },
+  "sentences_removed": 1
+}

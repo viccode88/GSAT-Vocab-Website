@@ -1,0 +1,23 @@
+{
+  "lemma": "hack",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One young hacker said, \"Hacking is just intellectual.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hack_ex_0_4fe70fc9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "非法侵入電腦系統或網絡以獲取信息或破壞數據的行為。",
+    "en_def": "To gain unauthorized access to a computer system or network to obtain information or cause damage.",
+    "example": "He managed to hack into the company's database and steal sensitive information."
+  },
+  "sentences_removed": 1
+}

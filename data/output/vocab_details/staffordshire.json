@@ -1,0 +1,23 @@
+{
+  "lemma": "staffordshire",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was in response to this situation that The Carpenters’ Shop was opened in the town of Walsall, Staffordshire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/staffordshire_ex_0_b13e8a6e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "斯塔福德郡，英國的一個郡，以其陶瓷工業和美麗的鄉村著稱。",
+    "en_def": "Staffordshire is a county in England known for its pottery industry and beautiful countryside.",
+    "example": "The famous pottery from Staffordshire is highly sought after by collectors."
+  },
+  "sentences_removed": 0
+}

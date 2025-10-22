@@ -1,0 +1,38 @@
+{
+  "lemma": "relieve",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was then decided that Alan Shepard should relieve himself in his space suit, and continue with the mission as scheduled.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/relieve_ex_0_6ddfb63e.mp3"
+      },
+      {
+        "text": "Research shows that 31 amounts of exercise—even just 15 minutes a day—helps ease depression, enhance self-image, relieve stress, and much more.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/relieve_ex_1_75050000.mp3"
+      },
+      {
+        "text": "As 19.(A) who (B) while (C) that (D) when 20.(A) relieved (B) relaxed (C) relied (D) reacted European politicians are trying to get the UK Government to make cigarette companies print photos on the packets.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/relieve_ex_2_27a4707c.mp3"
+      },
+      {
+        "text": "His flight was supposed to last only 15 minutes, so there was no provision made for him to relieve himself in the capsule.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/relieve_ex_3_d3a1f4bc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "減輕，緩解（痛苦、壓力等）",
+    "en_def": "to make (pain, distress, or a problem) less severe or serious",
+    "example": "She took medicine to relieve her headache."
+  },
+  "sentences_removed": 0
+}

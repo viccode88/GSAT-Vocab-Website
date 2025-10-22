@@ -1,0 +1,50 @@
+{
+  "lemma": "specialist",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 6,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, specialists warn that frightening films can have a negative impact on children.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/specialist_ex_0_335b8605.mp3"
+      },
+      {
+        "text": "Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power’s care.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/specialist_ex_1_52615f25.mp3"
+      },
+      {
+        "text": "Dr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/specialist_ex_2_cfd6bc96.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Her doctor asked her to consult other specialists due to her constant complaints.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nowadays health specialists 34 the idea of wellness for everybody.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "專家，特定領域的專業人士。",
+    "en_def": "A person who is highly skilled or knowledgeable in a particular area or field.",
+    "example": "She is a specialist in marine biology."
+  },
+  "sentences_removed": 0
+}

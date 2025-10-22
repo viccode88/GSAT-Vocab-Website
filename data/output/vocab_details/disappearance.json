@@ -1,0 +1,33 @@
+{
+  "lemma": "disappearance",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The disappearance of the glaciers will also leave a significant 29 impact.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/disappearance_ex_0_1e3e80d9.mp3"
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/disappearance_ex_1_b5139e33.mp3"
+      },
+      {
+        "text": "The disappearance of traditional course materials. (B) The limited number of courses offered around the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/disappearance_ex_2_819ddebb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "消失，失踪，無法被找到或看見的狀態。",
+    "en_def": "The act of disappearing or the state of being lost or unable to be found.",
+    "example": "The sudden disappearance of the plane puzzled investigators."
+  },
+  "sentences_removed": 0
+}

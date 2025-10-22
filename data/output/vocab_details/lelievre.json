@@ -1,0 +1,23 @@
+{
+  "lemma": "lelievre",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lelievre_ex_0_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種法國姓氏，通常與家族或地名相關。",
+    "en_def": "A French surname often associated with a family or place.",
+    "example": "Lelievre is a common surname in certain regions of France."
+  },
+  "sentences_removed": 0
+}

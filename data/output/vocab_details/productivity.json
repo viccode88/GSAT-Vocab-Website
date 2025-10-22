@@ -1,0 +1,38 @@
+{
+  "lemma": "productivity",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements can be supported by the passage? (A) A robot was designed to let humans decrease their productivity.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/productivity_ex_0_eefc62c0.mp3"
+      },
+      {
+        "text": "But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 30 their productivity.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/productivity_ex_1_a34ac3fa.mp3"
+      },
+      {
+        "text": "Only 4 percent of employers said that casual dress has a negative impact on productivity.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/productivity_ex_2_ae8a04f2.mp3"
+      },
+      {
+        "text": "26 , many people believe that bad weather can reduce productivity and efficiency.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/productivity_ex_3_022dc1e2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生產力，指在一定時間內生產的產品或服務的數量和效率。",
+    "en_def": "The effectiveness of productive effort, measured in terms of the rate of output per unit of input.",
+    "example": "Improving productivity can lead to higher profits for the company."
+  },
+  "sentences_removed": 0
+}

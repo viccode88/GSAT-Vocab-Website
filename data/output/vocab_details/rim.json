@@ -1,0 +1,23 @@
+{
+  "lemma": "rim",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/rim_ex_0_3716709a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓形物體的邊緣或邊框。",
+    "en_def": "The outer edge or border of a circular object.",
+    "example": "The bicycle has a shiny silver rim."
+  },
+  "sentences_removed": 0
+}

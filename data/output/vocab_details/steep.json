@@ -1,0 +1,17 @@
+{
+  "lemma": "steep",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "陡峭的；急劇的",
+    "en_def": "Having a sharp inclination or slope; rising or falling sharply.",
+    "example": "The mountain trail was too steep for beginners."
+  },
+  "sentences_removed": 1
+}

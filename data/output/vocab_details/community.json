@@ -1,0 +1,54 @@
+{
+  "lemma": "community",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People in this community tend to _____ with the group they belong to, and often put group interests before personal ones.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/community_ex_0_9651fc63.mp3"
+      },
+      {
+        "text": "Whether or not zoos benefit the animal community, they certainly do make money.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/community_ex_1_a274a401.mp3"
+      },
+      {
+        "text": "The speaker was Robot Redford, a robot who delivered the commencement address at a community college in suburban Maryland.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/community_ex_2_e5d8f014.mp3"
+      },
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/community_ex_3_d88f836a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "For instance, he was 36 with many secrets in my family and our community.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "社區；一群有共同特徵或利益的人。",
+    "en_def": "A group of people living in the same place or having a particular characteristic in common.",
+    "example": "The community came together to support the local charity."
+  },
+  "sentences_removed": 2
+}

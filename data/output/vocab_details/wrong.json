@@ -1,0 +1,55 @@
+{
+  "lemma": "wrong",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 5,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was worried about my first overseas trip, but my father ______ me that he would help plan the trip so that nothing would go wrong.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/wrong_ex_0_a09a5cf1.mp3"
+      },
+      {
+        "text": "It is both legally and _______ wrong to spread rumors about other people on the Internet.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wrong_ex_1_b4d0b81f.mp3"
+      },
+      {
+        "text": "They have set up “listening clinics” and courses to find out what is wrong—and what to do about it. 31.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wrong_ex_2_ef8d78f9.mp3"
+      },
+      {
+        "text": "That being said, I’m definitely a carnivore and prefer meat, but I don’t see anything wrong with choosing one of the fakey- fakey meaty things once in a while—just for a change.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/wrong_ex_3_a7126c2f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach children right from wrong, some parents will ______",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Once the wrong was made right, the pole was taken down.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "錯誤的；不正確的",
+    "en_def": "Not correct or true; mistaken.",
+    "example": "I realized I had the wrong answer on the test."
+  },
+  "sentences_removed": 0
+}

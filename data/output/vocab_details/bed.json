@@ -1,0 +1,38 @@
+{
+  "lemma": "bed",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some parents try to get rid of half of the candy after their children go to bed, but dentists say parents also need to separate the good kinds of treats from the bad.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/bed_ex_0_6aa1f4dd.mp3"
+      },
+      {
+        "text": "Unless he prepares well, (B) … I stayed in bed an extra hour.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/bed_ex_1_18778420.mp3"
+      },
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bed_ex_2_37f64fdf.mp3"
+      },
+      {
+        "text": "Guests have to crawl into bed through a large porthole entrance.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bed_ex_3_0414d0c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "床：用於睡覺或休息的家具，通常有床架和床墊。",
+    "en_def": "A piece of furniture for sleep or rest, typically consisting of a frame and a mattress.",
+    "example": "I like to read a book before going to bed."
+  },
+  "sentences_removed": 0
+}

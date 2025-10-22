@@ -1,0 +1,28 @@
+{
+  "lemma": "bullard",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/bullard_ex_0_35a4c04b.mp3"
+      },
+      {
+        "text": "The hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/bullard_ex_1_7ef960ad.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於防止船隻或其他物體移動的圓柱形裝置，通常設置在碼頭或船塭上。",
+    "en_def": "A cylindrical device used to prevent the movement of ships or other objects, typically installed at docks or wharves.",
+    "example": "The ship was securely tied to the bullard at the dock."
+  },
+  "sentences_removed": 0
+}

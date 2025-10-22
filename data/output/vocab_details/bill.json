@@ -1,0 +1,80 @@
+{
+  "lemma": "bill",
+  "count": 15,
+  "pos_dist": {
+    "PROPN": 8,
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bill_ex_0_9e31f671.mp3"
+      },
+      {
+        "text": "Bill? Bill: I'm in foreign trade.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bill_ex_1_c41e67a5.mp3"
+      },
+      {
+        "text": "Our electricity bill went way down.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bill_ex_2_27ae149d.mp3"
+      },
+      {
+        "text": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/bill_ex_3_f5f9307c.mp3"
+      },
+      {
+        "text": "After dinner, Richard offered to pay the bill, but May insisted that they do it .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bill_ex_4_9ea67468.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Bill was severely punished because he lied to his mother.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But trading online is gaining popularity these days, with several sites in bills operation, including HomeExchanges.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When Jason failed to pay his bill, the network company his Internet connection.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Bill and Sam were soon desperate and decided to 18 the little terror.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A contrast between Intervac and HomeExchange. bills 50.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "帳單；法案",
+    "en_def": "A statement of money owed for goods or services; a proposed law.",
+    "example": "I received the electricity bill in the mail today."
+  },
+  "sentences_removed": 2
+}

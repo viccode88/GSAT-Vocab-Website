@@ -1,0 +1,69 @@
+{
+  "lemma": "race",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported. 49.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/race_ex_0_040562b6.mp3"
+      },
+      {
+        "text": "The moral lesson is that slow and steady wins the race.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/race_ex_1_4f93b724.mp3"
+      },
+      {
+        "text": "Their unique style, as remarked by Karen Blixen, author of Out of Africa, “has grown from the inside, and is an expression of the race and its history.”",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/race_ex_2_9105b78d.mp3"
+      },
+      {
+        "text": "She also won millions of dollars in the races.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/race_ex_3_f8033ee1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "At the request of the hare, a second race is 32 and this time, the hare runs without taking a rest and wins.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the cross-lake swimming race, a boat will be _____ in case of an emergency.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "This time, the tortoise wins the race because the hare cannot swim.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Then it is the tortoise that 34 the hare to a third race along a different route in which there is a river just before the final destination.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Both 36 know their own drawbacks and limitations very well; therefore, they jointly decide to have one last race—not to decide who the winner or loser is, but just for their own pleasure and satisfaction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The end of the famous fable of “The Tortoise and the Hare” is well known to all: the tortoise wins the race against the hare.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種競賽，通常涉及速度或距離的比賽，或指人類的種族或族群。",
+    "en_def": "A competition of speed, typically involving running, driving, or other forms of movement, or a classification of humans based on shared physical or social qualities.",
+    "example": "The children decided to have a race to see who could run the fastest."
+  },
+  "sentences_removed": 0
+}

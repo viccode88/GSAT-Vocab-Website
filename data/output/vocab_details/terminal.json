@@ -1,0 +1,23 @@
+{
+  "lemma": "terminal",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Picking up on teens' interest in computer games, Hilfiger sponsored a Nintendo competition and installed Nintendo terminals in his stores.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/terminal_ex_0_7757c056.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "終端機；終點，末端",
+    "en_def": "A terminal is a device or point where a process ends or a place where information is input or output.",
+    "example": "She connected her laptop to the terminal at the airport."
+  },
+  "sentences_removed": 0
+}

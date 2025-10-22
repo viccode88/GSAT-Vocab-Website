@@ -1,0 +1,28 @@
+{
+  "lemma": "cleaner",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most of them act as cleaners for other fish and pick dead tissue from their bodies.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cleaner_ex_0_d8e4bce5.mp3"
+      },
+      {
+        "text": "The vacuum cleaner is not working.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cleaner_ex_1_3a047abb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "清潔工；用於清潔的工具或物品",
+    "en_def": "A person whose job is to clean or a substance used for cleaning.",
+    "example": "The cleaner arrived early to tidy up the office before everyone came in."
+  },
+  "sentences_removed": 0
+}

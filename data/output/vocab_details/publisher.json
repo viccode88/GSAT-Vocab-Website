@@ -1,0 +1,23 @@
+{
+  "lemma": "publisher",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Let’s send it back to the _____ to have it inspected and repaired. (A) lecturer (B) publisher (C) researcher (D) manufacturer 4.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/publisher_ex_0_baf555c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "出版商，負責出版書籍、雜誌或其他媒體的公司或個人。",
+    "en_def": "A publisher is a person or company that prepares and issues books, journals, or other media for sale.",
+    "example": "The publisher released a new edition of the classic novel."
+  },
+  "sentences_removed": 0
+}

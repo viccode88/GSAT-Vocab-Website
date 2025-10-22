@@ -1,0 +1,28 @@
+{
+  "lemma": "rhythm",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We need to feel the rhythm of the music, hear how it inspires us to move and learn our unique style of movement and expression.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rhythm_ex_0_122f1a99.mp3"
+      },
+      {
+        "text": "The style of the dances varies from region to region but is normally based on the rhythms of taiko drums.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/rhythm_ex_1_e3a7010e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "節奏，指音樂或詩歌中音符或音節的重複和間隔。",
+    "en_def": "A strong, regular, repeated pattern of movement or sound.",
+    "example": "The drummer kept a steady rhythm throughout the song."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "explosive",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Future bank robbers will not need explosives to blow open bank safes—all they will need is someone who can break computer codes.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/explosive_ex_0_c9d5669a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "能夠迅速釋放大量能量並產生爆炸的物質或裝置。",
+    "en_def": "A substance or device that can release a large amount of energy rapidly and cause an explosion.",
+    "example": "The scientists handled the explosive materials with extreme caution."
+  },
+  "sentences_removed": 0
+}

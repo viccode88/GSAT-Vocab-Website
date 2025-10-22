@@ -1,0 +1,38 @@
+{
+  "lemma": "interestingly",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Interestingly, when there are few howler monkeys in an area, the howling routine takes on a different pattern.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/interestingly_ex_0_c6ef4a6e.mp3"
+      },
+      {
+        "text": "Interestingly, the Officer’s Knife was never given to those serving in the army.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/interestingly_ex_1_02933b6b.mp3"
+      },
+      {
+        "text": "Interestingly, both of them 16 buying the same pair of jeans.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interestingly_ex_2_062532f3.mp3"
+      },
+      {
+        "text": "Interestingly, when the volunteers expected only mild or moderate pain but experienced severe pain, they reported feeling 28 percent less pain than when they expected severe pain and actually got it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/interestingly_ex_3_dcab3329.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有趣地；引人入勝地",
+    "en_def": "In a way that arouses curiosity or interest.",
+    "example": "Interestingly, the book was written in just three weeks."
+  },
+  "sentences_removed": 0
+}

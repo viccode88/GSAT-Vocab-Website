@@ -1,0 +1,23 @@
+{
+  "lemma": "suspension",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/suspension_ex_0_95f77268.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "懸掛；暫停，停止",
+    "en_def": "The act of temporarily preventing something from continuing or being in force.",
+    "example": "The suspension of the game was due to bad weather."
+  },
+  "sentences_removed": 0
+}

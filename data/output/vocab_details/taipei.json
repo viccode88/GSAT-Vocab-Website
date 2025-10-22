@@ -1,0 +1,33 @@
+{
+  "lemma": "taipei",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/taipei_ex_0_f81d97bb.mp3"
+      },
+      {
+        "text": "As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/taipei_ex_1_41aa8962.mp3"
+      },
+      {
+        "text": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a _____ flight.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/taipei_ex_2_ad1ebb5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "台北是台灣的首都，位於北部，是政治、經濟和文化的中心。",
+    "en_def": "Taipei is the capital of Taiwan, located in the north, and is the center of politics, economy, and culture.",
+    "example": "I visited Taipei last summer and enjoyed its vibrant night markets."
+  },
+  "sentences_removed": 1
+}

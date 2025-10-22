@@ -1,0 +1,84 @@
+{
+  "lemma": "monkey",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Belize, where howler monkeys were newly reintroduced into a wildlife sanctuary, the howler monkeys were heard only a few times a week rather than every day.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/monkey_ex_0_0aaebbbf.mp3"
+      },
+      {
+        "text": "Where is the monkey house most probably located? 3.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/monkey_ex_1_6a80e1bc.mp3"
+      },
+      {
+        "text": "Male howler monkeys use their loud voices to fight for food, mates, or territory.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/monkey_ex_2_5cc37b02.mp3"
+      },
+      {
+        "text": "Interestingly, when there are few howler monkeys in an area, the howling routine takes on a different pattern.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/monkey_ex_3_c6ef4a6e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The monkey house has a strange fascination.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true about howler monkeys? (A) They howl most often at noon.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the future when the population grows, there will be no need for the recording because the howler monkeys will have more reason to check in with the neighbors to define their own territories.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach the monkeys how to make the loudest cries to scare people away. 44.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To trick the monkeys into the belief that there is plenty of space around.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why did the howler monkeys in Belize howl less often?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do howler monkeys howl?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do the keepers at the sanctuary use recorded howls? (A) To prevent the howler monkeys from getting homesick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "猴子，一種靈長類動物，通常有長尾巴，生活在樹上，並以水果和昆蟲為食。",
+    "en_def": "A monkey is a primate that typically has a long tail, lives in trees, and feeds on fruits and insects.",
+    "example": "The monkey swung from branch to branch in the jungle."
+  },
+  "sentences_removed": 2
+}

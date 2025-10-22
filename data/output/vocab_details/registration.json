@@ -1,0 +1,23 @@
+{
+  "lemma": "registration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Group registrations are not allowed.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/registration_ex_0_62a38179.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "登記；註冊",
+    "en_def": "The act of recording or enrolling in an official list or register.",
+    "example": "The registration for the conference opens next week."
+  },
+  "sentences_removed": 0
+}

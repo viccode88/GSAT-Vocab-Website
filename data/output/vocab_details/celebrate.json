@@ -1,0 +1,54 @@
+{
+  "lemma": "celebrate",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In June 2017, Morgan’s Wonderland celebrated the opening of Morgan’s Inspiration Island.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/celebrate_ex_0_123d872a.mp3"
+      },
+      {
+        "text": "The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/celebrate_ex_1_0cfaa364.mp3"
+      },
+      {
+        "text": "In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/celebrate_ex_2_8435c049.mp3"
+      },
+      {
+        "text": "Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/celebrate_ex_3_a65b151e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The tower is built to celebrate the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The tower is built to celebrate the coming of the year 2,000.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "慶祝，表示對某事的高興或慶賀。",
+    "en_def": "To observe a notable occasion with festivities or joyful activities.",
+    "example": "We will celebrate her birthday with a big party."
+  },
+  "sentences_removed": 0
+}

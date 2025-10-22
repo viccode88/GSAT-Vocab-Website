@@ -1,0 +1,89 @@
+{
+  "lemma": "cut",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "(4) Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cut_ex_0_87102a2b.mp3"
+      },
+      {
+        "text": "She cut a plank of wood into two pieces, each about two feet wide and one foot long.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/cut_ex_1_19187435.mp3"
+      },
+      {
+        "text": "To make fresh lemonade, cut the lemon in half, _____ the juice into a bowl, and then add as much water and sugar as you like. (A) decrease (B) squeeze (C) freeze (D) cease 12.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cut_ex_2_64b81f9f.mp3"
+      },
+      {
+        "text": "Waimea Canyon, called the \"Grand Canyon of the Pacific\" by Mark Twain, cuts a deep gash through the rugged central mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cut_ex_3_f22b279a.mp3"
+      },
+      {
+        "text": "So, if you need money now, you should try either finding a job or cutting down on your 20 .",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/cut_ex_4_b25b1fd5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This was a slow process, requiring much skill and patience, and every page of every book had to be cut separately.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When he was about to cut its throat, the little pig suddenly 38 , “Stop!”",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "(3) How long did it take the two men to cut down the giant capirana tree?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They ensured the meat would not twist while being cut.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Across the United States each day, 300,000 pounds of hair and fur are cut.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Kids don’t usually like radishes, but if kids cut them up and put them in the salad, they will love the dish.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The men took out an axe and an electric saw and started cutting into the tree’s silky smooth skin.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "These were thickly cut potatoes, fried until golden brown and crisp on the outside.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Ice sculptors also use razor-sharp chisels that are specifically designed for cutting ice.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "切割或分開某物的動作或過程。",
+    "en_def": "To divide or sever something into parts using a sharp instrument.",
+    "example": "Please cut the paper into smaller pieces."
+  },
+  "sentences_removed": 0
+}

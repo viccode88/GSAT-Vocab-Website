@@ -1,0 +1,23 @@
+{
+  "lemma": "harmonically",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This particular bell, ringing in F sharp, is considered one of the most harmonically beautiful in Europe.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/harmonically_ex_0_ee3b94ae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "和諧地，音調上協調地",
+    "en_def": "In a manner that is harmonious or musically pleasing.",
+    "example": "The choir sang harmonically, creating a beautiful blend of voices."
+  },
+  "sentences_removed": 0
+}

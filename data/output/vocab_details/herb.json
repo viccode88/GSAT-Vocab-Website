@@ -1,0 +1,33 @@
+{
+  "lemma": "herb",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A second kind of medicine is called “natural cures,” or “folk medicine,” in which less educated people try to cure sicknesses with various herbs.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/herb_ex_0_d92bfd33.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Folk healers choose different herbs to cure diseases without any sound basis.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/herb_ex_1_946fa7c1.mp3"
+      },
+      {
+        "text": "You will also learn important information about __(24)__ for fresh and inexpensive foods, the use of herbs and spices, and the proper ways of storing different kinds of food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/herb_ex_2_c64d79bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "草本植物，通常用於烹飪、藥用或香料。",
+    "en_def": "A plant used for flavoring, food, medicine, or fragrance.",
+    "example": "She added fresh herbs to the salad for extra flavor."
+  },
+  "sentences_removed": 0
+}

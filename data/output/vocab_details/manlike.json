@@ -1,0 +1,23 @@
+{
+  "lemma": "manlike",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every time we watch apes in their cages we are startled by their manlike behavior.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/manlike_ex_0_454b3520.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "像男人的；具有男性特徵的",
+    "en_def": "Having qualities or characteristics typically associated with men.",
+    "example": "His manlike demeanor made him stand out in the group."
+  },
+  "sentences_removed": 0
+}

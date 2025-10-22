@@ -1,0 +1,23 @@
+{
+  "lemma": "eccentric",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/eccentric_ex_0_2f11f77c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "古怪的；異常的",
+    "en_def": "Unconventional and slightly strange in behavior or appearance.",
+    "example": "Her eccentric fashion choices always make her stand out in a crowd."
+  },
+  "sentences_removed": 0
+}

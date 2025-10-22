@@ -1,0 +1,23 @@
+{
+  "lemma": "sighted",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Children born blind never see anybody smile, but they show the same kinds of smiles under the same situations as sighted people.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sighted_ex_0_4ad86558.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "能看見的，有視力的",
+    "en_def": "Having the ability to see; not blind.",
+    "example": "The sighted children helped their blind classmates navigate the playground."
+  },
+  "sentences_removed": 0
+}

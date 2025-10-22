@@ -1,0 +1,23 @@
+{
+  "lemma": "tax",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It came with a high price tag and tea was taxed as well.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tax_ex_0_adef402c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "稅：政府向個人或企業徵收的金錢，用於公共支出。",
+    "en_def": "A tax is a financial charge imposed by a government on individuals or businesses to fund public expenditures.",
+    "example": "Everyone is required to pay taxes on their income."
+  },
+  "sentences_removed": 0
+}

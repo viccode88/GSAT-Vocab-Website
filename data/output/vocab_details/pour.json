@@ -1,0 +1,33 @@
+{
+  "lemma": "pour",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements is true about how the glass armonica works? (A) Water has to be poured into the glass hemispheres. (B) Colored paint makes it sound better and last longer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/pour_ex_0_7de33e58.mp3"
+      },
+      {
+        "text": "The huge amount of paper poured over him.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pour_ex_1_7cb2144e.mp3"
+      },
+      {
+        "text": "Then pour the popcorn into a bowl and season with a small 40 of real butter or olive oil and natural salt.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pour_ex_2_9b5aeb6c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "倒，將液體從一個容器轉移到另一個容器中。",
+    "en_def": "To cause a liquid to flow from one container to another.",
+    "example": "Please pour the milk into the glass."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "gently",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/gently_ex_0_2b91658e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輕柔地，溫和地",
+    "en_def": "In a mild or soft manner; without harshness.",
+    "example": "She gently placed the baby in the crib."
+  },
+  "sentences_removed": 0
+}

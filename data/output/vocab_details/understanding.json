@@ -1,0 +1,54 @@
+{
+  "lemma": "understanding",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Storytelling was a (64) of passing on family history, of giving meaning to experience, of understanding (65) happens in people’s lives and of passing that (66) on.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/understanding_ex_0_23d75aa8.mp3"
+      },
+      {
+        "text": "This new understanding can enrich the relationship between dogs and their owners.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/understanding_ex_1_65970563.mp3"
+      },
+      {
+        "text": "A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/understanding_ex_2_8a89dabd.mp3"
+      },
+      {
+        "text": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people. 41.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/understanding_ex_3_4e03a824.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This TV program will young viewers' understanding of the changing world.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The survey concludes that younger Taiwanese have a better understanding of health concerns than their parents, while senior citizens have the least understanding among the three age groups.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The parents’ vague understanding of their own tradition.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "理解；對某事物的認識或洞察力。",
+    "en_def": "The ability to comprehend or grasp the meaning of something.",
+    "example": "Her understanding of the topic impressed everyone in the class."
+  },
+  "sentences_removed": 0
+}

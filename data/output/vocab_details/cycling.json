@@ -1,0 +1,23 @@
+{
+  "lemma": "cycling",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, an injured runner might end up cycling and swimming instead of running.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/cycling_ex_0_89621cb7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "騎自行車的活動或運動。",
+    "en_def": "The activity or sport of riding a bicycle.",
+    "example": "I enjoy cycling in the park on weekends."
+  },
+  "sentences_removed": 0
+}

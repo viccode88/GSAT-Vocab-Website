@@ -1,0 +1,23 @@
+{
+  "lemma": "valid",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A passport that is valid for more than six months.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/valid_ex_0_d0959388.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "符合規範或法律的，或被認為是有效的。",
+    "en_def": "Meeting the requirements or standards; legally acceptable or effective.",
+    "example": "Make sure your application is valid before submitting it."
+  },
+  "sentences_removed": 0
+}

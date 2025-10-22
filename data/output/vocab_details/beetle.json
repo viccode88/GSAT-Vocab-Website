@@ -1,0 +1,23 @@
+{
+  "lemma": "beetle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Fireflies, small beetles that live in many warmer parts of the world, use light to attract a mate.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/beetle_ex_0_c28ab04b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "甲蟲，一種昆蟲，通常有堅硬的外殼和觸角。",
+    "en_def": "A beetle is an insect characterized by a hard shell and antennae.",
+    "example": "The beetle crawled slowly across the garden path."
+  },
+  "sentences_removed": 0
+}

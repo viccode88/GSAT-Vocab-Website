@@ -1,0 +1,28 @@
+{
+  "lemma": "weinstein",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/weinstein_ex_0_cfd6bc96.mp3"
+      },
+      {
+        "text": "But Dr. Weinstein says that approach is outdated and counterproductive.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/weinstein_ex_1_e38a6795.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "韋恩斯坦，指哈維·韋恩斯坦，一位美國電影製片人，以其在好萊塢的影響力和後來的性醜聞而聞名。",
+    "en_def": "Weinstein refers to Harvey Weinstein, an American film producer known for his influence in Hollywood and later for his sexual misconduct scandals.",
+    "example": "Harvey Weinstein was a powerful figure in the film industry before his fall from grace."
+  },
+  "sentences_removed": 1
+}

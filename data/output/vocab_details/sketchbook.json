@@ -1,0 +1,23 @@
+{
+  "lemma": "sketchbook",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For two weeks he filled his sketchbook with the landscape’s most stunning sights.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sketchbook_ex_0_4fba6a7b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "素描本，一種用於繪畫或素描的書籍，通常有空白的頁面。",
+    "en_def": "A sketchbook is a book with blank pages used for drawing or sketching.",
+    "example": "She carried her sketchbook everywhere to capture her ideas."
+  },
+  "sentences_removed": 0
+}

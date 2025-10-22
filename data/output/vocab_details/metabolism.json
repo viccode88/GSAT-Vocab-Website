@@ -1,0 +1,23 @@
+{
+  "lemma": "metabolism",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sitting for too long slows down the body’s metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/metabolism_ex_0_faa02c4b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "新陳代謝：生物體內進行的化學反應，涉及能量的轉換和物質的合成與分解。",
+    "en_def": "Metabolism: The chemical processes that occur within a living organism to maintain life, involving energy conversion and the synthesis and breakdown of substances.",
+    "example": "A healthy metabolism helps the body convert food into energy efficiently."
+  },
+  "sentences_removed": 0
+}

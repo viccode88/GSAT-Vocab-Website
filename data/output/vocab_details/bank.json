@@ -1,0 +1,69 @@
+{
+  "lemma": "bank",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bank_ex_0_2500abb9.mp3"
+      },
+      {
+        "text": "Situated on both banks of the winding River Vltava, Prague is like one big open-air museum.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bank_ex_1_e747283b.mp3"
+      },
+      {
+        "text": "With the worsening of global economic conditions, it seems wiser and more _____ to keep cash in the bank rather than to invest in the stock market.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bank_ex_2_de2dd517.mp3"
+      },
+      {
+        "text": "Future bank robbers will not need explosives to blow open bank safes—all they will need is someone who can break computer codes.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bank_ex_3_c9d5669a.mp3"
+      },
+      {
+        "text": "The bank tries its best to attract more customers.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/bank_ex_4_794aa577.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Then, the tortoise carries the hare and swims to the 38 bank of the river.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, breaking into computer codes of banks, large companies, and government departments is (A) a widespread criminal practice.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "銀行：提供金融服務的機構，包括存款、貸款和其他金融交易。",
+    "en_def": "A financial institution that accepts deposits from the public and provides loans and other financial services.",
+    "example": "I need to go to the bank to withdraw some money."
+  },
+  "sentences_removed": 1
+}

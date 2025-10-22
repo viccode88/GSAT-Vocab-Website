@@ -1,0 +1,23 @@
+{
+  "lemma": "yard",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Do you see that sow eating garbage there in the yard?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/yard_ex_0_289071d4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "院子；庭院；場地",
+    "en_def": "An area of land, typically enclosed, used for a specific purpose.",
+    "example": "The children played in the yard after school."
+  },
+  "sentences_removed": 0
+}

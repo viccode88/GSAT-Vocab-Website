@@ -1,0 +1,33 @@
+{
+  "lemma": "flexible",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m. (A) relative (B) severe (C) primitive (D) flexible 2.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/flexible_ex_0_4d86e1d9.mp3"
+      },
+      {
+        "text": "Flexible working hours (30 hours per week)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/flexible_ex_1_d7109d5b.mp3"
+      },
+      {
+        "text": "Less social and flexible because they become accustomed in the very early years to acting alone, they may have difficulty making close friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/flexible_ex_2_12aaf70b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "能夠適應不同情況或變化的，靈活的。",
+    "en_def": "Capable of bending easily without breaking; adaptable to new conditions.",
+    "example": "She has a flexible schedule that allows her to work from home."
+  },
+  "sentences_removed": 0
+}

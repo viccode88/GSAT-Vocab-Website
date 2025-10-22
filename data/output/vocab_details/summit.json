@@ -1,0 +1,23 @@
+{
+  "lemma": "summit",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/summit_ex_0_b5139e33.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "山峰；最高點；高峰會",
+    "en_def": "The highest point of a mountain or hill; a meeting of leaders to discuss important issues.",
+    "example": "The climbers reached the summit of the mountain after a long and challenging journey."
+  },
+  "sentences_removed": 0
+}

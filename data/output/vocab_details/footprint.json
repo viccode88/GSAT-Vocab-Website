@@ -1,0 +1,33 @@
+{
+  "lemma": "footprint",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The task of calculating a carbon footprint.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/footprint_ex_0_a8531de4.mp3"
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/footprint_ex_1_940acf73.mp3"
+      },
+      {
+        "text": "Its manufacture also leaves a smaller carbon footprint.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/footprint_ex_2_a7fa55d1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "腳印；足跡",
+    "en_def": "A mark left by a foot or shoe on a surface.",
+    "example": "The hiker noticed a footprint in the mud."
+  },
+  "sentences_removed": 0
+}

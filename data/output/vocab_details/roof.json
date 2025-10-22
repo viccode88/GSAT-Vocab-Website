@@ -1,0 +1,33 @@
+{
+  "lemma": "roof",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When he was nine, the political situation there, Yusra sometimes had to country’s civil war claimed the life of his mother train in pools under roofs that had been blown open and left him homeless.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/roof_ex_0_3783a940.mp3"
+      },
+      {
+        "text": "Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/roof_ex_1_76bcde11.mp3"
+      },
+      {
+        "text": "The rain plays a little sleep-song on our roof at night－ And I love the rain.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/roof_ex_2_74d5cfcb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "屋頂，建築物的上部結構，用於覆蓋和保護內部空間。",
+    "en_def": "The upper structure of a building that covers and protects the interior space.",
+    "example": "The roof of the house needs to be repaired before the rainy season."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "gesture",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/gesture_ex_0_8703ca0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "手勢；姿態",
+    "en_def": "A movement of the body or limbs that expresses or emphasizes an idea or feeling.",
+    "example": "She made a gesture of goodwill by helping her neighbor."
+  },
+  "sentences_removed": 0
+}

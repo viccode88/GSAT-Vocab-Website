@@ -1,0 +1,50 @@
+{
+  "lemma": "trap",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 4,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was trapped inside as the boat was driven under the water.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/trap_ex_0_a640abe7.mp3"
+      },
+      {
+        "text": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trap_ex_1_925e31f3.mp3"
+      },
+      {
+        "text": "When mothers try to dig their babies out, both may be trapped and smothered by thick mud.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trap_ex_2_831f85de.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The trenches, however, can be death traps for the elephants.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They are trapped by the sharp branches of the tea trees.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "陷阱；圈套；捕捉裝置",
+    "en_def": "A device or situation designed to catch or deceive someone.",
+    "example": "The hunter set a trap to catch the rabbit."
+  },
+  "sentences_removed": 0
+}

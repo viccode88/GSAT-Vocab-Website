@@ -1,0 +1,23 @@
+{
+  "lemma": "li",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ms. Li’s business ______ very quickly.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/li_ex_0_1449aabd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於測量長度的單位，等於一千米。",
+    "en_def": "A unit of measurement for length, equal to one thousand meters.",
+    "example": "The marathon is approximately 42 kilometers long, which is about 42 li."
+  },
+  "sentences_removed": 0
+}

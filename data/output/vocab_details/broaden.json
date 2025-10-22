@@ -1,0 +1,23 @@
+{
+  "lemma": "broaden",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "different cultures and broaden our horizons.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/broaden_ex_0_cf986fd8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擴大，增廣，使變寬。",
+    "en_def": "To make something wider or more extensive.",
+    "example": "We need to broaden our understanding of different cultures."
+  },
+  "sentences_removed": 0
+}

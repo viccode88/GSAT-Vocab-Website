@@ -1,0 +1,28 @@
+{
+  "lemma": "establishment",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The establishment and features of a special theme park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/establishment_ex_0_c7deda63.mp3"
+      },
+      {
+        "text": "Its establishment was proposed by Langford.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/establishment_ex_1_478f21ea.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "建立或設立的行為或過程，通常指機構、組織或法律的創立。",
+    "en_def": "The act or process of setting up or founding something, typically an institution, organization, or law.",
+    "example": "The establishment of the new school was celebrated by the community."
+  },
+  "sentences_removed": 0
+}

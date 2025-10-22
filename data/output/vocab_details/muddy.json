@@ -1,0 +1,23 @@
+{
+  "lemma": "muddy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They canoed down rivers, hiked along muddy trails, and climbed into the forest to explore and learn.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/muddy_ex_0_6b436612.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "泥濘的，充滿泥土的",
+    "en_def": "Covered with or full of mud; not clear or clean.",
+    "example": "The path was too muddy to walk on after the rain."
+  },
+  "sentences_removed": 0
+}

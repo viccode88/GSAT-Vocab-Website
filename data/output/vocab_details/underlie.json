@@ -1,0 +1,28 @@
+{
+  "lemma": "underlie",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/underlie_ex_0_1cb4adca.mp3"
+      },
+      {
+        "text": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/underlie_ex_1_86d1d079.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在...之下，構成基礎或根源。",
+    "en_def": "To be the basis or cause of something.",
+    "example": "The principles of democracy underlie the constitution."
+  },
+  "sentences_removed": 0
+}

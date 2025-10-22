@@ -1,0 +1,65 @@
+{
+  "lemma": "rainforest",
+  "count": 10,
+  "pos_dist": {
+    "PROPN": 7,
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Brazil’s Environmental Ministry estimates that in 1970, 99 percent of the original Amazon Rainforest remained, but in 2000, only 85 percent.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rainforest_ex_0_5fe9e530.mp3"
+      },
+      {
+        "text": "The following is a report by one of the team members: “I watched a small piece of the Amazon Rainforest disappear today.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rainforest_ex_1_1abce5cf.mp3"
+      },
+      {
+        "text": "The heart of this continent is the Amazon Rainforest, a vast paradise watered by one of the world’s greatest rivers.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rainforest_ex_2_89907cac.mp3"
+      },
+      {
+        "text": "A team of scientists, teachers, and students, the AmazonQuest team, recently explored some of the wonders of the Amazon Rainforest.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rainforest_ex_3_bdea3e2e.mp3"
+      },
+      {
+        "text": "It is estimated that more than 33 million acres of Amazonian Rainforest disappear every year.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rainforest_ex_4_999e0b37.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "(4) Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced In 2015 when she was just a 17-year-old, her children in the capital, Kinshasa.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "That means that 64 acres of the rainforest is lost every minute.” (1) Which place is called “the lungs of the earth”? (2) What kinds of people are on the AmazonQuest team?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this report, about how many acres of the Amazon Rainforest are lost every second?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "熱帶雨林，指位於赤道附近的潮濕森林，擁有豐富的生物多樣性和高降雨量。",
+    "en_def": "A rainforest is a dense forest found in tropical areas with high rainfall and a wide variety of plant and animal species.",
+    "example": "The Amazon rainforest is home to countless species of plants and animals."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "healthy",
+  "count": 15,
+  "pos_dist": {
+    "ADJ": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/healthy_ex_0_7925f5c7.mp3"
+      },
+      {
+        "text": "Tom was very ill a week ago, but now he looks healthy.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/healthy_ex_1_4f3c0bfd.mp3"
+      },
+      {
+        "text": "Since many of our house plants are from humid jungle environments, they need _____ air to keep them green and healthy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/healthy_ex_2_63b0e322.mp3"
+      },
+      {
+        "text": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/healthy_ex_3_d5301dd6.mp3"
+      },
+      {
+        "text": "Besides working, regular exercise is essential to keep the astronauts healthy in microgravity.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/healthy_ex_4_d05409ad.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Yet, is water always the healthiest drink we can 21 ?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In this course, you will learn __(22)__ to cook two weeks of healthy, inexpensive meals in just one day.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "(H) … and is sure to have a healthy body.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to stay healthy and fit, John exercises _____.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Keeping yourself healthy has to be your own 32 .",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In these places people rest, get plenty of sleep, eat healthy food, drink water instead of wine, and exercise in various ways.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Isn’t it supposed to be a healthy choice? (F) Linda I liked it fine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "And the healthy and fun snack is ready to serve.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People drink tea to become rich and healthy.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "健康的，對身體有益的。",
+    "en_def": "Beneficial to health; promoting good health.",
+    "example": "Eating fruits and vegetables is part of a healthy diet."
+  },
+  "sentences_removed": 0
+}

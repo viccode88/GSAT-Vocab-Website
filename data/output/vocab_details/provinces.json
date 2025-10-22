@@ -1,0 +1,23 @@
+{
+  "lemma": "provinces",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/provinces_ex_0_80829046.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "省份，通常指一個國家的行政區域，具有一定的自治權。",
+    "en_def": "Provinces are administrative divisions within a country that often have a degree of autonomy.",
+    "example": "The country is divided into several provinces, each with its own government."
+  },
+  "sentences_removed": 0
+}

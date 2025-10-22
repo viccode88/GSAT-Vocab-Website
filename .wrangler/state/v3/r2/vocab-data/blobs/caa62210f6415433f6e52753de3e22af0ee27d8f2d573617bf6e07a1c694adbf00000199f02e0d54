@@ -1,0 +1,19 @@
+{
+  "lemma": "kenting",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": [
+    {
+      "text": "Most of our classmates are ________ taking a trip to Kenting National Park.",
+      "source": "2002_91_91學測_english",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "墾丁，位於台灣南部的國家公園，以其美麗的海灘和熱帶氣候而聞名。",
+    "en_def": "Kenting, a national park located in southern Taiwan, known for its beautiful beaches and tropical climate.",
+    "example": "We spent our vacation relaxing on the beaches of Kenting."
+  }
+}

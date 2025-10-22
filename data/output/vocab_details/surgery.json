@@ -1,0 +1,38 @@
+{
+  "lemma": "surgery",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His recovery from the heart surgery was faster than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/surgery_ex_0_2519c256.mp3"
+      },
+      {
+        "text": "According to the passage, what may be the author’s advice to a doctor before a surgery? (A) To provide the patient with more pain killers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/surgery_ex_1_2d9f756d.mp3"
+      },
+      {
+        "text": "His heart transplant surgery was more successful than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/surgery_ex_2_2af0e0f4.mp3"
+      },
+      {
+        "text": "These methods 40 from a simple step like makeup to a drastic one like surgery.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/surgery_ex_3_1620a84d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "外科手術，通常指醫生對病人進行的操作，以治療疾病或損傷。",
+    "en_def": "A medical procedure involving an incision with instruments to repair damage or remove tissue.",
+    "example": "The patient will undergo surgery to repair the broken bone."
+  },
+  "sentences_removed": 0
+}

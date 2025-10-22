@@ -1,0 +1,17 @@
+{
+  "lemma": "excess",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "過量，超過正常或必要的數量或程度。",
+    "en_def": "An amount that is more than necessary, permitted, or desirable.",
+    "example": "The excess of sugar in his diet led to health problems."
+  },
+  "sentences_removed": 1
+}

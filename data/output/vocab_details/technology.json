@@ -1,0 +1,79 @@
+{
+  "lemma": "technology",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/technology_ex_0_10ed9fcf.mp3"
+      },
+      {
+        "text": "A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/technology_ex_1_1fd40772.mp3"
+      },
+      {
+        "text": "The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/technology_ex_2_5e7e07b0.mp3"
+      },
+      {
+        "text": "The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/technology_ex_3_76b3d7fb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A variety of driver assistance technologies are appearing on new cars.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That technology has continued to evolve into the present.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The speaker, carefully programmed, arrived on the stage under its own power and proceeded to tell the audience of 658 graduates, their families, and friends that they would have to learn to work with robots and technology to solve society’s problems.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The 1960s and ’70s 28 the development of most modern stunt technology, like air rams and bullet squibs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "We have completely embraced paper technology.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Robot Redford was followed by a person, William Bakaleinikoff, who spoke about the need for cooperation between people and technology.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Charles has a strong interest in technology.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "技術；應用科學的知識和工具，通常用於改善生活或解決問題。",
+    "en_def": "The application of scientific knowledge for practical purposes, especially in industry.",
+    "example": "Technology has transformed the way we communicate and access information."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "missouri",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the purpose of the Missouri experiment? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/missouri_ex_0_ee5404aa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美國中部的一個州，以密西西比河為界，首府為傑佛遜城。",
+    "en_def": "A state in the central United States, bordered by the Mississippi River, with Jefferson City as its capital.",
+    "example": "Missouri is known for its beautiful landscapes and vibrant cities."
+  },
+  "sentences_removed": 1
+}

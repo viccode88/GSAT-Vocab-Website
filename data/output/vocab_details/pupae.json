@@ -1,0 +1,28 @@
+{
+  "lemma": "pupae",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "they seize the pupae of the raided nest.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/pupae_ex_0_0570f81c.mp3"
+      },
+      {
+        "text": "In time the pupae develop into adults and spend their lives working for the Amazons.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/pupae_ex_1_5193a0a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蛹，昆蟲在幼蟲和成蟲之間的發育階段，通常是靜止的。",
+    "en_def": "Pupae are the life stage of some insects, occurring between the larval and adult stages, often characterized by a period of inactivity.",
+    "example": "The caterpillar transformed into a pupae before emerging as a butterfly."
+  },
+  "sentences_removed": 0
+}

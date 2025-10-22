@@ -1,0 +1,23 @@
+{
+  "lemma": "scanning",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They couldn’t speak out loud, because any movement would disrupt the scanning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/scanning_ex_0_09945d55.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "掃描，指用儀器或技術檢查或讀取物體或數據的過程。",
+    "en_def": "The process of examining or reading an object or data using a device or technology.",
+    "example": "She is scanning the document to create a digital copy."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "magnify",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The size of the food they are about to eat is magnified while 27 of their hand remains normal.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/magnify_ex_0_5e2e53d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "放大，使更大或更明顯。",
+    "en_def": "To make something appear larger than it is, especially by using a lens or microscope.",
+    "example": "The scientist used a microscope to magnify the tiny organisms in the water."
+  },
+  "sentences_removed": 0
+}

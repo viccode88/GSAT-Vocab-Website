@@ -1,0 +1,23 @@
+{
+  "lemma": "cocaine",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/cocaine_ex_0_b0334b5b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可卡因是一種強效的中樞神經興奮劑，通常從可可樹的葉子中提取，具有高度成癮性。",
+    "en_def": "Cocaine is a powerful central nervous system stimulant derived from the leaves of the coca plant, known for its high potential for addiction.",
+    "example": "He was arrested for possession of cocaine."
+  },
+  "sentences_removed": 0
+}

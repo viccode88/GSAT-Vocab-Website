@@ -1,0 +1,23 @@
+{
+  "lemma": "escort",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/escort_ex_0_57ff8abb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "陪伴某人，通常是為了社交或保護的目的。",
+    "en_def": "To accompany someone, often for social or protective purposes.",
+    "example": "She hired an escort to accompany her to the gala."
+  },
+  "sentences_removed": 0
+}

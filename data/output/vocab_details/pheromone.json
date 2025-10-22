@@ -1,0 +1,23 @@
+{
+  "lemma": "pheromone",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/pheromone_ex_0_6255986e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "信息素：生物體釋放的化學物質，用於與同種生物進行溝通或影響行為。",
+    "en_def": "A chemical substance released by an organism that influences the behavior or physiology of others of the same species.",
+    "example": "The ants followed the pheromone trail to find their way back to the nest."
+  },
+  "sentences_removed": 0
+}

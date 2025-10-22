@@ -1,0 +1,28 @@
+{
+  "lemma": "mattress",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Each capsule is equipped with a comfortable mattress, a small light, and sometimes a television or other entertainment options.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/mattress_ex_0_3435ecbc.mp3"
+      },
+      {
+        "text": "The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won’t reach.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mattress_ex_1_9470b47e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "床墊，一種用於床上的軟墊，提供舒適的睡眠表面。",
+    "en_def": "A mattress is a soft rectangular pad used for sleeping on, typically placed on a bed frame.",
+    "example": "I bought a new mattress for my bedroom."
+  },
+  "sentences_removed": 0
+}

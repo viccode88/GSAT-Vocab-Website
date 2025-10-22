@@ -1,0 +1,55 @@
+{
+  "lemma": "fluid",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 6,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To sustain this amount of fluid in our bodies, plain water is considered our best choice, for it contains no sugar and no calories.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fluid_ex_0_ea1fe854.mp3"
+      },
+      {
+        "text": "However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fluid_ex_1_21b5c987.mp3"
+      },
+      {
+        "text": "Coconut water, which contains salt and carbohydrates, is also more functional than water at restoring and maintaining a normal fluid 26 after exercise.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fluid_ex_2_7b0a1ec2.mp3"
+      },
+      {
+        "text": "At that point, it might be well past the best moment to take in fluid.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fluid_ex_3_6a9f0319.mp3"
+      },
+      {
+        "text": "Replacing lost fluid with just plain water means the body has too much water and not enough salt.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fluid_ex_4_509231d3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Obviously, a physically 22 person with an outdoor job under the sun will need to drink more fluid than a desk-bound person who lives and works in an air-conditioned place.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "流體；能夠流動的物質，通常指液體或氣體。",
+    "en_def": "A substance that can flow, typically a liquid or gas.",
+    "example": "Water is a common fluid that takes the shape of its container."
+  },
+  "sentences_removed": 0
+}

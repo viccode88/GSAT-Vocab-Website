@@ -1,0 +1,33 @@
+{
+  "lemma": "transform",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He succeeded in his endeavor and transformed the martial art into Brazil’s national sport.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/transform_ex_0_81d531a2.mp3"
+      },
+      {
+        "text": "Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/transform_ex_1_70017871.mp3"
+      },
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/transform_ex_2_0c46082e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "轉變；改變形態或性質。",
+    "en_def": "To change in form, appearance, or structure.",
+    "example": "The caterpillar will transform into a butterfly."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "height",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/height_ex_0_37f64fdf.mp3"
+      },
+      {
+        "text": "In front of each easy chair there was a microphone at head height, with wires leading to a tape-recorder in the middle of the floor.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/height_ex_1_72d3ef98.mp3"
+      },
+      {
+        "text": "In this line of work, the person is paid to do daring actions that are deemed too 21 for the regular actor to perform, including jumping from heights, crashing cars, or fighting with weapons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/height_ex_2_b53d8b2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高度，指物體或人的垂直距離或位置。",
+    "en_def": "The measurement of how tall something is from base to top.",
+    "example": "The height of the building is 150 meters."
+  },
+  "sentences_removed": 2
+}

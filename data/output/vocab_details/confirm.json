@@ -1,0 +1,28 @@
+{
+  "lemma": "confirm",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Requirements for a 14-day non-visa entry are: passport good for at least six months, confirmed onward ticket within 14 days, no violation of law recorded.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/confirm_ex_0_4fcf94e5.mp3"
+      },
+      {
+        "text": "The encouraging response to McCarroll’s show confirmed that change is happening in fashion.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/confirm_ex_1_454c0453.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "確認，證實某事的真實性或有效性。",
+    "en_def": "To establish the truth or correctness of something.",
+    "example": "Please confirm your attendance at the meeting."
+  },
+  "sentences_removed": 1
+}

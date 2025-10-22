@@ -1,0 +1,23 @@
+{
+  "lemma": "attachment",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, attachments include radios, sensors, cameras, and a lot more.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/attachment_ex_0_e6a4c1da.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "附加物，通常指情感上的依附或連結。",
+    "en_def": "A feeling of affection or loyalty towards someone or something; also refers to a document or file sent with an email.",
+    "example": "She felt a strong attachment to her childhood home."
+  },
+  "sentences_removed": 0
+}

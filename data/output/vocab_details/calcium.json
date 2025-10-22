@@ -1,0 +1,23 @@
+{
+  "lemma": "calcium",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson’s case.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/calcium_ex_0_46e86905.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鈣，一種化學元素，符號為Ca，原子序數20，是人體和其他生物體中重要的礦物質，對骨骼和牙齒的健康至關重要。",
+    "en_def": "Calcium, a chemical element with the symbol Ca and atomic number 20, is an essential mineral for the body and other living organisms, crucial for the health of bones and teeth.",
+    "example": "Milk is a great source of calcium, which helps strengthen bones."
+  },
+  "sentences_removed": 0
+}

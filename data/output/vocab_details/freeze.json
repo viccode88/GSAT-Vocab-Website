@@ -1,0 +1,23 @@
+{
+  "lemma": "freeze",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To make fresh lemonade, cut the lemon in half, _____ the juice into a bowl, and then add as much water and sugar as you like. (A) decrease (B) squeeze (C) freeze (D) cease 12.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/freeze_ex_0_64b81f9f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使某物變成冰或固體，或使其保持在低溫狀態。",
+    "en_def": "To cause something to become solid or to remain at a low temperature, typically by lowering its temperature to below its freezing point.",
+    "example": "Please freeze the leftovers so we can eat them later."
+  },
+  "sentences_removed": 0
+}

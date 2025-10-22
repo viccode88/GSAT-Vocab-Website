@@ -1,0 +1,23 @@
+{
+  "lemma": "happiest",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He explained that he had just retired and was happiest when he could see or hear boys playing his 32 game, cricket.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/happiest_ex_0_cec7f5b1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "最幸福的，最快樂的",
+    "en_def": "The superlative form of happy; experiencing or showing the most joy.",
+    "example": "She felt the happiest when she was surrounded by her friends."
+  },
+  "sentences_removed": 0
+}

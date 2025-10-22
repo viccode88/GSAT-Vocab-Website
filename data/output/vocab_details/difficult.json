@@ -1,0 +1,84 @@
+{
+  "lemma": "difficult",
+  "count": 16,
+  "pos_dist": {
+    "ADJ": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/difficult_ex_0_2358e686.mp3"
+      },
+      {
+        "text": "It is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/difficult_ex_1_469f2d3b.mp3"
+      },
+      {
+        "text": "The conflicts between John and his teacher made it difficult for the teacher to judge his performance _____.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/difficult_ex_2_23790139.mp3"
+      },
+      {
+        "text": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 41.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/difficult_ex_3_8d8f930b.mp3"
+      },
+      {
+        "text": "This textbook is __________ more difficult to read than the other one.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/difficult_ex_4_74cec38b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In everyday situations, too, stress can provide that extra push needed to do something difficult.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "It would be difficult to put a value on the things rescued by the Disk Doctor.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "21 the climber is doing something very difficult, everything that he or she sees, hears, or 22 must come together to help in the work of climbing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Why is ice sculpting difficult? (A)",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Because Mr. Wang changes his mind, it’s very difficult to predict what he will do next.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The transportation on the road was so difficult that few people could really enjoy the trip.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Unfortunately, sometimes you may find it difficult to smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "困難的，艱難的，難以理解或處理的。",
+    "en_def": "Hard to do, understand, or deal with; requiring much effort or skill.",
+    "example": "The math problem was too difficult for the students to solve."
+  },
+  "sentences_removed": 3
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "killing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Though it was once known to the world for the 1994 tribal conflict that resulted in about one million deaths, Rwanda has 30 the mass killing.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/killing_ex_0_e0e5cd80.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "殺死，終止生命的行為或過程。",
+    "en_def": "The act or process of causing death.",
+    "example": "The killing of the endangered species raised concerns among conservationists."
+  },
+  "sentences_removed": 0
+}

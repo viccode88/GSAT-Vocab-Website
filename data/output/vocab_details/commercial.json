@@ -1,0 +1,50 @@
+{
+  "lemma": "commercial",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 6,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/commercial_ex_0_abb0d322.mp3"
+      },
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/commercial_ex_1_e0b31df6.mp3"
+      },
+      {
+        "text": "The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/commercial_ex_2_a11b0bd7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It is a commercial recalled through lyrics.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers found that commercial popcorn companies often coat their microwave popcorn bags with a 33 called perfluorooctanoic acid (PFOA) which has been found to cause both cancer and lung disease in laboratory animals.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "商業的；與商業有關的",
+    "en_def": "Relating to or engaged in commerce.",
+    "example": "The company launched a new commercial product to attract more customers."
+  },
+  "sentences_removed": 1
+}

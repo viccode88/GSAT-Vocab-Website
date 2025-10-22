@@ -1,0 +1,65 @@
+{
+  "lemma": "patient",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/patient_ex_0_83e55e5a.mp3"
+      },
+      {
+        "text": "To talk to the patient and ease his/her worries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/patient_ex_1_25652934.mp3"
+      },
+      {
+        "text": "Thus, more and more patients are now advised to keep moving despite the pain.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/patient_ex_2_ab49fe2b.mp3"
+      },
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/patient_ex_3_faad0f0d.mp3"
+      },
+      {
+        "text": "The problem is made worse by doctors who give their patients large doses of useless drugs.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/patient_ex_4_312e08f8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Although nowadays it is successful, in the ancient world this approach probably did not cure many patients.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To give the patient strong heat pulses beforehand.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what may be the author’s advice to a doctor before a surgery? (A) To provide the patient with more pain killers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "耐心的，能夠忍受困難或痛苦的人。",
+    "en_def": "A person who is able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
+    "example": "She remained patient while waiting for her turn at the doctor's office."
+  },
+  "sentences_removed": 1
+}

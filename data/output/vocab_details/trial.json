@@ -1,0 +1,28 @@
+{
+  "lemma": "trial",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If that works, human trials will be next on the agenda.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trial_ex_0_545df6a0.mp3"
+      },
+      {
+        "text": "The soldier was put on trial for to obey his commanding officer’s order.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/trial_ex_1_26b89310.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "試驗；審判；考驗",
+    "en_def": "A test of the performance, qualities, or suitability of someone or something.",
+    "example": "The trial of the new software will begin next week."
+  },
+  "sentences_removed": 0
+}

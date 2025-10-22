@@ -1,0 +1,23 @@
+{
+  "lemma": "turner",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/turner_ex_0_7e647dc2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "轉動器，特別是用於木工或金屬加工的機械，能夠將材料旋轉以進行加工。",
+    "en_def": "A machine or tool that rotates a workpiece to shape it, especially in woodworking or metalworking.",
+    "example": "The woodworker used a turner to create a beautifully shaped bowl."
+  },
+  "sentences_removed": 0
+}

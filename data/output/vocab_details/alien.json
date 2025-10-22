@@ -1,0 +1,38 @@
+{
+  "lemma": "alien",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many believe that the aliens are here to help us, while others hold that the aliens intend us __(39)__.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alien_ex_0_90796ef8.mp3"
+      },
+      {
+        "text": "Still __(35)__ say that aliens were responsible for the growth of highly evolved civilizations which have __(36)__ perished, including the Incan and Mayan civilizations and the legendary Atlantis.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alien_ex_1_97714100.mp3"
+      },
+      {
+        "text": "Still others think that most aliens visit Earth to study us like our scientists study primitive natives and animals, and have no interest in helping us __(40)__.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alien_ex_2_0d9c0246.mp3"
+      },
+      {
+        "text": "Others say that aliens have __(33)__",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alien_ex_3_91e2c7fd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "外星人；異國的，外來的",
+    "en_def": "A being from another planet or a foreigner.",
+    "example": "The movie features an alien who comes to Earth to learn about human culture."
+  },
+  "sentences_removed": 1
+}

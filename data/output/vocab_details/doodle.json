@@ -1,0 +1,23 @@
+{
+  "lemma": "doodle",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Now that we all use pencils, doodling is on the increase, and the quality of pencilwomanship is impressive, as you can tell from my handwriting in this letter.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/doodle_ex_0_c599a2e7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "隨意塗鴉或畫的圖案，通常在無意識或無特定目的下創作。",
+    "en_def": "A simple, spontaneous drawing made while a person's attention is otherwise occupied.",
+    "example": "She likes to doodle in her notebook during meetings."
+  },
+  "sentences_removed": 0
+}

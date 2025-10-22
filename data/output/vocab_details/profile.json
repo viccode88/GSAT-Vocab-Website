@@ -1,0 +1,33 @@
+{
+  "lemma": "profile",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A dog’s cognitive profile is composed of nine cognitive skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/profile_ex_0_157ff269.mp3"
+      },
+      {
+        "text": "At the end, you get a report of your dog’s cognitive profile.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/profile_ex_1_5bcfd37b.mp3"
+      },
+      {
+        "text": "One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/profile_ex_2_89a0a8e1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "個人資料或特徵的描述，通常用於社交媒體或專業網站上。",
+    "en_def": "A description of an individual's personal characteristics or information, often used on social media or professional websites.",
+    "example": "She updated her profile to include her new job and interests."
+  },
+  "sentences_removed": 0
+}

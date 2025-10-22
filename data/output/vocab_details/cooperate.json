@@ -1,0 +1,29 @@
+{
+  "lemma": "cooperate",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In teaching young players to cooperate with their fellows on the practice 32 , the game shows them the necessity of teamwork in society.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cooperate_ex_0_ae0e347f.mp3"
+      },
+      {
+        "text": "He realizes that only by cooperating can he do his 38 in making society what it should be.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cooperate_ex_1_b5a9ec13.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "合作，協同工作以達成共同目標。",
+    "en_def": "To work together with others to achieve a common goal.",
+    "example": "The two companies decided to cooperate on the new project."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "spacesuit",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Diapers are _(23)_ used by astronauts when they are outside the space shuttle, wearing a spacesuit.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/spacesuit_ex_0_9ae98b26.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "宇航服：宇航員在太空中穿著的特殊服裝，用於保護他們免受極端環境的影響。",
+    "en_def": "A spacesuit is a specialized garment worn by astronauts to protect them from the harsh conditions of outer space.",
+    "example": "The astronaut put on his spacesuit before stepping out of the spacecraft."
+  },
+  "sentences_removed": 0
+}

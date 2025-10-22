@@ -1,0 +1,33 @@
+{
+  "lemma": "bury",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some waste from nuclear power plants is buried in ________ containers.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bury_ex_0_6fb4d6f7.mp3"
+      },
+      {
+        "text": "It is your chance to play around with the extraordinary abilities buried in unused parts of your brain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bury_ex_1_b8b34d01.mp3"
+      },
+      {
+        "text": "The dead were buried with onions and onion flowers on or around various 38 of their bodies.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bury_ex_2_a6fe6c3e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埋葬，將某物放入土中或隱藏起來。",
+    "en_def": "To place a dead body in the ground, or to hide something underground.",
+    "example": "They decided to bury their pet in the backyard."
+  },
+  "sentences_removed": 0
+}

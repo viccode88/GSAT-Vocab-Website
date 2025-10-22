@@ -1,0 +1,112 @@
+@startuml
+title GSAT-Vocab-Website v2 - 詳細系統架構圖
+
+' '!theme vibrant' 在部分 PlantUML 版本不支援，可能觸發 ERROR 3
+' 如需主題，可改用支援度較高的主題或更新 PlantUML 後再啟用
+' !theme vibrant
+skinparam shadowing false
+skinparam componentStyle rectangle
+skinparam wrapWidth 200
+' 舊版 PlantUML 對於 'skinparam rectangle<<stereotype>>' 的語法支援不一致
+' 為迴避 ERROR 3，暫時註解此設定；若需隱藏 stereotype，可改用全域
+' 'skinparam StereotypeFontSize' 或升級 PlantUML 版本後再啟用
+' skinparam rectangle<<data>> {
+'     StereotypeFontSize 0
+' }
+
+actor "使用者" as User
+
+package "Cloudflare (平台)" {
+    node "Cloudflare Pages\n(前端靜態網站)" as Pages {
+        component "瀏覽模式 UI" as BrowseUI
+        component "字卡模式 UI" as FlashcardUI
+        component "測驗模式 UI" as QuizUI
+        component "app.js\n(核心邏輯)" as AppJS
+    }
+
+    node "Cloudflare Workers" as Workers {
+        component "API Router" as Router
+        component "/api/vocab" as VocabAPI
+        component "/api/quiz" as QuizAPI
+    }
+
+    database "Cloudflare R2\n(物件儲存)" as R2 {
+        rectangle "vocab_index.json\nvocab_details/*.json\nsearch_index.json" as R2Data <<data>>
+        rectangle "tts_audio/*.mp3\ntts_audio/sentences/*.mp3" as R2Audio <<data>>
+    }
+
+    database "Cloudflare KV\n(鍵值儲存)" as KV {
+        rectangle "API 快取" as Cache <<data>>
+    }
+}
+
+package "資料處理 (離線流程)" {
+    cloud "大考中心網站" as CEEC
+    
+    component "ceec_scraper.py" as Scraper
+    component "extract_words.py" as Extractor
+    component "generate_tts_audio.py\ngenerate_sentence_audio.py" as TTSGenerator
+    component "optimize_data_structure.py" as Optimizer
+    component "r2_up.py" as Uploader
+
+    database "本地資料" as LocalData {
+        rectangle "PDFs" as PDFs <<data>>
+        rectangle "vocab_data.json" as VocabJSON <<data>>
+        rectangle "MP3s" as LocalMP3s <<data>>
+        rectangle "優化後 JSON" as OptimizedJSON <<data>>
+    }
+}
+
+cloud "OpenAI API" as OpenAI {
+    component "GPT Models\n(釋義生成)" as GPT
+    component "TTS Models\n(語音合成)" as TTS
+}
+
+
+' Frontend Flow
+User --> BrowseUI : 瀏覽單字
+User --> FlashcardUI : 學習字卡
+User --> QuizUI : 進行測驗
+
+BrowseUI --> AppJS
+FlashcardUI --> AppJS
+QuizUI --> AppJS
+
+AppJS -> Router : 發送 API 請求
+
+' Backend Flow
+Router --> VocabAPI : /vocab/*
+Router --> QuizAPI : /quiz/*
+
+VocabAPI --> KV : 檢查快取
+KV --> VocabAPI : (快取命中)
+VocabAPI --> R2 : (快取未命中) 讀取資料
+R2 --> VocabAPI
+VocabAPI --> KV : 寫入快取
+
+QuizAPI --> R2 : 讀取資料以生成題目
+
+' Data Processing Flow
+CEEC --> Scraper : 下載試題 PDF
+Scraper --> PDFs
+
+PDFs --> Extractor : 提取文字
+Extractor --> GPT : 請求 AI 釋義
+GPT --> Extractor
+Extractor --> VocabJSON
+
+VocabJSON --> TTSGenerator : 讀取單字/例句
+TTSGenerator --> TTS : 請求語音合成
+TTS --> TTSGenerator
+TTSGenerator --> LocalMP3s
+
+VocabJSON --> Optimizer : 讀取原始資料
+Optimizer --> OptimizedJSON
+
+OptimizedJSON --> Uploader : 上傳數據
+LocalMP3s --> Uploader : 上傳音檔
+Uploader --> R2Data
+Uploader --> R2Audio
+
+@enduml
+

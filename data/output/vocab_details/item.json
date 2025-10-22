@@ -1,0 +1,99 @@
+{
+  "lemma": "item",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The wide selection is a sure sign that in many consumers’ minds, digital cameras have risen from mere gadgets to must-have items.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/item_ex_0_0f869ed5.mp3"
+      },
+      {
+        "text": "Specifically, you will learn to prepare __(23)__ delicious items as roasted chicken, chili, turkey loaf, turkey loaf, meatballs, pasta, among others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/item_ex_1_f98299d2.mp3"
+      },
+      {
+        "text": "Run by a team of church volunteers, the shop will collect any surplus, good-quality items and store them until they can be redistributed to the people who are needing those particular things.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/item_ex_2_beeec1a2.mp3"
+      },
+      {
+        "text": "Which of the following items is NOT typically worn with the kilt for decoration?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/item_ex_3_1c029ea6.mp3"
+      },
+      {
+        "text": "Dead mail will also be listed on a computer so that people can call in and check to see if a missing item is there.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/item_ex_4_97e51bf8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Unfortunately, the items were usually different from Mom’s 35 .",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The following is one of the items. __21__ a student who is never on time, there is the new Projection Alarm Clock.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "One simple way is a few new items that might __19__ life more enjoyable.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "__(27)__, if you touch something hot and feel pain, you will learn from this__(28)__ that you should not touch that item in the future.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Due to _______, prices for daily necessities have gone up and we have to pay more for the same items now.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the author’s opinion of an item that someone doesn’t need any longer? (A)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "項目；物品；條目",
+    "en_def": "A distinct part or piece of a whole; an individual article or unit.",
+    "example": "She added a new item to her shopping list."
+  },
+  "sentences_removed": 0
+}

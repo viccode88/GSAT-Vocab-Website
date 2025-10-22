@@ -1,0 +1,39 @@
+{
+  "lemma": "secure",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amy made sure her gold bracelet was secure on her wrist.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/secure_ex_0_55c785e1.mp3"
+      },
+      {
+        "text": "Prom night can be a dreadful experience for socially awkward teens or for those who do not secure dates.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/secure_ex_1_28533472.mp3"
+      },
+      {
+        "text": "As of May 1, 1995, all nationals of the following 15 countries are exempted from securing visas for entry into the Republic of China: U.S.A., Japan, Canada, Belgium, Luxembourg, Sweden, Holland, New Zealand, Australia, Austria, Germany, Britain, France, Spain, and Portugal.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/secure_ex_2_225ad931.mp3"
+      },
+      {
+        "text": "(F) Traveling through several countries before securing protection.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/secure_ex_3_fca0099e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "安全的，無危險的；確保或保護某物的。",
+    "en_def": "Safe; free from danger or threat; to make something safe or certain.",
+    "example": "She wanted to secure her home before going on vacation."
+  },
+  "sentences_removed": 0
+}

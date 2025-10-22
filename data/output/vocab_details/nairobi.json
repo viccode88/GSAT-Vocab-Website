@@ -1,0 +1,28 @@
+{
+  "lemma": "nairobi",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Daphne has been working with wild animals for some 60 years, and in 1977 she opened the elephant orphanage at her home in Nairobi.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/nairobi_ex_0_74d21fee.mp3"
+      },
+      {
+        "text": "So she was trucked to a most unusual orphanage in Nairobi, run by a woman named Daphne Sheldrick.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/nairobi_ex_1_e39186ae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奈洛比，肯尼亚的首都和最大城市。",
+    "en_def": "Nairobi, the capital and largest city of Kenya.",
+    "example": "Nairobi is known for its vibrant culture and wildlife."
+  },
+  "sentences_removed": 0
+}

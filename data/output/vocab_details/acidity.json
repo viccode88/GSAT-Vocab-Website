@@ -1,0 +1,28 @@
+{
+  "lemma": "acidity",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Extra virgin oil, the finest grade, is made from the first pressing of the olives and has a very low acidity rate (under 1%).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/acidity_ex_0_edb33bf9.mp3"
+      },
+      {
+        "text": "It is also a first pressing, but has a slightly higher acidity level (under 2%).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/acidity_ex_1_a6c51efc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "酸性，指物質的酸性程度或特性。",
+    "en_def": "The quality of being acidic, often measured by pH levels.",
+    "example": "The acidity of the lemon juice makes it taste sour."
+  },
+  "sentences_removed": 0
+}

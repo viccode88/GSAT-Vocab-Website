@@ -1,0 +1,23 @@
+{
+  "lemma": "sandy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are places filled with giant tree lizards, sandy beaches, and tropical plants.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sandy_ex_0_a2d22307.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "含有沙子的，或像沙子一樣的",
+    "en_def": "Consisting of or covered with sand; gritty.",
+    "example": "The beach was sandy and perfect for building castles."
+  },
+  "sentences_removed": 0
+}

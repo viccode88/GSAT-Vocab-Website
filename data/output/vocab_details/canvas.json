@@ -1,0 +1,38 @@
+{
+  "lemma": "canvas",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/canvas_ex_0_5e4546f8.mp3"
+      },
+      {
+        "text": "In what order did the following protective hats appear? a. fiberglass hats b. hats with see-through shields c. hats with canvas and leather d. hats with tar over them (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/canvas_ex_1_3cb115a5.mp3"
+      },
+      {
+        "text": "The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/canvas_ex_2_95f77268.mp3"
+      },
+      {
+        "text": "So, when gold was discovered in the West in 1849, he 23 thousands of others and rushed to California. 24 he planned to open a shop in San Francisco, he took many goods with him, 25 a large quantity of canvas.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/canvas_ex_3_c819db52.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "畫布；一種用於繪畫或製作藝術作品的厚布料。",
+    "en_def": "A strong, heavy cloth used for painting or making art.",
+    "example": "The artist stretched the canvas before starting her painting."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cone",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cone_ex_0_dc20d257.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓錐，底面為圓形，側面為一個尖頂的三維幾何形狀。",
+    "en_def": "A three-dimensional geometric shape with a circular base that tapers smoothly to a point called the apex.",
+    "example": "The ice cream was served in a cone."
+  },
+  "sentences_removed": 0
+}

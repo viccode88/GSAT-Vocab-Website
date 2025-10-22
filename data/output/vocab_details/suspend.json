@@ -1,0 +1,23 @@
+{
+  "lemma": "suspend",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/suspend_ex_0_ad23bcba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "暫停；中止",
+    "en_def": "To temporarily stop something from continuing or being in force.",
+    "example": "The meeting was suspended due to technical difficulties."
+  },
+  "sentences_removed": 0
+}

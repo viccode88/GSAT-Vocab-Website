@@ -1,0 +1,80 @@
+{
+  "lemma": "king",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 8,
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Stradivarius, the undeniable king of violin makers, could not resist creating a variety of guitars.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/king_ex_0_e17326ed.mp3"
+      },
+      {
+        "text": "The King agreed and gave Nehemiah a letter “to the governors of the province beyond the river,” requesting safe passage for him as he travelled through their lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/king_ex_1_740b5520.mp3"
+      },
+      {
+        "text": "In this movie, Leonardo DiCaprio played both King Louis XIV and his twin brother Philippe.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/king_ex_2_19502cca.mp3"
+      },
+      {
+        "text": "King Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/king_ex_3_2bca6403.mp3"
+      },
+      {
+        "text": "A magician named Dedi of Dedsnefu was reported to have performed for the pharaoh, or the king.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/king_ex_4_6afcc243.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When the Spanish explorers went to Mexico, they saw the Aztec kings 15 umbrellas.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Korea and Japan 37 animal names and China likes names of gods such as Longwang (dragon king) and Fengshen (god of the wind).",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "It was issued by the king of Judah.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Egyptians also built pyramids as 20 for their kings, or pharaohs.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Norwegians were prohibited from wearing any 38 of their national unity, such as buttons with the initials of their king.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "國王；君主，通常是國家的最高統治者。",
+    "en_def": "A male monarch or ruler of a kingdom.",
+    "example": "The king held a grand feast to celebrate his victory."
+  },
+  "sentences_removed": 0
+}

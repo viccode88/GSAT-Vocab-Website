@@ -1,0 +1,94 @@
+{
+  "lemma": "addition",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In addition, smiles signal to others that we are people who might be nice to talk to and work with—and that can help us make friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/addition_ex_0_ba49c254.mp3"
+      },
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/addition_ex_1_d88f836a.mp3"
+      },
+      {
+        "text": "The new addition to Morgan’s Wonderland.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/addition_ex_2_40f7edf9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In addition (B) In due time (C) For instance (D) By and large 34. (A) About (B) For (C) With (D)",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition (B) As a result (C)",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.” 53.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, bottled water produces an incredible amount of solid 30 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition to these two factors, you should also have ___(24)___ important information.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which job has the best benefits in addition to the regular salary? 3.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, good listeners are inclined to accept or tolerate (23) to judge and criticize.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, advertisements for liquor, on TV and in print, show situations that are 29 to the young.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, Jefferson welcomed visitors to annual receptions on New Year’s Day and on the Fourth of July.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "加法；增加的部分或數量",
+    "en_def": "The process of adding something to something else; an increase.",
+    "example": "The addition of new features improved the software significantly."
+  },
+  "sentences_removed": 0
+}

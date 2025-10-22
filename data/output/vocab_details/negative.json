@@ -1,0 +1,85 @@
+{
+  "lemma": "negative",
+  "count": 13,
+  "pos_dist": {
+    "ADJ": 12,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, specialists warn that frightening films can have a negative impact on children.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/negative_ex_0_335b8605.mp3"
+      },
+      {
+        "text": "And the influence of one upon the other can be either positive or negative.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/negative_ex_1_987b9fe0.mp3"
+      },
+      {
+        "text": "Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/negative_ex_2_3a2dfefe.mp3"
+      },
+      {
+        "text": "Studies reveal that negative emotions are seated in an area of the brain called the amygdala.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/negative_ex_3_b0d7c27e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "However, researchers also find that horror movies can have negative effects on some people.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For hours, we have heard nothing but negative criticism.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The only reported negative effect of drinking green tea is a possible allergic reaction and insomnia due to the caffeine it contains.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "But the outlook for health education in Taiwan is not all negative.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the speaker’s attitude toward the blood-type belief in Japan? (A) Negative.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Only 4 percent of employers said that casual dress has a negative impact on productivity.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do girls express negative feelings better than boys? (A) Girls are more emotional than boys.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "負面的；消極的；不利的",
+    "en_def": "Expressing or containing negation, denial, or refusal; unfavorable or harmful.",
+    "example": "The negative feedback from the audience surprised the speaker."
+  },
+  "sentences_removed": 0
+}

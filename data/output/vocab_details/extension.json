@@ -1,0 +1,23 @@
+{
+  "lemma": "extension",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The robot described itself as an extension of a person to help humans increase the workload.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/extension_ex_0_caff24e0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "延伸，擴展或增加的部分或功能。",
+    "en_def": "The act of increasing the length, duration, or scope of something.",
+    "example": "I need an extension on my homework deadline."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,125 @@
+{
+  "lemma": "fall",
+  "count": 24,
+  "pos_dist": {
+    "VERB": 23,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/fall_ex_0_603c75c4.mp3"
+      },
+      {
+        "text": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his and fell to the ground.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/fall_ex_1_8093a390.mp3"
+      },
+      {
+        "text": "He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/fall_ex_2_8b7e82ef.mp3"
+      },
+      {
+        "text": "Most people fall into one of these types.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fall_ex_3_322692e1.mp3"
+      },
+      {
+        "text": "More than 30 million people all over the world have fallen in love with the characters, the story and the music.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fall_ex_4_40ea4e7e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "On his first trip to Europe, why did Camake think the audience might fall asleep? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This, of course, is just one of the millions of trees that fall in the Amazon each year.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "That is, after he 16 his pages in the hymn book with small bits of paper, the small pieces would invariably fall out all over the floor.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "take pride in (B) fall short of (C) get out of (D) keep up with 18.(A)",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Moreover, pieces of junk may collide with each other and break into fragments which fall back to the Earth.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Your dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the kernels start 38 , shake the pot to let the steam escape and to let the unpopped kernels fall to the bottom.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After darkness falls in some parts of North America, female fireflies gather on the ground.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, after the devastating fire that damaged the cathedral in 2019, the bells fell 29 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The empty boxes and many other things fell all over them the minute he opened the door.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of “headlamps,” one beneath each eye.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "秋天；掉落；跌倒",
+    "en_def": "The season between summer and winter; to drop down from a higher place.",
+    "example": "The leaves begin to fall in autumn."
+  },
+  "sentences_removed": 3
+}

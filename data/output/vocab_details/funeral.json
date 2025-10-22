@@ -1,0 +1,28 @@
+{
+  "lemma": "funeral",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They 37 as a funeral offering shown upon the altars of the gods.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/funeral_ex_0_fceeb53f.mp3"
+      },
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/funeral_ex_1_6afd3e65.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "葬禮，為死者舉行的儀式，通常包括埋葬或火化。",
+    "en_def": "A ceremony held in honor of a deceased person, typically involving burial or cremation.",
+    "example": "We attended the funeral to pay our respects to the family."
+  },
+  "sentences_removed": 0
+}

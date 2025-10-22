@@ -1,0 +1,28 @@
+{
+  "lemma": "digestive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is caused by disruption to the internal biological clock, and may lead to digestive problems, tiredness, and sleep disruption.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/digestive_ex_0_868c048d.mp3"
+      },
+      {
+        "text": "The soybean’s high fiber content is beneficial in preventing digestive disorders.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/digestive_ex_1_5bf9425e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "消化的，與消化過程有關的",
+    "en_def": "Relating to the process of digesting food.",
+    "example": "The digestive system breaks down food into nutrients."
+  },
+  "sentences_removed": 0
+}

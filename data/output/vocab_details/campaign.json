@@ -1,0 +1,33 @@
+{
+  "lemma": "campaign",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As the rumor of his scandal ______ quickly during the election campaign, more and more people began to question the honesty of the candidate.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/campaign_ex_0_18a59e97.mp3"
+      },
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/campaign_ex_1_c0d7b070.mp3"
+      },
+      {
+        "text": "The aim of the campaign is to remind people of the damage the deadly weed does to their body.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/campaign_ex_2_bf95d1a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一系列有組織的活動，旨在達成特定的目標或目的，通常涉及政治、商業或社會運動。",
+    "en_def": "A series of organized activities aimed at achieving a specific goal or purpose, often related to politics, business, or social movements.",
+    "example": "The environmental campaign raised awareness about climate change."
+  },
+  "sentences_removed": 1
+}

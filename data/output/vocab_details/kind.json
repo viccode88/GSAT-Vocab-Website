@@ -1,0 +1,195 @@
+{
+  "lemma": "kind",
+  "count": 35,
+  "pos_dist": {
+    "NOUN": 32,
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I’ve tried all kinds of vegan “burgers,” and GreenBurgers are closer to what I’m looking for.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/kind_ex_0_236601b6.mp3"
+      },
+      {
+        "text": "As there are a number of species of firefly, the males of each kind flash their own particular signal.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/kind_ex_1_c978517d.mp3"
+      },
+      {
+        "text": "There are three kinds of tea: black, green, and oolong.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/kind_ex_2_75602485.mp3"
+      },
+      {
+        "text": "The town sits on the side of a volcano nearly 10,000 feet above sea level, making daily life a kind of high-altitude training.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kind_ex_3_f0e8256e.mp3"
+      },
+      {
+        "text": "This kind of medicine is believed to date from the 4th century BC.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/kind_ex_4_d4161b7b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Some parents try to get rid of half of the candy after their children go to bed, but dentists say parents also need to separate the good kinds of treats from the bad.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "It 21 the kind of welcome it has been getting ever since.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of words do men use more frequently than women? 5.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "22 kind of sleep is Non-Rapid Eye Movement sleep.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "That means that 64 acres of the rainforest is lost every minute.” (1) Which place is called “the lungs of the earth”? (2) What kinds of people are on the AmazonQuest team?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Children born blind never see anybody smile, but they show the same kinds of smiles under the same situations as sighted people.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "You don't even need a very expensive computer—but you must understand everything about all kinds of computers.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What kinds of problems can the red ant cause? (A) Health, social, and agricultural.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The underlined word ulcer in the second paragraph refers to a particular kind of (A) mental illness.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best defines “subject” in the first paragraph? (A) A kind of mental disease.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not always fair or kind.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I meet all kinds of people and talk to everyone.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about fireflies is true? (A) All kinds of fireflies use the same signals.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "One particular kind of angelfish, the blackspot angelfish, has a special capability that allows it to change gender from female to male.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of ice is ideal for sculpting? (A) Ice from ice hotels.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He remembered a kind of glue developed by a colleague that everyone thought 18 a failure because it did not stick very well.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The apple is one of the world’s most cultivated fruit trees, 27 over 7,000 different kinds in existence.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of feeling can a physical smile help to create? 3.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not easy to find the right kind of ice and work environment.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A second kind of medicine is called “natural cures,” or “folk medicine,” in which less educated people try to cure sicknesses with various herbs.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The following two paragraphs are examples of these two kinds.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "There are many different kinds of shells.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "One research report shows men and women use much the same grammar and vocabulary in English, although each sex uses certain kinds of words and structures more frequently than the other.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Jack is a person: he is polite, kind, and always shows respect for others.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This kind of dream is called a “lucid dream.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "You will also learn important information about __(24)__ for fresh and inexpensive foods, the use of herbs and spices, and the proper ways of storing different kinds of food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The third kind is called “health spas,” or “faith healing.”",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "友善的；善良的",
+    "en_def": "Having a friendly, generous, and considerate nature.",
+    "example": "She is always kind to everyone she meets."
+  },
+  "sentences_removed": 0
+}

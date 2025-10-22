@@ -1,0 +1,23 @@
+{
+  "lemma": "empirical",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/empirical_ex_0_c1b9ccb8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "基於觀察或實驗的，非理論的。",
+    "en_def": "Based on observation or experience rather than theory or pure logic.",
+    "example": "The scientist relied on empirical evidence to support her hypothesis."
+  },
+  "sentences_removed": 0
+}

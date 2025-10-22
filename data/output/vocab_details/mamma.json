@@ -1,0 +1,23 @@
+{
+  "lemma": "mamma",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MAMMA MIA! has become a 22 entertainment phenomenon.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mamma_ex_0_3614843b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "母親，媽媽，通常用於親暱的稱呼。",
+    "en_def": "A mother; a term of endearment for one's mother.",
+    "example": "Mamma always knows how to make me feel better."
+  },
+  "sentences_removed": 0
+}

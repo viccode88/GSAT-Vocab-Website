@@ -1,0 +1,75 @@
+{
+  "lemma": "tower",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 7,
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mounted in the two tall towers of the cathedral, Notre-Dame’s bells have been ringing for over 800 years.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/tower_ex_0_7abdb5c0.mp3"
+      },
+      {
+        "text": "Why is the new tower made of wood? (A)",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tower_ex_1_8f6311de.mp3"
+      },
+      {
+        "text": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tower_ex_2_b6fa7f95.mp3"
+      },
+      {
+        "text": "The tower is built to celebrate the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tower_ex_3_0c248dc5.mp3"
+      },
+      {
+        "text": "The tower, of pinewood, will be built on eight pillars and will be topped with a flower of five metal petals of 700 square meters each.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tower_ex_4_3652785f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The old Eiffel Tower must be torn down.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Why is Paris building a new Eiffel Tower? (A)",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The old iron Eiffel Tower needs to be re-built with wood.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The name of the new tower.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To form a contrast with the iron structure of the old tower.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The tower is built to celebrate the coming of the year 2,000.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "塔，通常是高而狹長的建築物，常用於觀景或作為信號發射站。",
+    "en_def": "A tall, narrow building or structure, often used for observation or as a signal tower.",
+    "example": "The tower offers a stunning view of the city skyline."
+  },
+  "sentences_removed": 0
+}

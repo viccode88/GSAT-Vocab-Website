@@ -1,0 +1,29 @@
+{
+  "lemma": "depart",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When wholesome laughter fills the air, Some ills will soon depart;",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/depart_ex_0_7100f7df.mp3"
+      },
+      {
+        "text": "Swappers are supposed to make sure their home is in order before they depart, but one person’s idea of “clean” may be more forgiving than another’s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/depart_ex_1_8d79461d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "離開；出發",
+    "en_def": "to leave, especially in order to start a journey",
+    "example": "We will depart for the airport at 6 AM."
+  },
+  "sentences_removed": 1
+}

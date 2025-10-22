@@ -1,0 +1,33 @@
+{
+  "lemma": "superman",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The amazing adventures of Superman, Peter Pan, and Harry Potter have charmed many people, children and adults alike.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/superman_ex_0_5cccb188.mp3"
+      },
+      {
+        "text": "Superman, Peter Pan, and Harry Potter have charmed many people, because __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/superman_ex_1_b90ac4d6.mp3"
+      },
+      {
+        "text": "For example, Superman always arrives in the nick of time to prevent a disaster from happening, Peter Pan can fly at will to tease the bad guy Captain Hook, and Harry Potter has his magic power to take revenge on his uncle, aunt and cousin, who always ill-treat him. 44.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/superman_ex_2_bee79606.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "超人，一位擁有超能力的虛構英雄角色，通常能飛行並擁有超強力量。",
+    "en_def": "Superman, a fictional superhero character with superhuman abilities, typically able to fly and possessing immense strength.",
+    "example": "Superman saved the city from destruction."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "decomposer",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The dead material and waste matter form the diet of a group of living organisms called decomposers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/decomposer_ex_0_f0fb9552.mp3"
+      },
+      {
+        "text": "The decomposers are a vital link in the natural cycle of life and death.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/decomposer_ex_1_fc95094e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分解者，指能將有機物質分解成更簡單化合物的生物，通常包括細菌和真菌。",
+    "en_def": "An organism, such as bacteria or fungi, that breaks down dead organic material, returning nutrients to the ecosystem.",
+    "example": "Decomposers play a crucial role in recycling nutrients in the ecosystem."
+  },
+  "sentences_removed": 0
+}

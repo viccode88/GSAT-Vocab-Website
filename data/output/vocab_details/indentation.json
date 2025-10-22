@@ -1,0 +1,23 @@
+{
+  "lemma": "indentation",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/indentation_ex_0_389d042a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "縮排，指在文本中將行或段落的開頭向內移動的空白區域。",
+    "en_def": "The space at the beginning of a line or paragraph that is used to indicate a new section or to organize text visually.",
+    "example": "Make sure to use proper indentation when writing your code."
+  },
+  "sentences_removed": 1
+}

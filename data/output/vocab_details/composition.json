@@ -1,0 +1,28 @@
+{
+  "lemma": "composition",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Students were asked to _____ or rewrite their compositions based on the teacher’s comments.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/composition_ex_0_04a9992a.mp3"
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/composition_ex_1_6d95b737.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "組成，構成；作品，尤其是音樂或文學作品。",
+    "en_def": "The act or process of combining parts to form a whole; a work of art, especially in music or literature.",
+    "example": "Her composition for piano won first place in the competition."
+  },
+  "sentences_removed": 0
+}

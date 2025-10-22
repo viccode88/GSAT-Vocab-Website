@@ -1,0 +1,23 @@
+{
+  "lemma": "invasive",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/invasive_ex_0_b08e8ccb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "侵入性的，指對生態系統或環境造成破壞的物種或行為。",
+    "en_def": "Tending to spread aggressively; often used to describe species that disrupt local ecosystems.",
+    "example": "The invasive species quickly took over the lake, harming the native fish population."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "eddie",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "E. Eddie My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/eddie_ex_0_a5cadca0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埃迪（Eddie）是一個常見的男性名字，通常是愛德華（Edward）或愛德（Ed）等名字的暱稱。",
+    "en_def": "Eddie is a common male given name, often a diminutive of Edward or Ed.",
+    "example": "Eddie loves to play basketball with his friends."
+  },
+  "sentences_removed": 0
+}

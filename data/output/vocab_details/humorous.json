@@ -1,0 +1,23 @@
+{
+  "lemma": "humorous",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Familiar fables can be narrated differently or extended in interesting and humorous ways.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/humorous_ex_0_2fa16b64.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幽默的，能引人發笑的",
+    "en_def": "Funny or making you laugh.",
+    "example": "The comedian's humorous stories kept the audience entertained all night."
+  },
+  "sentences_removed": 0
+}

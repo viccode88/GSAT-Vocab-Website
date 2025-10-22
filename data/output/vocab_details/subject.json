@@ -1,0 +1,55 @@
+{
+  "lemma": "subject",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 10,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/subject_ex_0_d41af6dd.mp3"
+      },
+      {
+        "text": "They asked test subjects to drink a full can or bottle of an energy drink and then gave each subject an ABT one minute and 15 minutes after the drink was finished.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/subject_ex_1_b68420da.mp3"
+      },
+      {
+        "text": "Which of the following best defines “subject” in the first paragraph? (A) A kind of mental disease.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/subject_ex_2_b3a37e84.mp3"
+      },
+      {
+        "text": "King Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/subject_ex_3_2bca6403.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the study, the subjects were placed inside the MRI scanner to (A) observe the activities of the brains when they used languages.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "When subjected to repeated pressurization high in the sky, the four corners on a square window may 19 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "This interesting phenomenon becomes a subject explored by many scientists.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "主題；科目；受試者",
+    "en_def": "The topic or focus of discussion, study, or interest; a person or thing that is being discussed or studied.",
+    "example": "The subject of today's lecture is climate change."
+  },
+  "sentences_removed": 3
+}

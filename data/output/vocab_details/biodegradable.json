@@ -1,0 +1,23 @@
+{
+  "lemma": "biodegradable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is an eco-friendly and biodegradable fiber.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/biodegradable_ex_0_68cf2c4a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可生物降解的，指能夠在自然環境中被微生物分解的物質。",
+    "en_def": "Capable of being decomposed by biological processes, especially by the action of living organisms.",
+    "example": "These bags are made from biodegradable materials that break down easily in the environment."
+  },
+  "sentences_removed": 0
+}

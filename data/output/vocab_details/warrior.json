@@ -1,0 +1,49 @@
+{
+  "lemma": "warrior",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A slave raid starts with an assembly of the Amazon warriors outside their own nest.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/warrior_ex_0_f1448572.mp3"
+      },
+      {
+        "text": "Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/warrior_ex_1_053887a4.mp3"
+      },
+      {
+        "text": "A Maasai warrior is rarely seen without his spear and shield.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/warrior_ex_2_0cdf1612.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To exemplify the types of weapons used by Maasai warriors.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain how Maasai warriors hunt for deer in the wild.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following pictures best represents the image of a typical Maasai warrior? (A) (B) (C) (D) 36.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "戰士，指在戰鬥中勇敢作戰的人。",
+    "en_def": "A person who fights in battles or engages in warfare, often characterized by bravery and skill.",
+    "example": "The warrior led his troops into battle with great courage."
+  },
+  "sentences_removed": 1
+}

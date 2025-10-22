@@ -1,0 +1,28 @@
+{
+  "lemma": "rust",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rust_ex_0_7c7f82a0.mp3"
+      },
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rust_ex_1_1ce5f24b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鐵或其他金屬表面上形成的紅棕色氧化物，通常因潮濕或暴露於空氣中而產生。",
+    "en_def": "A reddish-brown oxide formed on iron or other metals due to oxidation, typically caused by moisture or exposure to air.",
+    "example": "The old bicycle was covered in rust after being left outside for years."
+  },
+  "sentences_removed": 0
+}

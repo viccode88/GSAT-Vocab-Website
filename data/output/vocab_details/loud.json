@@ -1,0 +1,59 @@
+{
+  "lemma": "loud",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "No more loud chatter on the telephones!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/loud_ex_0_c0e5bfc6.mp3"
+      },
+      {
+        "text": "Although this particular robot can be programmed to speak, the voice heard wasn’t that of the robot, because it was feared that the robot’s voice was not loud enough to carry throughout the hall.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/loud_ex_1_d4243556.mp3"
+      },
+      {
+        "text": "The benefits include an easier visibility of the time, and an alarm that gets increasingly louder __24__ turned off.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/loud_ex_2_7b753ff3.mp3"
+      },
+      {
+        "text": "They couldn’t speak out loud, because any movement would disrupt the scanning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/loud_ex_3_09945d55.mp3"
+      },
+      {
+        "text": "With a loud roar, the saw chewed into the 150-year old tree.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/loud_ex_4_2fc6cf38.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Male howler monkeys use their loud voices to fight for food, mates, or territory.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are the loudest land animal and their howls can be heard three miles away through dense forests.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach the monkeys how to make the loudest cries to scare people away. 44.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "大聲的；響亮的",
+    "en_def": "Producing or capable of producing much noise; strong in sound.",
+    "example": "The music was so loud that I couldn't hear myself think."
+  },
+  "sentences_removed": 1
+}

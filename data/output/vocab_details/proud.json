@@ -1,0 +1,28 @@
+{
+  "lemma": "proud",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We are both very proud of you, Tom.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/proud_ex_0_57b65740.mp3"
+      },
+      {
+        "text": "Jack is very proud of his fancy new motorcycle.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/proud_ex_1_c23a6c31.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到自豪或滿意的，通常因為自己的成就或特質。",
+    "en_def": "Feeling deep pleasure or satisfaction as a result of one's own achievements, qualities, or possessions.",
+    "example": "She felt proud of her accomplishments in the competition."
+  },
+  "sentences_removed": 1
+}

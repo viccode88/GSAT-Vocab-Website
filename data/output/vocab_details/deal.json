@@ -1,0 +1,90 @@
+{
+  "lemma": "deal",
+  "count": 15,
+  "pos_dist": {
+    "VERB": 9,
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/deal_ex_0_fae93121.mp3"
+      },
+      {
+        "text": "The left hemisphere deals with rules, lists of information, and short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/deal_ex_1_4b25d54b.mp3"
+      },
+      {
+        "text": "I asked how she dealt with the realization that she’d never walk again, and she confessed that initially she didn’t want to face it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/deal_ex_2_5adb754f.mp3"
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a way to deal with dead mail?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/deal_ex_3_a5db0132.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Later children may make good salespersons because persuasion may have been the only tool they had to deal with older siblings.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Faced with this new situation, people have __(30)__ to find out how to deal with it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast, the right hemisphere deals with feelings, colors, and long-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "What is recommended in the passage to deal with theft and damage concerns? (A) One can file a lawsuit in court.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The staff of the dead mail offices has a variety of ways to deal with all of these pieces of dead mail.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "交易；協議；處理",
+    "en_def": "An agreement or arrangement, often involving a transaction or negotiation.",
+    "example": "They made a deal to exchange goods at a fair price."
+  },
+  "sentences_removed": 1
+}

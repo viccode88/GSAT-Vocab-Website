@@ -1,0 +1,49 @@
+{
+  "lemma": "advise",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When he returned, he felt “pretty good.” 31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/advise_ex_0_74d346d5.mp3"
+      },
+      {
+        "text": "Elderly shoppers in this store are advised to take the elevator rather than the _____, which may move too fast for them to keep their balance.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/advise_ex_1_4e7afec9.mp3"
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/advise_ex_2_d0b2f04b.mp3"
+      },
+      {
+        "text": "Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power’s care.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/advise_ex_3_52615f25.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What does the author advise people to do with bedbug problems? (A) Choose the right fogger.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, more and more patients are now advised to keep moving despite the pain.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "建議；提供意見或指導",
+    "en_def": "To offer suggestions or recommendations about what someone should do.",
+    "example": "I advise you to study regularly to improve your grades."
+  },
+  "sentences_removed": 0
+}

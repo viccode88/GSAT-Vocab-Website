@@ -1,0 +1,33 @@
+{
+  "lemma": "worried",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was worried about my first overseas trip, but my father ______ me that he would help plan the trip so that nothing would go wrong.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/worried_ex_0_a09a5cf1.mp3"
+      },
+      {
+        "text": "And, if you’re worried about feeling claustrophobic in small spaces, you’d better think twice before making a reservation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/worried_ex_1_949c50de.mp3"
+      },
+      {
+        "text": "He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/worried_ex_2_8b7e82ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擔心的，焦慮的",
+    "en_def": "Feeling anxious or concerned about something.",
+    "example": "She was worried about her upcoming exam."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "bolt",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bolt_ex_0_ff56ffcb.mp3"
+      },
+      {
+        "text": "“If he was, the first bolt 25 enough.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bolt_ex_1_95091159.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "螺栓；用於連接物體的金屬釘或螺絲，通常有螺紋。",
+    "en_def": "A metal pin or fastener used to hold objects together, typically with a threaded shaft.",
+    "example": "He used a bolt to secure the two pieces of wood together."
+  },
+  "sentences_removed": 0
+}

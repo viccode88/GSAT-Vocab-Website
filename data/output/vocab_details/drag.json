@@ -1,0 +1,23 @@
+{
+  "lemma": "drag",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/drag_ex_0_0f55e8a7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拖動，拉動或使某物移動的行為。",
+    "en_def": "To pull something along with a steady movement.",
+    "example": "She had to drag the heavy suitcase across the floor."
+  },
+  "sentences_removed": 0
+}

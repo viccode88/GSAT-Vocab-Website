@@ -1,0 +1,23 @@
+{
+  "lemma": "northwest",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/northwest_ex_0_cfff768e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "西北方向，介於西方和北方之間的方位。",
+    "en_def": "The direction or region that is to the northwest; the compass point halfway between north and west.",
+    "example": "The storm is coming from the northwest."
+  },
+  "sentences_removed": 1
+}

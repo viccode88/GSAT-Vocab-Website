@@ -1,0 +1,61 @@
+{
+  "lemma": "average",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 4,
+    "ADJ": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The EPA estimates that the average levels of dioxin in all Americans are so high that we can expect to see a variety of health effects, including cancer.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/average_ex_0_cd6c8e82.mp3"
+      },
+      {
+        "text": "In 1930 we laughed on average for 19 minutes each day, but by 1980 it (34) to six minutes.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/average_ex_1_0df4e399.mp3"
+      },
+      {
+        "text": "The students lost an average of 2.34 kilograms during the past two months, and the student who lost the most, the nine-year-old Howard Chang, shed more than six kilograms.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/average_ex_2_ce65e3de.mp3"
+      },
+      {
+        "text": "For the average person, however, water remains a very good 27 for keeping hydrated—if you know how to drink it.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/average_ex_3_98a72c04.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The IQ is the ratio of “mental age” to chronological age times 100, with 100 30 the average.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The average age of the audience was between fifty and sixty.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO).",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "平均值，通常指一組數據的算術平均數。",
+    "en_def": "The result obtained by adding several quantities together and then dividing this total by the number of quantities.",
+    "example": "The average temperature this week is expected to be higher than last week."
+  },
+  "sentences_removed": 0
+}

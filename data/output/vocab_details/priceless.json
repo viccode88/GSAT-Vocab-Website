@@ -1,0 +1,28 @@
+{
+  "lemma": "priceless",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pyramid housed the pharaoh’s body together with priceless treasure, which would accompany him into the next world.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/priceless_ex_0_54dd4b40.mp3"
+      },
+      {
+        "text": "The architect thought Jack's service was priceless 46.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/priceless_ex_1_01f879b2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無價的；極其珍貴的",
+    "en_def": "Having a value beyond price; invaluable.",
+    "example": "The memories we created during our travels are priceless."
+  },
+  "sentences_removed": 0
+}

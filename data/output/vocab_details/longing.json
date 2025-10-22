@@ -1,0 +1,23 @@
+{
+  "lemma": "longing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The animal’s longing look toward the food will be captured by the camera, but the treat won’t appear in the picture because it’s out of the camera’s range.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/longing_ex_0_7b33858b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "渴望，對某事物的強烈思念或渴求。",
+    "en_def": "A strong desire or yearning for something or someone.",
+    "example": "She felt a deep longing for her childhood home."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,66 @@
+{
+  "lemma": "marine",
+  "count": 11,
+  "pos_dist": {
+    "ADJ": 6,
+    "NOUN": 3,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The diversity of marine life. 47.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/marine_ex_0_4d334b03.mp3"
+      },
+      {
+        "text": "The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/marine_ex_1_4e4fc371.mp3"
+      },
+      {
+        "text": "The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/marine_ex_2_7149196b.mp3"
+      },
+      {
+        "text": "A marine pilot is a boat pilot with specialized knowledge of a particular port or harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/marine_ex_3_3127a232.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Without the services of a marine pilot, docking ships would be hazardous.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This captain is called a marine pilot.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Marine pilotage is a job that requires a high degree of proficiency as well as quick and independent thinking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A marine pilot goes on board at a crucial time and controls the vessel based on his or her knowledge of the port and the situation at hand.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is part of the knowledge that a marine pilot must have? (A)",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "海洋的；海洋生物的",
+    "en_def": "Relating to the sea; connected with the ocean or sea life.",
+    "example": "The marine biologist studied the effects of pollution on coral reefs."
+  },
+  "sentences_removed": 1
+}

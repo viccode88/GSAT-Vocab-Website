@@ -1,0 +1,23 @@
+{
+  "lemma": "reference",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The earliest reference to these documents is found in a 15th-century Act of Parliament, while the term “passport” came into use about a century later.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/reference_ex_0_d7cf9f45.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "參考；參照；引用的資料或來源",
+    "en_def": "A source of information or evidence used to support or clarify a statement or idea.",
+    "example": "She included several references in her research paper."
+  },
+  "sentences_removed": 0
+}

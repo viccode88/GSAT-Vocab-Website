@@ -1,0 +1,28 @@
+{
+  "lemma": "devise",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To avoid this, scientists have devised several ways for clearing the sky.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/devise_ex_0_295b4385.mp3"
+      },
+      {
+        "text": "As the flights grew longer, a new set of two collection bags was devised, _(24)_ for liquid wastes and the other for solid wastes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/devise_ex_1_ad382068.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "設計；發明；策劃",
+    "en_def": "To plan or invent a complex procedure, system, or mechanism.",
+    "example": "She had to devise a new strategy to improve sales."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "triale",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the past, flashing red lights and even lion faces have been unsuccessfully trialed in an attempt to keep deer off the tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/triale_ex_0_3292fb55.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "試驗或測試的過程或階段。",
+    "en_def": "A process or stage of testing or experimentation.",
+    "example": "The new software is currently in its trial phase before the official release."
+  },
+  "sentences_removed": 0
+}

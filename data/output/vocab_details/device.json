@@ -1,0 +1,100 @@
+{
+  "lemma": "device",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 17,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These devices made it possible for doors to open by themselves and wine to flow magically out of statues’ mouths.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/device_ex_0_a9834f3b.mp3"
+      },
+      {
+        "text": "Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/device_ex_1_f9c0f273.mp3"
+      },
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/device_ex_2_35a4c04b.mp3"
+      },
+      {
+        "text": "Recent experiments with this device showed that 80% of the participants were fooled by the smell.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/device_ex_3_cad673c0.mp3"
+      },
+      {
+        "text": "Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/device_ex_4_3cd66c11.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A combination of sound and visual devices attracts more deer to the tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The advanced technological devices in Morgan’s Wonderland.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Human beings, too, 37 special devices to protect 38 .",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 29 than it actually is.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What device has NOT been used to solve the railway problem in Japan? (A) Flashing lights.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Each volunteer wore a device that gave out 20-second-long pulses of heat to the right leg.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This new device has been invented by a team at the country’s Railway Technical Research Institute (RTRI).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "But the new device was still relatively expensive and unreliable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This explains why at that time the priests even built magic devices into their temples.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The device, for instance, can be set to 30 one’s favorite flavor.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "裝置；設備",
+    "en_def": "A piece of equipment or a mechanism designed for a specific purpose.",
+    "example": "She bought a new device to help her track her fitness goals."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "elaborate",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Based on the passage, in order to break into computer codes, one needs (A) an elaborate and expensive multi-media computer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/elaborate_ex_0_38ef8a80.mp3"
+      },
+      {
+        "text": "Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/elaborate_ex_1_d3dd3a02.mp3"
+      },
+      {
+        "text": "It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/elaborate_ex_2_bbbf82a6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "詳細說明或闡述某事物。",
+    "en_def": "To explain or describe something in detail.",
+    "example": "She asked him to elaborate on his plan for the project."
+  },
+  "sentences_removed": 0
+}

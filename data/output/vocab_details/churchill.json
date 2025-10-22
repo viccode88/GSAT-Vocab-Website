@@ -1,0 +1,39 @@
+{
+  "lemma": "churchill",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 5,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What was Shaw trying to say to Churchill on his card? (A) Churchill should not go to the play alone.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/churchill_ex_0_efc06ffd.mp3"
+      },
+      {
+        "text": "It is said that the playwright once sent Churchill two tickets for the opening night of one of his plays, together with a card, which said, “Bring a friend (if you have one).”",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/churchill_ex_1_262caf8a.mp3"
+      },
+      {
+        "text": "Churchill, however, managed to get the better of this exchange.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/churchill_ex_2_25340e05.mp3"
+      },
+      {
+        "text": "Why didn’t Churchill want the tickets for the first night?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/churchill_ex_3_7c845bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "邱吉爾，英國政治家，曾任英國首相，以其在第二次世界大戰期間的領導而聞名。",
+    "en_def": "Churchill, a British politician who served as Prime Minister, known for his leadership during World War II.",
+    "example": "Winston Churchill delivered inspiring speeches that rallied the British people during the war."
+  },
+  "sentences_removed": 1
+}

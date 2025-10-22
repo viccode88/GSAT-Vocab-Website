@@ -1,0 +1,23 @@
+{
+  "lemma": "behalf",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In relation to (C) On behalf of (D)",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/behalf_ex_0_1c01ff98.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "代表，利益，支持某人或某事的行為或狀態。",
+    "en_def": "In the interest of or as a representative of someone or something.",
+    "example": "She spoke on behalf of the entire team."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "scratching",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/scratching_ex_0_3470d2c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "抓、刮或劃的動作，通常用指甲或尖銳物體進行。",
+    "en_def": "The act of scraping or rubbing a surface with a sharp or pointed object, often using fingernails.",
+    "example": "She was scratching her arm because it was itchy."
+  },
+  "sentences_removed": 0
+}

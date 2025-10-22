@@ -1,0 +1,28 @@
+{
+  "lemma": "amygdala",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The amygdala is located in different areas of the brain for boys and girls.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/amygdala_ex_0_800771d8.mp3"
+      },
+      {
+        "text": "Studies reveal that negative emotions are seated in an area of the brain called the amygdala.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/amygdala_ex_1_b0d7c27e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "杏仁核：大腦中的一個小區域，與情緒、記憶和行為反應有關。",
+    "en_def": "Amygdala: A small, almond-shaped cluster of nuclei in the brain involved in emotion, memory, and behavioral responses.",
+    "example": "The amygdala plays a crucial role in processing emotions like fear and pleasure."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,24 @@
+{
+  "lemma": "absence",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": [
+    {
+      "text": "And my lengthy absence meant that I was able to obtain as natural a piece of conversation as it would be possible to find.",
+      "source": "2000_89_89年學測英文科",
+      "audio_file": ""
+    },
+    {
+      "text": "However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head.",
+      "source": "2023_112_02-112學測英文試卷",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "缺席；不存在",
+    "en_def": "The state of being away or not present.",
+    "example": "Her absence from the meeting was noted by everyone."
+  }
+}

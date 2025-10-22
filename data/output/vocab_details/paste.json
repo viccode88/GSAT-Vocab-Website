@@ -1,0 +1,23 @@
+{
+  "lemma": "paste",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the legend, notes of 33 plans for a revolution to overthrow the Mongols were hidden in mooncakes that would ordinarily have been stuffed with sweet bean paste.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/paste_ex_0_3f3bb42b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "將一種物質（如膠水或黏合劑）塗抹或附著於另一物體上，或將文本或圖像從一個地方轉移到另一個地方。",
+    "en_def": "To attach or stick one substance to another, or to transfer text or images from one place to another.",
+    "example": "Please paste the document into the folder."
+  },
+  "sentences_removed": 0
+}

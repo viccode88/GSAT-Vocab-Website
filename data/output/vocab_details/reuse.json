@@ -1,0 +1,23 @@
+{
+  "lemma": "reuse",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We can erase and reuse it.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/reuse_ex_0_8a6ac881.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "再次使用或利用某物，特別是指在原有用途之外的使用。",
+    "en_def": "To use something again or for a different purpose.",
+    "example": "We should reuse plastic bags to reduce waste."
+  },
+  "sentences_removed": 0
+}

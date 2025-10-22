@@ -1,0 +1,23 @@
+{
+  "lemma": "groundbreaking",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/groundbreaking_ex_0_d8bbdfb1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "開創性的；突破性的",
+    "en_def": "Innovative or pioneering; introducing new ideas or methods.",
+    "example": "The scientist's groundbreaking research changed the way we understand climate change."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "pen",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/pen_ex_0_9e31f671.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於書寫或繪畫的工具，通常含有墨水或顏料。",
+    "en_def": "A tool used for writing or drawing, typically containing ink or pigment.",
+    "example": "She wrote her name with a blue pen."
+  },
+  "sentences_removed": 0
+}

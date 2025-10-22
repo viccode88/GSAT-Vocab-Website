@@ -1,0 +1,28 @@
+{
+  "lemma": "platform",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This created a convenient, sturdy platform for any person too short to reach the sink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/platform_ex_0_9f4835b5.mp3"
+      },
+      {
+        "text": "The platform is supported by two pieces of metal.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/platform_ex_1_a614c405.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "平台：一種用於支撐或提供服務的基礎結構或系統。",
+    "en_def": "Platform: A structure or system that supports or provides a service.",
+    "example": "The new social media platform allows users to connect with friends easily."
+  },
+  "sentences_removed": 0
+}

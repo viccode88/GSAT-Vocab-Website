@@ -1,0 +1,38 @@
+{
+  "lemma": "observation",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These folk healers also use observation and logic, but they are not so aware of it.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/observation_ex_0_fad4080f.mp3"
+      },
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/observation_ex_1_c1b9ccb8.mp3"
+      },
+      {
+        "text": "Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/observation_ex_2_0c74da77.mp3"
+      },
+      {
+        "text": "They take many photographs to record their observations.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/observation_ex_3_3f06edfe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "觀察；觀測",
+    "en_def": "The action or process of closely monitoring something or someone.",
+    "example": "The scientist made careful observations of the animal's behavior."
+  },
+  "sentences_removed": 0
+}

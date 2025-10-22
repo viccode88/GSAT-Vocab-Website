@@ -1,0 +1,23 @@
+{
+  "lemma": "club",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Founded in 1992, with some 28,000 listings, this company itself as the world’s largest home exchange club, reporting that membership has increased 30% this year.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/club_ex_0_5786d598.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個人們聚集在一起進行社交、娛樂或活動的組織或場所。",
+    "en_def": "A group of people organized for a common purpose, often for social or recreational activities.",
+    "example": "She joined a book club to meet new friends and discuss her favorite novels."
+  },
+  "sentences_removed": 0
+}

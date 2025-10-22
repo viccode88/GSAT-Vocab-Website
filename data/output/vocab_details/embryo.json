@@ -1,0 +1,23 @@
+{
+  "lemma": "embryo",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new relationship is like an embryo that requires time, care and attention to grow into whatever may evolve.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/embryo_ex_0_307b73dd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "胚胎：在早期發育階段的生物，通常指受精卵發育成的早期形態。",
+    "en_def": "An embryo is an early stage of development in multicellular organisms, typically referring to the early form of a fertilized egg.",
+    "example": "The scientist studied the embryo to understand its development process."
+  },
+  "sentences_removed": 0
+}

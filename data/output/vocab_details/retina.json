@@ -1,0 +1,51 @@
+{
+  "lemma": "retina",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers at Vanderbilt University are particularly interested in zebrafish retina regeneration.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retina_ex_0_9c8945e6.mp3"
+      },
+      {
+        "text": "The structure and cell types of zebrafish retinas are almost identical to those of humans.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retina_ex_1_fa7f58b8.mp3"
+      },
+      {
+        "text": "They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retina_ex_2_14624ced.mp3"
+      },
+      {
+        "text": "They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retina_ex_3_ed4f3259.mp3"
+      },
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retina_ex_4_81593f0b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following is an opinion, but NOT a fact? (A) Humans and zebrafish have 70 percent of genes in common. (B) Zebrafish can quickly recover vision after damage to the retina.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "視網膜：眼睛內部的一層感光組織，負責接收光線並將其轉化為神經信號。",
+    "en_def": "The retina is a layer of tissue at the back of the eye that converts light into neural signals.",
+    "example": "The doctor examined my retina to check for any signs of damage."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "relation",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In relation to (C) On behalf of (D)",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/relation_ex_0_1c01ff98.mp3"
+      },
+      {
+        "text": "To discover the relation between energy drinks and ABT test results.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/relation_ex_1_a1f8aca8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "關係；聯繫",
+    "en_def": "The way in which two or more people or groups regard and behave toward each other.",
+    "example": "Their relation has grown stronger over the years."
+  },
+  "sentences_removed": 0
+}

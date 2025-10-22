@@ -1,0 +1,23 @@
+{
+  "lemma": "tablespoon",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All that is 37 is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tablespoon_ex_0_db312f34.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "湯匙，一種用於量取液體或固體食材的餐具，通常容量約為15毫升。",
+    "en_def": "A tablespoon is a kitchen utensil used for measuring or serving food, typically holding about 15 milliliters.",
+    "example": "She added a tablespoon of sugar to her tea."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "voyage",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was at the end of one of these long voyages that the pineapple came to Hawaii to stay.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/voyage_ex_0_f0b51a6d.mp3"
+      },
+      {
+        "text": "It is not immediately known whether the “Kawasaki” can be repaired on the fishing island of Penghu, or when the Vladimirs will be able to set off again and continue their around-the-world voyage.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/voyage_ex_1_18f0f179.mp3"
+      },
+      {
+        "text": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/voyage_ex_2_10c9d4fa.mp3"
+      },
+      {
+        "text": "In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/voyage_ex_3_62919665.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When did the “Kawasaki” first get into trouble during the voyage? (A) Less than two days after departure from Russia.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It was carried on sailing ships around the world because it was found to help prevent scurvy, a disease that often 25 sailors on long voyages.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What was the purpose of the voyage of the Vladimirs? (A)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "航行；旅行，特別是長途旅行",
+    "en_def": "A long journey involving travel by sea or in space.",
+    "example": "They embarked on a voyage across the Atlantic Ocean."
+  },
+  "sentences_removed": 0
+}

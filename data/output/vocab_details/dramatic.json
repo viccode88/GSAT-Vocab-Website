@@ -1,0 +1,17 @@
+{
+  "lemma": "dramatic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "戲劇的；引人注目的；激烈的",
+    "en_def": "Relating to drama or the performance of drama; exciting or impressive.",
+    "example": "The movie had a dramatic ending that left everyone in tears."
+  },
+  "sentences_removed": 1
+}

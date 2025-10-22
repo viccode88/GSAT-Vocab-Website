@@ -1,0 +1,130 @@
+{
+  "lemma": "center",
+  "count": 23,
+  "pos_dist": {
+    "NOUN": 18,
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But it was art that remained at the center of his life.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/center_ex_0_45c79502.mp3"
+      },
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/center_ex_1_1e01808f.mp3"
+      },
+      {
+        "text": "Glenn began the day with decorating the Rockefeller Center Christmas tree.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/center_ex_2_af80412c.mp3"
+      },
+      {
+        "text": "Rising more than 5,000 feet, Mt. Waialeale stands at the center of the nearly round island.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/center_ex_3_c647f866.mp3"
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/center_ex_4_949e617f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The non-profit organization has _____ $1 million over five years to finance the construction of the medical center.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Pus will build up in the center of the stye, causing a yellowish spot.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The first piece of space junk was created in 1964, when the American satellite Vanguard I stopped operating and lost its connection with the ground center.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Brahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 25 it there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the center of the island rises a high mountain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The language center in the brain that is believed to control speech production is called (A) MRI.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Cities and areas with higher populations would have a smaller first and third digit, and 1 as the center digit.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced In 2015 when she was just a 17-year-old, her children in the capital, Kinshasa.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Located at the center of the city, the business hotel ______",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, they provide low-budget, overnight lodging in commerce centers in large cities worldwide.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The position of the bindi is standard: center of the forehead, close to the eyebrows.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "George Willig reached the top of the World Trade Center in New York at (A) six thirty in the morning of May 26, 1977.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "中心，核心，或最重要的部分。",
+    "en_def": "The middle point or part of something; the point that is equally distant from all sides.",
+    "example": "The park is located in the center of the city."
+  },
+  "sentences_removed": 1
+}

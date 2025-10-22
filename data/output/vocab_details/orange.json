@@ -1,0 +1,23 @@
+{
+  "lemma": "orange",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/orange_ex_0_d29f242a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "橙色的水果，通常圓形，外皮光滑，內含多汁的果肉。",
+    "en_def": "A round, typically orange fruit with a tough skin and sweet, juicy flesh.",
+    "example": "I had an orange for breakfast."
+  },
+  "sentences_removed": 0
+}

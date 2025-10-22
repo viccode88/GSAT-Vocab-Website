@@ -1,0 +1,23 @@
+{
+  "lemma": "editing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/editing_ex_0_ca14466e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "編輯，指對文本、影片或其他媒體進行修改、整理或改進的過程。",
+    "en_def": "The process of preparing written material for publication by correcting, condensing, or otherwise modifying it.",
+    "example": "She spent the afternoon editing her manuscript before submission."
+  },
+  "sentences_removed": 0
+}

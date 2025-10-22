@@ -1,0 +1,33 @@
+{
+  "lemma": "rejection",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mistrust increases and rejection and repression surface.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rejection_ex_0_91b36ccf.mp3"
+      },
+      {
+        "text": "People 28 high self-esteem are not hurt by criticism; they do not 29 criticism as personal rejection.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rejection_ex_1_7393bc6b.mp3"
+      },
+      {
+        "text": "I believed that when the weight disappeared, it would take old wounds, hurts, and rejections with it.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rejection_ex_2_1c1b0d18.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拒絕，否定或不接受某事或某人的行為或狀態。",
+    "en_def": "The act of refusing to accept, believe, or agree with something or someone.",
+    "example": "Her rejection of the job offer surprised everyone."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,65 @@
+{
+  "lemma": "detect",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 9,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Once the pests detect the chemical fog in the room, they’ll hide themselves in walls or other hideaways, where you’ll never be able to treat them effectively.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/detect_ex_0_606ad0fa.mp3"
+      },
+      {
+        "text": "For 11 of the 27 energy drinks, the ABT did detect the presence of alcohol if the test was given within one minute after the drink was taken.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/detect_ex_1_e133d30e.mp3"
+      },
+      {
+        "text": "Well-trained examiners can usually detect lying with a high degree of 25 when they use a polygraph.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/detect_ex_2_a8ed1348.mp3"
+      },
+      {
+        "text": "When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/detect_ex_3_7118bb6a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "35 , they cannot be detected by other animals that threaten them.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of this passage? (A) Elephants use sight and smell to detect danger.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, alcohol could not be detected for any of the drinks if the test was given 15 minutes after the drink was consumed.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Your brain doesn’t know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts 18 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The scientists then investigated the possibility that these small levels of alcohol could be detected by an ABT.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "發現或察覺某事物的存在或變化。",
+    "en_def": "To discover or identify the presence or changes of something.",
+    "example": "The scientists were able to detect a small amount of radiation."
+  },
+  "sentences_removed": 0
+}

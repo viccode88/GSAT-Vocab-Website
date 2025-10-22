@@ -1,0 +1,23 @@
+{
+  "lemma": "dreaded",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At other times the dreaded event from daily life simply occurs in a dream in its real-life form; 29 , the boy dreams of being bullied by the bigger boy. 30 scientific research, we have known more about the relationship between sleep and dreams.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dreaded_ex_0_3e925067.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可怕的，令人畏懼的",
+    "en_def": "Regarded with great fear or apprehension.",
+    "example": "The dreaded exam was approaching, and students were feeling anxious."
+  },
+  "sentences_removed": 0
+}

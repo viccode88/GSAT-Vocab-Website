@@ -1,0 +1,28 @@
+{
+  "lemma": "dirty",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The laborers mostly wore dark and dirty uniforms.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/dirty_ex_0_9a7b3fbc.mp3"
+      },
+      {
+        "text": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/dirty_ex_1_cfff768e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不乾淨的，有污垢或髒物的。",
+    "en_def": "Not clean; covered or marked with an unclean substance.",
+    "example": "The dog rolled in the mud and got dirty."
+  },
+  "sentences_removed": 0
+}

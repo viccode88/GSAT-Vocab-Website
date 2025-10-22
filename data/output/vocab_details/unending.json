@@ -1,0 +1,23 @@
+{
+  "lemma": "unending",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If we 30 surrounded by an unending abundance of diamonds, we probably wouldn’t value them very much.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unending_ex_0_ee61f97c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無止境的，持續不斷的。",
+    "en_def": "Having no end; perpetual.",
+    "example": "The unending noise from the construction site made it hard to concentrate."
+  },
+  "sentences_removed": 0
+}

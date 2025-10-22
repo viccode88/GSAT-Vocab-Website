@@ -1,0 +1,23 @@
+{
+  "lemma": "economical",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His family was rich but was very economical.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/economical_ex_0_89209df7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "節省的，經濟的；花費少的",
+    "en_def": "Relating to careful management of available resources; not wasteful.",
+    "example": "She found an economical way to travel by using public transportation."
+  },
+  "sentences_removed": 0
+}

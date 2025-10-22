@@ -1,0 +1,28 @@
+{
+  "lemma": "luck",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Strikes one, two, and three were pure bad luck, he thought.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/luck_ex_0_226421a9.mp3"
+      },
+      {
+        "text": "He said that it was as much the result of good luck as his own talent.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/luck_ex_1_fcf8ced0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "運氣；偶然的好運或壞運。",
+    "en_def": "The force that causes good or bad things to happen by chance.",
+    "example": "She attributed her success to luck rather than hard work."
+  },
+  "sentences_removed": 0
+}

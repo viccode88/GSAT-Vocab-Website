@@ -1,0 +1,28 @@
+{
+  "lemma": "idiotic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He didn’t like to be criticized for being idiotic.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/idiotic_ex_0_9ecfb689.mp3"
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/idiotic_ex_1_755d4981.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "愚蠢的，笨的",
+    "en_def": "Extremely foolish or stupid.",
+    "example": "His idiotic decision cost the team the game."
+  },
+  "sentences_removed": 0
+}

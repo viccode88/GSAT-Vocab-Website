@@ -1,0 +1,33 @@
+{
+  "lemma": "endure",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Here are a few tips to help us create enduring relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/endure_ex_0_c5bc19c6.mp3"
+      },
+      {
+        "text": "As the key building block for enduring relationships, trust is a bond that evolves as two persons get to know each other and experience safety in opening their hearts.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/endure_ex_1_da32def5.mp3"
+      },
+      {
+        "text": "Thus, it seems the snake is able to endure certain degrees of dehydration in between rains.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/endure_ex_2_f4cd5b30.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "忍受；持續存在",
+    "en_def": "To suffer something painful or difficult patiently; to last or continue over time.",
+    "example": "She had to endure a long wait at the airport."
+  },
+  "sentences_removed": 0
+}

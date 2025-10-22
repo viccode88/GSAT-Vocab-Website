@@ -1,0 +1,23 @@
+{
+  "lemma": "programming",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But once that programming is complete, a different part of the brain must take over a new language.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/programming_ex_0_2aa1856b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "編程是指使用計算機語言來創建軟件或應用程序的過程。",
+    "en_def": "Programming is the process of creating software or applications using a computer language.",
+    "example": "She is learning programming to develop her own video games."
+  },
+  "sentences_removed": 0
+}

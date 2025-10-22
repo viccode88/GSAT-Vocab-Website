@@ -1,0 +1,43 @@
+{
+  "lemma": "initiate",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Women also initiate touch more often than men do.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/initiate_ex_0_d3943d0a.mp3"
+      },
+      {
+        "text": "Who initiated the construction of the White House? (A) John Adams.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/initiate_ex_1_6e0cb95a.mp3"
+      },
+      {
+        "text": "In fact, research shows that in almost all cases, lower-status people initiate touch.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/initiate_ex_2_187cb2a8.mp3"
+      },
+      {
+        "text": "Industry members of the IOC hope to promote the trade of olive oil by initiating these changes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/initiate_ex_3_b1f041bf.mp3"
+      },
+      {
+        "text": "11. (A) initiated (B) represented (C) acknowledged (D) manipulated 12.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/initiate_ex_4_96d7f2a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "開始，啟動或發起某事。",
+    "en_def": "To begin or start something.",
+    "example": "They decided to initiate a new project next month."
+  },
+  "sentences_removed": 0
+}

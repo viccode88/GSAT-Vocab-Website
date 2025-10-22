@@ -1,0 +1,17 @@
+{
+  "lemma": "rhyme",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "韻腳，指在詩歌或歌曲中，結尾的音節相同或相似的現象。",
+    "en_def": "A correspondence of sound between words, especially at the end of lines in poems or songs.",
+    "example": "The poet used a perfect rhyme to enhance the musical quality of the verse."
+  },
+  "sentences_removed": 1
+}

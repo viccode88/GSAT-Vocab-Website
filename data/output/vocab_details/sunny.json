@@ -1,0 +1,43 @@
+{
+  "lemma": "sunny",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On a sunny afternoon last month, we all took off our shoes and walked on the grass with _____ feet.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/sunny_ex_0_6e394cb8.mp3"
+      },
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/sunny_ex_1_05664a62.mp3"
+      },
+      {
+        "text": "The park was not sunny enough for visitors.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sunny_ex_2_0c92aeb1.mp3"
+      },
+      {
+        "text": "They also like to make their mounds in sunny areas, heavily infesting lawns and pastures.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/sunny_ex_3_5543bd96.mp3"
+      },
+      {
+        "text": "But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 30 their productivity.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sunny_ex_4_a34ac3fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "陽光明媚的，天氣晴朗的",
+    "en_def": "Characterized by bright sunlight; clear and pleasant weather.",
+    "example": "It was a sunny day, perfect for a picnic in the park."
+  },
+  "sentences_removed": 1
+}

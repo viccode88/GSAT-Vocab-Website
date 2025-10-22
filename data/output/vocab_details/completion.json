@@ -1,0 +1,28 @@
+{
+  "lemma": "completion",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/completion_ex_0_1752cc30.mp3"
+      },
+      {
+        "text": "Exciting or challenging events __(39)__ the birth of a child, completion of a major project at work, or moving to a new city generate __(40)__ much stress as does tragedy or disaster.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/completion_ex_1_3e2327cf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "完成，結束或達成某事的過程或狀態。",
+    "en_def": "The process or state of finishing or achieving something.",
+    "example": "The completion of the project was celebrated by the entire team."
+  },
+  "sentences_removed": 0
+}

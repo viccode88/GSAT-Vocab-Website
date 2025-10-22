@@ -1,0 +1,23 @@
+{
+  "lemma": "legitimately",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.” (A) verbally (B) dominantly (C) legitimately (D)",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/legitimately_ex_0_d1c62f6e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "合法地；正當地",
+    "en_def": "In a way that is lawful or in accordance with established rules.",
+    "example": "She was legitimately excited about her promotion."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "taiwu",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The significance of the relocation of Taiwu Elementary School.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/taiwu_ex_0_6077ba00.mp3"
+      },
+      {
+        "text": "Which of the following is true about Taiwu Elementary School Folk Singers? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/taiwu_ex_1_419df805.mp3"
+      },
+      {
+        "text": "Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/taiwu_ex_2_095a7c01.mp3"
+      },
+      {
+        "text": "Recalling the group’s first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/taiwu_ex_3_19c89de3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "台舞，一種源自台灣的舞蹈風格，通常結合傳統與現代元素。",
+    "en_def": "Taiwu, a dance style originating from Taiwan, typically combining traditional and modern elements.",
+    "example": "The performance featured a beautiful taiwu that captivated the audience."
+  },
+  "sentences_removed": 1
+}

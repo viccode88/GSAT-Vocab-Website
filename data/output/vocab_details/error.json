@@ -1,0 +1,23 @@
+{
+  "lemma": "error",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite. 41.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/error_ex_0_f87aa199.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "錯誤；不正確的行為或判斷。",
+    "en_def": "A mistake or inaccuracy; a deviation from correctness.",
+    "example": "She realized there was an error in her calculations."
+  },
+  "sentences_removed": 0
+}

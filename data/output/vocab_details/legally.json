@@ -1,0 +1,23 @@
+{
+  "lemma": "legally",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is both legally and _______ wrong to spread rumors about other people on the Internet.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/legally_ex_0_b4d0b81f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在法律上；合法地",
+    "en_def": "In a manner that is permitted by law.",
+    "example": "The contract was legally binding for both parties."
+  },
+  "sentences_removed": 0
+}

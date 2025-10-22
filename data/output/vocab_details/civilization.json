@@ -1,0 +1,43 @@
+{
+  "lemma": "civilization",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/civilization_ex_0_fdf1fc6a.mp3"
+      },
+      {
+        "text": "Still __(35)__ say that aliens were responsible for the growth of highly evolved civilizations which have __(36)__ perished, including the Incan and Mayan civilizations and the legendary Atlantis.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/civilization_ex_1_97714100.mp3"
+      },
+      {
+        "text": "A lot of ancient civilizations, __(37)__ the Egyptians, Hindus, Greeks, and Mayans, have left writings and __(38)__ which indicate contacts with superior beings “from the stars.”",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/civilization_ex_2_069fddee.mp3"
+      },
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/civilization_ex_3_d893d24e.mp3"
+      },
+      {
+        "text": "From there, the tasty fruit 24 throughout other parts of civilization.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/civilization_ex_4_25ad9e44.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "文明：人類社會的發展階段，特徵包括城市、文化、社會結構和技術進步。",
+    "en_def": "Civilization: A stage of human social development characterized by the presence of cities, culture, social structure, and technological advancement.",
+    "example": "The ancient Egyptians built one of the earliest known civilizations along the Nile River."
+  },
+  "sentences_removed": 0
+}

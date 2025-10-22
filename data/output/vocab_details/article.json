@@ -1,0 +1,109 @@
+{
+  "lemma": "article",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the article, which of the following is TRUE about medicines for colds? (A) They can cure the common cold.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/article_ex_0_277136ad.mp3"
+      },
+      {
+        "text": "According to this article, PBS received part of its funding from _________.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/article_ex_1_7b8d4b2c.mp3"
+      },
+      {
+        "text": "What is the best title for this article? (A)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/article_ex_2_91261e3c.mp3"
+      },
+      {
+        "text": "We closely followed the advice in your article.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/article_ex_3_cb9c0b2e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What is this article mainly about? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Robot Redford’s speech was discussed in this article mainly because .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This article about fantasy literature is intended to __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements can be inferred from the article?",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of the article? (A)",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is this article mainly about? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this article, digital cameras nowadays are used mainly by __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main purpose of this article? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the article?",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the article mainly about? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as one of the “countries of origin” in the article?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "This article is mainly about _________.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "We may infer from the article that Dumas ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "文章；報導；物品的條款或項目。",
+    "en_def": "A piece of writing included with others in a newspaper, magazine, or other publication.",
+    "example": "She wrote an article about climate change for the local newspaper."
+  },
+  "sentences_removed": 0
+}

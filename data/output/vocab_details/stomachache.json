@@ -1,0 +1,23 @@
+{
+  "lemma": "stomachache",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mary is suffering from a stomachache and needs to eat food which is easy to _____.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/stomachache_ex_0_93868810.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "胃痛，通常是由消化不良、胃炎或其他胃部問題引起的不適感。",
+    "en_def": "A pain in the stomach, often caused by indigestion, gastritis, or other stomach issues.",
+    "example": "After eating too much candy, I got a terrible stomachache."
+  },
+  "sentences_removed": 0
+}

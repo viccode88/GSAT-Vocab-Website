@@ -1,0 +1,80 @@
+{
+  "lemma": "expert",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 13,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Though he never went to college, he can talk about plants and trees like an expert.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/expert_ex_0_ba951f15.mp3"
+      },
+      {
+        "text": "These nets are recognized by medical experts as the best hope for __(22)__ the spread of malaria－Cambodia’s most deadly disease.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/expert_ex_1_4fe063ae.mp3"
+      },
+      {
+        "text": "All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/expert_ex_2_215eb520.mp3"
+      },
+      {
+        "text": "But how long will it be before criminal gangs, like the Mafia, start to use computer experts to help them in their crimes?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/expert_ex_3_9b426a0a.mp3"
+      },
+      {
+        "text": "To find an expert, who would recover the lost information for you, is probably the easiest solution.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/expert_ex_4_3a852af1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Jack Olson is one of these experts.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "At the very beginning, only 33 names were used because at that time typhoons were named after girlfriends or wives of the experts on the committee.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "2. Are the professors in the departments you plan to ___(28)___ into experts in their own fields? 3.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Whale experts found Tag, Notch, Baby alive.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Your dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The answer is: not very thoroughly, 27 they are executives, specialized experts, or ordinary people in the street.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "專家，對某一領域具有深厚知識和技能的人。",
+    "en_def": "A person who has a comprehensive and authoritative knowledge of or skill in a particular area.",
+    "example": "She is an expert in marine biology."
+  },
+  "sentences_removed": 2
+}

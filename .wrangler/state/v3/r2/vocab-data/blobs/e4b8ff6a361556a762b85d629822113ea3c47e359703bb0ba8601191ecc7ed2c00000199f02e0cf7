@@ -1,0 +1,19 @@
+{
+  "lemma": "localize",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": [
+    {
+      "text": "Yet this amount of rain is surprisingly localized.",
+      "source": "1999_88_88年學測英文科",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "使本地化；將某事物調整以符合特定地區或文化的需求。",
+    "en_def": "To adapt or modify something to suit a particular locale or culture.",
+    "example": "The software was localized to support multiple languages."
+  }
+}

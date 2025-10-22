@@ -1,0 +1,34 @@
+{
+  "lemma": "shrink",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are shrinking in number because they make no profits.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/shrink_ex_0_08d035e6.mp3"
+      },
+      {
+        "text": "28 already shrunk by 85% to a mere 0.5 square kilometers, Papua’s glaciers will completely disappear within a decade, researchers have predicted.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/shrink_ex_1_23f95a8f.mp3"
+      },
+      {
+        "text": "According to the analysis, the 22 between India’s southern and northern tips shrinks by 2 cm every year.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/shrink_ex_2_95daa903.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "縮小，變小或減少尺寸、數量或重要性。",
+    "en_def": "To become smaller in size, amount, or importance.",
+    "example": "The sweater will shrink if you wash it in hot water."
+  },
+  "sentences_removed": 0
+}

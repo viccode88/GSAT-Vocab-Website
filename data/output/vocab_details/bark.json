@@ -1,0 +1,60 @@
+{
+  "lemma": "bark",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 6,
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the deer hear a combination of a 3-second- long recording of a deer’s snort and 20 seconds of a barking dog, they panic and flee rapidly.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bark_ex_0_243c7ebe.mp3"
+      },
+      {
+        "text": "It is covered with a beautiful soft, spongy bark.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bark_ex_1_b8b7eaaf.mp3"
+      },
+      {
+        "text": "Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bark_ex_2_a427a0b5.mp3"
+      },
+      {
+        "text": "This bark can be pretty thick, well over two feet in the more mature trees.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bark_ex_3_8892e6d3.mp3"
+      },
+      {
+        "text": "It offers an online test telling you about the brain behind the bark.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bark_ex_4_d5c2db0b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following is a function of the tree bark as mentioned in the passage? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The cruelty of a barking hound.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Future plans include static barking sites where deer are commonly seen, but “the noises will not be blared in areas where people live beside the tracks.” 53.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "樹皮；犬吠聲",
+    "en_def": "The outer covering of a tree; the sound made by a dog.",
+    "example": "The dog began to bark loudly at the stranger."
+  },
+  "sentences_removed": 2
+}

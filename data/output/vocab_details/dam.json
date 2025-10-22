@@ -1,0 +1,23 @@
+{
+  "lemma": "dam",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dam_ex_0_62c7bd90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大壩：用於攔截水流以形成水庫或控制水位的結構。",
+    "en_def": "A dam is a structure built to obstruct the flow of water, creating a reservoir or controlling water levels.",
+    "example": "The dam helped to prevent flooding in the nearby towns."
+  },
+  "sentences_removed": 0
+}

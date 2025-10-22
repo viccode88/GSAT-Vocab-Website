@@ -1,0 +1,33 @@
+{
+  "lemma": "afford",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He cannot afford any recreational activities.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/afford_ex_0_a3f93d4c.mp3"
+      },
+      {
+        "text": "He apologized that he could not afford to pay them 25 rupees as he had 39 , but said he would give them five rupees each week without fail.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/afford_ex_1_e70232cd.mp3"
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/afford_ex_2_be590e4c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "負擔得起，能夠支付或承擔某物的成本或代價。",
+    "en_def": "To have enough money or resources to be able to pay for something.",
+    "example": "I can't afford to buy a new car right now."
+  },
+  "sentences_removed": 0
+}

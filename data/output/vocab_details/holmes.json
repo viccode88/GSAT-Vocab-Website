@@ -1,0 +1,23 @@
+{
+  "lemma": "holmes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of _____ and his knowledge of trivial facts.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/holmes_ex_0_6544d37a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "福爾摩斯，著名的虛構偵探角色，創作於阿瑟·柯南·道爾的小說中。",
+    "en_def": "Holmes is a fictional detective created by Sir Arthur Conan Doyle, known for his keen observation and logical reasoning.",
+    "example": "Sherlock Holmes solved the mystery with his brilliant deduction skills."
+  },
+  "sentences_removed": 0
+}

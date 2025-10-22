@@ -1,0 +1,23 @@
+{
+  "lemma": "papery",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/papery_ex_0_96b146a9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "像紙一樣的；薄而脆的",
+    "en_def": "Having a texture or appearance similar to paper; thin and fragile.",
+    "example": "The leaves of the plant were papery and delicate."
+  },
+  "sentences_removed": 0
+}

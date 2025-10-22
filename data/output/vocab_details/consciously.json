@@ -1,0 +1,23 @@
+{
+  "lemma": "consciously",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We can 30 the spirit going by communicating often and consciously.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/consciously_ex_0_51995378.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有意識地，故意地",
+    "en_def": "In a deliberate and intentional manner, with awareness.",
+    "example": "She consciously chose to eat healthier foods."
+  },
+  "sentences_removed": 0
+}

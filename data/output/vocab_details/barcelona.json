@@ -1,0 +1,23 @@
+{
+  "lemma": "barcelona",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/barcelona_ex_0_4039c111.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巴塞羅那：西班牙加泰羅尼亞地區的首府，以其藝術和建築而聞名。",
+    "en_def": "Barcelona: The capital of Catalonia, Spain, known for its art and architecture.",
+    "example": "I visited Barcelona last summer and was amazed by the stunning architecture of Gaudí."
+  },
+  "sentences_removed": 0
+}

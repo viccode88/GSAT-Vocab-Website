@@ -1,0 +1,23 @@
+{
+  "lemma": "machinery",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Almost everything, from food to machinery, comes by way of the sea in huge ships piloted by captains.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/machinery_ex_0_0725367c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "機械裝置或設備的總稱，通常用於工業或製造過程中。",
+    "en_def": "The collective term for machines or devices, typically used in industrial or manufacturing processes.",
+    "example": "The factory invested in new machinery to increase production efficiency."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "analyze",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Once the questions are finished, the examiner analyzes the results to determine if the person tested 24 truthful.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/analyze_ex_0_04396fd8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分析；對某事物進行詳細檢查以了解其結構或組成。",
+    "en_def": "To examine something in detail in order to understand its structure or components.",
+    "example": "The scientist will analyze the data to draw meaningful conclusions."
+  },
+  "sentences_removed": 0
+}

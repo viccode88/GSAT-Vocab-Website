@@ -1,0 +1,75 @@
+{
+  "lemma": "heavy",
+  "count": 13,
+  "pos_dist": {
+    "ADJ": 12,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The heaviest drinkers in medieval Europe were actually Germans.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/heavy_ex_0_444acecc.mp3"
+      },
+      {
+        "text": "They have heavy and straight tree trunks.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/heavy_ex_1_08669863.mp3"
+      },
+      {
+        "text": "The invention of the steam engine, which was used to power heavy machines, brought about a _____ change in society.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/heavy_ex_2_151e7c57.mp3"
+      },
+      {
+        "text": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/heavy_ex_3_bec3978e.mp3"
+      },
+      {
+        "text": "The bridge collapsed under the weight of the heavy truck.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/heavy_ex_4_bb65de42.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The heavy weight of iron materials.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He was late for the meeting the heavy rain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "All the flights to and from Kaohsiung were _____ because of the heavy thunderstorm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When 33. (A) good (B) serious (C) few (D) heavy 34.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is huge, heavy machines.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "For the five highway deaths, the author blames (A) a large heavy station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "重的，具有較大質量或重量的。",
+    "en_def": "Having a great weight; difficult to lift or move.",
+    "example": "The box was too heavy for me to carry."
+  },
+  "sentences_removed": 2
+}

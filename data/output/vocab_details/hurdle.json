@@ -1,0 +1,23 @@
+{
+  "lemma": "hurdle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hurdle_ex_0_7f624ef0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "障礙，困難；跨越障礙的賽跑項目",
+    "en_def": "A barrier or obstacle that must be overcome; also refers to a race in which competitors jump over such barriers.",
+    "example": "She faced many hurdles on her path to success, but she never gave up."
+  },
+  "sentences_removed": 0
+}

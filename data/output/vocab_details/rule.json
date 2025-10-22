@@ -1,0 +1,75 @@
+{
+  "lemma": "rule",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 9,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rule of thumb, however, is to see a doctor first and get an accurate diagnosis.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/rule_ex_0_f3ef0786.mp3"
+      },
+      {
+        "text": "The left hemisphere deals with rules, lists of information, and short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rule_ex_1_4b25d54b.mp3"
+      },
+      {
+        "text": "But does our society encourage children to break the rules?",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rule_ex_2_08231fb2.mp3"
+      },
+      {
+        "text": "Since the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/rule_ex_3_a5665c69.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "However, I didn’t want to ___(37)__ a disturbance, so I sat down and prepared to obey the rule.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise “makes a lot of sense.” (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They should (A) encourage students to memorize rules.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 24 their status and wealth.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If you mistreat your body by keeping bad habits, 33 symptoms of illness, and ignoring common health rules, even the best medicine can be of little use.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "They establish rules to stay away from enemies.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I said I had never heard of such a rule at a theater before.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "規則；法則；統治",
+    "en_def": "A principle or regulation governing conduct, action, or procedure.",
+    "example": "The teacher explained the rules of the game to the students."
+  },
+  "sentences_removed": 0
+}

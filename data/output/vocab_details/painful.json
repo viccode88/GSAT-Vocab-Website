@@ -1,0 +1,34 @@
+{
+  "lemma": "painful",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to fitness trainers, physically 36 exercises may make you breathe heavily and your muscles may ache temporarily, but exercise should not be painful.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/painful_ex_0_8dc28b2d.mp3"
+      },
+      {
+        "text": "Understanding how pain works in the mind and brain could eventually give doctors tools for helping people cope with painful medical treatments.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/painful_ex_1_ad8c6cd8.mp3"
+      },
+      {
+        "text": "What is the best title for this passage? (A) A Painful Mistake (B)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/painful_ex_2_bd1075d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "疼痛的，令人痛苦的",
+    "en_def": "Causing physical or emotional discomfort or suffering.",
+    "example": "The injury was so painful that he couldn't walk."
+  },
+  "sentences_removed": 1
+}

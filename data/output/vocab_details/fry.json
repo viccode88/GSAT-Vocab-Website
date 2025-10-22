@@ -1,0 +1,39 @@
+{
+  "lemma": "fry",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 3,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One day, an idea 17 Art Fry.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fry_ex_0_775a41bf.mp3"
+      },
+      {
+        "text": "These were thickly cut potatoes, fried until golden brown and crisp on the outside.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fry_ex_1_e8eafc0a.mp3"
+      },
+      {
+        "text": "Selling fried chicken at the night market doesn’t seem to be a decent business, but it is actually quite ______.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/fry_ex_2_8054287e.mp3"
+      },
+      {
+        "text": "The Moon Lake Restaurant’s menu included French-fried potatoes, a popular food recipe brought back from France by Thomas Jefferson.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fry_ex_3_3d0c0eac.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用油或熱的方式烹調食物，使其變得酥脆或熟透。",
+    "en_def": "To cook food in hot oil or fat until it is crisp and cooked through.",
+    "example": "I like to fry eggs for breakfast."
+  },
+  "sentences_removed": 1
+}

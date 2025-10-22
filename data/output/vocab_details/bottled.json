@@ -1,0 +1,43 @@
+{
+  "lemma": "bottled",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Besides these 29 issues, bottled water has other disadvantages.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottled_ex_0_fa52f5e2.mp3"
+      },
+      {
+        "text": "28 the information on storage and shipment is not always readily available to consumers, bottled water may not be a better alternative to tap water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottled_ex_1_67a8a134.mp3"
+      },
+      {
+        "text": "An estimated 2.5 million tons of carbon dioxide were generated in 2006 by the production of plastic for bottled water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottled_ex_2_b09a295e.mp3"
+      },
+      {
+        "text": "In addition, bottled water produces an incredible amount of solid 30 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottled_ex_3_23436ae7.mp3"
+      },
+      {
+        "text": "Bottled water is mostly sold in plastic bottles and that’s why it is potentially health 26 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bottled_ex_4_3f67cc20.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "裝瓶的，指液體被裝入瓶中以便儲存或銷售。",
+    "en_def": "Containing liquid that has been put into a bottle for storage or sale.",
+    "example": "She bought a bottled drink from the store."
+  },
+  "sentences_removed": 1
+}

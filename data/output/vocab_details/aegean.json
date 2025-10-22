@@ -1,0 +1,23 @@
+{
+  "lemma": "aegean",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“Judo helped me a small boat that held 20 people and set sail into the by giving me serenity, discipline, commitment— deep waters of the Aegean Sea.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/aegean_ex_0_cd652a0c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "愛琴海的，與愛琴海有關的",
+    "en_def": "Relating to the Aegean Sea, a part of the Mediterranean Sea located between Greece and Turkey.",
+    "example": "The ancient ruins on the Aegean islands attract many tourists each year."
+  },
+  "sentences_removed": 0
+}

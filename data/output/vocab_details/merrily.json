@@ -1,0 +1,23 @@
+{
+  "lemma": "merrily",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/merrily_ex_0_49f80b0e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "快樂地；愉快地",
+    "en_def": "In a cheerful or joyful manner.",
+    "example": "The children sang merrily as they played in the park."
+  },
+  "sentences_removed": 0
+}

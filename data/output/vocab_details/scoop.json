@@ -1,0 +1,34 @@
+{
+  "lemma": "scoop",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/scoop_ex_0_486bdc79.mp3"
+      },
+      {
+        "text": "The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scoop_ex_1_b0da7f1b.mp3"
+      },
+      {
+        "text": "They could be used to scoop food as well.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scoop_ex_2_cad3e8ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "舀取或挖取的動作或工具，通常用於盛裝食物或其他物質。",
+    "en_def": "A tool or action used to lift or move a substance, often food, from one place to another.",
+    "example": "She used a scoop to serve the ice cream into the bowls."
+  },
+  "sentences_removed": 0
+}

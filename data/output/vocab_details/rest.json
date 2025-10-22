@@ -1,0 +1,90 @@
+{
+  "lemma": "rest",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 11,
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He needs a good rest.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rest_ex_0_057db2c4.mp3"
+      },
+      {
+        "text": "At the request of the hare, a second race is 32 and this time, the hare runs without taking a rest and wins.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/rest_ex_1_062fd6bc.mp3"
+      },
+      {
+        "text": "If he sold the stone, he thought, he 23 enough money for the rest of his life.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/rest_ex_2_88cb1b96.mp3"
+      },
+      {
+        "text": "The rest is cotton, nylon, polyester...you name it.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/rest_ex_3_05b86876.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Since then Australia __(28)__ from the rest of the world by vast oceans.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "18 , the practice spread throughout Europe and the rest of the world.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A second important thing is you never rest on the last victory.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In these places people rest, get plenty of sleep, eat healthy food, drink water instead of wine, and exercise in various ways.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "I am studying so hard for the forthcoming entrance exam that I do not have the of a free weekend to rest.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the peacock receives only scorn from the rest of the world.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Modern flip-flops derive from Japanese zōris, which were often worn with socks dividing the big toe from the rest, and were typically made of rice straw.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is the only one of the whole group that 24 the French Revolution, while the rest were melted down for weapons.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "休息；靜止或暫停活動的狀態。",
+    "en_def": "To cease work or movement in order to relax, refresh oneself, or recover strength.",
+    "example": "After a long day at work, I like to rest on the couch with a good book."
+  },
+  "sentences_removed": 1
+}

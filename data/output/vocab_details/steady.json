@@ -1,0 +1,44 @@
+{
+  "lemma": "steady",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/steady_ex_0_0f55e8a7.mp3"
+      },
+      {
+        "text": "The moral lesson is that slow and steady wins the race.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/steady_ex_1_4f93b724.mp3"
+      },
+      {
+        "text": "The moral lesson is that 33 and consistent will always beat slow and steady.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/steady_ex_2_8b97a26c.mp3"
+      },
+      {
+        "text": "A human body usually has a ________ temperature of about 37 degrees C. (A) steady (B) various (C) gradual (D) precious 8.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/steady_ex_3_d7c24923.mp3"
+      },
+      {
+        "text": "More and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/steady_ex_4_f4c2ee97.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "穩定的，不變的，持續的。",
+    "en_def": "Firmly fixed, supported, or balanced; not shaking or moving.",
+    "example": "She held the camera steady to take a clear picture."
+  },
+  "sentences_removed": 0
+}

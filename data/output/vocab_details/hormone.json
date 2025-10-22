@@ -1,0 +1,23 @@
+{
+  "lemma": "hormone",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/hormone_ex_0_ed99dbae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "激素：由內分泌腺分泌的化學物質，通過血液傳遞到身體的其他部位，調節生理過程。",
+    "en_def": "A hormone is a chemical substance produced in the body that regulates various physiological processes by being transported in the bloodstream.",
+    "example": "The hormone insulin helps control blood sugar levels."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "note",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 9,
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He then coated the glue on a paper sample and found that it was not only a good bookmark, but it was great for writing notes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/note_ex_0_6e2da72d.mp3"
+      },
+      {
+        "text": "He enclosed thank- you notes in the cookies and served them to his guests with tea.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/note_ex_1_ced2705b.mp3"
+      },
+      {
+        "text": "According to the legend, notes of 33 plans for a revolution to overthrow the Mongols were hidden in mooncakes that would ordinarily have been stuffed with sweet bean paste.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/note_ex_2_3f3bb42b.mp3"
+      },
+      {
+        "text": "As is often observed, most of us tend to associate lower notes with darker colors and higher notes with brighter colors.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/note_ex_3_6dd40ff9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This north-south preference has also been noted in flies, termites and honeybees.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Out of and consideration, I always write a thank-you note when someone sends me a gift.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Peter likes books with wide _____, which provide him with enough space to write notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some documents noted that Russians “indulge in excessive drinking whenever the occasion arises,” while others claimed that Russians “rarely drink wine.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The glass hemispheres were color coded with paint to identify the notes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "During the lunch hour, Jane her notes so she would remember them for the test.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Note, however, that rarity has little to do with the 22 of a coin.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "He returned the tickets, enclosing a note, which said, “I shall be busy that evening.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種書寫的記錄，用於提醒或記錄信息。",
+    "en_def": "A written record used to remind or document information.",
+    "example": "Please take note of the meeting time."
+  },
+  "sentences_removed": 1
+}

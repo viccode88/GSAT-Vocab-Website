@@ -1,0 +1,23 @@
+{
+  "lemma": "kinshasa",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced In 2015 when she was just a 17-year-old, her children in the capital, Kinshasa.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/kinshasa_ex_0_48b16ba7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "剛果民主共和國的首都，位於剛果河的南岸。",
+    "en_def": "The capital city of the Democratic Republic of the Congo, located on the southern bank of the Congo River.",
+    "example": "Kinshasa is known for its vibrant music scene and rich cultural heritage."
+  },
+  "sentences_removed": 0
+}

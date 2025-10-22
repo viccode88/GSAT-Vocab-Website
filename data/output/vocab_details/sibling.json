@@ -1,0 +1,23 @@
+{
+  "lemma": "sibling",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Later children may make good salespersons because persuasion may have been the only tool they had to deal with older siblings.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sibling_ex_0_9e7c0fcc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "兄弟姐妹，指同一父母所生的孩子。",
+    "en_def": "A sibling is a person who shares at least one parent with another person.",
+    "example": "I have two siblings, a brother and a sister."
+  },
+  "sentences_removed": 0
+}

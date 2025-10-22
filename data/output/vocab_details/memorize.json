@@ -1,0 +1,33 @@
+{
+  "lemma": "memorize",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Left-brained learners usually concentrate on memorizing les and lists.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/memorize_ex_0_33d6422f.mp3"
+      },
+      {
+        "text": "It is a tune memorized in a personal way.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/memorize_ex_1_ddc295e8.mp3"
+      },
+      {
+        "text": "They should (A) encourage students to memorize rules.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/memorize_ex_2_93b1b61f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "記住或學會某事，以便在未來能夠回憶起來。",
+    "en_def": "To commit something to memory for future recall.",
+    "example": "I need to memorize my speech for the presentation."
+  },
+  "sentences_removed": 0
+}

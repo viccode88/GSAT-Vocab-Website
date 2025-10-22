@@ -1,0 +1,23 @@
+{
+  "lemma": "nervously",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They sat down, rather nervously, and I explained that all I wanted was for them to count from one to twenty.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nervously_ex_0_534ec278.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "緊張地，焦慮地",
+    "en_def": "In a manner that shows anxiety or apprehension.",
+    "example": "She spoke nervously during her presentation."
+  },
+  "sentences_removed": 0
+}

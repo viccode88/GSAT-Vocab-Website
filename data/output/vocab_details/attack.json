@@ -1,0 +1,70 @@
+{
+  "lemma": "attack",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 7,
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Conversely, worry can give a person an ulcer, high blood pressure, or even a heart attack.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/attack_ex_0_8d68ab39.mp3"
+      },
+      {
+        "text": "Others have pulled people in front of moving trains or saved them from attacks by wild animals.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attack_ex_1_78f41705.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A woman's heart attack caused the death of five people.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They appear to be attracted to electromagnetic fields and attack electrical insulation or wire connections.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They attacked a man with the smell of new clothing.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“Jack saved me from a heart attack,” he wrote.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Peanuts’ beloved grandfather has suffered a heart attack.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the news recently was the story of a woman who died of a heart attack while driving her station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They defend themselves by attacking others.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "攻擊；襲擊",
+    "en_def": "To take aggressive action against someone or something.",
+    "example": "The army planned to attack the enemy's base at dawn."
+  },
+  "sentences_removed": 0
+}

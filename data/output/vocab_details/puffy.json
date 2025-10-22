@@ -1,0 +1,23 @@
+{
+  "lemma": "puffy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/puffy_ex_0_bd32af92.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蓬鬆的；膨脹的",
+    "en_def": "Swollen or inflated; soft and rounded in shape.",
+    "example": "The puffy clouds floated lazily across the sky."
+  },
+  "sentences_removed": 0
+}

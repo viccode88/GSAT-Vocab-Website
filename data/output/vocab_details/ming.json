@@ -1,0 +1,28 @@
+{
+  "lemma": "ming",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Wang Chien-ming, the Yankees’ best pitcher last year, already showed his great _____ for baseball when he was still a teenager.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/ming_ex_0_c89d4d79.mp3"
+      },
+      {
+        "text": "The revolution turned out to be 34 and eventually led to the formation of the Ming Dynasty.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ming_ex_1_53b4fb4f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "明亮的，清晰的，或顯而易見的。",
+    "en_def": "Bright, clear, or obvious.",
+    "example": "The stars were so ming that they lit up the entire sky."
+  },
+  "sentences_removed": 0
+}

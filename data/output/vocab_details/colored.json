@@ -1,0 +1,17 @@
+{
+  "lemma": "colored",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有顏色的，或是被染色的。",
+    "en_def": "Having a color or colors; not monochrome.",
+    "example": "She wore a beautiful colored dress to the party."
+  },
+  "sentences_removed": 1
+}

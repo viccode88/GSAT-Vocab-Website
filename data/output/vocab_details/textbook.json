@@ -1,0 +1,28 @@
+{
+  "lemma": "textbook",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This textbook is __________ more difficult to read than the other one.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/textbook_ex_0_74cec38b.mp3"
+      },
+      {
+        "text": "At the Book Fair, exhibitors from 21 countries will _______ textbooks, novels, and comic books.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/textbook_ex_1_590f2e96.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "教科書，通常用於學校或教育機構中，提供特定學科的知識和資料。",
+    "en_def": "A book used as a standard source of information on a particular subject, typically for educational purposes.",
+    "example": "I bought a new textbook for my biology class."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "obtain",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He must obtain a landing-visa at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/obtain_ex_0_4c5c29fd.mp3"
+      },
+      {
+        "text": "When an American lady wants to enter Taiwan for a one-week sight-seeing trip, one of the requirements is (A) to obtain a landing-visa at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/obtain_ex_1_7d89b8bc.mp3"
+      },
+      {
+        "text": "He should obtain a visa for entry into the Republic of China before getting on board the flight to Taiwan (B)",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/obtain_ex_2_089c9af4.mp3"
+      },
+      {
+        "text": "And my lengthy absence meant that I was able to obtain as natural a piece of conversation as it would be possible to find.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/obtain_ex_3_4ed833c8.mp3"
+      },
+      {
+        "text": "The sooner the test is conducted after the consumption of these drinks, the more likely a positive alcohol reading will be obtained. 49.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/obtain_ex_4_07d79af6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "獲得，取得",
+    "en_def": "To get or acquire something.",
+    "example": "She managed to obtain a scholarship for her studies."
+  },
+  "sentences_removed": 1
+}

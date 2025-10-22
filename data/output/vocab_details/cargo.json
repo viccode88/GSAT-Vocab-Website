@@ -1,0 +1,28 @@
+{
+  "lemma": "cargo",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There would be a real chance of running aground and damaging the ship and the cargo, some of which might be dangerous if released into a water-based ecosystem.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cargo_ex_0_3619245a.mp3"
+      },
+      {
+        "text": "The content of the cargo.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cargo_ex_1_d9606792.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "貨物；運輸的商品或貨物",
+    "en_def": "Goods carried on a ship, aircraft, or motor vehicle.",
+    "example": "The cargo was loaded onto the ship before it set sail."
+  },
+  "sentences_removed": 0
+}

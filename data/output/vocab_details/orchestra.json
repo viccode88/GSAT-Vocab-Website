@@ -1,0 +1,28 @@
+{
+  "lemma": "orchestra",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Legend tells us he finally called the guitar a miniature orchestra.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/orchestra_ex_0_b8ae344f.mp3"
+      },
+      {
+        "text": "Indeed the guitar does sound like a little orchestra!",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/orchestra_ex_1_1a5f533a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "管弦樂團，一組演奏各種樂器的音樂家，通常包括弦樂器、木管樂器、銅管樂器和打擊樂器。",
+    "en_def": "A large group of musicians who play together on various instruments, typically including strings, woodwinds, brass, and percussion.",
+    "example": "The orchestra performed a beautiful symphony at the concert hall."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "nausea",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Soon, it can lead to dizziness, nausea, and vomiting.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/nausea_ex_0_0a848f0a.mp3"
+      },
+      {
+        "text": "Moreover, the effect is often 20 space motion sickness, headaches, and nausea.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/nausea_ex_1_d87e2bb3.mp3"
+      },
+      {
+        "text": "You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/nausea_ex_2_fdac31d7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "噁心，通常指想嘔吐的感覺。",
+    "en_def": "A feeling of sickness with an inclination to vomit.",
+    "example": "After the roller coaster ride, I felt a wave of nausea."
+  },
+  "sentences_removed": 0
+}

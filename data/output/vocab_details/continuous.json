@@ -1,0 +1,29 @@
+{
+  "lemma": "continuous",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/continuous_ex_0_a3cc836b.mp3"
+      },
+      {
+        "text": "Continuous as the stars that shine And twinkle on the Milky Way, They stretched in never-ending line Along the margin of a bay:",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/continuous_ex_1_e56bf8b9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "持續的，沒有中斷的",
+    "en_def": "Forming an unbroken whole; without interruption.",
+    "example": "The continuous sound of the waves was soothing."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "sixteenth",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sixteenth_ex_0_bf84cbb9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第十六的，表示順序中的第十六個。",
+    "en_def": "The ordinal number corresponding to the number sixteen.",
+    "example": "She finished in sixteenth place in the race."
+  },
+  "sentences_removed": 0
+}

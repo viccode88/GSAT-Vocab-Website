@@ -1,0 +1,44 @@
+{
+  "lemma": "score",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "John's poor math score must have him a lot, because he is not attending the class any more.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/score_ex_0_d1d62432.mp3"
+      },
+      {
+        "text": "the reputation of a college or the test scores it requires.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/score_ex_1_bf06504b.mp3"
+      },
+      {
+        "text": "A dog’s intelligence can be ranked based on the score of a Dognition’s test.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/score_ex_2_0752f715.mp3"
+      },
+      {
+        "text": "She often scores A in sentence-combining tests.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/score_ex_3_7cb2d4c7.mp3"
+      },
+      {
+        "text": "its reputation or the test scores it requires for admission?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/score_ex_4_0567765c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分數；得分；評分",
+    "en_def": "A numerical expression representing the result of a test, game, or evaluation.",
+    "example": "She scored the highest in the math exam."
+  },
+  "sentences_removed": 0
+}

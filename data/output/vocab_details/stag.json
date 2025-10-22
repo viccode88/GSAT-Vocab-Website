@@ -1,0 +1,23 @@
+{
+  "lemma": "stag",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Blixen’s words, “their weapons and finery are as much a part of their being as are a stag’s antlers” (a male deer’s horns).",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/stag_ex_0_fa32ae5d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雄鹿，特指成年雄性鹿，通常具有分叉的角。",
+    "en_def": "A male deer, especially an adult one, typically characterized by antlers.",
+    "example": "The stag wandered gracefully through the forest."
+  },
+  "sentences_removed": 0
+}

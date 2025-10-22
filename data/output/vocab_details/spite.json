@@ -1,0 +1,17 @@
+{
+  "lemma": "spite",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "惡意；出於報復或嫉妒的行為",
+    "en_def": "A desire to hurt, annoy, or offend someone; malice.",
+    "example": "She refused to help him out of spite."
+  },
+  "sentences_removed": 1
+}

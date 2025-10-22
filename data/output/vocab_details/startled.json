@@ -1,0 +1,23 @@
+{
+  "lemma": "startled",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The visitors would be even more startled if they were fully aware of all the existing similarities between them and these animals.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/startled_ex_0_69d9ddf6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "驚訝的；受到驚嚇的",
+    "en_def": "Suddenly shocked or surprised.",
+    "example": "She was startled by the loud noise outside."
+  },
+  "sentences_removed": 0
+}

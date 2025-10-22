@@ -1,0 +1,50 @@
+{
+  "lemma": "wire",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 5,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In front of each easy chair there was a microphone at head height, with wires leading to a tape-recorder in the middle of the floor.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wire_ex_0_72d3ef98.mp3"
+      },
+      {
+        "text": "He is an editor of Fashion Wire Daily.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/wire_ex_1_1bc08e8d.mp3"
+      },
+      {
+        "text": "When a person takes a polygraph test, four to six wires, called sensors, are 22 to different parts of his body.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/wire_ex_2_a77fdc3d.mp3"
+      },
+      {
+        "text": "Later, as steel wire became more common, inventors began to notice its elastic feature.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/wire_ex_3_8ba81798.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Anything but fur and leather,” he told Fashion Wire Daily.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "They appear to be attracted to electromagnetic fields and attack electrical insulation or wire connections.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "金屬線或導線，通常用於傳導電流或連接物體。",
+    "en_def": "A thin, flexible strand or rod of metal used to conduct electricity or connect objects.",
+    "example": "She used a wire to fix the broken fence."
+  },
+  "sentences_removed": 1
+}

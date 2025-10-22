@@ -1,0 +1,28 @@
+{
+  "lemma": "devastating",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, after the devastating fire that damaged the cathedral in 2019, the bells fell 29 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/devastating_ex_0_7776ebbe.mp3"
+      },
+      {
+        "text": "Sasaki opened his wind phone to the public in 2011, after the devastating tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/devastating_ex_1_0b7fab97.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "造成毀滅性影響的；極具破壞性的",
+    "en_def": "Causing severe and overwhelming shock or grief; destructive.",
+    "example": "The hurricane had a devastating impact on the coastal community."
+  },
+  "sentences_removed": 0
+}

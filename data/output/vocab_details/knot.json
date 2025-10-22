@@ -1,0 +1,28 @@
+{
+  "lemma": "knot",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Near the “black ditch” of Penghu, battered by winds of up to 70 knots, the rear sail was torn into shreds.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/knot_ex_0_d1accfcc.mp3"
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/knot_ex_1_7f6ec1a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "結，通常用於將兩根繩子或其他材料連接在一起的技術或形狀。",
+    "en_def": "A fastening made by tying a piece of string, rope, or something similar.",
+    "example": "He tied a knot to secure the two pieces of rope together."
+  },
+  "sentences_removed": 0
+}

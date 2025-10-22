@@ -1,0 +1,28 @@
+{
+  "lemma": "shock",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The electrical shock burned almost half of his body and melted layers of his skin off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/shock_ex_0_c0a81c27.mp3"
+      },
+      {
+        "text": "Over his 36-year career, Sullivan was struck by lightning seven times—and 22 each shock!",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/shock_ex_1_e0ec4902.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "震驚；衝擊；驚嚇",
+    "en_def": "A sudden, intense disturbance or impact that causes surprise or emotional upheaval.",
+    "example": "The news of the accident came as a shock to everyone."
+  },
+  "sentences_removed": 1
+}

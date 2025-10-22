@@ -1,0 +1,28 @@
+{
+  "lemma": "jewel",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/jewel_ex_0_5f23402c.mp3"
+      },
+      {
+        "text": "It typically comes in a very wide variety, from fairly plain to quite elaborate silver- and jewel-ornamented designs.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/jewel_ex_1_bbbf82a6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "珠寶，通常指貴重的石頭或金屬，常用於裝飾或作為收藏品。",
+    "en_def": "A precious stone or a piece of jewelry, often used for decoration or as a collectible.",
+    "example": "She wore a beautiful jewel around her neck."
+  },
+  "sentences_removed": 1
+}

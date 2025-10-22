@@ -1,0 +1,23 @@
+{
+  "lemma": "inclination",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is contradictory information about Russians’ inclination toward alcohol in the 15th and 16th centuries.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/inclination_ex_0_b6c1348c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "傾向；意向；愛好",
+    "en_def": "A tendency or preference towards a particular idea, action, or behavior.",
+    "example": "She has an inclination to help others in need."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "steinbeck",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, John Steinbeck is (27) to have been an excellent listener, yet he was hated by some of the people he wrote about.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/steinbeck_ex_0_29c89806.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "史坦貝克（John Steinbeck）是美國著名的小說家，以其對社會問題的深刻洞察和對普通人生活的描寫而聞名。",
+    "en_def": "John Steinbeck was an American novelist known for his profound insights into social issues and his portrayal of the lives of ordinary people.",
+    "example": "John Steinbeck wrote 'The Grapes of Wrath,' which highlights the struggles of migrant workers during the Great Depression."
+  },
+  "sentences_removed": 0
+}

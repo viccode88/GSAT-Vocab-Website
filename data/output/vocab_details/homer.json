@@ -1,0 +1,49 @@
+{
+  "lemma": "homer",
+  "count": 8,
+  "pos_dist": {
+    "PROPN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/homer_ex_0_ad4c879a.mp3"
+      },
+      {
+        "text": "A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/homer_ex_1_cdc06031.mp3"
+      },
+      {
+        "text": "Which of the following is true about Homer’s career?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/homer_ex_2_7b7c12cb.mp3"
+      },
+      {
+        "text": "Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/homer_ex_3_cd63efcf.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Homer moved to England and, after a two-year stay, returned to America.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following best characterizes Homer’s art? (A)",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "古希臘詩人，著作包括《伊利亞特》和《奧德賽》。",
+    "en_def": "An ancient Greek poet traditionally said to be the author of the epic poems 'Iliad' and 'Odyssey'.",
+    "example": "Homer's works have had a profound influence on Western literature."
+  },
+  "sentences_removed": 2
+}

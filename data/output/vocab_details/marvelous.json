@@ -1,0 +1,28 @@
+{
+  "lemma": "marvelous",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "how the ancient Egyptians created such marvelous feats of engineering as the pyramids? (A) concluded (B) wondered (C) admitted (D) persuaded 5.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/marvelous_ex_0_20c456de.mp3"
+      },
+      {
+        "text": "So, alas, Franklin’s marvelous invention was ultimately abandoned.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/marvelous_ex_1_eb20bc48.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人驚嘆的；極好的",
+    "en_def": "Causing great wonder; extraordinary.",
+    "example": "The view from the mountain was simply marvelous."
+  },
+  "sentences_removed": 0
+}

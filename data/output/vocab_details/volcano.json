@@ -1,0 +1,28 @@
+{
+  "lemma": "volcano",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This extinct volcano is considered the wettest spot on earth, with almost 500 inches of rainfall each year.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/volcano_ex_0_d5aafbb5.mp3"
+      },
+      {
+        "text": "The town sits on the side of a volcano nearly 10,000 feet above sea level, making daily life a kind of high-altitude training.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/volcano_ex_1_f0e8256e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "火山是一種地質結構，當岩漿從地球內部噴發到地表時形成。",
+    "en_def": "A volcano is a geological structure that forms when magma erupts from the Earth's interior to the surface.",
+    "example": "The volcano erupted, sending ash and lava into the sky."
+  },
+  "sentences_removed": 0
+}

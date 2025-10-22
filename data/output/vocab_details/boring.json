@@ -1,0 +1,17 @@
+{
+  "lemma": "boring",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無聊的；乏味的",
+    "en_def": "Not interesting; dull.",
+    "example": "The lecture was so boring that many students fell asleep."
+  },
+  "sentences_removed": 1
+}

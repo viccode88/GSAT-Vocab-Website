@@ -1,0 +1,28 @@
+{
+  "lemma": "script",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/script_ex_0_62da6c1b.mp3"
+      },
+      {
+        "text": "For example, some radio scripts had to be rushed by taxi to Jack’s house because they were needed for broadcasting the next day.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/script_ex_1_c98bc4bc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種書面文本，通常用於電影、戲劇或廣播的對話和指示。",
+    "en_def": "A written text, typically used for dialogue and instructions in films, plays, or broadcasts.",
+    "example": "The actor memorized the script before the performance."
+  },
+  "sentences_removed": 0
+}

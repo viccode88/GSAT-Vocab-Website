@@ -1,0 +1,43 @@
+{
+  "lemma": "lucky",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These seagoing mammals are among the lucky survivors of a whale-stranding last December at Cape Cod.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lucky_ex_0_c66b6b2f.mp3"
+      },
+      {
+        "text": "In contrast, the peacock is not 22 seen as lucky.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/lucky_ex_1_47ebbaab.mp3"
+      },
+      {
+        "text": "In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to 23 evil.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/lucky_ex_2_a25ba773.mp3"
+      },
+      {
+        "text": "A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/lucky_ex_3_2a2d4c2a.mp3"
+      },
+      {
+        "text": "However, even these people may look at the calendar to pick a lucky day when they make their choice.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/lucky_ex_4_96b5960e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幸運的，帶來好運的。",
+    "en_def": "Having good fortune or favorable circumstances.",
+    "example": "She felt lucky to have such supportive friends."
+  },
+  "sentences_removed": 0
+}

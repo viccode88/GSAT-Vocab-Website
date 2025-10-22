@@ -1,0 +1,17 @@
+{
+  "lemma": "savannah",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "草原，特指熱帶或亞熱帶地區的開放草地，通常有散生樹木。",
+    "en_def": "A grassy plain in tropical and subtropical regions, with few trees.",
+    "example": "The savannah is home to many unique species of wildlife."
+  },
+  "sentences_removed": 1
+}

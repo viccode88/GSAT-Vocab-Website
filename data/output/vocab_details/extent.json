@@ -1,0 +1,28 @@
+{
+  "lemma": "extent",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To the extent of 23.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/extent_ex_0_3e14ace0.mp3"
+      },
+      {
+        "text": "Do you have a finer one? (A) content (B) display (C) extent (D) texture 11.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/extent_ex_1_aad561a4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "範圍；程度",
+    "en_def": "The degree to which something extends; the range or scope of something.",
+    "example": "The extent of the damage was greater than we initially thought."
+  },
+  "sentences_removed": 0
+}

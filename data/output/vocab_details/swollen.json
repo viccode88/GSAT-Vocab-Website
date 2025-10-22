@@ -1,0 +1,23 @@
+{
+  "lemma": "swollen",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Usually a stye is accompanied by a swollen eye.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/swollen_ex_0_31b2d141.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "腫脹的，通常指因液體積聚或炎症而變大的身體部位。",
+    "en_def": "Enlarged or puffed up, typically due to fluid accumulation or inflammation.",
+    "example": "Her ankle was swollen after she twisted it during the game."
+  },
+  "sentences_removed": 0
+}

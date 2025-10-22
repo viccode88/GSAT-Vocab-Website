@@ -1,0 +1,23 @@
+{
+  "lemma": "canutt",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Tom Mix and Yakima Canutt were among the most famous.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/canutt_ex_0_eb99ad43.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種特定的運動或活動，通常涉及快速移動或競賽。",
+    "en_def": "A specific type of movement or activity, often involving speed or competition.",
+    "example": "The athlete performed a canutt during the race to gain an advantage."
+  },
+  "sentences_removed": 0
+}

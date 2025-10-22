@@ -1,0 +1,38 @@
+{
+  "lemma": "smooth",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The design was intended to look as shiny and smooth as velvet.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/smooth_ex_0_e884e6cd.mp3"
+      },
+      {
+        "text": "search strategies to link their food source to their Normally, the birds enjoy a smooth flight together nests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/smooth_ex_1_6ec303ab.mp3"
+      },
+      {
+        "text": "The men took out an axe and an electric saw and started cutting into the tree’s silky smooth skin.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/smooth_ex_2_f9e9d875.mp3"
+      },
+      {
+        "text": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/smooth_ex_3_10c9d4fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "光滑的，平滑的，無瑕疵的。",
+    "en_def": "Having a surface free from roughness or irregularities; even and continuous.",
+    "example": "The surface of the table is smooth and polished."
+  },
+  "sentences_removed": 0
+}

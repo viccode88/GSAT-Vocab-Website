@@ -1,0 +1,17 @@
+{
+  "lemma": "humor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幽默，指能引起笑聲或愉快情緒的特質或表現。",
+    "en_def": "A quality that makes something funny or entertaining; the ability to perceive and express the humorous aspects of life.",
+    "example": "His sense of humor always lightens the mood in the room."
+  },
+  "sentences_removed": 1
+}

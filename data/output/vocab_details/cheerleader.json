@@ -1,0 +1,23 @@
+{
+  "lemma": "cheerleader",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, football fans seem to love the half-time activities, the marching bands, and the pretty cheerleaders.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/cheerleader_ex_0_ed2765c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拉拉隊員，通常在體育賽事中為隊伍加油助威的人。",
+    "en_def": "A person or group that leads cheers and encourages spectators at sporting events.",
+    "example": "The cheerleader led the crowd in a chant to support the team."
+  },
+  "sentences_removed": 0
+}

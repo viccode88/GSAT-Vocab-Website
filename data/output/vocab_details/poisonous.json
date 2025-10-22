@@ -1,0 +1,23 @@
+{
+  "lemma": "poisonous",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/poisonous_ex_0_cc81720a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有毒的，能引起傷害或死亡的物質。",
+    "en_def": "Containing poison; capable of causing harm or death.",
+    "example": "The plant is known to be poisonous if ingested."
+  },
+  "sentences_removed": 0
+}

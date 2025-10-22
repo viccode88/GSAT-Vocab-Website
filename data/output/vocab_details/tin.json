@@ -1,0 +1,23 @@
+{
+  "lemma": "tin",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By the early 19th century, four-tined forks had also been developed in Germany and England and slowly began to spread to America.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tin_ex_0_6a1faa73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "錫，一種金屬元素，符號為Sn，常用於製造合金和包裝材料。",
+    "en_def": "Tin, a metallic element with the symbol Sn, commonly used in alloys and packaging materials.",
+    "example": "The can is made of tin to prevent rusting."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "snore",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The room’s thin plastic walls easily transmit the sound of snoring made by neighboring guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/snore_ex_0_6cc07ad0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "打鼾，指在睡眠中發出的粗重呼吸聲。",
+    "en_def": "To breathe noisily during sleep, typically due to obstruction of the air passages.",
+    "example": "He tends to snore loudly, which keeps everyone awake at night."
+  },
+  "sentences_removed": 0
+}

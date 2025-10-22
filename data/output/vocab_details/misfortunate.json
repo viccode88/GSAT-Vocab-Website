@@ -1,0 +1,23 @@
+{
+  "lemma": "misfortunate",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Whitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/misfortunate_ex_0_f09034c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不幸的，遭遇不幸的。",
+    "en_def": "Unlucky or having bad fortune.",
+    "example": "He had a misfortunate accident while hiking in the mountains."
+  },
+  "sentences_removed": 0
+}

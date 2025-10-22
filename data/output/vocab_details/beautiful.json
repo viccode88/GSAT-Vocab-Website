@@ -1,0 +1,109 @@
+{
+  "lemma": "beautiful",
+  "count": 21,
+  "pos_dist": {
+    "ADJ": 21
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As beautiful as they are, people here chop down capirana trees for their wood.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/beautiful_ex_0_6abd77d1.mp3"
+      },
+      {
+        "text": "Anderson’s beautiful voice was first recognized __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/beautiful_ex_1_a7bbefb6.mp3"
+      },
+      {
+        "text": "A few hotels are still being rebuilt, but Kauai remains as beautiful as ever.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/beautiful_ex_2_b4785818.mp3"
+      },
+      {
+        "text": "Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/beautiful_ex_3_50860686.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This particular bell, ringing in F sharp, is considered one of the most harmonically beautiful in Europe.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It makes redwood trees more beautiful and appealing.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When you arrive for pick-up, your dog will be well-exercised and beautiful.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "It contains many historically significant and beautiful wooden structures, 19 windmills, boathouses, chapels, fish houses, and homes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And how good a magic sword would feel in our hand as we go off to kill a dragon or win the hand of a beautiful princess.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is covered with a beautiful soft, spongy bark.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park? (A) The scenery along the road is too beautiful for visitors to drive carefully.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How are you enjoying our beautiful city?",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What was Bam most famous for? (A) Beautiful palm trees.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "This beautiful phenomenon is called crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "美麗的；引人注目的",
+    "en_def": "Pleasing the senses or mind aesthetically.",
+    "example": "The sunset over the ocean was truly beautiful."
+  },
+  "sentences_removed": 3
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "widespread",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The belief that rapid speech and lying go together is also widespread and enduring.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/widespread_ex_0_1c5f193c.mp3"
+      },
+      {
+        "text": "While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/widespread_ex_1_53575902.mp3"
+      },
+      {
+        "text": "According to the passage, breaking into computer codes of banks, large companies, and government departments is (A) a widespread criminal practice.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/widespread_ex_2_1b56f3ae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "廣泛的，普遍的，指在許多地方或許多人中存在或發生的。",
+    "en_def": "Existing or happening in many places or among many people.",
+    "example": "The use of smartphones has become widespread in recent years."
+  },
+  "sentences_removed": 0
+}

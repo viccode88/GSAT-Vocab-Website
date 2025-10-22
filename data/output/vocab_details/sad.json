@@ -1,0 +1,43 @@
+{
+  "lemma": "sad",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Anything from getting a bad grade on a test to losing an important game can make you feel sad.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sad_ex_0_29bbdc22.mp3"
+      },
+      {
+        "text": "The disciple felt sad to hear this, but he agreed to do as he was told.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sad_ex_1_5d5bddab.mp3"
+      },
+      {
+        "text": "The woman is so that she cries every time she hears a sad story.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sad_ex_2_b2ab8bc7.mp3"
+      },
+      {
+        "text": "Peanuts is sad over the possibility of losing his grandfather.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/sad_ex_3_3650e570.mp3"
+      },
+      {
+        "text": "Often they write about real or make-believe people, places, or events that may be funny, sad, or scary.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sad_ex_4_9087ed26.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到不快樂或沮喪的情緒狀態。",
+    "en_def": "Feeling or showing sorrow; unhappy.",
+    "example": "She felt sad when she heard the news."
+  },
+  "sentences_removed": 0
+}

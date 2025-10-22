@@ -1,0 +1,17 @@
+{
+  "lemma": "iguana",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種大型的草食性蜥蜴，通常生活在熱帶地區，特別是在中美洲和南美洲。",
+    "en_def": "A large herbivorous lizard native to tropical areas, particularly in Central and South America.",
+    "example": "The iguana basked in the sun on a rock."
+  },
+  "sentences_removed": 1
+}

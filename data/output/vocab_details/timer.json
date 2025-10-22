@@ -1,0 +1,23 @@
+{
+  "lemma": "timer",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A giant egg-timer will be set up in the Place de la Concorde and its sand will begin running after a solar eclipse scheduled on April 11, 1999.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/timer_ex_0_4c0f9919.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "計時器，一種用於計量時間的裝置或工具。",
+    "en_def": "A device or tool used to measure time intervals.",
+    "example": "I set a timer for 20 minutes to bake the cake."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "carpenters",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was in response to this situation that The Carpenters’ Shop was opened in the town of Walsall, Staffordshire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/carpenters_ex_0_b13e8a6e.mp3"
+      },
+      {
+        "text": "The purpose of setting up The Carpenters’ Shop was .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/carpenters_ex_1_ad4786c5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "木匠，專門從事木材加工和建造的工人。",
+    "en_def": "Workers who build and repair wooden structures and furniture.",
+    "example": "The carpenters worked diligently to finish the new wooden deck."
+  },
+  "sentences_removed": 0
+}

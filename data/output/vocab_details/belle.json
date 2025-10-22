@@ -1,0 +1,23 @@
+{
+  "lemma": "belle",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Belle was the person (D) … he will fail the exam.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/belle_ex_0_df886be4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美麗的女性；美女。",
+    "en_def": "A beautiful woman or girl.",
+    "example": "She was known as the belle of the ball, captivating everyone with her charm."
+  },
+  "sentences_removed": 0
+}

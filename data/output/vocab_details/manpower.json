@@ -1,0 +1,28 @@
+{
+  "lemma": "manpower",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They were behind schedule and had to apply for manpower to complete their project in time.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/manpower_ex_0_33b74dee.mp3"
+      },
+      {
+        "text": "Since we are short of manpower in the factory, it is very ______",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/manpower_ex_1_252126eb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "人力，指可用於工作或生產的勞動力。",
+    "en_def": "The workforce or labor available for a particular task or project.",
+    "example": "The company needs more manpower to complete the project on time."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "lace",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite. 41.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/lace_ex_0_f87aa199.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蕾絲是一種精緻的織物，通常由絲、棉或合成纖維製成，具有開放的花紋。",
+    "en_def": "Lace is a delicate fabric made of threads, typically featuring intricate patterns and often used for decoration.",
+    "example": "She wore a beautiful dress with lace sleeves."
+  },
+  "sentences_removed": 0
+}

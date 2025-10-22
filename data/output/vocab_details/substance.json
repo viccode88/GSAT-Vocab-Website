@@ -1,0 +1,64 @@
+{
+  "lemma": "substance",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Processing the plastic can lead to the release of harmful chemical substances into the water contained in the bottles.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/substance_ex_0_ea530f6a.mp3"
+      },
+      {
+        "text": "After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/substance_ex_1_6fed6d52.mp3"
+      },
+      {
+        "text": "In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/substance_ex_2_cc81720a.mp3"
+      },
+      {
+        "text": "The soybean is free of cholesterol, and more importantly, the soy oil contains some special substances, called Omega 3 fatty acids, which reduce cholesterol and prevent blood from clotting in human body.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/substance_ex_3_2fdd3cc1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Making matters worse, the artificial butter substitute that generally 34 with microwavable popcorn contains a common food-flavoring substance.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This substance, according to health scientists, is 35 for some serious lung diseases.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Research by the U.S. government now reports that microwave popcorn may contain substances that can cause health 32 .",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "物質；實體，指具有質量和佔據空間的任何東西。",
+    "en_def": "A particular kind of matter with uniform properties.",
+    "example": "Water is a substance that is essential for life."
+  },
+  "sentences_removed": 0
+}

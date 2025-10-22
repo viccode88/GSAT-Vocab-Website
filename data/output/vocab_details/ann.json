@@ -1,0 +1,23 @@
+{
+  "lemma": "ann",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ann enjoyed going to the flower market.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/ann_ex_0_8a795cd2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於表示年齡、時間或數量的單位，通常指一年。",
+    "en_def": "A unit of time equal to one year, often used to indicate age, duration, or quantity.",
+    "example": "She will turn 18 in just a few months, marking her first full ann."
+  },
+  "sentences_removed": 0
+}

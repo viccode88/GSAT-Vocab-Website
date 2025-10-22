@@ -1,0 +1,29 @@
+{
+  "lemma": "advertise",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is closest in meaning to “ ” in the second paragraph? (A) advertises (B) dedicates (C) replaces (D) participates 51.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/advertise_ex_0_1d99ec86.mp3"
+      },
+      {
+        "text": "These meat substitutes are often advertised as beneficial for the environment.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/advertise_ex_1_52bbb02f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "宣傳；廣告",
+    "en_def": "To promote a product, service, or event through various media to attract public attention.",
+    "example": "The company decided to advertise their new smartphone on social media."
+  },
+  "sentences_removed": 0
+}

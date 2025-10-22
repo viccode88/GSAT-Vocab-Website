@@ -1,0 +1,23 @@
+{
+  "lemma": "blare",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Future plans include static barking sites where deer are commonly seen, but “the noises will not be blared in areas where people live beside the tracks.” 53.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/blare_ex_0_45f1ea57.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發出刺耳的聲音或強烈的噪音。",
+    "en_def": "To make a loud, harsh sound.",
+    "example": "The car's horn began to blare as it approached the intersection."
+  },
+  "sentences_removed": 0
+}

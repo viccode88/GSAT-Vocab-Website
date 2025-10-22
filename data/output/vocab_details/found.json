@@ -1,0 +1,43 @@
+{
+  "lemma": "found",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For US $60, a recently-founded company called Dognition will help you learn more about your dog’s cognitive traits.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/found_ex_0_88ce6b4b.mp3"
+      },
+      {
+        "text": "Winning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/found_ex_1_eaffa7d1.mp3"
+      },
+      {
+        "text": "Founded in 1992, with some 28,000 listings, this company itself as the world’s largest home exchange club, reporting that membership has increased 30% this year.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/found_ex_2_5786d598.mp3"
+      },
+      {
+        "text": "The group was founded by a PE teacher.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/found_ex_3_623288e4.mp3"
+      },
+      {
+        "text": "Daphne’s husband, David Sheldrick, founded Tsavo National Park.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/found_ex_4_794b5bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "找到，發現或建立某物。",
+    "en_def": "To discover or come upon something; to establish or create something.",
+    "example": "She found a beautiful shell on the beach."
+  },
+  "sentences_removed": 0
+}

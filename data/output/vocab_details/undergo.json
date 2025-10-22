@@ -1,0 +1,23 @@
+{
+  "lemma": "undergo",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The The company offers the most lucrative compensation selected candidate will undergo a training program to plan in the industry and has paid over $3.5 billion NTD be conducted by our manufacturer’s trained technical in commissions in just 6 years in the US.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/undergo_ex_0_829dc770.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "經歷，接受（變化或過程）",
+    "en_def": "To experience or be subjected to something, typically a change or process.",
+    "example": "She had to undergo surgery to repair her knee."
+  },
+  "sentences_removed": 0
+}

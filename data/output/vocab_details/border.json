@@ -1,0 +1,28 @@
+{
+  "lemma": "border",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/border_ex_0_0609cdcc.mp3"
+      },
+      {
+        "text": "Just across the border, in Canada, is the Waterton Lakes National Park.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/border_ex_1_54d82474.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "邊界；界限",
+    "en_def": "A line separating two political or geographical areas, especially countries.",
+    "example": "The river forms a natural border between the two countries."
+  },
+  "sentences_removed": 0
+}

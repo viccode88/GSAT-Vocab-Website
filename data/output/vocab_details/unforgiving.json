@@ -1,0 +1,28 @@
+{
+  "lemma": "unforgiving",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This dietary need has led to a constant battle to keep the deer separate from the unforgiving nature of tons of onrushing rolling stock.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/unforgiving_ex_0_4fb86aa8.mp3"
+      },
+      {
+        "text": "What does the author mean by “the unforgiving nature of tons of onrushing rolling stock” in the third paragraph?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/unforgiving_ex_1_3a6dcb6e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不寬容的，無情的，無法原諒的",
+    "en_def": "Not willing to forgive or excuse; harsh or relentless.",
+    "example": "The unforgiving nature of the desert made survival difficult."
+  },
+  "sentences_removed": 0
+}

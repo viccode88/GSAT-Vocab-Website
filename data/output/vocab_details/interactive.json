@@ -1,0 +1,23 @@
+{
+  "lemma": "interactive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/interactive_ex_0_d88f836a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "互動的，能夠與人或其他系統進行交流或反應的。",
+    "en_def": "Involving communication or participation between people or systems.",
+    "example": "The interactive exhibit allowed visitors to engage with the displays."
+  },
+  "sentences_removed": 1
+}

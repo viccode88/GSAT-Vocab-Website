@@ -1,0 +1,45 @@
+{
+  "lemma": "doubt",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 3,
+    "ADV": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "No doubt his ability to listen contributed (28) his capacity to write.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/doubt_ex_0_22fffc30.mp3"
+      },
+      {
+        "text": "He had no reason to doubt it.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/doubt_ex_1_f064be86.mp3"
+      },
+      {
+        "text": "None of them wanted to—though for some years afterwards I was left in no doubt that I was morally obliged to them, in the sense that it always seemed to be my round when it came to the buying of drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/doubt_ex_2_18465505.mp3"
+      },
+      {
+        "text": "There is no doubt that A.…can you succeed in achieving your goal.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/doubt_ex_3_fbd42656.mp3"
+      },
+      {
+        "text": "all the doubts about his ability to play on our school basketball team.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/doubt_ex_4_2426eb7c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "懷疑；不確定的情況或狀態",
+    "en_def": "A feeling of uncertainty or lack of conviction.",
+    "example": "She had a doubt about the accuracy of the report."
+  },
+  "sentences_removed": 0
+}

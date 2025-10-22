@@ -1,0 +1,59 @@
+{
+  "lemma": "fix",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many weight-conscious people also mistakenly believe that changing our bodies will fix everything.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/fix_ex_0_461f2b51.mp3"
+      },
+      {
+        "text": "Another child said dieting meant “you fix food but you don’t eat it.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fix_ex_1_669eecfc.mp3"
+      },
+      {
+        "text": "Fixing your eyes on the person will make him/her feel at ease.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fix_ex_2_f0b5f5cf.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What is true about fixing your eyes on a person when you first meet him/her? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I had always thought it was more ___(38)__ fixed.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is more polite to fix your eyes on him/her as long as you can. (C)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Wendy is good at writing and she doesn’t like to work according to a fixed schedule.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "修理或修正某物，使其恢復正常或改善狀態。",
+    "en_def": "To repair or correct something to restore it to a normal or improved condition.",
+    "example": "I need to fix my bike before the weekend."
+  },
+  "sentences_removed": 0
+}

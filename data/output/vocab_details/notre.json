@@ -1,0 +1,33 @@
+{
+  "lemma": "notre",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/notre_ex_0_779daa9e.mp3"
+      },
+      {
+        "text": "The sounds of Notre-Dame bells once again filled the air in Paris, and will be heard for generations to come.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/notre_ex_1_6367b19c.mp3"
+      },
+      {
+        "text": "Mounted in the two tall towers of the cathedral, Notre-Dame’s bells have been ringing for over 800 years.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/notre_ex_2_7abdb5c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "法語中表示「我們的」的形容詞，通常用於指代與說話者相關的事物或人。",
+    "en_def": "A French adjective meaning 'our', used to indicate possession or relation to the speaker.",
+    "example": "Notre maison est très confortable."
+  },
+  "sentences_removed": 1
+}

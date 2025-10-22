@@ -1,0 +1,23 @@
+{
+  "lemma": "eggplant",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some regions prepare horses made of cucumbers and cows made of eggplants, hoping that the spirits will come back to Earth quickly, on a horse, and leave slowly, riding the cow.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/eggplant_ex_0_ae4aa0fc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種紫色或黑色的蔬菜，通常用於烹飪，學名為茄子。",
+    "en_def": "A purple or black vegetable commonly used in cooking, scientifically known as Solanum melongena.",
+    "example": "I made a delicious eggplant parmesan for dinner."
+  },
+  "sentences_removed": 0
+}

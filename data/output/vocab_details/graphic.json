@@ -1,0 +1,23 @@
+{
+  "lemma": "graphic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/graphic_ex_0_b30650d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圖形的；與視覺藝術有關的",
+    "en_def": "Relating to visual art, especially involving drawing, engraving, or lettering.",
+    "example": "The graphic design of the poster caught everyone's attention."
+  },
+  "sentences_removed": 0
+}

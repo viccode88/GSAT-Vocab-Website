@@ -1,0 +1,23 @@
+{
+  "lemma": "sung",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "May I speak to Eric Sung?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sung_ex_0_a80e6288.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "唱歌的過去式或過去分詞形式。",
+    "en_def": "The past tense or past participle of 'sing'.",
+    "example": "She sung her favorite song at the concert."
+  },
+  "sentences_removed": 0
+}

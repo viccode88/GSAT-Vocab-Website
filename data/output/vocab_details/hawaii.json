@@ -1,0 +1,28 @@
+{
+  "lemma": "hawaii",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The island continues to recover from its 1992 visit from Iniki, the most powerful hurricane to hit Hawaii this century.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hawaii_ex_0_55028c69.mp3"
+      },
+      {
+        "text": "It was at the end of one of these long voyages that the pineapple came to Hawaii to stay.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hawaii_ex_1_f0b51a6d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "夏威夷是美國的一個州，由多個島嶼組成，位於太平洋中部，以其熱帶氣候和美麗的海灘聞名。",
+    "en_def": "Hawaii is a U.S. state composed of many islands located in the central Pacific, known for its tropical climate and beautiful beaches.",
+    "example": "We are planning a vacation to Hawaii next summer."
+  },
+  "sentences_removed": 0
+}

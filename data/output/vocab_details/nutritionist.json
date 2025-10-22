@@ -1,0 +1,23 @@
+{
+  "lemma": "nutritionist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For an easy and 36 alternative, nutritionists suggest that we pop our own popcorn.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nutritionist_ex_0_f7cb3280.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "營養師：專門研究食物和營養對健康影響的專業人士。",
+    "en_def": "A nutritionist is a professional who specializes in the study of food and its effects on health.",
+    "example": "The nutritionist recommended a balanced diet rich in fruits and vegetables."
+  },
+  "sentences_removed": 0
+}

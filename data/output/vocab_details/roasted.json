@@ -1,0 +1,23 @@
+{
+  "lemma": "roasted",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Specifically, you will learn to prepare __(23)__ delicious items as roasted chicken, chili, turkey loaf, turkey loaf, meatballs, pasta, among others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/roasted_ex_0_f98299d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "經過烘烤或烤製的，通常指食物，特別是肉類或咖啡豆。",
+    "en_def": "Cooked by prolonged exposure to heat, typically in an oven or over an open flame.",
+    "example": "The roasted chicken was crispy on the outside and juicy on the inside."
+  },
+  "sentences_removed": 0
+}

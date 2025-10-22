@@ -1,0 +1,28 @@
+{
+  "lemma": "sponsor",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Picking up on teens' interest in computer games, Hilfiger sponsored a Nintendo competition and installed Nintendo terminals in his stores.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sponsor_ex_0_7757c056.mp3"
+      },
+      {
+        "text": "Beer companies often sponsor the sports events young people watch.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sponsor_ex_1_38fb5d41.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "贊助者；支持者，通常提供資金或資源以支持某項活動或計劃。",
+    "en_def": "A person or organization that provides financial or other support for a project, event, or individual.",
+    "example": "The company decided to sponsor the local sports team to promote its brand."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "vice",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He is the executive vice president of the HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/vice_ex_0_72e2508e.mp3"
+      },
+      {
+        "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/vice_ex_1_c247538c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "惡行；不道德的行為或習慣",
+    "en_def": "A moral fault or weakness; a bad habit or practice.",
+    "example": "He struggled to overcome his vice of procrastination."
+  },
+  "sentences_removed": 0
+}

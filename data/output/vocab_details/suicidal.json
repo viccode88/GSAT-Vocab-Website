@@ -1,0 +1,23 @@
+{
+  "lemma": "suicidal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists are studying the suicidal behavior of pilot whales.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/suicidal_ex_0_f4e1b3e2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有自殺傾向的，表示想要結束自己生命的。",
+    "en_def": "Having thoughts or feelings that lead one to consider or attempt to take their own life.",
+    "example": "He felt suicidal after experiencing a series of personal losses."
+  },
+  "sentences_removed": 0
+}

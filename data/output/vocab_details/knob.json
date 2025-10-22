@@ -1,0 +1,28 @@
+{
+  "lemma": "knob",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is true about the modern development of the flip-flop? (A) Modern flip-flops originated from Indian toe knob sandals.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/knob_ex_0_99e402f7.mp3"
+      },
+      {
+        "text": "In India, “toe knob” sandals had a knob between the first and second toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/knob_ex_1_e7e36cda.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓形或橢圓形的把手，通常用於開關或調節設備。",
+    "en_def": "A rounded handle or control on a door, drawer, or piece of equipment.",
+    "example": "She turned the knob to open the door."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "concentration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/concentration_ex_0_14624ced.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "集中，專注於某一事物或活動的狀態或過程。",
+    "en_def": "The action or power of focusing one's attention or mental effort.",
+    "example": "She studied in silence to improve her concentration."
+  },
+  "sentences_removed": 0
+}

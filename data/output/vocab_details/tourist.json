@@ -1,0 +1,49 @@
+{
+  "lemma": "tourist",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tourist_ex_0_88465202.mp3"
+      },
+      {
+        "text": "Water sports are 31 the most popular tourist attraction.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tourist_ex_1_2736d9aa.mp3"
+      },
+      {
+        "text": "In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/tourist_ex_2_4039c111.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is one of the most popular tourist 16 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO)",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, this tourist attraction will soon 22 .",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "旅遊者，通常指前往某地觀光或度假的人。",
+    "en_def": "A person who travels to a place for pleasure or sightseeing.",
+    "example": "The tourist took many photos of the beautiful landscape."
+  },
+  "sentences_removed": 1
+}

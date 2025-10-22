@@ -1,0 +1,23 @@
+{
+  "lemma": "behavioral",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/behavioral_ex_0_373d4295.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "行為的；與行為有關的",
+    "en_def": "Relating to the actions or reactions of a person or animal in response to external or internal stimuli.",
+    "example": "The therapist studied the child's behavioral patterns to understand their needs."
+  },
+  "sentences_removed": 0
+}

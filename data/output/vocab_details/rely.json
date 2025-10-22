@@ -1,0 +1,49 @@
+{
+  "lemma": "rely",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "British workers thus relied on a human alarm clock known as a “knocker-up.”",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/rely_ex_0_dd7ae148.mp3"
+      },
+      {
+        "text": "The woman told the truth to her lawyer without ____ because he was the only person she could rely on.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rely_ex_1_6ab370d3.mp3"
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rely_ex_2_65b9ef5d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As more people rely on the Internet for information, it has newspapers as the most important source of news.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "As 19.(A) who (B) while (C) that (D) when 20.(A) relieved (B) relaxed (C) relied (D) reacted European politicians are trying to get the UK Government to make cigarette companies print photos on the packets.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The question is what type your dog relies on more.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "依賴，信賴",
+    "en_def": "To depend on someone or something for support or help.",
+    "example": "You can always rely on your friends in difficult times."
+  },
+  "sentences_removed": 1
+}

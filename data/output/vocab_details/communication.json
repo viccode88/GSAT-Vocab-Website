@@ -1,0 +1,79 @@
+{
+  "lemma": "communication",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People have an instinct for interpreting non-verbal communication.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/communication_ex_0_40bbbb26.mp3"
+      },
+      {
+        "text": "Initial contact is made via e-mail, with subsequent communication usually by phone.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/communication_ex_1_bc8b8068.mp3"
+      },
+      {
+        "text": "It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/communication_ex_2_6147eb1a.mp3"
+      },
+      {
+        "text": "Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/communication_ex_3_fae93121.mp3"
+      },
+      {
+        "text": "A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/communication_ex_4_1fd40772.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "How do home exchangers normally begin their communication?",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Somehow, problems creep in, resentments build, and communication __(37)__.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of paying attention communication network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "(F) They show behavior governed by a unique system of communication.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "V2V communication has been very well developed.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "E-mail plays a ______ role in modern communication.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "交流或傳遞信息的過程。",
+    "en_def": "The process of exchanging information or ideas.",
+    "example": "Effective communication is essential for teamwork."
+  },
+  "sentences_removed": 1
+}

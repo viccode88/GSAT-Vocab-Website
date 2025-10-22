@@ -1,0 +1,38 @@
+{
+  "lemma": "sculpting",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If the sculpting does not take place in a cold environment, then the sculptor must work quickly to finish his piece.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sculpting_ex_0_80963509.mp3"
+      },
+      {
+        "text": "The right theme for ice sculpting is not easy to find.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sculpting_ex_1_0ea15069.mp3"
+      },
+      {
+        "text": "The tools used for sculpting also affect when the task can be accomplished.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sculpting_ex_2_9dc7b13d.mp3"
+      },
+      {
+        "text": "Another difficulty in the process of ice sculpting is time control.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sculpting_ex_3_93cb910c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雕塑藝術，指用材料（如石頭、金屬或黏土）創作三維藝術品的過程。",
+    "en_def": "The art of creating three-dimensional works by shaping materials such as stone, metal, or clay.",
+    "example": "She spent hours sculpting a beautiful figure out of clay."
+  },
+  "sentences_removed": 1
+}

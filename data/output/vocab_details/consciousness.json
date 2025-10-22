@@ -1,0 +1,28 @@
+{
+  "lemma": "consciousness",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The secret is: Never wait until the body is telling you you’re thirsty, since there must already have been significant changes in your body for it to eventually 28 your consciousness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/consciousness_ex_0_b9effb28.mp3"
+      },
+      {
+        "text": "It seems not __(21)__ any afternoon in the village, but all of a sudden, people and animals lose consciousness.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/consciousness_ex_1_05f94510.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "意識，指個體對自身及周圍環境的感知和認知能力。",
+    "en_def": "The state of being aware of and able to think about one's own existence, thoughts, and surroundings.",
+    "example": "Her consciousness began to fade as she drifted off to sleep."
+  },
+  "sentences_removed": 0
+}

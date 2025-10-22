@@ -1,0 +1,64 @@
+{
+  "lemma": "immediately",
+  "count": 9,
+  "pos_dist": {
+    "ADV": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is not immediately known whether the “Kawasaki” can be repaired on the fishing island of Penghu, or when the Vladimirs will be able to set off again and continue their around-the-world voyage.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/immediately_ex_0_18f0f179.mp3"
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/immediately_ex_1_d0163eb7.mp3"
+      },
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/immediately_ex_2_79b8f884.mp3"
+      },
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/immediately_ex_3_b1b536b7.mp3"
+      },
+      {
+        "text": "Sometimes this may be as simple as touching the holy man and being immediately healed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/immediately_ex_4_ac9fc9e6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Apparently (C) Immediately (D) Originally 12.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If you had told me the situation earlier, (E) until he sees Mary immediately. (F) he’ll see John sitting by the fire.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It immediately began to thrive in the new land and colonies spread quickly throughout the southeastern states.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The trails connect the ants’ fox) is present, the pattern of their flight will colonies and sources of food, forming a sort of change immediately.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "立刻，馬上，沒有延遲地。",
+    "en_def": "Without any delay; at once.",
+    "example": "Please call me immediately if you need help."
+  },
+  "sentences_removed": 0
+}

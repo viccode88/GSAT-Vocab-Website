@@ -1,0 +1,43 @@
+{
+  "lemma": "daughter",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/daughter_ex_0_defa366f.mp3"
+      },
+      {
+        "text": "They have created a shopping environment where the needs of both mother and daughter are satisfied.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/daughter_ex_1_f0752200.mp3"
+      },
+      {
+        "text": "This tells the retailers of the world that if you want to get into a mother’s 19 , you’ve got to win her daughter over first.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/daughter_ex_2_95e3ae08.mp3"
+      },
+      {
+        "text": "That is why mothers who want to keep abreast of trends usually 18 the experts－their daughters.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/daughter_ex_3_1eb6b3e1.mp3"
+      },
+      {
+        "text": "When it was arranged for her to sing at Constitution Hall in Washington, D.C., the Daughters of the American Revolution opposed it because of her color.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/daughter_ex_4_3b35d9af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "女兒，指父母的女性子女。",
+    "en_def": "A daughter is a female child in relation to her parents.",
+    "example": "She has a daughter who is five years old."
+  },
+  "sentences_removed": 0
+}

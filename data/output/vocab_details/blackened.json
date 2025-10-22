@@ -1,0 +1,23 @@
+{
+  "lemma": "blackened",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/blackened_ex_0_265d478b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "燒焦的，變黑的",
+    "en_def": "Burned or charred, typically referring to food or surfaces that have been exposed to high heat.",
+    "example": "The chef served a blackened fish that was seasoned with spices."
+  },
+  "sentences_removed": 0
+}

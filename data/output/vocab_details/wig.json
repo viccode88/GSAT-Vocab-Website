@@ -1,0 +1,23 @@
+{
+  "lemma": "wig",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wig_ex_0_83e55e5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "假髮，一種用於覆蓋或裝飾頭髮的人工髮型。",
+    "en_def": "A wig is an artificial covering for the head made of human or synthetic hair.",
+    "example": "She wore a wig to change her hairstyle for the party."
+  },
+  "sentences_removed": 0
+}

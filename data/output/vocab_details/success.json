@@ -1,0 +1,105 @@
+{
+  "lemma": "success",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 16,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To what do you attribute the Emanuel brothers’ success?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/success_ex_0_57c648f3.mp3"
+      },
+      {
+        "text": "They hope to find the secret of his success.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/success_ex_1_2a6d363f.mp3"
+      },
+      {
+        "text": "What does “an engineering feat” mean? (A) A big success in construction.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/success_ex_2_212319ce.mp3"
+      },
+      {
+        "text": "Which of the following sayings best captures the spirit of Jeanie Low’s story? (A) Failure is the mother of success.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/success_ex_3_82577aee.mp3"
+      },
+      {
+        "text": "The young man owes his success to many people, his parents .",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/success_ex_4_c6207ea8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The success of folk medicine led to the development of doctor medicine.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Motivated by such signs of success, thousands of kids from the villages surrounding Bekoji have moved into town.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Icelandic success is accomplished largely through cooperative efforts across various industries.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One key factor to success is to have a definite goal first and then do your best to the goal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Most businessmen are more interested in the ________ success of their products than their educational values.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The young scientist showed great for his success.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The success of the park is exactly what Morgan intended to achieve.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "They keep moving forward even after a big success. 48.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Z: I would put success in quotes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Success of Tommy Hilfiger 53.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Much of your success, both in your work and social life, 39 how you listen.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Zeke Emanuel, which of the following is a reason for the brothers’ success? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "成功；達到預期的目標或結果。",
+    "en_def": "The achievement of a desired aim or purpose.",
+    "example": "Her hard work led to great success in her career."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "scared",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scared straight out of your chair?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/scared_ex_0_c8aa0483.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到害怕或恐懼的",
+    "en_def": "Feeling fear or anxiety; frightened.",
+    "example": "She was scared of the dark."
+  },
+  "sentences_removed": 0
+}

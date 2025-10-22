@@ -1,0 +1,33 @@
+{
+  "lemma": "permanent",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/permanent_ex_0_ac3feafe.mp3"
+      },
+      {
+        "text": "Such dimples are not a permanent trait, for they vanish when the excessive fat goes away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/permanent_ex_1_0e43e8d5.mp3"
+      },
+      {
+        "text": "What are the characteristics of Jeanie’s Kiddie Stool? (A) Permanent and foldable.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/permanent_ex_2_8c637958.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "永久的，持久的，不會改變或消失的。",
+    "en_def": "Lasting or intended to last indefinitely without change.",
+    "example": "She decided to get a permanent tattoo."
+  },
+  "sentences_removed": 1
+}

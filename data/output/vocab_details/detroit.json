@@ -1,0 +1,28 @@
+{
+  "lemma": "detroit",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Installed in Detroit in 1920, Potts’ three-color system allowed for the added signal “proceed with caution” to be displayed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/detroit_ex_0_62222522.mp3"
+      },
+      {
+        "text": "A major breakthrough was the yellow light invented by a Detroit police officer William Potts.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/detroit_ex_1_216db7c4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "底特律：美國密西根州的一座城市，以汽車工業聞名。",
+    "en_def": "Detroit: A city in Michigan, USA, known for its automotive industry.",
+    "example": "Detroit was once the heart of the American automobile industry."
+  },
+  "sentences_removed": 0
+}

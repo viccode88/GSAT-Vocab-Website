@@ -1,0 +1,23 @@
+{
+  "lemma": "vendor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/vendor_ex_0_b2d6b2c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "供應商；販賣者",
+    "en_def": "A person or company that sells goods or services.",
+    "example": "The vendor at the market sells fresh fruits and vegetables."
+  },
+  "sentences_removed": 0
+}

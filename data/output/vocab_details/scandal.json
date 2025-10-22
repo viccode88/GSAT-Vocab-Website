@@ -1,0 +1,28 @@
+{
+  "lemma": "scandal",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As the rumor of his scandal ______ quickly during the election campaign, more and more people began to question the honesty of the candidate.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/scandal_ex_0_18a59e97.mp3"
+      },
+      {
+        "text": "The recent cooking oil scandals have led to calls for tougher ______ of sales of food products.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/scandal_ex_1_4cf472d3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "醜聞；引起公眾關注的事件或行為，通常涉及不道德或非法的行為。",
+    "en_def": "An action or event that causes public outrage or controversy, often involving immoral or illegal behavior.",
+    "example": "The politician's scandal led to widespread protests and calls for his resignation."
+  },
+  "sentences_removed": 0
+}

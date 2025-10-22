@@ -1,0 +1,23 @@
+{
+  "lemma": "champs",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/champs_ex_0_c07b991e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "冠軍，勝利者或優秀者。",
+    "en_def": "Champions; individuals or teams that have won a competition or are considered the best in a particular field.",
+    "example": "The team celebrated their victory as the new champs of the tournament."
+  },
+  "sentences_removed": 0
+}

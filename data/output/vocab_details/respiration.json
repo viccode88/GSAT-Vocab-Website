@@ -1,0 +1,23 @@
+{
+  "lemma": "respiration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pilot whales died on the beaches of Cape Cod due to (A) the lack of salt water to facilitate their respiration.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/respiration_ex_0_c355b43d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "呼吸，指生物體吸入氧氣並排出二氧化碳的過程。",
+    "en_def": "The process by which living organisms take in oxygen and expel carbon dioxide.",
+    "example": "Respiration is essential for the survival of most living organisms."
+  },
+  "sentences_removed": 0
+}

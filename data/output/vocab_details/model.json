@@ -1,0 +1,65 @@
+{
+  "lemma": "model",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 10,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And there are plenty of models from which to choose: from simple $200 point-and-shoot snappers to $1,000 wonders with all the features that any advanced amateur could want.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/model_ex_0_8a842879.mp3"
+      },
+      {
+        "text": "Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/model_ex_1_7aac2588.mp3"
+      },
+      {
+        "text": "Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/model_ex_2_e3113752.mp3"
+      },
+      {
+        "text": "Jesse is a talented model.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/model_ex_3_deb4f67f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, some people think these are “unsustainable models of development.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "模型；範本；樣式，通常用於設計、模擬或展示的物體或系統。",
+    "en_def": "A representation or example of something, often used for design, simulation, or demonstration purposes.",
+    "example": "The architect presented a model of the new building to the clients."
+  },
+  "sentences_removed": 1
+}

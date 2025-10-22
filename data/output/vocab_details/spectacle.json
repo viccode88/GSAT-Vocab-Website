@@ -1,0 +1,23 @@
+{
+  "lemma": "spectacle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But many others enjoy a good fear spectacle, and line up to see the latest scary movie.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/spectacle_ex_0_df5cb985.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壯觀的景象或表演，通常引人注目或令人驚嘆。",
+    "en_def": "A visually striking performance or display, often impressive or eye-catching.",
+    "example": "The fireworks display was a spectacular spectacle that lit up the night sky."
+  },
+  "sentences_removed": 0
+}

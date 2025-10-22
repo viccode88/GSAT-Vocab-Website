@@ -1,0 +1,23 @@
+{
+  "lemma": "mourning",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/mourning_ex_0_6afd3e65.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "哀悼，對某人或某事的失去感到悲傷和懷念。",
+    "en_def": "The expression of deep sorrow for someone who has died or for a loss.",
+    "example": "She was in mourning for her late grandmother."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,49 @@
+{
+  "lemma": "determine",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Recently a health survey was carried out in Taiwan to determine _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/determine_ex_0_f881894f.mp3"
+      },
+      {
+        "text": "“It’s a really hard thing to determine when they’ve crossed the line,” Mr. Power said.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/determine_ex_1_374f4bfa.mp3"
+      },
+      {
+        "text": "He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/determine_ex_2_ea7d1e79.mp3"
+      },
+      {
+        "text": "Once the questions are finished, the examiner analyzes the results to determine if the person tested 24 truthful.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/determine_ex_3_04396fd8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In countries other than the United States and Canada, the area code generally determines the 20 of a call.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "確定；決定；判斷",
+    "en_def": "To establish the exact nature, scope, or meaning of something.",
+    "example": "We need to determine the best course of action."
+  },
+  "sentences_removed": 0
+}

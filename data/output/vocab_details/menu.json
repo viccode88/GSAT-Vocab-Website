@@ -1,0 +1,28 @@
+{
+  "lemma": "menu",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Moon Lake Restaurant’s menu included French-fried potatoes, a popular food recipe brought back from France by Thomas Jefferson.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/menu_ex_0_3d0c0eac.mp3"
+      },
+      {
+        "text": "Soon Saratoga Chips appeared on the menu and became so popular that people wanted to take some home.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/menu_ex_1_db10309a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "菜單；餐廳或食品服務提供的食品和飲料的列表。",
+    "en_def": "A list of dishes available in a restaurant or food service.",
+    "example": "I looked at the menu to decide what to order for dinner."
+  },
+  "sentences_removed": 0
+}

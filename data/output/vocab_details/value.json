@@ -1,0 +1,100 @@
+{
+  "lemma": "value",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 13,
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It would be difficult to put a value on the things rescued by the Disk Doctor.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/value_ex_0_add4fff9.mp3"
+      },
+      {
+        "text": "As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another’s company.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/value_ex_1_4b2fef4c.mp3"
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/value_ex_2_c21da94c.mp3"
+      },
+      {
+        "text": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people. 41.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/value_ex_3_4e03a824.mp3"
+      },
+      {
+        "text": "Hence, diamonds carry a higher monetary value than water, even though we find more use for water.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/value_ex_4_3fce78b0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The value of the ships.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most businessmen are more interested in the ________ success of their products than their educational values.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It doesn’t have any ________ value at all.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "If we 30 surrounded by an unending abundance of diamonds, we probably wouldn’t value them very much.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 24 their status and wealth.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Furthermore, the demand for a particular coin will also 24 influence coin values.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "A search for African American values.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In other words, the scarcity of goods is 29 causes humans to attribute value.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "價值；重要性或意義。",
+    "en_def": "The importance, worth, or usefulness of something.",
+    "example": "The value of honesty cannot be overstated."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "singing",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/singing_ex_0_373d4295.mp3"
+      },
+      {
+        "text": "Which of the following will probably NOT be found in the performance of Capoeira? (A) Singing with drums.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/singing_ex_1_3a644793.mp3"
+      },
+      {
+        "text": "In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.” 53.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/singing_ex_2_829b263a.mp3"
+      },
+      {
+        "text": "Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/singing_ex_3_544e1b9e.mp3"
+      },
+      {
+        "text": "Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/singing_ex_4_7e5a97a2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Though Kevin failed in last year’s singing contest, he did not feel .",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "They were literally out of their seats and singing and dancing in the aisles.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "唱歌的行為或過程。",
+    "en_def": "The act or process of producing musical sounds with the voice.",
+    "example": "She enjoys singing in the shower every morning."
+  },
+  "sentences_removed": 1
+}

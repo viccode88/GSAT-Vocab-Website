@@ -1,0 +1,43 @@
+{
+  "lemma": "spring",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spring_ex_0_c98e8612.mp3"
+      },
+      {
+        "text": "The Tuck family has discovered a spring whose water brings eternal life.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/spring_ex_1_8fd14aa2.mp3"
+      },
+      {
+        "text": "The world’s first ultra-accessible family fun park, Morgan’s Wonderland opened in the spring of 2010.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/spring_ex_2_6efece61.mp3"
+      },
+      {
+        "text": "Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spring_ex_3_a65b151e.mp3"
+      },
+      {
+        "text": "With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/spring_ex_4_b9bca2ec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "春天；彈簧；跳躍",
+    "en_def": "The season between winter and summer; a device that can be pressed or pulled but returns to its original shape.",
+    "example": "The flowers bloom in spring."
+  },
+  "sentences_removed": 0
+}

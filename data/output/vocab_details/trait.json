@@ -1,0 +1,49 @@
+{
+  "lemma": "trait",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It has long been assumed that creativity is some unusual trait enjoyed by the few.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trait_ex_0_add1a488.mp3"
+      },
+      {
+        "text": "Added to this early training is a physical trait shared by people there－disproportionately long legs, which is advantageous for distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trait_ex_1_cf2a3441.mp3"
+      },
+      {
+        "text": "Such dimples are not a permanent trait, for they vanish when the excessive fat goes away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/trait_ex_2_0e43e8d5.mp3"
+      },
+      {
+        "text": "For US $60, a recently-founded company called Dognition will help you learn more about your dog’s cognitive traits.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trait_ex_3_88ce6b4b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "If neither of the parents has dimple genes, their children will not 35 the trait.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Critics of the country say that drinking is almost an inherent trait of the Russian people.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "特徵；性格特點",
+    "en_def": "A distinguishing characteristic or quality, especially of one's personal nature.",
+    "example": "Honesty is a valuable trait in a friend."
+  },
+  "sentences_removed": 0
+}

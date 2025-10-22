@@ -1,0 +1,23 @@
+{
+  "lemma": "vicinity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It probably originated in the vicinity of China.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/vicinity_ex_0_beb30fd3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "附近，周圍地區",
+    "en_def": "The area near or surrounding a particular place.",
+    "example": "There are several restaurants in the vicinity of the hotel."
+  },
+  "sentences_removed": 0
+}

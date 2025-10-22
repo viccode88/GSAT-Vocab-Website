@@ -1,0 +1,90 @@
+{
+  "lemma": "gold",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 14,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amy treasured the gold bracelet Laura gave her.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/gold_ex_0_74fbcc93.mp3"
+      },
+      {
+        "text": "Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/gold_ex_1_8d3eec89.mp3"
+      },
+      {
+        "text": "Higher ocean temperatures kill the important food source for the coral—the algae, the tiny greenish-gold water plants that live on coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/gold_ex_2_4c3a0019.mp3"
+      },
+      {
+        "text": "It was discovered on the Chilkoot Pass, the famous trail used by the people seeking gold in Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/gold_ex_3_ded36575.mp3"
+      },
+      {
+        "text": "Over 100,000 people with “gold fever” made this trip hoping to become millionaires.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/gold_ex_4_a3f86bc6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The Canadian government made gold seekers bring one year’s supplies with them so that _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Bekoji’s legend Derartu Tulu, who won the 10,000-meter Olympic gold medals in 1992 and 2000, is a national hero.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Canadian government finally started requiring the gold seekers to bring one ton of supplies with them.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming _____ in the 2008 Olympics.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was a thin gold chain with a heart dangling on it and Amy loved it the minute she saw it.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The women’s softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Amy made sure her gold bracelet was secure on her wrist.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So, when gold was discovered in the West in 1849, he 23 thousands of others and rushed to California. 24 he planned to open a shop in San Francisco, he took many goods with him, 25 a large quantity of canvas.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種貴金屬，顏色為金黃色，具有良好的導電性和抗腐蝕性，常用於珠寶和貨幣。",
+    "en_def": "A precious metal that is yellow in color, known for its excellent conductivity and resistance to corrosion, often used in jewelry and currency.",
+    "example": "She wore a beautiful gold necklace."
+  },
+  "sentences_removed": 1
+}

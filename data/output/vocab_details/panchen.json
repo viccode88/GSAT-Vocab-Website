@@ -1,0 +1,23 @@
+{
+  "lemma": "panchen",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Panchen Lamas were chosen in a similar way.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/panchen_ex_0_fe913423.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "班禪，指的是藏傳佛教中的一位重要宗教領袖，通常被認為是達賴喇嘛的轉世。",
+    "en_def": "Panchen refers to a significant religious leader in Tibetan Buddhism, often regarded as the reincarnation of the Dalai Lama.",
+    "example": "The Panchen Lama plays a crucial role in Tibetan Buddhism and its spiritual leadership."
+  },
+  "sentences_removed": 0
+}

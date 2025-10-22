@@ -1,0 +1,23 @@
+{
+  "lemma": "lab",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "How they should be studied in labs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/lab_ex_0_15c68464.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "實驗室；用於科學研究或實驗的地方。",
+    "en_def": "A room or building equipped for scientific experiments, research, or teaching.",
+    "example": "The scientists conducted their experiments in the lab."
+  },
+  "sentences_removed": 0
+}

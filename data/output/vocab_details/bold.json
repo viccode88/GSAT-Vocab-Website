@@ -1,0 +1,17 @@
+{
+  "lemma": "bold",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "形容詞，表示字體加粗或強烈的特質，或形容人勇敢無畏。",
+    "en_def": "Adjective describing text that is darker and thicker than the surrounding text, or a person who is courageous and confident.",
+    "example": "She made the important points bold in her presentation."
+  },
+  "sentences_removed": 1
+}

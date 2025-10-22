@@ -1,0 +1,28 @@
+{
+  "lemma": "slavery",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/slavery_ex_0_6d27f350.mp3"
+      },
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/slavery_ex_1_bf84cbb9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奴隸制度；強迫他人為自己工作而不支付報酬的狀態或制度。",
+    "en_def": "The condition in which individuals are owned by others and forced to work without compensation.",
+    "example": "Slavery has been abolished in many countries, but human trafficking still exists."
+  },
+  "sentences_removed": 0
+}

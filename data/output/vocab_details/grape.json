@@ -1,0 +1,23 @@
+{
+  "lemma": "grape",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The liquid was originally a grape alcohol introduced from France in the late 14th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/grape_ex_0_f9473dce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "葡萄是一種小而圓的水果，通常成串生長，常用於製作酒或食用。",
+    "en_def": "A grape is a small, round fruit that grows in clusters, often used for making wine or eaten fresh.",
+    "example": "She picked a bunch of grapes from the vine."
+  },
+  "sentences_removed": 0
+}

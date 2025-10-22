@@ -1,0 +1,23 @@
+{
+  "lemma": "benjamin",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is the closest illustration of Benjamin Franklin’s invention?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/benjamin_ex_0_d1562298.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "本傑明，通常指一種貨幣單位或美國的一位政治家及國家創始人本傑明·富蘭克林。",
+    "en_def": "Benjamin, often referring to a unit of currency or Benjamin Franklin, a Founding Father of the United States.",
+    "example": "He saved a benjamin for his trip to New York."
+  },
+  "sentences_removed": 1
+}

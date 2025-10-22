@@ -1,0 +1,85 @@
+{
+  "lemma": "hurt",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 12,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hurt_ex_0_6acbccb6.mp3"
+      },
+      {
+        "text": "Tommy, please put away the toys in the box, or you might _____ on them and hurt yourself.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hurt_ex_1_32c77f7f.mp3"
+      },
+      {
+        "text": "If you touch your finger to a hot stove, you know it’s going to hurt.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hurt_ex_2_58ad620f.mp3"
+      },
+      {
+        "text": "People 28 high self-esteem are not hurt by criticism; they do not 29 criticism as personal rejection.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hurt_ex_3_7393bc6b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Sometimes these heroes are in need or are hurt.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Now it still hurts badly.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I believed that when the weight disappeared, it would take old wounds, hurts, and rejections with it.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, 34 health studies prove that exercise doesn’t have to hurt to be effective.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Bad listening habits can hurt you a lot in your daily living.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Injuries limited Deborah’s time on the court as she hurt her knees three more times in the next five years.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Being 7 cigarette smoke hurt the athletes' lungs, and made them 8 more than athletes who did not have smokers close 9 , the study said.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "How did Deborah feel when she first hurt her knee? (A) Excited. (B) Confused. (C) Ashamed.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "使受傷或感到痛苦。",
+    "en_def": "To cause physical injury or emotional pain.",
+    "example": "He didn't mean to hurt her feelings."
+  },
+  "sentences_removed": 0
+}

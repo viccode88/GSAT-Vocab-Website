@@ -1,0 +1,110 @@
+{
+  "lemma": "snake",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 19,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/snake_ex_0_6c743f4c.mp3"
+      },
+      {
+        "text": "The researchers collected more than 500 yellow-bellied sea snakes and weighed them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/snake_ex_1_f674e7b5.mp3"
+      },
+      {
+        "text": "However, the sea snake’s salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/snake_ex_2_c6d86148.mp3"
+      },
+      {
+        "text": "A snake’s likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/snake_ex_3_c6ad33b3.mp3"
+      },
+      {
+        "text": "When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/snake_ex_4_013bf066.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But during the dry season when there is no rain, snakes presumably have nothing to drink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, it seems the snake is able to endure certain degrees of dehydration in between rains.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a sea snake was dried and weak, it drank more fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about sea snakes? (A) Their salt glands can remove the salt in the seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The sea snakes’ population distribution is closely related to rainfall.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred from the study? (A) Sea snakes can easily survive long years of drought.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To test if sea snakes lose body water at sea. (B)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals’ only source of fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To see whether sea snakes drink water offered to them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "蛇：一種無四肢的爬行動物，通常有長而圓的身體，並且以吞食獵物為生。",
+    "en_def": "A snake is a legless reptile with a long, slender body, often found in various habitats and known for its ability to swallow prey whole.",
+    "example": "The snake slithered silently through the grass."
+  },
+  "sentences_removed": 1
+}

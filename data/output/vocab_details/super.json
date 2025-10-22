@@ -1,0 +1,38 @@
+{
+  "lemma": "super",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "About 200 million years ago this super-continent broke up into two continents: Laurasia and Gondwana.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/super_ex_0_f0a0aa7f.mp3"
+      },
+      {
+        "text": "Pumping this super-salty water back into the ocean can harm local aquatic life.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/super_ex_1_0fe95f4b.mp3"
+      },
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/super_ex_2_d15fcfb3.mp3"
+      },
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/super_ex_3_d602ba35.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "極好的；超級的",
+    "en_def": "Of the highest degree or quality; excellent.",
+    "example": "She is a super athlete who excels in every sport."
+  },
+  "sentences_removed": 1
+}

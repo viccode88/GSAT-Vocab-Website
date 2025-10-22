@@ -1,0 +1,33 @@
+{
+  "lemma": "marry",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“When I got married last year, I had all these pictures that didn’t come out right.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/marry_ex_0_c469722e.mp3"
+      },
+      {
+        "text": "After graduating from college, Morrison started to work as a teacher and got married in 1958.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/marry_ex_1_f0256e5d.mp3"
+      },
+      {
+        "text": "Benson married Julie soon after he had _____ her heart and gained her parents’ approval.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/marry_ex_2_0d76fa20.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "結婚；與某人組成婚姻關係。",
+    "en_def": "To enter into a legal union with someone as their spouse.",
+    "example": "They decided to marry after dating for five years."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "evolution",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The evolution of traffic control systems.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/evolution_ex_0_0556bd3e.mp3"
+      },
+      {
+        "text": "During the process of evolution, man has shown remarkable ability to to the environment.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/evolution_ex_1_b7da37be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "演化；生物隨時間變化和適應的過程。",
+    "en_def": "The process by which different kinds of living organisms develop and change over time through natural selection and genetic variation.",
+    "example": "The theory of evolution explains how species adapt to their environments over millions of years."
+  },
+  "sentences_removed": 1
+}

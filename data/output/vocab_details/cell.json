@@ -1,0 +1,38 @@
+{
+  "lemma": "cell",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The structure and cell types of zebrafish retinas are almost identical to those of humans.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cell_ex_0_fa7f58b8.mp3"
+      },
+      {
+        "text": "Laughter, too, has a beneficial effect on our immune system, (38) the production of white blood cells and increasing our resistance to infection.(39) makes a difference to our appearance, too, when we relax our facial muscles!",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cell_ex_1_123bf9b4.mp3"
+      },
+      {
+        "text": "But you have four cell phones.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cell_ex_2_39b5d8c8.mp3"
+      },
+      {
+        "text": "Researchers at Purdue University recently concluded that a compound in green tea 17 the growth of cancer cells.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cell_ex_3_4c581b97.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "細胞；小房間或小格子",
+    "en_def": "A small structural and functional unit of an organism, or a small compartment or room.",
+    "example": "The scientist studied the cell under a microscope."
+  },
+  "sentences_removed": 0
+}

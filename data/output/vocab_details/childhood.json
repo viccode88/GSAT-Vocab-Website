@@ -1,0 +1,54 @@
+{
+  "lemma": "childhood",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/childhood_ex_0_d9db5d02.mp3"
+      },
+      {
+        "text": "A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/childhood_ex_1_3c744766.mp3"
+      },
+      {
+        "text": "E. Eddie My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/childhood_ex_2_a5cadca0.mp3"
+      },
+      {
+        "text": "She was born in Philadelphia and sang in church choirs during her childhood.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/childhood_ex_3_a42eab53.mp3"
+      },
+      {
+        "text": "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/childhood_ex_4_16542b13.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, the flavors people with taste-word synesthesia experience are usually childhood flavors, such as chocolate or strawberries.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "童年，指一個人從出生到青少年時期的生活階段。",
+    "en_def": "The period of time when a person is a child, typically considered to be from birth to adolescence.",
+    "example": "She often reminisces about the carefree days of her childhood."
+  },
+  "sentences_removed": 0
+}

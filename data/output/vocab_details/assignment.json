@@ -1,0 +1,28 @@
+{
+  "lemma": "assignment",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/assignment_ex_0_77bec1d5.mp3"
+      },
+      {
+        "text": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/assignment_ex_1_8359d491.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指派或分配的任務或工作。",
+    "en_def": "A task or piece of work assigned to someone as part of a job or course of study.",
+    "example": "The teacher gave us a challenging assignment to complete by next week."
+  },
+  "sentences_removed": 0
+}

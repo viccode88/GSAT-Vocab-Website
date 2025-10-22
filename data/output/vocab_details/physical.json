@@ -1,0 +1,140 @@
+{
+  "lemma": "physical",
+  "count": 25,
+  "pos_dist": {
+    "ADJ": 24,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Added to this early training is a physical trait shared by people there－disproportionately long legs, which is advantageous for distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/physical_ex_0_cf2a3441.mp3"
+      },
+      {
+        "text": "Then you’ll be well on your way to using physical activity as a tool to make you feel better every day.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/physical_ex_1_e07eac0f.mp3"
+      },
+      {
+        "text": "To begin with, football is a quicker, more physical sport, and football fans enjoy the emotional involvement they feel while watching.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/physical_ex_2_afdf9791.mp3"
+      },
+      {
+        "text": "The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/physical_ex_3_76b3d7fb.mp3"
+      },
+      {
+        "text": "The new study emphasizes that pain has both physical and psychological elements.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/physical_ex_4_8f79bbb2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They crowd the classrooms at Bekoji Elementary School, where Eshetu works as a physical-education instructor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Currently a senior in college, Deborah focuses on pursuing a degree in physical therapy.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Wesla Whitfield’s physical disability?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "1. Write down two physical similarities between humans and apes.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To gain more ______, some legislators would get into violent physical fights so that they may appear in TV news reports.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT discussed in the passage? (A) Facial expressions. (B) Physical contact.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People wearing the physical smile tend to feel happier.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To receive treatment in a physical therapy office.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some studies suggest that the act of shaping our mouths into a smile (creating a “physical smile”) can help us see the brighter, funnier side of things.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "She had to spend countless hours in a physical therapy clinic to receive treatment.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They emphasize the participants’ athletic achievements 27 their physical disability.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recalling the group’s first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of feeling can a physical smile help to create? 3.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To become a teacher of Physical Education.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Tai Chi Chuan is not only a physical but also a 19 exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The needs of people who suffer from physical and mental disabilities. 54.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "與身體或物質有關的，涉及物理學的。",
+    "en_def": "Relating to the body or material things; pertaining to physics.",
+    "example": "She enjoys physical activities like running and swimming."
+  },
+  "sentences_removed": 1
+}

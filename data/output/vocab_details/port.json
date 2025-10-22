@@ -1,0 +1,49 @@
+{
+  "lemma": "port",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But the captain of a ship is responsible for guiding the vessel until they hit a port, waiting to enter the harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/port_ex_0_475cf348.mp3"
+      },
+      {
+        "text": "The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/port_ex_1_7149196b.mp3"
+      },
+      {
+        "text": "In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/port_ex_2_62a871da.mp3"
+      },
+      {
+        "text": "A marine pilot is a boat pilot with specialized knowledge of a particular port or harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/port_ex_3_3127a232.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A marine pilot goes on board at a crucial time and controls the vessel based on his or her knowledge of the port and the situation at hand.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot is needed to direct large ships into a port, where there are often deep water channels surrounded by shallower seabeds.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "港口；一個船舶停靠和裝卸貨物的地方。",
+    "en_def": "A harbor or place where ships dock and load or unload cargo.",
+    "example": "The cargo ship arrived at the port early in the morning."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "tribesman",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tribesman_ex_0_6d27f350.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "部落成員，通常指生活在部落社會中的人。",
+    "en_def": "A member of a tribe, often living in a tribal society.",
+    "example": "The tribesman shared stories of his ancestors around the fire."
+  },
+  "sentences_removed": 0
+}

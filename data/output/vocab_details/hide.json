@@ -1,0 +1,89 @@
+{
+  "lemma": "hide",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These patterns actually help the fish to hide from danger among roots and plants.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hide_ex_0_1c7b20ba.mp3"
+      },
+      {
+        "text": "According to the legend, notes of 33 plans for a revolution to overthrow the Mongols were hidden in mooncakes that would ordinarily have been stuffed with sweet bean paste.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hide_ex_1_3f3bb42b.mp3"
+      },
+      {
+        "text": "Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hide_ex_2_cf10b347.mp3"
+      },
+      {
+        "text": "They kidnapped the boy and hid him in a cave.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/hide_ex_3_eede2a83.mp3"
+      },
+      {
+        "text": "Brahma thought for a long time and finally decided to hide their divinity in the center of their own being, for humans would never think to 25 it there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hide_ex_4_f26dccd3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Once the pests detect the chemical fog in the room, they’ll hide themselves in walls or other hideaways, where you’ll never be able to treat them effectively.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Brahma called a council of the gods to help him decide on a place to hide the divinity.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "On the tape-recorder in the middle of the floor. (B) Through hidden microphones.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Many people think these bug killers or pesticides will penetrate every place where the insects hide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The gods suggested that they hide it 23 in the earth or take it to the top of the highest mountain.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won’t reach.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 22 it could never be found.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "隱藏，將某物放在看不見的地方或不讓人知道。",
+    "en_def": "To conceal something from sight or to keep it secret.",
+    "example": "She decided to hide the gift until his birthday."
+  },
+  "sentences_removed": 0
+}

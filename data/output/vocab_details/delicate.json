@@ -1,0 +1,23 @@
+{
+  "lemma": "delicate",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With its delicate taste, the fresh onion is an ideal choice for salads and other lightly-cooked dishes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/delicate_ex_0_9089951b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "脆弱的，易碎的，或需要小心處理的。",
+    "en_def": "Easily broken or damaged; fragile; requiring careful handling.",
+    "example": "The delicate glass vase shattered when it fell off the table."
+  },
+  "sentences_removed": 0
+}

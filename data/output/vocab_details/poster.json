@@ -1,0 +1,23 @@
+{
+  "lemma": "poster",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/poster_ex_0_a5d2f4ac.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "海報：用於宣傳或展示信息的印刷品，通常張貼在公共場所。",
+    "en_def": "A poster is a printed paper designed to be attached to a wall or vertical surface, used for advertising or conveying information.",
+    "example": "The school put up a poster to promote the upcoming science fair."
+  },
+  "sentences_removed": 0
+}

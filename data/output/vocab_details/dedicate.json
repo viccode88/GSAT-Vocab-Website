@@ -1,0 +1,38 @@
+{
+  "lemma": "dedicate",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/dedicate_ex_0_267c9dff.mp3"
+      },
+      {
+        "text": "Which of the following is closest in meaning to “ ” in the second paragraph? (A) advertises (B) dedicates (C) replaces (D) participates 51.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dedicate_ex_1_1d99ec86.mp3"
+      },
+      {
+        "text": "The Fourth of July means beer and New Year's Eve is an entire night dedicated to the proposition that everyone must get 25 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dedicate_ex_2_ed74b990.mp3"
+      },
+      {
+        "text": "34 Originally dedicated to the deceased, the dances have now become a symbol of the summer festival themselves.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dedicate_ex_3_d4b8a62f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奉獻；致力於某事",
+    "en_def": "To commit oneself to a particular task or purpose.",
+    "example": "She decided to dedicate her life to helping others."
+  },
+  "sentences_removed": 0
+}

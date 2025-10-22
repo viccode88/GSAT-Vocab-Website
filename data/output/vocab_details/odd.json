@@ -1,0 +1,39 @@
+{
+  "lemma": "odd",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/odd_ex_0_3fc05fc0.mp3"
+      },
+      {
+        "text": "Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, 21 the probability of being struck seven different times.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/odd_ex_1_52bd3a9e.mp3"
+      },
+      {
+        "text": "Isn’t writing a book about how great your family is a bit odd? Zeke:",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/odd_ex_2_d39e4011.mp3"
+      },
+      {
+        "text": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/odd_ex_3_2b7eadc4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奇怪的，不尋常的，或不成對的。",
+    "en_def": "Strange or unusual; not matching or in pairs.",
+    "example": "It's odd that she didn't come to the party."
+  },
+  "sentences_removed": 0
+}

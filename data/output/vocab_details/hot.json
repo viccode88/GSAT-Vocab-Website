@@ -1,0 +1,69 @@
+{
+  "lemma": "hot",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hot_ex_0_c86cdcb3.mp3"
+      },
+      {
+        "text": "Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/hot_ex_1_62f6aebc.mp3"
+      },
+      {
+        "text": "__(27)__, if you touch something hot and feel pain, you will learn from this__(28)__ that you should not touch that item in the future.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/hot_ex_2_efa02350.mp3"
+      },
+      {
+        "text": "“They are very hot this year,” said Yossi Fogel at B & H Photo in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/hot_ex_3_424977d6.mp3"
+      },
+      {
+        "text": "If you touch your finger to a hot stove, you know it’s going to hurt.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hot_ex_4_58ad620f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the health food stores of major cities, it is now possible to buy tofu burgers and even tofu hot dogs.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "the heat during the hot summer days.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Mike fainted under the hot sun in his rice field.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "高溫的，或感覺到熱的。",
+    "en_def": "Having a high temperature; capable of causing a burning sensation.",
+    "example": "The soup is too hot to eat right now."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "successful",
+  "count": 14,
+  "pos_dist": {
+    "ADJ": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The resulting product was called the Post-it, one of 3M’s most successful office products. 16.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/successful_ex_0_4b1a4a32.mp3"
+      },
+      {
+        "text": "His heart transplant surgery was more successful than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/successful_ex_1_2af0e0f4.mp3"
+      },
+      {
+        "text": "The secret to bringing up successful kids.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/successful_ex_2_ecd9751a.mp3"
+      },
+      {
+        "text": "If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank. 43.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/successful_ex_3_74417a58.mp3"
+      },
+      {
+        "text": "The successful candidate, usually __(19)__ two or three, was then removed from his family to Lhasa to begin spiritual training for his future role.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/successful_ex_4_8a88f9dd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Three successful brothers, all different areas.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although nowadays it is successful, in the ancient world this approach probably did not cure many patients.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It has been very successful and has led to a 44% __(23)__ in smokers wanting to kick the habit.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Perhaps she was successful and made it to Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk medicine flourished long before the development of scientific medicine and was more successful in ancient times than doctor medicine.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Interviewer: You’re the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "成功的，達到預期目標或結果的。",
+    "en_def": "Achieving a desired aim or result.",
+    "example": "She was successful in her efforts to start a new business."
+  },
+  "sentences_removed": 1
+}

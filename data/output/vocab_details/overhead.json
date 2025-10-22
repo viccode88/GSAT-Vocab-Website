@@ -1,0 +1,28 @@
+{
+  "lemma": "overhead",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They flash a false response when these males signal overhead, but eat them when they land. 48.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/overhead_ex_0_cfa5ff26.mp3"
+      },
+      {
+        "text": "The males fly overhead, flashing light from the undersides of their bodies.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/overhead_ex_1_07d64ef8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在頭頂上方的；高於某物的",
+    "en_def": "Located above the level of the head; in the upper part of a space.",
+    "example": "The overhead lights in the room were too bright for my eyes."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "powerful",
+  "count": 15,
+  "pos_dist": {
+    "ADJ": 14,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His powerful images of Yellowstone fired the imagination of Congress members.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/powerful_ex_0_5a7ea10f.mp3"
+      },
+      {
+        "text": "The secret power of green tea is its richness in a powerful anti-oxidant.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/powerful_ex_1_9d1cb462.mp3"
+      },
+      {
+        "text": "As she sang, Whitfield’s voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/powerful_ex_2_6b6e3b90.mp3"
+      },
+      {
+        "text": "The island continues to recover from its 1992 visit from Iniki, the most powerful hurricane to hit Hawaii this century.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/powerful_ex_3_55028c69.mp3"
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/powerful_ex_4_2ffca69b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Even the most ordinary objects can present to us powerful images.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Keep in mind that even short periods of low-impact exercise serve as a powerful 39 to improve your health.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "This was done mainly to convince people that the priests were powerful.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Meanwhile, a powerful anti-alcohol movement started in the 19th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Another widely accepted belief is that powerful people in a society—often men—show their dominance over others by touching them in a variety of ways.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico’s national flag.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "強大的，有能力或影響力的。",
+    "en_def": "Having great power, strength, or influence.",
+    "example": "The powerful engine allowed the car to accelerate quickly."
+  },
+  "sentences_removed": 0
+}

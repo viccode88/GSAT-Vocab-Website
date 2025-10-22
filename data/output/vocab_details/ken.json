@@ -1,0 +1,17 @@
+{
+  "lemma": "ken",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "知道，了解，認識。",
+    "en_def": "To know or be aware of something.",
+    "example": "I can ken the truth behind his words."
+  },
+  "sentences_removed": 1
+}

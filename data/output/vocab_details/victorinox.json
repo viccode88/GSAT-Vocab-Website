@@ -1,0 +1,23 @@
+{
+  "lemma": "victorinox",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/victorinox_ex_0_c4705e52.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瑞士品牌，以生產多功能刀具和戶外用品聞名。",
+    "en_def": "A Swiss brand known for producing multi-functional knives and outdoor equipment.",
+    "example": "I always carry my Victorinox Swiss Army knife when I go camping."
+  },
+  "sentences_removed": 0
+}

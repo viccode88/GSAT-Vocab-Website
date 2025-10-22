@@ -1,0 +1,23 @@
+{
+  "lemma": "implication",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the most significant implication that teachers can draw from the above information?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/implication_ex_0_73e3308f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "暗示；含意；牽連",
+    "en_def": "A conclusion that can be drawn from something, although it is not explicitly stated.",
+    "example": "The implication of her words was clear; she wanted to leave the party early."
+  },
+  "sentences_removed": 0
+}

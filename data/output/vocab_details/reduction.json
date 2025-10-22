@@ -1,0 +1,23 @@
+{
+  "lemma": "reduction",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "RTRI researchers say late-night tests, at times when deer are most frequently seen by railway tracks, have resulted in a 45 percent reduction of deer sighting.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/reduction_ex_0_775877d7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "減少或降低的過程或結果。",
+    "en_def": "The process or result of making something smaller or less in amount, degree, or size.",
+    "example": "The reduction of plastic waste is essential for protecting the environment."
+  },
+  "sentences_removed": 0
+}

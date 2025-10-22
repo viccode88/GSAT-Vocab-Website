@@ -1,0 +1,85 @@
+{
+  "lemma": "pilot",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 14,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As many as 60 pilot whales swam ashore.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pilot_ex_0_ec0aff2f.mp3"
+      },
+      {
+        "text": "The pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/pilot_ex_1_267c9dff.mp3"
+      },
+      {
+        "text": "A marine pilot is a boat pilot with specialized knowledge of a particular port or harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/pilot_ex_2_3127a232.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The 60 pilot whales swam ashore as a result of (A) a large winter storm off the coast of Cape Cod. (B) a behavior currently unknown to scientists.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is part of the knowledge that a marine pilot must have? (A)",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Without the services of a marine pilot, docking ships would be hazardous.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot whales died on the beaches of Cape Cod due to (A) the lack of salt water to facilitate their respiration.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Almost everything, from food to machinery, comes by way of the sea in huge ships piloted by captains.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This captain is called a marine pilot.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A marine pilot goes on board at a crucial time and controls the vessel based on his or her knowledge of the port and the situation at hand.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists are studying the suicidal behavior of pilot whales.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot is needed to direct large ships into a port, where there are often deep water channels surrounded by shallower seabeds.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "駕駛飛機的人，尤其是商業或軍事飛行的專業人士。",
+    "en_def": "A person who operates the flying controls of an aircraft.",
+    "example": "The pilot skillfully landed the plane despite the strong winds."
+  },
+  "sentences_removed": 1
+}

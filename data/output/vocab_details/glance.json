@@ -1,0 +1,28 @@
+{
+  "lemma": "glance",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ten thousand saw I at a glance, Tossing their heads in sprightly dance.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glance_ex_0_62fc5b62.mp3"
+      },
+      {
+        "text": "At first glance it does not look like much.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/glance_ex_1_374ffe5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "匆匆一瞥；快速地看一眼",
+    "en_def": "A quick or brief look.",
+    "example": "She took a glance at the clock before leaving the house."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "inward",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/inward_ex_0_b675b0d9.mp3"
+      },
+      {
+        "text": "During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inward_ex_1_55b8c9d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "向內的；內部的",
+    "en_def": "Directed or moving toward the inside; internal.",
+    "example": "She took a deep breath and focused her thoughts inward."
+  },
+  "sentences_removed": 0
+}

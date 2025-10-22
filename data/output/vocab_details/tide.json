@@ -1,0 +1,43 @@
+{
+  "lemma": "tide",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Both issues result from the tide of violence that has crossed the region in recent years.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/tide_ex_0_b22c8490.mp3"
+      },
+      {
+        "text": "During different tides, currents may change from one direction to the other.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tide_ex_1_5e295a33.mp3"
+      },
+      {
+        "text": "I remember that on my cruise I was required to formally plot our course, using the tide table, even though our goal was an island I could see quite clearly across the water in the distance. 44.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tide_ex_2_4c4ab983.mp3"
+      },
+      {
+        "text": "In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tide_ex_3_62a871da.mp3"
+      },
+      {
+        "text": "The same strategy for docking a vessel during an incoming tide may not work during an outgoing tide.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tide_ex_4_72500ad8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "潮汐；海水的漲落",
+    "en_def": "The rise and fall of the sea level caused by the gravitational forces of the moon and sun.",
+    "example": "The tide comes in every six hours."
+  },
+  "sentences_removed": 0
+}

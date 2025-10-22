@@ -1,0 +1,23 @@
+{
+  "lemma": "assemble",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Follow the closely, and you will find it easy to assemble the bicycle.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/assemble_ex_0_3d2289ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "組裝；集合",
+    "en_def": "To put together or fit together the parts of something.",
+    "example": "We need to assemble the furniture before the guests arrive."
+  },
+  "sentences_removed": 0
+}

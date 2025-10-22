@@ -1,0 +1,54 @@
+{
+  "lemma": "expose",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/expose_ex_0_96b597ce.mp3"
+      },
+      {
+        "text": "Another issue is the suitability of exposing feet on the street and places other than the beach.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/expose_ex_1_6d6d2726.mp3"
+      },
+      {
+        "text": "In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/expose_ex_2_cc81720a.mp3"
+      },
+      {
+        "text": "Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/expose_ex_3_1e63c479.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The ability is 25 to those with leaves that are hydrophobic, or repel water—a special feature that forces the liquid to move away when the leaf is exposed to it.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "揭露；使暴露",
+    "en_def": "To make something visible, typically something that was hidden or not known.",
+    "example": "The investigation aimed to expose the truth behind the scandal."
+  },
+  "sentences_removed": 0
+}

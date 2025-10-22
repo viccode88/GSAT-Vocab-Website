@@ -1,0 +1,23 @@
+{
+  "lemma": "double",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, which of the following statements is true about the hard hat? (A) Global sales have doubled every ten years.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/double_ex_0_3f7abc35.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "兩倍的；雙重的",
+    "en_def": "Consisting of two equal, identical, or similar parts or instances.",
+    "example": "She ordered a double espresso for an extra boost of energy."
+  },
+  "sentences_removed": 0
+}

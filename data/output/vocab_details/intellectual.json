@@ -1,0 +1,23 @@
+{
+  "lemma": "intellectual",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One young hacker said, \"Hacking is just intellectual.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intellectual_ex_0_4fe70fc9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "智力的；與思考或學習有關的",
+    "en_def": "Relating to the intellect or mental capacity; involving the use of reasoning and understanding.",
+    "example": "She enjoys engaging in intellectual discussions about philosophy."
+  },
+  "sentences_removed": 0
+}

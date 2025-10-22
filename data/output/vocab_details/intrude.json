@@ -1,0 +1,23 @@
+{
+  "lemma": "intrude",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intrude_ex_0_a10ec47f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "闖入；干擾",
+    "en_def": "To enter a place or situation where one is unwelcome or uninvited.",
+    "example": "I didn't mean to intrude on your conversation."
+  },
+  "sentences_removed": 0
+}

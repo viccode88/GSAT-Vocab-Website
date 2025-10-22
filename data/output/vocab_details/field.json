@@ -1,0 +1,95 @@
+{
+  "lemma": "field",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 15,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Off the field, they continue to keep it in mind.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/field_ex_0_70458e4e.mp3"
+      },
+      {
+        "text": "The moral lesson is “First 35 your strengths, and then change the playing field to suit them.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/field_ex_1_934dd41d.mp3"
+      },
+      {
+        "text": "Dr. Begall and her colleagues wanted to know whether larger mammals also have the ability to perceive magnetic fields.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/field_ex_2_98c869fa.mp3"
+      },
+      {
+        "text": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/field_ex_3_7b8289c0.mp3"
+      },
+      {
+        "text": "Mike fainted under the hot sun in his rice field.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/field_ex_4_81db14ca.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following fields is NOT mentioned for Velcro uses in the passage? (A) Civil engineering.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which field is NOT mentioned in the passage as being affected by blood-type beliefs? (A) Education.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is a lesson they must always 35 on the field.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "2. Are the professors in the departments you plan to ___(28)___ into experts in their own fields? 3.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Herds of goats and cows 26 enormous horns graze the lush green fields.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted to find a way to measure the ability to think and reason, apart from education in any particular field.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "What field of study does the research mentioned in the passage most likely belong to? (A) Psychology.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "They have difficulties moving around the uneven fields.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They appear to be attracted to electromagnetic fields and attack electrical insulation or wire connections.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一片開放的土地，通常用於農業、運動或其他活動。",
+    "en_def": "An area of open land, especially one planted with crops or used for a particular purpose.",
+    "example": "The children played soccer in the field behind the school."
+  },
+  "sentences_removed": 1
+}

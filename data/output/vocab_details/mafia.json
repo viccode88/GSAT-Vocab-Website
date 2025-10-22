@@ -1,0 +1,23 @@
+{
+  "lemma": "mafia",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But how long will it be before criminal gangs, like the Mafia, start to use computer experts to help them in their crimes?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mafia_ex_0_9b426a0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個秘密的犯罪組織，通常涉及非法活動，如勒索、販毒和賭博。",
+    "en_def": "A secret criminal organization, typically involved in illegal activities such as extortion, drug trafficking, and gambling.",
+    "example": "The police are investigating the mafia's influence in the city."
+  },
+  "sentences_removed": 0
+}

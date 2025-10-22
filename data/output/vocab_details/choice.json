@@ -1,0 +1,79 @@
+{
+  "lemma": "choice",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/choice_ex_0_97d1c356.mp3"
+      },
+      {
+        "text": "Hard candies take a long time to consume and are also a bad choice for Halloween treats.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/choice_ex_1_2d22e9c8.mp3"
+      },
+      {
+        "text": "To sustain this amount of fluid in our bodies, plain water is considered our best choice, for it contains no sugar and no calories.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/choice_ex_2_ea1fe854.mp3"
+      },
+      {
+        "text": "However, even these people may look at the calendar to pick a lucky day when they make their choice.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/choice_ex_3_96b5960e.mp3"
+      },
+      {
+        "text": "Those unnecessary deaths are attributable in part to the woman's choice of a large automobile.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/choice_ex_4_398d7935.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "With its delicate taste, the fresh onion is an ideal choice for salads and other lightly-cooked dishes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "For the same reason, raisins and crackers are not the best choice.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "For these reasons, storage onions are the best choice for spicy dishes that require longer cooking times or more flavor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Isn’t it supposed to be a healthy choice? (F) Linda I liked it fine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is a better choice for Halloween treats? (A) Chocolate.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Another factor that has had a great 37 on the choice of names is the spread of culture through the media.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "選擇，決定或可供選擇的事物。",
+    "en_def": "The act of selecting or making a decision when faced with two or more possibilities.",
+    "example": "You have a choice between going to the movies or staying home."
+  },
+  "sentences_removed": 1
+}

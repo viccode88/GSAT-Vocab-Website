@@ -1,0 +1,23 @@
+{
+  "lemma": "intonation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/intonation_ex_0_95f8d4f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "語調；聲調的變化，特別是在語言中用來表達情感或語氣的音高變化。",
+    "en_def": "The rise and fall in the pitch of the voice while speaking, used to convey meaning or emotion.",
+    "example": "Her intonation changed when she asked the question, indicating she was unsure."
+  },
+  "sentences_removed": 0
+}

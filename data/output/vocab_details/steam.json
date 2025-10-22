@@ -1,0 +1,38 @@
+{
+  "lemma": "steam",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the kernels start 38 , shake the pot to let the steam escape and to let the unpopped kernels fall to the bottom.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/steam_ex_0_c1bde56f.mp3"
+      },
+      {
+        "text": "Green tea leaves are heated in steam, rolled, and dried.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/steam_ex_1_31b3201d.mp3"
+      },
+      {
+        "text": "The invention of the steam engine, which was used to power heavy machines, brought about a _____ change in society.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/steam_ex_2_151e7c57.mp3"
+      },
+      {
+        "text": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/steam_ex_3_c86cdcb3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蒸汽；水蒸氣",
+    "en_def": "The vapor into which water is converted when heated, forming a mist of tiny water droplets.",
+    "example": "The steam from the boiling kettle filled the kitchen."
+  },
+  "sentences_removed": 0
+}

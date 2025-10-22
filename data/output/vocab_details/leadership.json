@@ -1,0 +1,28 @@
+{
+  "lemma": "leadership",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The company is _____ and making great profits under the wise leadership of the chief executive officer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/leadership_ex_0_c0fab664.mp3"
+      },
+      {
+        "text": "Used to caring for others, they are more likely to move toward such leadership professions as teaching and politics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/leadership_ex_1_b84f583e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "領導能力或地位，通常涉及指導和影響他人以達成目標。",
+    "en_def": "The action of leading a group of people or an organization, or the ability to do this.",
+    "example": "Effective leadership is essential for the success of any team."
+  },
+  "sentences_removed": 1
+}

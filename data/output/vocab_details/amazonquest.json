@@ -1,0 +1,28 @@
+{
+  "lemma": "amazonquest",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "That means that 64 acres of the rainforest is lost every minute.” (1) Which place is called “the lungs of the earth”? (2) What kinds of people are on the AmazonQuest team?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amazonquest_ex_0_5455e228.mp3"
+      },
+      {
+        "text": "A team of scientists, teachers, and students, the AmazonQuest team, recently explored some of the wonders of the Amazon Rainforest.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amazonquest_ex_1_bdea3e2e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "亞馬遜探險，一種在亞馬遜雨林或其周邊地區進行的探險活動。",
+    "en_def": "Amazonquest refers to an adventure or exploration in the Amazon rainforest or surrounding areas.",
+    "example": "The team embarked on an amazonquest to discover new species in the dense jungle."
+  },
+  "sentences_removed": 0
+}

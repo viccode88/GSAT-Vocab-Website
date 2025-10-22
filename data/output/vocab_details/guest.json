@@ -1,0 +1,104 @@
+{
+  "lemma": "guest",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 19
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/guest_ex_0_37f64fdf.mp3"
+      },
+      {
+        "text": "By the way, is your house guest still staying with you?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/guest_ex_1_b0f0690f.mp3"
+      },
+      {
+        "text": "The word “prom” was first used in the 1890s, referring to formal dances in which the guests of a party would display their fashions and dancing skills during the evening’s grand march.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/guest_ex_2_4f8f4967.mp3"
+      },
+      {
+        "text": "The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/guest_ex_3_5b54d4cb.mp3"
+      },
+      {
+        "text": "One evening a guest in the dining hall felt that his potatoes were too thick and sent them back to the kitchen.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/guest_ex_4_34b701ad.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He was so happy with them that other guests started ordering the new potatoes.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He enclosed thank- you notes in the cookies and served them to his guests with tea.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By this time the cook was angry and decided to do exactly what the dinner guest wanted: slice the potatoes as thin as possible.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They were prized possessions made of expensive materials intended to impress guests.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Guests have to crawl into bed through a large porthole entrance.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The room’s thin plastic walls easily transmit the sound of snoring made by neighboring guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Guests may enjoy facilities such as free Wi-Fi, mobile charging, and even a soundless alarm system that raises the sleeping guests into a seated position while gradually brightening the lights.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, you may have to share common facilities (such as bathrooms) with other guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The cook’s plan to stop the dinner guest from complaining did not turn out as he had planned.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "__(18)__ a small child, he would pick up a broom and pretend to be playing guitar for the entertainment of family guests.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The cook sliced some potatoes thinner than before and prepared them for the complaining guest.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "客人；訪客",
+    "en_def": "A person who is invited to visit or stay in someone's home or a place.",
+    "example": "We have a guest staying with us for the weekend."
+  },
+  "sentences_removed": 1
+}

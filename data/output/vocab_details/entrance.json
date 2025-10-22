@@ -1,0 +1,33 @@
+{
+  "lemma": "entrance",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I am studying so hard for the forthcoming entrance exam that I do not have the of a free weekend to rest.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/entrance_ex_0_3aad5853.mp3"
+      },
+      {
+        "text": "Guests have to crawl into bed through a large porthole entrance.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/entrance_ex_1_0414d0c3.mp3"
+      },
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/entrance_ex_2_2751dae4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "入口，進入的地方或通道。",
+    "en_def": "A place of entering; an opening or passage that allows access to a space.",
+    "example": "The entrance to the museum is located on the main street."
+  },
+  "sentences_removed": 0
+}

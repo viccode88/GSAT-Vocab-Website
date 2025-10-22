@@ -1,0 +1,23 @@
+{
+  "lemma": "victorian",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/victorian_ex_0_abb0d322.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "維多利亞時代的，指英國女王維多利亞統治期間的風格或特徵。",
+    "en_def": "Relating to the period of Queen Victoria's reign in Britain (1837-1901) or its distinctive style and characteristics.",
+    "example": "The Victorian architecture in the city is known for its elaborate details and grandeur."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "burst",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kevin burst into tears _____ because his teacher punished him in front of the whole class.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/burst_ex_0_31e8c232.mp3"
+      },
+      {
+        "text": "And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/burst_ex_1_a51e2ac8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "突然爆炸或破裂的行為或狀態。",
+    "en_def": "A sudden breaking or exploding.",
+    "example": "The balloon will burst if you blow it up too much."
+  },
+  "sentences_removed": 0
+}

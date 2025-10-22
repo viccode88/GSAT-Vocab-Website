@@ -1,0 +1,109 @@
+{
+  "lemma": "keep",
+  "count": 20,
+  "pos_dist": {
+    "VERB": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dooley keeps Peanuts company while the adults in the family attend to Grandfather.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/keep_ex_0_93daab58.mp3"
+      },
+      {
+        "text": "How can stress be kept under control?",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/keep_ex_1_fa86ec41.mp3"
+      },
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/keep_ex_2_0d7d8441.mp3"
+      },
+      {
+        "text": "Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/keep_ex_3_8ade67d3.mp3"
+      },
+      {
+        "text": "E. Eddie My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/keep_ex_4_a5cadca0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "27 , a boy is having difficulties on the school playground because a bigger boy keeps bullying him.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Keeping yourself healthy has to be your own 32 .",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After making a fortune by writing novels, he built a mansion outside Paris and kept it open to starving artists, friends, and even strangers.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They were kept in a 60,000-gallon tank for seven months.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 24 their status and wealth.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For the average person, however, water remains a very good 27 for keeping hydrated—if you know how to drink it.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "But he simply 34 them and kept working on the soil and planting trees there.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since it kept orbiting around the Earth without any consequences, scientists became increasingly comfortable abandoning things that no longer served any useful purpose in space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "If you mistreat your body by keeping bad habits, 33 symptoms of illness, and ignoring common health rules, even the best medicine can be of little use.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "It keeps the rain and the sun off people.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "保持；維持；保留",
+    "en_def": "To have or retain possession of something.",
+    "example": "Please keep the door closed."
+  },
+  "sentences_removed": 2
+}

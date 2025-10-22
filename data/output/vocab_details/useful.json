@@ -1,0 +1,38 @@
+{
+  "lemma": "useful",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why were scientists NOT concerned about space trash in the beginning? (A) It no longer served any useful purpose.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/useful_ex_0_068ee7bf.mp3"
+      },
+      {
+        "text": "However, since it kept orbiting around the Earth without any consequences, scientists became increasingly comfortable abandoning things that no longer served any useful purpose in space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/useful_ex_1_8d9676e2.mp3"
+      },
+      {
+        "text": "England has a rainy climate, and umbrellas are very useful there.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/useful_ex_2_a9532f48.mp3"
+      },
+      {
+        "text": "Water is more useful to mankind than diamonds, and yet 26 are costlier.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/useful_ex_3_b9a60d00.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有用的，能夠提供幫助或好處的。",
+    "en_def": "Able to be of service or help; beneficial.",
+    "example": "This tool is very useful for fixing small appliances."
+  },
+  "sentences_removed": 0
+}

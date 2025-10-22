@@ -1,0 +1,23 @@
+{
+  "lemma": "thumb",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rule of thumb, however, is to see a doctor first and get an accurate diagnosis.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/thumb_ex_0_f3ef0786.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拇指，手或腳的第一根指頭，通常比其他指頭粗壯且短。",
+    "en_def": "The short, thick first digit of the human hand, opposable to the other fingers.",
+    "example": "She gave a thumbs up to show her approval."
+  },
+  "sentences_removed": 0
+}

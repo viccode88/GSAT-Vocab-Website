@@ -1,0 +1,38 @@
+{
+  "lemma": "usual",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/usual_ex_0_91db261b.mp3"
+      },
+      {
+        "text": "The traffic in the city was today, so Jane got home earlier than usual.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/usual_ex_1_1b472735.mp3"
+      },
+      {
+        "text": "Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/usual_ex_2_d8a4b7cb.mp3"
+      },
+      {
+        "text": "An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/usual_ex_3_6d136cce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "通常的，平常的，常見的。",
+    "en_def": "Commonly occurring or done; habitual.",
+    "example": "It is usual for her to go for a walk every morning."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "olson",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Jack Olson is one of these experts.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/olson_ex_0_82f4a257.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奧爾森（Olson）是一個常見的姓氏，可能指代多位知名人士或品牌。",
+    "en_def": "Olson is a common surname that may refer to various notable individuals or brands.",
+    "example": "The author, known as Olson, published a new book this year."
+  },
+  "sentences_removed": 0
+}

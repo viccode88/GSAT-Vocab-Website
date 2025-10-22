@@ -1,0 +1,23 @@
+{
+  "lemma": "brooklyn",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The 1962 celebration \"was more enthusiastic -- a lot more people,\" said one spectator, who as a young newlywed attended Glenn’s first parade and came from her Brooklyn home again for Glenn’s second parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/brooklyn_ex_0_89e03752.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "布魯克林是美國紐約市的一個區，位於長島的西部，以其多元文化和藝術場景而聞名。",
+    "en_def": "Brooklyn is a borough of New York City located on the western end of Long Island, known for its diverse culture and vibrant arts scene.",
+    "example": "I visited Brooklyn last weekend and enjoyed the local food and art galleries."
+  },
+  "sentences_removed": 0
+}

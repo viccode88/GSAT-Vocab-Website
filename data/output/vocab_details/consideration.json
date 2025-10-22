@@ -1,0 +1,28 @@
+{
+  "lemma": "consideration",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Out of and consideration, I always write a thank-you note when someone sends me a gift.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/consideration_ex_0_e603e78c.mp3"
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/consideration_ex_1_6d95b737.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "考慮；體貼；關心他人感受的行為或態度",
+    "en_def": "Careful thought, typically over a period of time, or a factor to be taken into account.",
+    "example": "She showed great consideration for her friend's feelings."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "instead",
+  "count": 17,
+  "pos_dist": {
+    "ADV": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead of punishing Willig, the city treated him as a hero who attempted the impossible and met the challenge. 34.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/instead_ex_0_11a834ef.mp3"
+      },
+      {
+        "text": "Instead, like a human fly, George Willig climbed the outside of the immense 110-story building.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/instead_ex_1_8241f210.mp3"
+      },
+      {
+        "text": "If children really love candy, dentists recommend that they eat chocolate instead.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/instead_ex_2_ad5f4284.mp3"
+      },
+      {
+        "text": "But when that happens I just remove myself so I can focus instead on what I can do.” 45.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/instead_ex_3_b931fc4f.mp3"
+      },
+      {
+        "text": "For example, an injured runner might end up cycling and swimming instead of running.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/instead_ex_4_89621cb7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "An amplified voice of a human was used instead, while the listeners watched the robot.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of a gift, Tim’s grandmother always _____",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The chairperson of the meeting asked everyone to speak up instead of _____",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of paying attention communication network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead, he would be fined a penny for each of the 110 floors he had climbed.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In these places people rest, get plenty of sleep, eat healthy food, drink water instead of wine, and exercise in various ways.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive. 45.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "John should ______ more often with his friends and family after work, instead of staying in his room to play computer games.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She sang instead at the Lincoln Memorial for over 75,000 people.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To stick to a tight budget, Robert bought a more ______ LED TV instead of a fancy, expensive 3D TV.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "相反地；取而代之地",
+    "en_def": "In place of something else; as an alternative.",
+    "example": "She decided to go for a walk instead of watching TV."
+  },
+  "sentences_removed": 1
+}

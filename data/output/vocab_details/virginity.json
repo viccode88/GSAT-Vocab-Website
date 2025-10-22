@@ -1,0 +1,23 @@
+{
+  "lemma": "virginity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Remember when Madonna hit the charts with her bra in full view while singing about \"virginity\"?",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/virginity_ex_0_b48978ab.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "處女身份；未經性行為的狀態。",
+    "en_def": "The state of being a virgin; the condition of never having engaged in sexual intercourse.",
+    "example": "She decided to wait until marriage to lose her virginity."
+  },
+  "sentences_removed": 0
+}

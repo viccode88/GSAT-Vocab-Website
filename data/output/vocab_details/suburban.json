@@ -1,0 +1,28 @@
+{
+  "lemma": "suburban",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The speaker was Robot Redford, a robot who delivered the commencement address at a community college in suburban Maryland.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/suburban_ex_0_e5d8f014.mp3"
+      },
+      {
+        "text": "Members can access thousands of listings for apartments, villas, suburban homes and farms around the world.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suburban_ex_1_02a9d5f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "郊區的，指位於城市邊緣的住宅區。",
+    "en_def": "Relating to or characteristic of a suburb, which is a residential area on the outskirts of a city.",
+    "example": "They moved to a suburban neighborhood to enjoy a quieter lifestyle."
+  },
+  "sentences_removed": 0
+}

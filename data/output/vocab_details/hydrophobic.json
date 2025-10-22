@@ -1,0 +1,23 @@
+{
+  "lemma": "hydrophobic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The ability is 25 to those with leaves that are hydrophobic, or repel water—a special feature that forces the liquid to move away when the leaf is exposed to it.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/hydrophobic_ex_0_9d61389a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "疏水的；不易與水混合或不溶於水的。",
+    "en_def": "Repellent to water; not easily mixed or dissolved in water.",
+    "example": "Oil is hydrophobic and does not mix with water."
+  },
+  "sentences_removed": 0
+}

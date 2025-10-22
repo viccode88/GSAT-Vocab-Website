@@ -1,0 +1,23 @@
+{
+  "lemma": "franc",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The structure, to be erected in the redeveloped areas of the capital’s 13th district, will cost 250 million francs (US$42 million).",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/franc_ex_0_819b4480.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "法郎，一種曾在法國及其他國家使用的貨幣單位。",
+    "en_def": "A former currency unit used in France and other countries.",
+    "example": "Before the euro was introduced, France used the franc as its currency."
+  },
+  "sentences_removed": 0
+}

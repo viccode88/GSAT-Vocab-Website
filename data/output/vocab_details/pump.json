@@ -1,0 +1,23 @@
+{
+  "lemma": "pump",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Pumping this super-salty water back into the ocean can harm local aquatic life.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pump_ex_0_0fe95f4b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "泵是一種機械裝置，用於移動液體或氣體，通常通過產生壓力來實現。",
+    "en_def": "A pump is a mechanical device used to move liquids or gases, typically by creating pressure.",
+    "example": "The gardener used a pump to water the plants efficiently."
+  },
+  "sentences_removed": 0
+}

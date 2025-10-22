@@ -1,0 +1,28 @@
+{
+  "lemma": "poorly",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By contrast, men are much more likely to interrupt (about three times as often in some studies), to argue about what has been said, to ignore or respond poorly to what has been said, to introduce more new topics into the conversation, and to make more assertions.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/poorly_ex_0_71b0e6e7.mp3"
+      },
+      {
+        "text": "They performed poorly at a detailed activity __(30)__ arranging a row of beads.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/poorly_ex_1_a5a1f8f4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不佳地；差勁地",
+    "en_def": "In a manner that is not good or satisfactory.",
+    "example": "She performed poorly on the exam."
+  },
+  "sentences_removed": 0
+}

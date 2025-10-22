@@ -1,0 +1,129 @@
+{
+  "lemma": "fresh",
+  "count": 23,
+  "pos_dist": {
+    "ADJ": 23
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fresh_ex_0_f4630afa.mp3"
+      },
+      {
+        "text": "The urgent need to turn seawater into fresh water.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fresh_ex_1_6761755d.mp3"
+      },
+      {
+        "text": "“I used to carry a fresh suit to work with me",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fresh_ex_2_3b2b0bd4.mp3"
+      },
+      {
+        "text": "the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fresh_ex_3_3dbe3f61.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Pets are wonderful, B.…with the freshest ingredients.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They usually live near the coastal area where there is more fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a sea snake was dried and weak, it drank more fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With its delicate taste, the fresh onion is an ideal choice for salads and other lightly-cooked dishes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To make fresh lemonade, cut the lemon in half, _____ the juice into a bowl, and then add as much water and sugar as you like. (A) decrease (B) squeeze (C) freeze (D) cease 12.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals’ only source of fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The increasing population in Saudi Arabia has resulted in shortages of fresh water.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Fresh onions are available 21 yellow, red and white throughout their season, March through August.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "You will also learn important information about __(24)__ for fresh and inexpensive foods, the use of herbs and spices, and the proper ways of storing different kinds of food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "新鮮的；未經加工或處理的。",
+    "en_def": "Recently made or obtained; not stale or spoiled.",
+    "example": "I bought some fresh vegetables from the market."
+  },
+  "sentences_removed": 1
+}

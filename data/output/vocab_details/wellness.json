@@ -1,0 +1,28 @@
+{
+  "lemma": "wellness",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nowadays health specialists 34 the idea of wellness for everybody.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/wellness_ex_0_1151042e.mp3"
+      },
+      {
+        "text": "Wellness means 35 the best possible health within the limits of your body.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/wellness_ex_1_47758fa7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "健康，身心的良好狀態。",
+    "en_def": "The state of being in good health, especially as an actively pursued goal.",
+    "example": "She practices yoga daily to enhance her overall wellness."
+  },
+  "sentences_removed": 0
+}

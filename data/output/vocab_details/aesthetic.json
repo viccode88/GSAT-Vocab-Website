@@ -1,0 +1,23 @@
+{
+  "lemma": "aesthetic",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The round windows are indeed pleasant to the eye, but they actually were designed for reasons 16 aesthetics.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/aesthetic_ex_0_5a48136a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美學的；與美感有關的",
+    "en_def": "Concerned with beauty or the appreciation of beauty.",
+    "example": "The painting has a unique aesthetic that captivates viewers."
+  },
+  "sentences_removed": 0
+}

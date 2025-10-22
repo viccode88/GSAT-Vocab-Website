@@ -1,0 +1,30 @@
+{
+  "lemma": "moisture",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/moisture_ex_0_c1a8b781.mp3"
+      },
+      {
+        "text": "Moisture and oxygen promote oxidation and therefore limit its shelf life.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/moisture_ex_1_b5af70fc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "濕氣；水分",
+    "en_def": "The presence of a small amount of water in the air or in a substance.",
+    "example": "The plants need moisture to grow healthy."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "footwear",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, de Mestral’s design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons’ gowns.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/footwear_ex_0_244a9b75.mp3"
+      },
+      {
+        "text": "The earliest record of people wearing the flip-flop comes from Egypt, but many ancient cultures had their own variants of the footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/footwear_ex_1_fdd92686.mp3"
+      },
+      {
+        "text": "Why is the footwear discussed in the passage called “flip-flop”?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/footwear_ex_2_46bc33c4.mp3"
+      },
+      {
+        "text": "The innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/footwear_ex_3_93c887e3.mp3"
+      },
+      {
+        "text": "The Japanese used their rubber reserves from the war to mass-produce the simplest Japanese footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/footwear_ex_4_22a3d6d8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "腳上穿的物品，如鞋子、靴子等。",
+    "en_def": "Items worn on the feet, such as shoes, boots, or sandals.",
+    "example": "She bought a new pair of footwear for the summer."
+  },
+  "sentences_removed": 0
+}

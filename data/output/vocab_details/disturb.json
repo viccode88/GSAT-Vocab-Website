@@ -1,0 +1,49 @@
+{
+  "lemma": "disturb",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mind and body work together to produce stress, which is a bodily response to a stimulus, a response that disturbs the body’s normal physiological balance.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/disturb_ex_0_865d9d84.mp3"
+      },
+      {
+        "text": "Only a third of people are disturbed by the song in their heads.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/disturb_ex_1_62473258.mp3"
+      },
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/disturb_ex_2_02943189.mp3"
+      },
+      {
+        "text": "There never seemed to be enough time to go to church, which disturbed some friends and relatives.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/disturb_ex_3_cde93878.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Generally speaking, our biological clock is slightly disturbed if we just move into the next time zone, but jet lag becomes a problem once we have passed through three or four time zones.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "打擾，干擾，使不安。",
+    "en_def": "To interfere with the normal arrangement or functioning of something; to cause someone to feel anxious or upset.",
+    "example": "Please do not disturb me while I am studying."
+  },
+  "sentences_removed": 0
+}

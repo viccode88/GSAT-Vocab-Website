@@ -1,0 +1,64 @@
+{
+  "lemma": "anthony",
+  "count": 10,
+  "pos_dist": {
+    "PROPN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His heart transplant surgery was more successful than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/anthony_ex_0_2af0e0f4.mp3"
+      },
+      {
+        "text": "What did Alfred and Anthony have in common? (A) Lifespan.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/anthony_ex_1_0b59f615.mp3"
+      },
+      {
+        "text": "The discussion moved to Anthony’s recovery.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/anthony_ex_2_c043e3c1.mp3"
+      },
+      {
+        "text": "“Right now I feel pretty young and I’m doing very well,” Anthony said.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/anthony_ex_3_40057157.mp3"
+      },
+      {
+        "text": "On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/anthony_ex_4_494b22f2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "His new heart was younger than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What did Alfred and Anthony think caused their heart problems? (A) Exercise.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "His recovery from the heart surgery was faster than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "His exercise program was better than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "安東尼，一個常見的男性名字。",
+    "en_def": "Anthony, a common male given name.",
+    "example": "Anthony is planning to travel to Europe next summer."
+  },
+  "sentences_removed": 1
+}

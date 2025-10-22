@@ -1,0 +1,28 @@
+{
+  "lemma": "encouraging",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The encouraging response to McCarroll’s show confirmed that change is happening in fashion.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/encouraging_ex_0_454c0453.mp3"
+      },
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/encouraging_ex_1_95f8d4f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鼓勵的；使人振奮的",
+    "en_def": "Providing support, confidence, or hope to someone.",
+    "example": "Her encouraging words helped me to pursue my dreams."
+  },
+  "sentences_removed": 0
+}

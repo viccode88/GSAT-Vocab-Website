@@ -1,0 +1,29 @@
+{
+  "lemma": "jungle",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since many of our house plants are from humid jungle environments, they need _____ air to keep them green and healthy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/jungle_ex_0_63b0e322.mp3"
+      },
+      {
+        "text": "Rivers and streams flow slowly through jungles of shaded greens.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/jungle_ex_1_289294d5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "叢林，一種茂密的熱帶森林，通常生長著多種植物和動物。",
+    "en_def": "A dense, tropical forest that is home to a variety of plants and animals.",
+    "example": "The explorers ventured deep into the jungle to discover new species."
+  },
+  "sentences_removed": 0
+}

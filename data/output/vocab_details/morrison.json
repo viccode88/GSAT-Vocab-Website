@@ -1,0 +1,64 @@
+{
+  "lemma": "morrison",
+  "count": 10,
+  "pos_dist": {
+    "PROPN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements is true about Toni Morrison? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/morrison_ex_0_de2dff0f.mp3"
+      },
+      {
+        "text": "Why did Morrison join the writers’ group?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/morrison_ex_1_5c36b624.mp3"
+      },
+      {
+        "text": "According to the passage, what is one of the themes in Morrison’s works? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/morrison_ex_2_a2220dab.mp3"
+      },
+      {
+        "text": "In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/morrison_ex_3_d1f87f77.mp3"
+      },
+      {
+        "text": "In 1993, Morrison received the Nobel Prize in Literature.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/morrison_ex_4_e78cbadc.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After graduating from college, Morrison started to work as a teacher and got married in 1958.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1964, Morrison got divorced and devoted herself to writing.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From 1970 to 1992, Morrison published five more novels.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "莫里森（Morrison）是一個常見的姓氏，可能指代多位著名人物或品牌。",
+    "en_def": "Morrison is a common surname that may refer to various notable individuals or brands.",
+    "example": "Morrison is known for his contributions to literature."
+  },
+  "sentences_removed": 1
+}

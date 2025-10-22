@@ -1,0 +1,23 @@
+{
+  "lemma": "bathing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have remained popular due to their convenience, and are often worn with bathing suits or summer clothing.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bathing_ex_0_a7ac66d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "洗澡；浸泡在水中以清潔身體或放鬆身心的行為。",
+    "en_def": "The act of washing oneself in water, typically for cleanliness or relaxation.",
+    "example": "She enjoys bathing in the evening to unwind after a long day."
+  },
+  "sentences_removed": 0
+}

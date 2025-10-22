@@ -1,0 +1,23 @@
+{
+  "lemma": "log",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is about 37 m tall, 20 it one of the tallest log structures in the world.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/log_ex_0_99678b60.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "記錄或日誌，通常用於記錄事件、活動或數據。",
+    "en_def": "A record of events, activities, or data, often kept in chronological order.",
+    "example": "She kept a log of her daily exercise routine."
+  },
+  "sentences_removed": 0
+}

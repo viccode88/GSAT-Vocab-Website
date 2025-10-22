@@ -1,0 +1,23 @@
+{
+  "lemma": "extinction",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/extinction_ex_0_e87c9a2d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滅絕；生物或物種的消失或完全消亡。",
+    "en_def": "The state of a species, family, or larger group being no longer in existence.",
+    "example": "The extinction of the dinosaurs occurred millions of years ago."
+  },
+  "sentences_removed": 0
+}

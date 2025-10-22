@@ -1,0 +1,23 @@
+{
+  "lemma": "indispensable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But where did this simple, cheap, and indispensable invention come from?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/indispensable_ex_0_02da23ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不可或缺的，必需的",
+    "en_def": "Absolutely necessary; essential.",
+    "example": "Water is indispensable for all forms of life."
+  },
+  "sentences_removed": 0
+}

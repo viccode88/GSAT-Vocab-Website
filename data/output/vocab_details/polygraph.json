@@ -1,0 +1,38 @@
+{
+  "lemma": "polygraph",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/polygraph_ex_0_1cb4adca.mp3"
+      },
+      {
+        "text": "However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/polygraph_ex_1_695db3bf.mp3"
+      },
+      {
+        "text": "Well-trained examiners can usually detect lying with a high degree of 25 when they use a polygraph.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/polygraph_ex_2_a8ed1348.mp3"
+      },
+      {
+        "text": "When a person takes a polygraph test, four to six wires, called sensors, are 22 to different parts of his body.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/polygraph_ex_3_a77fdc3d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多項測謊器，一種用於測量和記錄生理反應的儀器，通常用於偵測謊言。",
+    "en_def": "A device that measures and records physiological responses, often used to detect lies.",
+    "example": "The detective used a polygraph to determine if the suspect was telling the truth."
+  },
+  "sentences_removed": 0
+}

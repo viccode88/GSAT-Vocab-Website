@@ -1,0 +1,23 @@
+{
+  "lemma": "parthenon",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/parthenon_ex_0_def0e2d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "帕台農神廟：位於希臘雅典的古代神廟，供奉女神雅典娜，是古希臘建築的代表作。",
+    "en_def": "The Parthenon: An ancient temple on the Acropolis of Athens, dedicated to the goddess Athena, and a symbol of ancient Greek architecture.",
+    "example": "The Parthenon stands as a testament to the artistic and architectural achievements of ancient Greece."
+  },
+  "sentences_removed": 0
+}

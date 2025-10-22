@@ -1,0 +1,33 @@
+{
+  "lemma": "bilingual",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The purpose of this passage is to (A) explain how people become bilingual.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/bilingual_ex_0_7b6adac5.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE for bilingual people? (A) Those who spoke different languages used the same part of Wernicke’s area.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/bilingual_ex_1_f23bd20d.mp3"
+      },
+      {
+        "text": "He used an instrument called an MRI (magnetic resonance imaging) to study the brains of two groups of bilingual people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/bilingual_ex_2_67f59f33.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雙語的；能使用兩種語言的。",
+    "en_def": "Able to speak two languages fluently.",
+    "example": "She is bilingual and can easily switch between English and Spanish."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "acre",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to this report, about how many acres of the Amazon Rainforest are lost every second?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/acre_ex_0_c4035258.mp3"
+      },
+      {
+        "text": "Completely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/acre_ex_1_335bb207.mp3"
+      },
+      {
+        "text": "That means that 64 acres of the rainforest is lost every minute.” (1) Which place is called “the lungs of the earth”? (2) What kinds of people are on the AmazonQuest team?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/acre_ex_2_5455e228.mp3"
+      },
+      {
+        "text": "It is estimated that more than 33 million acres of Amazonian Rainforest disappear every year.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/acre_ex_3_999e0b37.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "英畝，一種面積單位，等於約4046.86平方米。",
+    "en_def": "An acre is a unit of area equal to 43,560 square feet or about 4046.86 square meters.",
+    "example": "The farmer owns fifty acres of land."
+  },
+  "sentences_removed": 0
+}

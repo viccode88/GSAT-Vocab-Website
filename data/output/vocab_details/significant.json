@@ -1,0 +1,59 @@
+{
+  "lemma": "significant",
+  "count": 8,
+  "pos_dist": {
+    "ADJ": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It contains many historically significant and beautiful wooden structures, 19 windmills, boathouses, chapels, fish houses, and homes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/significant_ex_0_11abf75f.mp3"
+      },
+      {
+        "text": "The disappearance of the glaciers will also leave a significant 29 impact.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/significant_ex_1_1e3e80d9.mp3"
+      },
+      {
+        "text": "The Russian state played a significant role in the spread of alcohol consumption in the country.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/significant_ex_2_d22983f4.mp3"
+      },
+      {
+        "text": "For them, the onion was not just food or medicine; it held significant 32 meaning.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/significant_ex_3_c786700b.mp3"
+      },
+      {
+        "text": "There is, however, a significant 27 between such beliefs and the actual effect of weather on people’s performance at work.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/significant_ex_4_d79d40ca.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What is the most significant implication that teachers can draw from the above information?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The secret is: Never wait until the body is telling you you’re thirsty, since there must already have been significant changes in your body for it to eventually 28 your consciousness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In what way are high school proms significant to American teenagers?",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "重要的，顯著的",
+    "en_def": "Having meaning or importance; noteworthy.",
+    "example": "The discovery of the new species was significant for the field of biology."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "mature",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This bark can be pretty thick, well over two feet in the more mature trees.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mature_ex_0_8892e6d3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "成熟的，發展到完全或最佳狀態的。",
+    "en_def": "Fully developed or grown; having reached an advanced stage of mental or emotional development.",
+    "example": "She has become more mature in her decision-making over the years."
+  },
+  "sentences_removed": 0
+}

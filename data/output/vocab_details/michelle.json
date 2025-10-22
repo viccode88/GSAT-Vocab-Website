@@ -1,0 +1,23 @@
+{
+  "lemma": "michelle",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/michelle_ex_0_b2303256.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "米歇爾，一個常見的女性名字。",
+    "en_def": "Michelle, a common female given name.",
+    "example": "Michelle loves to paint in her free time."
+  },
+  "sentences_removed": 0
+}

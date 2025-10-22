@@ -1,0 +1,23 @@
+{
+  "lemma": "paraguay",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pineapple was 22 found in Paraguay and in the southern part of Brazil.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/paraguay_ex_0_9afb22fb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巴拉圭：位於南美洲的內陸國家，與阿根廷、巴西和玻利維亞接壤。",
+    "en_def": "Paraguay: A landlocked country in South America bordered by Argentina, Brazil, and Bolivia.",
+    "example": "Paraguay is known for its rich cultural heritage and diverse landscapes."
+  },
+  "sentences_removed": 0
+}

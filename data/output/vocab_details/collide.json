@@ -1,0 +1,33 @@
+{
+  "lemma": "collide",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moreover, pieces of junk may collide with each other and break into fragments which fall back to the Earth.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/collide_ex_0_f161cd51.mp3"
+      },
+      {
+        "text": "The country has been troubled by a problem with trains colliding with deer on its railways.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/collide_ex_1_1b8a2a09.mp3"
+      },
+      {
+        "text": "Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/collide_ex_2_7600ec79.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "碰撞，撞擊",
+    "en_def": "To come into conflict or crash together with force.",
+    "example": "The two cars collided at the intersection."
+  },
+  "sentences_removed": 0
+}

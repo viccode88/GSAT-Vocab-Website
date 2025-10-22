@@ -1,0 +1,28 @@
+{
+  "lemma": "fertilizer",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In addition, the leftover material following the removal of fibers can even be used as a natural fertilizer back in the pineapple fields.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fertilizer_ex_0_5f9117a0.mp3"
+      },
+      {
+        "text": "Kareem let his forest grow naturally, without using fertilizers or insecticides.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/fertilizer_ex_1_f6de3ea1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用於促進植物生長的物質，通常含有氮、磷和鉀等營養成分。",
+    "en_def": "A substance used to enhance plant growth, typically containing nutrients like nitrogen, phosphorus, and potassium.",
+    "example": "Farmers often apply fertilizer to their fields to increase crop yields."
+  },
+  "sentences_removed": 0
+}

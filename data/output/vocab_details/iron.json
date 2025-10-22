@@ -1,0 +1,75 @@
+{
+  "lemma": "iron",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 8,
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While the Iron Curtain was still in place under the communist government, Prague was ＿29＿ visited by foreigners.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/iron_ex_0_de8ba48f.mp3"
+      },
+      {
+        "text": "Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/iron_ex_1_f44f44aa.mp3"
+      },
+      {
+        "text": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/iron_ex_2_b6fa7f95.mp3"
+      },
+      {
+        "text": "Deer are attracted to railway lines because of a need for iron in their diets.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/iron_ex_3_918fe2e8.mp3"
+      },
+      {
+        "text": "They lick the rails to pick up iron filings caused by the action of wheels against tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/iron_ex_4_fb539dda.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The heavy weight of iron materials.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "His 1848 novel, The Man in the Iron Mask, was recently made into a movie.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "An iron rod is used to strike the thicker glass hemispheres.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The old iron Eiffel Tower needs to be re-built with wood.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To form a contrast with the iron structure of the old tower.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the highlighted “they” in the second paragraph refer to? (A) Iron rods.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種金屬元素，符號為Fe，具有良好的導電性和延展性，常用於製造鋼鐵和其他合金。",
+    "en_def": "A metallic element, symbol Fe, known for its good conductivity and malleability, commonly used in the production of steel and other alloys.",
+    "example": "The bridge is made of iron to ensure its strength and durability."
+  },
+  "sentences_removed": 0
+}

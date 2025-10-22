@@ -1,0 +1,28 @@
+{
+  "lemma": "minor",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/minor_ex_0_f81d97bb.mp3"
+      },
+      {
+        "text": "He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/minor_ex_1_23b9762f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "未成年人；小的，次要的，輕微的",
+    "en_def": "A person under the age of full legal responsibility; something of lesser importance.",
+    "example": "The minor was not allowed to enter the club without an adult."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "miracle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Recent research has found lots of evidence to the drug company’s claims about its “miracle” tablets for curing cancer.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/miracle_ex_0_69ff2994.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奇蹟；不可思議的事件或現象。",
+    "en_def": "An extraordinary event or action that is believed to be caused by a supernatural power.",
+    "example": "The recovery of the patient was considered a miracle by the doctors."
+  },
+  "sentences_removed": 0
+}

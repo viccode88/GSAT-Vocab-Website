@@ -1,0 +1,23 @@
+{
+  "lemma": "cowboy",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Such demand increased with the rise of western movies, and many cowboys with masterful skills on horseback found a new 27 as a stunt person.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cowboy_ex_0_b3748597.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "牛仔；在美國西部從事牧牛工作的男性或女性，通常穿著特定的服裝。",
+    "en_def": "A person, especially in the western United States, who herds and tends cattle, typically on horseback and often wearing a wide-brimmed hat and boots.",
+    "example": "The cowboy rode his horse across the open plains."
+  },
+  "sentences_removed": 0
+}

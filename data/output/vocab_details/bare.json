@@ -1,0 +1,38 @@
+{
+  "lemma": "bare",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bare_ex_0_e7a95169.mp3"
+      },
+      {
+        "text": "This 18-year-old sprinted to the finish of a 12-mile run with his bare feet bleeding.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bare_ex_1_eaedbe03.mp3"
+      },
+      {
+        "text": "But now the garden looked shabby and bare.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bare_ex_2_62567504.mp3"
+      },
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bare_ex_3_7fd64a8e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "光禿禿的；未覆蓋的；赤裸的",
+    "en_def": "Lacking covering or clothing; exposed.",
+    "example": "The tree stood bare after losing all its leaves in winter."
+  },
+  "sentences_removed": 0
+}

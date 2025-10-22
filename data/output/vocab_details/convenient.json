@@ -1,0 +1,33 @@
+{
+  "lemma": "convenient",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This created a convenient, sturdy platform for any person too short to reach the sink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/convenient_ex_0_9f4835b5.mp3"
+      },
+      {
+        "text": "not only good service but also convenient public transport.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/convenient_ex_1_9ffee937.mp3"
+      },
+      {
+        "text": "Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/convenient_ex_2_5e8db381.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "方便的，容易使用或接近的。",
+    "en_def": "Easy to use or access; causing little difficulty.",
+    "example": "The new app makes it convenient to order groceries online."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "cable",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is PBS most famous for? (A) Cable services.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/cable_ex_0_724eabf0.mp3"
+      },
+      {
+        "text": "Nor is it one of the cable networks such as CNN, which carries only news and news stories.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/cable_ex_1_06dded05.mp3"
+      },
+      {
+        "text": "It is not ESPN, the all-sports cable network, or even MTV, which is famous for its music videos.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/cable_ex_2_b62b3ad9.mp3"
+      },
+      {
+        "text": "In Taiwan, some cable TV companies have up to 70 or 80 ________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/cable_ex_3_72ecb321.mp3"
+      },
+      {
+        "text": "PBS has 349 member television stations in the U.S. and some member stations by cable in Canada.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/cable_ex_4_6c763d28.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由導體組成的長條形物體，用於傳輸電力或信號。",
+    "en_def": "A long, flexible object made of conductors used for transmitting electricity or signals.",
+    "example": "The technician installed a new cable to improve the internet connection."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "boston",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/boston_ex_0_ae581a36.mp3"
+      },
+      {
+        "text": "The three whales were taken in a van to the New England Aquarium in Boston, Mass.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/boston_ex_1_bad60dc2.mp3"
+      },
+      {
+        "text": "He first established his reputation as an illustrator in his hometown of Boston. 51.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/boston_ex_2_59307e92.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "波士頓，美國麻薩諸塞州的首府，以其歷史、文化和教育機構而聞名。",
+    "en_def": "Boston, the capital of Massachusetts, known for its history, culture, and educational institutions.",
+    "example": "Boston is famous for its historic sites and vibrant arts scene."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,241 @@
+{
+  "lemma": "park",
+  "count": 52,
+  "pos_dist": {
+    "NOUN": 35,
+    "PROPN": 16,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is special about the Waterton-Glacier International Peace Park?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/park_ex_0_466ca371.mp3"
+      },
+      {
+        "text": "The establishment and features of a special theme park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/park_ex_1_c7deda63.mp3"
+      },
+      {
+        "text": "Completely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/park_ex_2_335bb207.mp3"
+      },
+      {
+        "text": "Visitors now can drive over sections of the park that previously took days of horseback riding to see.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/park_ex_3_45d91a2d.mp3"
+      },
+      {
+        "text": "In March 1872, lawmakers officially made Yellowstone a national park, the world’s first.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/park_ex_4_465b0233.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Tsavo National park needed a baby elephant (B) she could not find her way home (C) she was very young when she lost her mother (D) Daphne wanted to keep her as a pet 48.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "How national parks around the world were established.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "More recently, the parks have received several international honors.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After a year in the orphanage with the constant companionship of her human family, Zoe was taken to a refuge at Tsavo National Park.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The park was built by Gordon Hartman, a former real estate developer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "It is the first park funded by the whole world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I was taking a walk in the park… E.…have carried out many welfare programs.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of our classmates are ________ taking a trip to Kenting National Park.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Daphne’s husband, David Sheldrick, founded Tsavo National Park.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The world’s first ultra-accessible family fun park, Morgan’s Wonderland opened in the spring of 2010.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "33 , there are lovely, clean campgrounds where campers can park their vehicles.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Waterproof chairs enable visitors to roam all over the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "What made it necessary to build a road through the Glacier National Park? (A) There were too many parks in Montana.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At Tsavo National Park, Zoe has been ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Even today, visitors to the park marvel at how such a road could have been built.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "You may experience the discomfort from the motion of cars, boats, or amusement park rides.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred from the passage? (A) Scribner’s Monthly was a magazine promoting national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was the only national park established because of Moran’s works.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The construction of the road has changed the way visitors experience the Glacier National Park.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The park was not sunny enough for visitors.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Jack: Oh, in a lovely valley, about three miles north of the National Park.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the painter’s work appeared, Yellowstone National Park has come to be known as a picturesque wonderland.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1932, the United States and Canadian governments renamed the parks the Waterton-Glacier International Peace Park, the world’s first.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“There will always be competition for land,” she explained, “but we can protect elephants in the parks and give the young a chance.” 47.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park? (A) The scenery along the road is too beautiful for visitors to drive carefully.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The success of the park is exactly what Morgan intended to achieve.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The road has allowed people to see more of the park in a shorter period of time.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is composed of two parks located in two countries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1931, members of the Rotary Clubs of Alberta and Montana suggested joining the two parks as a symbol of peace and friendship between the two countries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a fun activity in the park?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "More and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the Yellowstone National Park?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Just across the border, in Canada, is the Waterton Lakes National Park.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "公園：供人們休閒、娛樂和散步的開放空間，通常有綠地、樹木和設施。",
+    "en_def": "A park is an open space for public recreation, often featuring greenery, trees, and facilities.",
+    "example": "We spent the afternoon walking in the park."
+  },
+  "sentences_removed": 4
+}

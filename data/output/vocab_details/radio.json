@@ -1,0 +1,59 @@
+{
+  "lemma": "radio",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the development of radio and television has not diminished the importance of printing.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/radio_ex_0_4bab3a3d.mp3"
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/radio_ex_1_e84c0edd.mp3"
+      },
+      {
+        "text": "Today, attachments include radios, sensors, cameras, and a lot more.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/radio_ex_2_e6a4c1da.mp3"
+      },
+      {
+        "text": "In a radio interview, Dom expressed his disappointment and explained how the accident took place.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/radio_ex_3_b4a3fe34.mp3"
+      },
+      {
+        "text": "I wonder why she turned up the radio when I was studying.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/radio_ex_4_f1b297e3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Through a projector, this attractive radio-alarm-clock is able to display the time onto a wall, ceiling, or anywhere __23__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, some radio scripts had to be rushed by taxi to Jack’s house because they were needed for broadcasting the next day.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種用於接收和發送無線電波的設備，通常用於廣播音樂、新聞和其他音頻內容。",
+    "en_def": "A device used for receiving and transmitting radio waves, typically used for broadcasting music, news, and other audio content.",
+    "example": "I like to listen to the radio while driving."
+  },
+  "sentences_removed": 0
+}

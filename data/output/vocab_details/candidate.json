@@ -1,0 +1,43 @@
+{
+  "lemma": "candidate",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since Michael was the best candidate, the committee voted for him to take charge of the company’s sales department.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/candidate_ex_0_ae550734.mp3"
+      },
+      {
+        "text": "As the rumor of his scandal ______ quickly during the election campaign, more and more people began to question the honesty of the candidate.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/candidate_ex_1_18a59e97.mp3"
+      },
+      {
+        "text": "The The company offers the most lucrative compensation selected candidate will undergo a training program to plan in the industry and has paid over $3.5 billion NTD be conducted by our manufacturer’s trained technical in commissions in just 6 years in the US.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/candidate_ex_2_829dc770.mp3"
+      },
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/candidate_ex_3_79b8f884.mp3"
+      },
+      {
+        "text": "The successful candidate, usually __(19)__ two or three, was then removed from his family to Lhasa to begin spiritual training for his future role.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/candidate_ex_4_8a88f9dd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "候選人，指參加選舉或競爭的人。",
+    "en_def": "A person who applies for a job or is nominated for election.",
+    "example": "She is a strong candidate for the position of manager."
+  },
+  "sentences_removed": 0
+}

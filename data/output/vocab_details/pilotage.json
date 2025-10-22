@@ -1,0 +1,23 @@
+{
+  "lemma": "pilotage",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Marine pilotage is a job that requires a high degree of proficiency as well as quick and independent thinking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/pilotage_ex_0_6cc1aa81.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "引航，指在船舶進入港口或航行於危險水域時，由專業引航員提供的導航服務。",
+    "en_def": "The act of navigating a ship through difficult waters, often with the assistance of a pilot.",
+    "example": "The pilotage through the narrow channel required expert knowledge of the tides."
+  },
+  "sentences_removed": 0
+}

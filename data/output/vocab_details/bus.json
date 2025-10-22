@@ -1,0 +1,49 @@
+{
+  "lemma": "bus",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Tim: Someone left a schoolbag on the bus.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bus_ex_0_1d229484.mp3"
+      },
+      {
+        "text": "One week after the typhoon, some bridges were finally opened and bus service _____ in the country’s most severely damaged areas.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bus_ex_1_824c6169.mp3"
+      },
+      {
+        "text": "Do you know what time the next bus is ______?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/bus_ex_2_f5464668.mp3"
+      },
+      {
+        "text": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bus_ex_3_10b9f225.mp3"
+      },
+      {
+        "text": "The bus driver often complains about chewing gum found under passenger seats because it is and very hard to remove.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/bus_ex_4_fdd73274.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "I am tired of to school in a crowded bus every day.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種公共交通工具，通常在固定路線上運行，能夠載運多名乘客。",
+    "en_def": "A large vehicle that carries passengers by road, typically along a fixed route.",
+    "example": "I took the bus to work this morning."
+  },
+  "sentences_removed": 0
+}

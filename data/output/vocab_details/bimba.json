@@ -1,0 +1,28 @@
+{
+  "lemma": "bimba",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bimba_ex_0_cff0c385.mp3"
+      },
+      {
+        "text": "It was officially recognized in Brazil through the effort of Mestre Bimba.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bimba_ex_1_ae9bb4a3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於形容年輕女孩或女性的俚語，通常帶有可愛或天真的意味。",
+    "en_def": "A slang term used to describe a young girl or woman, often implying cuteness or innocence.",
+    "example": "The little bimba danced happily at the party."
+  },
+  "sentences_removed": 0
+}

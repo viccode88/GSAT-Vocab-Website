@@ -1,0 +1,23 @@
+{
+  "lemma": "penetrate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many people think these bug killers or pesticides will penetrate every place where the insects hide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/penetrate_ex_0_ea5be46f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "穿透，進入或深入某物。",
+    "en_def": "To pass into or through something.",
+    "example": "The needle can penetrate the fabric easily."
+  },
+  "sentences_removed": 0
+}

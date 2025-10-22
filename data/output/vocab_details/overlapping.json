@@ -1,0 +1,23 @@
+{
+  "lemma": "overlapping",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The overlapping layers in front are called “aprons.”",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/overlapping_ex_0_80ae2c17.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重疊的，部分重合的",
+    "en_def": "Extending over and covering part of something else.",
+    "example": "The two schedules have overlapping times that need to be resolved."
+  },
+  "sentences_removed": 0
+}

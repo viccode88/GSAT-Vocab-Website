@@ -1,0 +1,23 @@
+{
+  "lemma": "fragile",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mother’s fear of loss especially makes sense since the infant/toddler years of life are fragile ones.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fragile_ex_0_ba947bec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "易碎的，脆弱的，容易損壞或破裂的。",
+    "en_def": "Easily broken, damaged, or destroyed; delicate.",
+    "example": "Be careful with that vase; it's very fragile."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "rio",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was a member of the Refugee debut at Rio 2016.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/rio_ex_0_524aa9d7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "河流，特指流經城市或地區的水體，通常是淡水。",
+    "en_def": "A river, especially one that flows through a city or region, typically freshwater.",
+    "example": "The Rio Grande forms part of the border between the United States and Mexico."
+  },
+  "sentences_removed": 1
+}

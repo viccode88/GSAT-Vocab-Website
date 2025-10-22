@@ -1,0 +1,28 @@
+{
+  "lemma": "understandable",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Also, the idea 30 a very complex issue regarding depression into something simple and easily understandable, and that tends to appeal to a lot of people. 26.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/understandable_ex_0_bec82ef1.mp3"
+      },
+      {
+        "text": "With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/understandable_ex_1_3013d976.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "易於理解的，清楚明白的。",
+    "en_def": "Able to be understood; clear and comprehensible.",
+    "example": "Her explanation was so understandable that everyone grasped the concept quickly."
+  },
+  "sentences_removed": 0
+}

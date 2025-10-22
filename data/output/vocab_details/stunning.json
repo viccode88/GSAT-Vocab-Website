@@ -1,0 +1,28 @@
+{
+  "lemma": "stunning",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Located at the heart of Paris, this medieval cathedral is 21 for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/stunning_ex_0_9219cc54.mp3"
+      },
+      {
+        "text": "For two weeks he filled his sketchbook with the landscape’s most stunning sights.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/stunning_ex_1_4fba6a7b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "驚人的；令人驚嘆的",
+    "en_def": "Extremely impressive or attractive.",
+    "example": "The view from the mountain was absolutely stunning."
+  },
+  "sentences_removed": 1
+}

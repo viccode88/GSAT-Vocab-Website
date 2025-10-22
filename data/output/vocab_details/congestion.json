@@ -1,0 +1,23 @@
+{
+  "lemma": "congestion",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/congestion_ex_0_30818b36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擁擠，特別是交通或人群的過度集中。",
+    "en_def": "The state of being overcrowded, especially in terms of traffic or people.",
+    "example": "The city experienced severe congestion during rush hour."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "contradictory",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is contradictory information about Russians’ inclination toward alcohol in the 15th and 16th centuries.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/contradictory_ex_0_b6c1348c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "矛盾的；相互抵觸的",
+    "en_def": "Involving or having elements that are in opposition or conflict.",
+    "example": "His actions were contradictory to his words."
+  },
+  "sentences_removed": 0
+}

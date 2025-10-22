@@ -1,0 +1,23 @@
+{
+  "lemma": "waterfalls",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We weren’t able to visit the Rainbow Waterfalls as we planned, but… John",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/waterfalls_ex_0_57bf3762.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瀑布是水流從高處垂直或斜向下降的自然現象。",
+    "en_def": "Waterfalls are natural features where water flows over a vertical drop or cliff.",
+    "example": "The sound of the waterfalls was soothing as we hiked through the forest."
+  },
+  "sentences_removed": 0
+}

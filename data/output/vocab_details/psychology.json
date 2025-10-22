@@ -1,0 +1,23 @@
+{
+  "lemma": "psychology",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What field of study does the research mentioned in the passage most likely belong to? (A) Psychology.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/psychology_ex_0_e0527bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "心理學：研究人類行為和心理過程的科學。",
+    "en_def": "Psychology: The scientific study of human behavior and mental processes.",
+    "example": "She decided to study psychology to better understand how people think and feel."
+  },
+  "sentences_removed": 0
+}

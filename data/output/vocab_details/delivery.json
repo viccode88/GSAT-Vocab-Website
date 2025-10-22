@@ -1,0 +1,23 @@
+{
+  "lemma": "delivery",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/delivery_ex_0_3470d2c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "交付，運送，特別是指將貨物或服務送到指定地點的行為。",
+    "en_def": "The act of bringing goods or services to a specific location.",
+    "example": "The delivery of the package was scheduled for tomorrow."
+  },
+  "sentences_removed": 0
+}

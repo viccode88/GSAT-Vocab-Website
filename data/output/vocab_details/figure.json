@@ -1,0 +1,65 @@
+{
+  "lemma": "figure",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 6,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Though the figures on attendance for each vary with every new season, certain 26 remain the same.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/figure_ex_0_c1d273df.mp3"
+      },
+      {
+        "text": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/figure_ex_1_d5301dd6.mp3"
+      },
+      {
+        "text": "Police and Glenn’s parade was attended by 500,000 -- a figure that appeared generously inflated.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/figure_ex_2_1700d558.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Why does the report say that the figure of Glenn’s second parade was “inflated”?",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "From there they figure out what treatments may work.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A good reader can often figure out what new words mean by using .",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Sue: That’s what I’m trying to figure out.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Best I can figure is that I have some chemical, some mineral, in my body that draws lightning.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "數字、形狀或人物的圖像或表示。",
+    "en_def": "A representation of a form, shape, or a numerical value.",
+    "example": "She drew a figure of a cat on the paper."
+  },
+  "sentences_removed": 2
+}

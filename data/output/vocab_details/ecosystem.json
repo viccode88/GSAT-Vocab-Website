@@ -1,0 +1,33 @@
+{
+  "lemma": "ecosystem",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Rising temperatures, an effect of global warming, 25 threaten the ecosystem of this mountain area.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ecosystem_ex_0_88a8937d.mp3"
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ecosystem_ex_1_b5139e33.mp3"
+      },
+      {
+        "text": "There would be a real chance of running aground and damaging the ship and the cargo, some of which might be dangerous if released into a water-based ecosystem.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ecosystem_ex_2_3619245a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生態系統是指一個特定環境中所有生物及其與環境之間相互作用的系統。",
+    "en_def": "An ecosystem is a community of living organisms and their interactions with the environment in a specific area.",
+    "example": "The forest ecosystem is home to a diverse range of plants and animals."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "austria",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As of May 1, 1995, all nationals of the following 15 countries are exempted from securing visas for entry into the Republic of China: U.S.A., Japan, Canada, Belgium, Luxembourg, Sweden, Holland, New Zealand, Australia, Austria, Germany, Britain, France, Spain, and Portugal.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/austria_ex_0_225ad931.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奧地利：位於中歐的內陸國家，以其豐富的文化和歷史著稱。",
+    "en_def": "Austria: A landlocked country in Central Europe known for its rich culture and history.",
+    "example": "Austria is famous for its beautiful landscapes and classical music heritage."
+  },
+  "sentences_removed": 0
+}

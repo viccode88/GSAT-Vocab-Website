@@ -1,0 +1,23 @@
+{
+  "lemma": "proposition",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Fourth of July means beer and New Year's Eve is an entire night dedicated to the proposition that everyone must get 25 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/proposition_ex_0_ed74b990.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提議；主張；命題",
+    "en_def": "A statement or assertion that expresses a judgment or opinion.",
+    "example": "The committee presented a new proposition for improving community services."
+  },
+  "sentences_removed": 0
+}

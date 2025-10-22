@@ -1,0 +1,23 @@
+{
+  "lemma": "washcloth",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/washcloth_ex_0_2b91658e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用於清潔身體或物品的小布塊，通常用於洗澡或擦拭。",
+    "en_def": "A small piece of cloth used for washing the body or cleaning surfaces, typically used in bathing.",
+    "example": "She used a washcloth to gently scrub her face."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "swallow",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The old man could swallow because his throat was too dry.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/swallow_ex_0_530efd58.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "吞下，將食物或液體從口中送入胃中。",
+    "en_def": "To cause food or drink to pass down the throat.",
+    "example": "She had to swallow quickly to avoid choking on her food."
+  },
+  "sentences_removed": 0
+}

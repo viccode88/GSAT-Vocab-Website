@@ -1,0 +1,23 @@
+{
+  "lemma": "resentful",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/resentful_ex_0_c6d4ceb7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "心懷不滿的，對某人或某事感到憤怒或不快的。",
+    "en_def": "Feeling bitterness or indignation at having been treated unfairly.",
+    "example": "She felt resentful after being overlooked for the promotion."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "airmail",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you expect to have quick ________ of the goods, it is better to have them airmailed.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/airmail_ex_0_836043b2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "航空郵件，指通過航空運輸的郵件。",
+    "en_def": "Mail that is sent by air transport.",
+    "example": "I sent the package by airmail to ensure it arrives quickly."
+  },
+  "sentences_removed": 0
+}

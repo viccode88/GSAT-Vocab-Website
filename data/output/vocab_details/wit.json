@@ -1,0 +1,23 @@
+{
+  "lemma": "wit",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These people usually triumph over their enemies because of their wit and their great energy.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/wit_ex_0_0bd33e3b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "機智；聰明的表達或行為",
+    "en_def": "The ability to think quickly and express ideas in an amusing and clever way.",
+    "example": "Her wit made the conversation lively and enjoyable."
+  },
+  "sentences_removed": 0
+}

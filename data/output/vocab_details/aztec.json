@@ -1,0 +1,29 @@
+{
+  "lemma": "aztec",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the Spanish explorers went to Mexico, they saw the Aztec kings 15 umbrellas.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/aztec_ex_0_9e073a5c.mp3"
+      },
+      {
+        "text": "The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/aztec_ex_1_b77b1e71.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿茲特克人，指古代墨西哥的一個印第安文明，以其高度發展的社會結構和文化著稱。",
+    "en_def": "The Aztecs were an ancient civilization in Mexico known for their advanced social structure and culture.",
+    "example": "The Aztec civilization built impressive pyramids and developed a complex calendar."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "prey",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/prey_ex_0_b6e4a60b.mp3"
+      },
+      {
+        "text": "Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/prey_ex_1_462acf39.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "獵物；被捕食的動物或人",
+    "en_def": "An animal that is hunted and eaten by another animal.",
+    "example": "The lion stalked its prey in the tall grass."
+  },
+  "sentences_removed": 0
+}

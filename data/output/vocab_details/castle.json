@@ -1,0 +1,38 @@
+{
+  "lemma": "castle",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The castle was so big that it was once the city of Bam itself.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/castle_ex_0_4afbd920.mp3"
+      },
+      {
+        "text": "An old mud and straw castle.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/castle_ex_1_9daaa121.mp3"
+      },
+      {
+        "text": "Bam was a city of mud-brick houses, old monuments and an ancient castle.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/castle_ex_2_dc410af9.mp3"
+      },
+      {
+        "text": "Bam was best known for its 2,000-year-old castle built out of mud, straw, and the trunks of palm trees.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/castle_ex_3_6dd72cd2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "城堡：通常是中世紀的防禦性建築，通常由高牆和塔樓組成，作為貴族或君主的居所。",
+    "en_def": "A castle is a large fortified building or set of buildings, typically from the medieval period, used as a residence for nobility or royalty.",
+    "example": "The king lived in a grand castle on the hill."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "background",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The background of building a green airport.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/background_ex_0_c4bfe2f3.mp3"
+      },
+      {
+        "text": "Americans __(38)__ different racial and educational backgrounds may vary in their standards of living.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/background_ex_1_fa6ada78.mp3"
+      },
+      {
+        "text": "Which of the following best describes Cartier-Bresson’s family background?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/background_ex_2_a9627043.mp3"
+      },
+      {
+        "text": "Historical background of a region.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/background_ex_3_7c6a1456.mp3"
+      },
+      {
+        "text": "They often concern very strong or clever people who come from humble backgrounds.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/background_ex_4_69500354.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "背景；背景知識或環境。",
+    "en_def": "The circumstances or situation that form the setting for an event, statement, or idea.",
+    "example": "The artist's background influenced her unique style."
+  },
+  "sentences_removed": 1
+}

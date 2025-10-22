@@ -1,0 +1,23 @@
+{
+  "lemma": "workplace",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/workplace_ex_0_fc2d4902.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "工作場所，指員工進行工作的地方。",
+    "en_def": "A place where people are employed to perform their jobs.",
+    "example": "The workplace should be a safe and productive environment for all employees."
+  },
+  "sentences_removed": 0
+}

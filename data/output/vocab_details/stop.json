@@ -1,0 +1,130 @@
+{
+  "lemma": "stop",
+  "count": 22,
+  "pos_dist": {
+    "VERB": 21,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many nations have worked together to stop polluting space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/stop_ex_0_6a993a42.mp3"
+      },
+      {
+        "text": "Then, he stopped at Adam Joshua’s office, which happened to be unlocked, and walked away joyfully.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/stop_ex_1_f0ab9f1b.mp3"
+      },
+      {
+        "text": "The first piece of space junk was created in 1964, when the American satellite Vanguard I stopped operating and lost its connection with the ground center.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/stop_ex_2_accd5834.mp3"
+      },
+      {
+        "text": "He too stopped and asked Aesop the same question.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/stop_ex_3_d5c49399.mp3"
+      },
+      {
+        "text": "In the dream the cloakroom attendant at a theater stopped me in the lobby and insisted on my ___(31)___",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/stop_ex_4_2ae49719.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "We need to learn more about them and work together to stop the activities that may threaten their existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "People who are determined cannot be easily stopped from doing what they want to do.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He trained hard and became a the engine stopped and the boat began to sink.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the ship stopped, I eventually saw Tim, and I was very, very relieved that we were still alive.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For your own , please don't open the door until the train fully stops.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Future plans include a cooperative effort among many nations to stop littering in space and to clean up the trash already there.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "When he was about to cut its throat, the little pig suddenly 38 , “Stop!”",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The rudder also stopped responding.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Under the new doctor’s care, the regular testing stopped and Mrs. Power’s condition stabilized.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I shouted at them to stop the ship and to get Tim out.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So he stopped going to the market for three days and tried to think of a way to ___(36)___",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The cook’s plan to stop the dinner guest from complaining did not turn out as he had planned.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Feeling quite sick with fear, I sat on the driver’s seat, trying to stop trembling.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "停止，終止或不再進行某事。",
+    "en_def": "To cease or bring to an end; to halt an action or process.",
+    "example": "Please stop talking during the movie."
+  },
+  "sentences_removed": 0
+}

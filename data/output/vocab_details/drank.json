@@ -1,0 +1,23 @@
+{
+  "lemma": "drank",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People only drank beverages with low alcohol content.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/drank_ex_0_09a69571.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "喝的過去式，指已經飲用某種液體。",
+    "en_def": "The past tense of drink; to have consumed a liquid.",
+    "example": "She drank a glass of water after her workout."
+  },
+  "sentences_removed": 0
+}

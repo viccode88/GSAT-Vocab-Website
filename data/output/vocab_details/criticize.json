@@ -1,0 +1,38 @@
+{
+  "lemma": "criticize",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Air travel is especially criticized for exhausting natural resources and causing environmental damage.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/criticize_ex_0_f015cfbc.mp3"
+      },
+      {
+        "text": "He didn’t like to be criticized for being idiotic.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticize_ex_1_9ecfb689.mp3"
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticize_ex_2_755d4981.mp3"
+      },
+      {
+        "text": "In addition, good listeners are inclined to accept or tolerate (23) to judge and criticize.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticize_ex_3_f886524b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "批評；指責",
+    "en_def": "To express disapproval of someone or something.",
+    "example": "She didn't hesitate to criticize the movie for its poor plot."
+  },
+  "sentences_removed": 0
+}

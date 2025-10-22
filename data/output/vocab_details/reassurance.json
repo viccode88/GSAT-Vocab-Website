@@ -1,0 +1,23 @@
+{
+  "lemma": "reassurance",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is no death; only a change of worlds—the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/reassurance_ex_0_a51700a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "安慰，讓人感到安心或放心的行為或言語。",
+    "en_def": "The action of removing someone's doubts or fears; comfort or encouragement.",
+    "example": "She offered him reassurance that everything would be fine."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "inherent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Critics of the country say that drinking is almost an inherent trait of the Russian people.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/inherent_ex_0_54a3d943.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "固有的，內在的，天生的",
+    "en_def": "Existing as a natural or essential part of something.",
+    "example": "The ability to learn is inherent in all human beings."
+  },
+  "sentences_removed": 0
+}

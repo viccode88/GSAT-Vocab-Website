@@ -1,0 +1,23 @@
+{
+  "lemma": "laurasia",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "About 200 million years ago this super-continent broke up into two continents: Laurasia and Gondwana.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/laurasia_ex_0_f0a0aa7f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "勞拉西亞：在古生物學中，指一個古代的超大陸，包含現今的北美洲、歐洲和亞洲的部分地區。",
+    "en_def": "Laurasia: A prehistoric supercontinent that included present-day North America, Europe, and parts of Asia.",
+    "example": "Laurasia was formed during the late Paleozoic era."
+  },
+  "sentences_removed": 0
+}

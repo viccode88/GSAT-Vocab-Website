@@ -1,0 +1,84 @@
+{
+  "lemma": "read",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The book reads like a prayer, expressing specific beliefs about dying.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/read_ex_0_3000b7b5.mp3"
+      },
+      {
+        "text": "When taking medicine, we should read the instructions on the ______ carefully because they provide important information such as how and when to take it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/read_ex_1_59abadab.mp3"
+      },
+      {
+        "text": "More and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/read_ex_2_f4c2ee97.mp3"
+      },
+      {
+        "text": "Many ordinary clocks are hard to read early in the morning, deceiving students of the correct time, __22__ causing them to be late for school.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/read_ex_3_5f7d379c.mp3"
+      },
+      {
+        "text": "The ending of the movie did not come as a _____ to John because he had already read the novel that the movie was based on.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/read_ex_4_7d6f1b20.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Read this story and decide for __31__.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The book is not only informative but also , making me laugh and feel relaxed while reading it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Without it you would not now be reading this passage.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When I open a book, I look first at the table of to get a general idea of the book and to see which chapters I might be interested in reading.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This textbook is __________ more difficult to read than the other one.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In some cases, people with synesthesia may experience colors when they hear, read, or even think of letters and numbers.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "閱讀，理解或解釋書籍、文章或其他文字的行為。",
+    "en_def": "To look at and comprehend the meaning of written or printed matter.",
+    "example": "I like to read a book before going to bed."
+  },
+  "sentences_removed": 1
+}

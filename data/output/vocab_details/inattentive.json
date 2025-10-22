@@ -1,0 +1,23 @@
+{
+  "lemma": "inattentive",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Conversely, boys who appear to be inattentive in class may just be sitting too far away to hear the teacher.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/inattentive_ex_0_38ae6c75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不專心的，注意力不集中，容易分心的。",
+    "en_def": "Not paying attention; distracted or careless.",
+    "example": "He was inattentive during the lecture and missed important information."
+  },
+  "sentences_removed": 0
+}

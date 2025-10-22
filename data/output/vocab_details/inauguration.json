@@ -1,0 +1,23 @@
+{
+  "lemma": "inauguration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inauguration_ex_0_cd63efcf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "就職典禮；正式開始或啟用的儀式。",
+    "en_def": "A formal ceremony to mark the beginning of a significant event or the start of a person's term in office.",
+    "example": "The president's inauguration took place on a sunny day in January."
+  },
+  "sentences_removed": 0
+}

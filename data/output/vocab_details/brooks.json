@@ -1,0 +1,23 @@
+{
+  "lemma": "brooks",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Who wrote the book about Native Americans’ view of death? (A) Bruce Brooks.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/brooks_ex_0_423426d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小溪，通常指流動的淡水小河。",
+    "en_def": "Small streams of water that flow gently.",
+    "example": "The children played by the brooks in the sunny meadow."
+  },
+  "sentences_removed": 0
+}

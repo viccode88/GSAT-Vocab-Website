@@ -1,0 +1,38 @@
+{
+  "lemma": "conservative",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many employees don’t like a conservative dress code.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/conservative_ex_0_e7b06688.mp3"
+      },
+      {
+        "text": "An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/conservative_ex_1_28235132.mp3"
+      },
+      {
+        "text": "“A lot of young people don’t want to dress up for work,” says the owner of a software company, “so it’s hard to hire people if you have a conservative dress code.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/conservative_ex_2_2e2e80d2.mp3"
+      },
+      {
+        "text": "Research also suggests that firstborn children generally become more conservative than other children because they receive most of the parental discipline.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/conservative_ex_3_65079bd5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "保守的，通常指在政治、社會或文化上持有傳統觀點的人或思想。",
+    "en_def": "Holding to traditional attitudes and values, typically in relation to politics or religion.",
+    "example": "He has conservative views on social issues."
+  },
+  "sentences_removed": 0
+}

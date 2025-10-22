@@ -1,0 +1,23 @@
+{
+  "lemma": "bali",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Chains have emerged in Taiwan, Singapore, and even on resort islands like Bali.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bali_ex_0_f0458ccf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巴厘島，印尼的一個島嶼，以其美麗的海灘、文化和旅遊景點而聞名。",
+    "en_def": "Bali, an island in Indonesia known for its beautiful beaches, culture, and tourist attractions.",
+    "example": "Many tourists visit Bali every year to enjoy its stunning landscapes and vibrant culture."
+  },
+  "sentences_removed": 0
+}

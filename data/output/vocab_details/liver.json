@@ -1,0 +1,23 @@
+{
+  "lemma": "liver",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Stress is linked to the six __(36)__ causes of death— heart disease, cancer, lung disease, accidents, liver disease, and suicide.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/liver_ex_0_046ed688.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "肝臟，一種位於腹部的器官，負責代謝、解毒和儲存營養。",
+    "en_def": "The liver is a large organ in the abdomen that processes nutrients, detoxifies harmful substances, and produces bile.",
+    "example": "The doctor said my liver function is normal."
+  },
+  "sentences_removed": 0
+}

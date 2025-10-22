@@ -1,0 +1,64 @@
+{
+  "lemma": "instrument",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He used an instrument called an MRI (magnetic resonance imaging) to study the brains of two groups of bilingual people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/instrument_ex_0_67f59f33.mp3"
+      },
+      {
+        "text": "What musical instrument was Stradivarius most famous for making? 3.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/instrument_ex_1_9e75766a.mp3"
+      },
+      {
+        "text": "Most of the performance was not accompanied by any instrument.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/instrument_ex_2_662f9314.mp3"
+      },
+      {
+        "text": "He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/instrument_ex_3_e3cd48e8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The instrument is used to measure 21 a person’s body reacts to questions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He invented an instrument for which both Mozart and Beethoven composed music—the glass armonica.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The instrument became so popular that thousands were built and sold.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, there was no lack of music written for the instrument.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The popularity of the instrument faded early in the 19th century, but it is still played occasionally today. 49.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "用於創造音樂或進行測量的工具或設備。",
+    "en_def": "A tool or device used for creating music or for measurement.",
+    "example": "She plays the piano, which is her favorite musical instrument."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "elgin",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/elgin_ex_0_def0e2d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埃爾金（Elgin）是一個地名，通常指代蘇格蘭的一個城市或與該城市相關的事物。",
+    "en_def": "Elgin is a proper noun, often referring to a city in Scotland or things associated with it.",
+    "example": "Elgin is known for its historic buildings and beautiful landscapes."
+  },
+  "sentences_removed": 0
+}

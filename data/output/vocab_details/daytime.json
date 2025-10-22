@@ -1,0 +1,23 @@
+{
+  "lemma": "daytime",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are very active in the daytime.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/daytime_ex_0_9fc6d8bb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "白天，指從日出到日落的時間。",
+    "en_def": "The period of time during the day when there is light from the sun.",
+    "example": "We usually go for a walk during the daytime."
+  },
+  "sentences_removed": 0
+}

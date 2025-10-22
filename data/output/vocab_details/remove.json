@@ -1,0 +1,84 @@
+{
+  "lemma": "remove",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world’s leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/remove_ex_0_1ea6a844.mp3"
+      },
+      {
+        "text": "Matter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable 22 : human hair, of which there is an unlimited supply.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/remove_ex_1_f7c59827.mp3"
+      },
+      {
+        "text": "To turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/remove_ex_2_9c6c7ec2.mp3"
+      },
+      {
+        "text": "When part of their heart is removed, they can grow it back in a matter of weeks.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/remove_ex_3_97ac5d96.mp3"
+      },
+      {
+        "text": "But when that happens I just remove myself so I can focus instead on what I can do.” 45.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/remove_ex_4_b931fc4f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "That’s why he did not allow fallen leaves or twigs from the forest to be removed.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Then you could remove it 20 damage.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Simply removing the jingle of telephones and replacing them with the pleasant sounds of birds has had a remarkable effect on everyone.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about sea snakes? (A) Their salt glands can remove the salt in the seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The bus driver often complains about chewing gum found under passenger seats because it is and very hard to remove.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The successful candidate, usually __(19)__ two or three, was then removed from his family to Lhasa to begin spiritual training for his future role.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Mixing salt with water is not as easy as removing salt from seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "去除或消除某物。",
+    "en_def": "To take something away or off from the position occupied.",
+    "example": "Please remove your shoes before entering the house."
+  },
+  "sentences_removed": 0
+}

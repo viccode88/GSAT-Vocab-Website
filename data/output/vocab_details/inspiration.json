@@ -1,0 +1,29 @@
+{
+  "lemma": "inspiration",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In June 2017, Morgan’s Wonderland celebrated the opening of Morgan’s Inspiration Island.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/inspiration_ex_0_123d872a.mp3"
+      },
+      {
+        "text": "The inspiration came from the inventor’s wartime experience.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/inspiration_ex_1_a66afbb0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "靈感；啟發的來源或動力。",
+    "en_def": "A sudden brilliant or creative idea; the process of being mentally stimulated to do or feel something.",
+    "example": "The artist found inspiration in the beauty of nature."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "charcoal",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, the leaves are dried in a basket over a charcoal fire.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/charcoal_ex_0_2ab08829.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "炭，一種由木材或其他有機物質經過高溫缺氧處理而成的黑色固體，常用於燃燒或製作藝術品。",
+    "en_def": "A black solid made from carbonized wood or other organic materials, typically used for burning or in art.",
+    "example": "He used charcoal to draw a beautiful portrait."
+  },
+  "sentences_removed": 0
+}

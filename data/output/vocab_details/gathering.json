@@ -1,0 +1,28 @@
+{
+  "lemma": "gathering",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Unable to attend music school, she began her career as a singer for church gatherings.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/gathering_ex_0_3e64a9d0.mp3"
+      },
+      {
+        "text": "He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/gathering_ex_1_e3cd48e8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聚集，集合，通常指人們或物品的集合。",
+    "en_def": "The act of coming together or assembling, often for a specific purpose.",
+    "example": "The community is gathering to discuss the new park project."
+  },
+  "sentences_removed": 0
+}

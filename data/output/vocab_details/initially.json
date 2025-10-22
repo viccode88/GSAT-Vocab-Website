@@ -1,0 +1,39 @@
+{
+  "lemma": "initially",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was initially created as a type of dance and ritual.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/initially_ex_0_9437a634.mp3"
+      },
+      {
+        "text": "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/initially_ex_1_d14095bc.mp3"
+      },
+      {
+        "text": "Initially Velcro did not fare well.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/initially_ex_2_64bbdf7e.mp3"
+      },
+      {
+        "text": "I asked how she dealt with the realization that she’d never walk again, and she confessed that initially she didn’t want to face it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/initially_ex_3_5adb754f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "最初，開始時",
+    "en_def": "At the beginning; at first.",
+    "example": "Initially, I thought the project would be easy."
+  },
+  "sentences_removed": 0
+}

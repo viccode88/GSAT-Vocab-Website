@@ -1,0 +1,28 @@
+{
+  "lemma": "desperate",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bill and Sam were soon desperate and decided to 18 the little terror.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/desperate_ex_0_ebf800ee.mp3"
+      },
+      {
+        "text": "If something dangerous needed to be done for a scene, the producers would hire anyone crazy or desperate enough to do it.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/desperate_ex_1_4ee86543.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "絕望的，無助的，迫切的",
+    "en_def": "Feeling or showing a hopeless sense that a situation is impossible to deal with; having an urgent need or desire.",
+    "example": "She was desperate to find a job after being unemployed for months."
+  },
+  "sentences_removed": 0
+}

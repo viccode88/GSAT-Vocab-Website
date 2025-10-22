@@ -1,0 +1,33 @@
+{
+  "lemma": "drown",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some have saved people from drowning or from burning buildings.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/drown_ex_0_8955afad.mp3"
+      },
+      {
+        "text": "What is the main idea of the passage? (A) William Hunter was a very brave boy. (B) Hunter saved Carnegie from drowning.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/drown_ex_1_8961e592.mp3"
+      },
+      {
+        "text": "In 1886, Carnegie heard about a young man by the name of William Hunter who lost his life trying to save two other boys from drowning.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/drown_ex_2_72c95770.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "淹死；使沉沒在水中",
+    "en_def": "To die by submersion in water or another liquid.",
+    "example": "He almost drowned while swimming in the river."
+  },
+  "sentences_removed": 0
+}

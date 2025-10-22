@@ -1,0 +1,23 @@
+{
+  "lemma": "reestablish",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/reestablish_ex_0_da2d306e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重新建立或恢復某事物的狀態或關係。",
+    "en_def": "To establish something again or restore it to a previous state or condition.",
+    "example": "The organization aims to reestablish trust with the community."
+  },
+  "sentences_removed": 0
+}

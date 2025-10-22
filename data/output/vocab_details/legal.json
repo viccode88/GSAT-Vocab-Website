@@ -1,0 +1,43 @@
+{
+  "lemma": "legal",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It seemed to me that the management had gone beyond their legal right in making this order.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/legal_ex_0_089db5e3.mp3"
+      },
+      {
+        "text": "To challenge the current legal alcohol limit for drivers in the United States. 51.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/legal_ex_1_9efcdf53.mp3"
+      },
+      {
+        "text": "In the United States, the legal blood alcohol limit is 0.08% for people aged 21 years or older, while people under 21 are not allowed to drive a car with any level of alcohol in their body.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/legal_ex_2_f1cd9e2f.mp3"
+      },
+      {
+        "text": "For a person who just turned 20, what is the legal alcohol level allowed while driving in the US?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/legal_ex_3_552c26be.mp3"
+      },
+      {
+        "text": "A “positive” test result, a result over the legal limit, allows the police to arrest the driver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/legal_ex_4_ff1af8a8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "法律的；合法的",
+    "en_def": "Relating to the law or conforming to the law.",
+    "example": "It is important to understand your legal rights."
+  },
+  "sentences_removed": 0
+}

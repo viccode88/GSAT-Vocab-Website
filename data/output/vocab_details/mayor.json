@@ -1,0 +1,55 @@
+{
+  "lemma": "mayor",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 5,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The key to the city he received from the mayor. 53.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mayor_ex_0_d3fe8d6b.mp3"
+      },
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mayor_ex_1_779daa9e.mp3"
+      },
+      {
+        "text": "At City Hall, Mayor Abraham Beame hosted a news conference that turned into a ceremony in George Willig's honor.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mayor_ex_2_8aad586f.mp3"
+      },
+      {
+        "text": "Three people are running for mayor.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mayor_ex_3_c1ad8398.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Interviewer: You’re the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rahm would still be mayor of Chicago.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Mayor Tiberi, Paris will be decorated mostly by .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "市長，城市或市鎮的首長，負責行政管理和公共事務。",
+    "en_def": "The elected head of a city, town, or municipality, responsible for its administration and public affairs.",
+    "example": "The mayor announced new plans to improve public transportation in the city."
+  },
+  "sentences_removed": 0
+}

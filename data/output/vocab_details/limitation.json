@@ -1,0 +1,23 @@
+{
+  "lemma": "limitation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Both 36 know their own drawbacks and limitations very well; therefore, they jointly decide to have one last race—not to decide who the winner or loser is, but just for their own pleasure and satisfaction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/limitation_ex_0_537e22ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "限制，局限性",
+    "en_def": "A restriction or boundary that limits something.",
+    "example": "There is a limitation on how much you can withdraw from the bank each day."
+  },
+  "sentences_removed": 0
+}

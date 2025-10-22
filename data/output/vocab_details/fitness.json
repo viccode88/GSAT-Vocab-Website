@@ -1,0 +1,28 @@
+{
+  "lemma": "fitness",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to fitness trainers, physically 36 exercises may make you breathe heavily and your muscles may ache temporarily, but exercise should not be painful.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/fitness_ex_0_8dc28b2d.mp3"
+      },
+      {
+        "text": "Doing exercise makes you happy, and you don’t have to be a fitness 32 to do it.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/fitness_ex_1_f52eeb66.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "健康狀況或身體的適應能力，通常指體能和運動能力。",
+    "en_def": "The condition of being physically fit and healthy, often related to exercise and physical activity.",
+    "example": "Regular exercise is essential for maintaining good fitness."
+  },
+  "sentences_removed": 0
+}

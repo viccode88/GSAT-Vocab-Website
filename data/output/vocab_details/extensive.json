@@ -1,0 +1,23 @@
+{
+  "lemma": "extensive",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Such deep and extensive burns can be fatal.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/extensive_ex_0_a4f61c19.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "廣泛的；大範圍的",
+    "en_def": "Covering a large area; having a wide range.",
+    "example": "The library has an extensive collection of books on various subjects."
+  },
+  "sentences_removed": 0
+}

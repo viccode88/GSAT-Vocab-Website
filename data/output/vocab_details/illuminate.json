@@ -1,0 +1,23 @@
+{
+  "lemma": "illuminate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/illuminate_ex_0_779daa9e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "照亮；使明亮或清晰",
+    "en_def": "To light up or make something clear.",
+    "example": "The streetlights illuminate the road at night."
+  },
+  "sentences_removed": 0
+}

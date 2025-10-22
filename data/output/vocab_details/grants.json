@@ -1,0 +1,28 @@
+{
+  "lemma": "grants",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And 38 , Grants Pass has a lot of places to eat, ranging from a low-calorie dessert place to lovely restaurants, some of which o f f e r g o o d f o o d a n d g o r g e o u s v i e w s . 39 you can see, Grants Pass offers a lot to do in the summer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/grants_ex_0_eabd3d8c.mp3"
+      },
+      {
+        "text": "34 those who prefer to stay in town, Grants Pass offers several nice hotels.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/grants_ex_1_d2ed0a55.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "補助金；資助",
+    "en_def": "Funds given by an organization, especially a government, for a specific purpose.",
+    "example": "The university received several grants to support its research programs."
+  },
+  "sentences_removed": 0
+}

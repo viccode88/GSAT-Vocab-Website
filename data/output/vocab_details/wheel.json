@@ -1,0 +1,44 @@
+{
+  "lemma": "wheel",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheel_ex_0_58d3c320.mp3"
+      },
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/wheel_ex_1_0f55e8a7.mp3"
+      },
+      {
+        "text": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wheel_ex_2_8901c049.mp3"
+      },
+      {
+        "text": "They lick the rails to pick up iron filings caused by the action of wheels against tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheel_ex_3_fb539dda.mp3"
+      },
+      {
+        "text": "The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheel_ex_4_212675b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓形物體，通常用於車輛上以便於移動。",
+    "en_def": "A circular object that revolves on an axle and is used for movement, typically found on vehicles.",
+    "example": "The car has four wheels for better stability and control."
+  },
+  "sentences_removed": 0
+}

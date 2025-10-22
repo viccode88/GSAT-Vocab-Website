@@ -1,0 +1,28 @@
+{
+  "lemma": "tribe",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In fact, they are one of the few tribes that have retained most of their traditions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tribe_ex_0_388ab2ba.mp3"
+      },
+      {
+        "text": "The color of the shúkà represented one’s importance in the tribe.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tribe_ex_1_9e907529.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "部落；一群有共同文化、語言或血緣的人。",
+    "en_def": "A group of people, often related by blood or culture, who share a common identity.",
+    "example": "The tribe celebrated their annual festival with traditional music and dance."
+  },
+  "sentences_removed": 0
+}

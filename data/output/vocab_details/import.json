@@ -1,0 +1,50 @@
+{
+  "lemma": "import",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 5,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Red imported fire ants build mounds in any type of soil.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/import_ex_0_4036c593.mp3"
+      },
+      {
+        "text": "The first vodka made from wheat was imported from France.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/import_ex_1_9d3c4b1b.mp3"
+      },
+      {
+        "text": "Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/import_ex_2_ed2286ac.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "By 1975 the red imported fire ant had colonized over 52 million hectares of the United States.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Red imported fire ants can cause a number of problems.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "進口，將商品或服務從其他國家帶入本國的行為。",
+    "en_def": "To bring goods or services into a country from abroad for sale.",
+    "example": "The company decided to import electronics from Japan."
+  },
+  "sentences_removed": 0
+}

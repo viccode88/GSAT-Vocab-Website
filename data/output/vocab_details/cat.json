@@ -1,0 +1,33 @@
+{
+  "lemma": "cat",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One way to get an appealing portrait of a cat or dog is to hold a biscuit or treat above the camera.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cat_ex_0_d0a8152a.mp3"
+      },
+      {
+        "text": "Each year, tens of millions of animals, including dogs and cats, needlessly suffer and die to fuel the fur industry.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/cat_ex_1_f359a7cd.mp3"
+      },
+      {
+        "text": "Cats, dogs, and other pets top the list, followed by zoo animals.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cat_ex_2_ecb9ea02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "貓：一種小型的家養動物，通常有柔軟的毛皮和尖銳的爪子，以捕捉小型動物為食。",
+    "en_def": "Cat: A small domesticated animal with soft fur and sharp claws, often kept as a pet and known for catching small animals.",
+    "example": "The cat sat on the windowsill, watching the birds outside."
+  },
+  "sentences_removed": 0
+}

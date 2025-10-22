@@ -1,0 +1,23 @@
+{
+  "lemma": "magnificent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The best ice chisels are made in Japan, a country that, along with China, has a long tradition of magnificent ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/magnificent_ex_0_ceeb4d56.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壯麗的；宏偉的",
+    "en_def": "Impressive or beautiful in a grand or striking way.",
+    "example": "The view from the mountain was absolutely magnificent."
+  },
+  "sentences_removed": 0
+}

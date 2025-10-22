@@ -1,0 +1,38 @@
+{
+  "lemma": "flee",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "house was destroyed in the civil war, so she decided to flee her home country.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/flee_ex_0_29d4648a.mp3"
+      },
+      {
+        "text": "When the deer hear a combination of a 3-second- long recording of a deer’s snort and 20 seconds of a barking dog, they panic and flee rapidly.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/flee_ex_1_243c7ebe.mp3"
+      },
+      {
+        "text": "The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could. 16.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/flee_ex_2_fc312498.mp3"
+      },
+      {
+        "text": "By working collectively, the each other while they flee from the predator.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/flee_ex_3_0d7d9362.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "逃跑；迅速離開某地以避免危險或不愉快的情況。",
+    "en_def": "To run away from a place or situation of danger.",
+    "example": "The rabbit decided to flee when it saw the fox approaching."
+  },
+  "sentences_removed": 0
+}

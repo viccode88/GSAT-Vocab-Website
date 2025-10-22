@@ -18,6 +18,7 @@ from collections import defaultdict
 from typing import List, Dict, Any, Tuple, Optional
 
 # --- 外部函式庫 ---
+import re
 import pdfplumber
 import spacy
 from tqdm.asyncio import tqdm
@@ -42,7 +43,12 @@ load_dotenv()
 OPENAI_ENABLED = bool(os.getenv("OPENAI_API_KEY"))
 if OPENAI_ENABLED:
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    OPENAI_MODEL = "gpt-4o-mini"
+    OPENAI_MODEL = "gpt-4o-mini"  # 使用 gpt-4o-mini
+
+
+def has_chinese(text: str) -> bool:
+    """检查文本是否包含中文字符"""
+    return bool(re.search(r'[\u4e00-\u9fff]', text))
 
 # NLP 與過濾設定
 try:
@@ -92,25 +98,57 @@ def is_relevant_sentence(sent_text: str) -> bool:
 
 async def fetch_single_definition(
     lemma: str, 
-    system_prompt: str, 
     semaphore: asyncio.Semaphore
 ) -> Tuple[str, Optional[Dict[str, str]]]:
     """
     為單一單字獲取釋義。使用信號量控制並發數量。
+    使用 Structured Outputs 确保格式正确
 
     返回: 一個包含 (lemma, definition_dict) 的元組。如果失敗則 definition_dict 為 None。
     """
     async with semaphore:
         try:
+            # 使用 Structured Outputs (JSON Schema mode)
             response = await client.chat.completions.create(
                 model=OPENAI_MODEL,
                 messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": lemma}
+                    {
+                        "role": "system", 
+                        "content": "You are an expert lexicographer. Provide concise definitions and an example sentence in JSON format."
+                    },
+                    {
+                        "role": "user", 
+                        "content": f"Define the English word: {lemma}"
+                    }
                 ],
-                response_format={"type": "json_object"},
+                response_format={
+                    "type": "json_schema",
+                    "json_schema": {
+                        "name": "word_definition",
+                        "strict": True,
+                        "schema": {
+                            "type": "object",
+                            "properties": {
+                                "zh_def": {
+                                    "type": "string",
+                                    "description": "Traditional Chinese definition"
+                                },
+                                "en_def": {
+                                    "type": "string",
+                                    "description": "English definition"
+                                },
+                                "example": {
+                                    "type": "string",
+                                    "description": "Simple example sentence in English"
+                                }
+                            },
+                            "required": ["zh_def", "en_def", "example"],
+                            "additionalProperties": False
+                        }
+                    }
+                },
                 temperature=0.2,
-                timeout=20.0 # 設定 20 秒超時
+                timeout=20.0
             )
             content = response.choices[0].message.content
             if content:
@@ -122,39 +160,29 @@ async def fetch_single_definition(
         except RateLimitError:
             print(f"\n[Warning] Rate limit hit. Retrying for '{lemma}' in 10s...")
             await asyncio.sleep(10)
-            # 簡單重試一次
-            return await fetch_single_definition(lemma, system_prompt, semaphore)
+            return await fetch_single_definition(lemma, semaphore)
         except (json.JSONDecodeError, KeyError, IndexError, APIError, Exception) as e:
             print(f"\n[Warning] Could not get or parse definition for '{lemma}': {e}")
             return lemma, None
 
 async def get_definitions_concurrently(lemmas: List[str]) -> Dict[str, Any]:
     """
-    使用標準 Chat Completions API，並發地為所有單字生成釋義。
+    使用 Structured Outputs API，並發地為所有單字生成釋義。
     """
     if not OPENAI_ENABLED:
         return {}
 
     print(f"\n--- Step 2: Fetching definitions for {len(lemmas)} words via concurrent API calls ---")
-    
-    system_prompt = (
-        "You are an expert lexicographer. For the English word provided by the user, "
-        "give a concise definition in both Traditional Chinese and English, and one simple example sentence in English. "
-        "Respond ONLY with a single, valid JSON object with three keys: 'zh_def' (Traditional Chinese definition), "
-        "'en_def' (English definition), and 'example' (English example sentence)."
-    )
 
     # 設定同時運行的協程數量，避免觸發速率限制
-    # 根據OpenAI帳戶速率限制調整
-    CONCURRENT_REQUESTS = 477
+    CONCURRENT_REQUESTS = 100  # 降低并发数，因为使用了 Structured Outputs
     semaphore = asyncio.Semaphore(CONCURRENT_REQUESTS)
 
     # 建立所有請求任務
-    tasks = [fetch_single_definition(lemma, system_prompt, semaphore) for lemma in lemmas]
+    tasks = [fetch_single_definition(lemma, semaphore) for lemma in lemmas]
 
     all_definitions = {}
     
-    # 使用 tqdm.gather 來顯示進度條並執行所有任務
     results = await tqdm.gather(*tasks, desc="Fetching definitions")
     
     # 處理結果
@@ -196,12 +224,12 @@ async def main():
                     token.is_alpha and
                     not token.is_stop and
                     len(lemma) > 1 and
-                    lemma not in CUSTOM_STOP_WORDS):
+                    lemma not in CUSTOM_STOP_WORDS and
+                    not has_chinese(lemma)):  # 过滤含中文的单词
                     vocab_data[lemma]["count"] += 1
                     vocab_data[lemma]["pos_dist"][token.pos_] += 1
-                    # 儲存前 5 個例句
-                    if len(vocab_data[lemma]["sentences"]) < 5:
-                        vocab_data[lemma]["sentences"].add(f"[{pdf_file.stem}] {sent_text}")
+                    # 儲存例句
+                    vocab_data[lemma]["sentences"].add(f"[{pdf_file.stem}] {sent_text}")
 
     print("\n✅ Text analysis complete.")
     print(f"Found {len(vocab_data)} unique lemmas.")

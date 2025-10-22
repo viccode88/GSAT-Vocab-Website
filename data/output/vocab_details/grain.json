@@ -1,0 +1,33 @@
+{
+  "lemma": "grain",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/grain_ex_0_73b77ec7.mp3"
+      },
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/grain_ex_1_b6662313.mp3"
+      },
+      {
+        "text": "To advocate the importance of vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/grain_ex_2_cdd2153a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "穀物，特別是小型的種子，如小麥、稻米或玉米，通常用作食物或飼料。",
+    "en_def": "A small, hard seed, especially the seed of a cereal plant, used as food.",
+    "example": "Farmers harvest grain in the fall."
+  },
+  "sentences_removed": 0
+}

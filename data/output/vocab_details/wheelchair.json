@@ -1,0 +1,43 @@
+{
+  "lemma": "wheelchair",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheelchair_ex_0_58d3c320.mp3"
+      },
+      {
+        "text": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheelchair_ex_1_5d947192.mp3"
+      },
+      {
+        "text": "Completely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wheelchair_ex_2_335bb207.mp3"
+      },
+      {
+        "text": "The rides are custom- designed to accommodate wheelchair riders so that every family member can enjoy the fun.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wheelchair_ex_3_6d716299.mp3"
+      },
+      {
+        "text": "As she sang, Whitfield’s voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheelchair_ex_4_6b6e3b90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於幫助行動不便者移動的座椅，通常有輪子。",
+    "en_def": "A chair on wheels used to assist individuals with mobility impairments in moving around.",
+    "example": "She uses a wheelchair to get around the city."
+  },
+  "sentences_removed": 1
+}

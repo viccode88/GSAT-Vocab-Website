@@ -1,0 +1,17 @@
+{
+  "lemma": "tri",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "三的，與三有關的",
+    "en_def": "Relating to the number three.",
+    "example": "The triangle has three sides."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "shine",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Forced to quit school in fifth grade after his father died, Abate worked as a shoe-shine boy for years.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/shine_ex_0_72cb29b0.mp3"
+      },
+      {
+        "text": "Continuous as the stars that shine And twinkle on the Milky Way, They stretched in never-ending line Along the margin of a bay:",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shine_ex_1_e56bf8b9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發光，散發光亮或光輝。",
+    "en_def": "To emit light or reflect light; to be bright or radiant.",
+    "example": "The stars shine brightly in the night sky."
+  },
+  "sentences_removed": 0
+}

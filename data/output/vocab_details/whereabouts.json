@@ -1,0 +1,17 @@
+{
+  "lemma": "whereabouts",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "某人的位置或行蹤",
+    "en_def": "The location or place where someone or something is.",
+    "example": "The police are trying to determine his whereabouts."
+  },
+  "sentences_removed": 1
+}

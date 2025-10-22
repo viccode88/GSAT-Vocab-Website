@@ -1,0 +1,23 @@
+{
+  "lemma": "na",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The breathtaking 4,000-foot cliffs of Na Pali Coast rise grandly from the sea.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/na_ex_0_590f9cb0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種化學元素，符號為Na，原子序數為11，通常以鈉的形式存在，是一種金屬元素。",
+    "en_def": "A chemical element with the symbol Na and atomic number 11, commonly found in the form of sodium, which is a metallic element.",
+    "example": "Sodium is essential for maintaining fluid balance in the body."
+  },
+  "sentences_removed": 0
+}

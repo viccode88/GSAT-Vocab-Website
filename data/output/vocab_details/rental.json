@@ -1,0 +1,23 @@
+{
+  "lemma": "rental",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Agree to use each other’s cars, and you can save bucks on car rentals, too.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rental_ex_0_449db549.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "租賃；租用的物品或服務",
+    "en_def": "The act of paying to use something temporarily, typically property or equipment.",
+    "example": "She signed a rental agreement for the apartment."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "rigid",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/rigid_ex_0_fafff0c7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "堅硬的；不易彎曲或變形的；不靈活的",
+    "en_def": "Not flexible or pliable; stiff and inflexible.",
+    "example": "The rigid rules of the organization made it difficult for employees to express their creativity."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,465 @@
+{
+  "lemma": "following",
+  "count": 90,
+  "pos_dist": {
+    "NOUN": 81,
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, which of the following is true about howler monkeys? (A) They howl most often at noon.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/following_ex_0_8397cda2.mp3"
+      },
+      {
+        "text": "The following is a report by one of the team members: “I watched a small piece of the Amazon Rainforest disappear today.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/following_ex_1_1abce5cf.mp3"
+      },
+      {
+        "text": "The love we desire will come from all of the following EXCEPT .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/following_ex_2_b8f15dfc.mp3"
+      },
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/following_ex_3_02943189.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, where is Zanzibar most likely located on the following map? North America Europe Asia ○ A Atlantic Pacific Pacific Ocean ○ Ocean C Ocean Africa South ○ B Indian America Ocean ○ D (A) A (B) B (C) C (D) D 45.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following sayings best captures the spirit of Jeanie Low’s story? (A) Failure is the mother of success.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the passage? (A) Taiwanese teens experience more stress than American teens.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “replicated” in the third paragraph? (A) Reproduced.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT discussed in the passage? (A) Facial expressions. (B) Physical contact.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is a better choice for Halloween treats? (A) Chocolate.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is part of the knowledge that a marine pilot must have? (A)",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is NOT true? (A)",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “arid” in the first paragraph? (A) Occupied.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a feature that would trigger earworms? (A) Tunes repeatedly encountered.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the article?",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT true? (A)",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the article, which of the following is TRUE about medicines for colds? (A) They can cure the common cold.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT recommended for clothing by Jay McCarroll? (A) Polyester.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Taiwu Elementary School Folk Singers? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From which of the following is the passage likely to be taken? (A) A science magazine.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is NOT true about the White House? (A)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to the word “venture” in the second paragraph? (A) Creative measurement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the closest illustration of Benjamin Franklin’s invention?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following titles best describes the main idea of this passage? (A) The Origin of Lullabies (B) The Functions of Lullabies (C) Threatening Lullabies (D) Sleep-Inducing Lullabies 54.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT TRUE about film cameras? (A)",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for this passage? (A) Totem Poles, the Legends of Aboriginal Peoples (B) Totem Poles: Their Functions (C) Totem Poles, Symbols of Historical Resistance (D) Totem Poles: Their Designs 46.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Jay McCarroll?",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a way of enjoying hula hoop fun? (A) Striking.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the modern development of the flip-flop? (A) Modern flip-flops originated from Indian toe knob sandals.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the pulses of heat in the study?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Regarding the first example, which of the following is FALSE? (A) Nelson was not a responsible person. (B) Adam and Nelson are military officers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is NOT used in health spas? (A) Magic power.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Cartier-Bresson’s career in photography?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the deer issue discussed in the passage? (A) RTRI’s new invention prompts deer to run away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best summarizes Zeke Emanuel’s response to the last question?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following may be inferred about those who do serious exercise?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a concern of wearing the flip-flop?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Homer’s career?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about vodka production? (A) Vodka production in Russia started in the 15th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT true according to the passage? (A)",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the most appropriate interpretation of “ ” in the last paragraph? (A)",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following best characterizes Homer’s art? (A)",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT an advantage of the digital camera over the film camera? (A)",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following was a problem for Mrs. Power during her medical treatment? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following aspects about hard hats is NOT discussed in the passage? (A) Their functions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is a correct description about setts? (A)",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned in the passage as a form of passport? (A) A letter.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is practiced in the author’s company?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following does the author believe?",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Maasai clothing and beadwork?",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is needed for a landing-visa? (A)",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is most likely true about the poet? (A)",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is a function of the tree bark as mentioned in the passage? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT a potential benefit of driverless cars?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a way to deal with dead mail?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is an opinion, but NOT a fact? (A) Humans and zebrafish have 70 percent of genes in common. (B) Zebrafish can quickly recover vision after damage to the retina.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Slim-Fast?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE for bilingual people? (A) Those who spoke different languages used the same part of Wernicke’s area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true according to the passage? (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true about an earworm? (A) It is a creature living inside our ears.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following will probably NOT be found in the performance of Capoeira? (A) Singing with drums.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is a reason why Dallas was hit most seriously in the U.S. in 2012? (A)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a function of the prickly pear?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to the word “undertones” in the first paragraph? (A) Consequences.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true? (A) High tea was served later in the day than afternoon tea in the nineteenth century.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following can be inferred from the passage about Zanzibar?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the earliest traders in Zanzibar?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Bekoji?",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true? (A) Intimacy is limited to the sexual bond.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a factor for the excellence of distance runners in Ethiopia? .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about public television stations? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is one of the findings of the study? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is CORRECT about the earthquake in Bam? (A) About 50,000 people survived the earthquake.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best defines “subject” in the first paragraph? (A) A kind of mental disease.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Cartier-Bresson’s approach to photography?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is a problem of MOOCs mentioned in the passage? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The following is one of the items. __21__ a student who is never on time, there is the new Projection Alarm Clock.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true of tannins? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about sea snakes? (A) Their salt glands can remove the salt in the seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “ ” in the second paragraph? (A) advertises (B) dedicates (C) replaces (D) participates 51.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT one of the features of MOOCs?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the first example? (A) Nelson and Adam never liked each other.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE about tea preparation? (A) Black tea leaves need to be picked on a cloudy day.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a fun activity in the park?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a reason for writing the letter?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as one of the “countries of origin” in the article?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is located at the edge of a body of water?",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Zeke Emanuel, which of the following is a reason for the brothers’ success? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "跟隨，隨後的事物或人。",
+    "en_def": "The act of going or coming after; a subsequent event or person.",
+    "example": "She has a following of loyal fans who support her music."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "lightbulb",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/lightbulb_ex_0_b1b536b7.mp3"
+      },
+      {
+        "text": "What does the author mean by “a lightbulb moment” in the first paragraph? (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/lightbulb_ex_1_da394b8d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於照明的電器，通常由玻璃製成，內含發光的燈絲或發光二極體。",
+    "en_def": "An electric device that produces light, typically made of glass and containing a filament or LED.",
+    "example": "I replaced the burnt-out lightbulb in the living room."
+  },
+  "sentences_removed": 0
+}

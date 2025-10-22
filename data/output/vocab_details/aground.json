@@ -1,0 +1,23 @@
+{
+  "lemma": "aground",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There would be a real chance of running aground and damaging the ship and the cargo, some of which might be dangerous if released into a water-based ecosystem.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/aground_ex_0_3619245a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擱淺的，指船隻或物體在水中觸底或停留在淺水區。",
+    "en_def": "Stuck on the bottom of a body of water; unable to move because it is resting on the ground.",
+    "example": "The ship ran aground during the storm and had to be rescued."
+  },
+  "sentences_removed": 0
+}

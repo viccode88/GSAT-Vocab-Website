@@ -1,0 +1,23 @@
+{
+  "lemma": "electromagnetic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They appear to be attracted to electromagnetic fields and attack electrical insulation or wire connections.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/electromagnetic_ex_0_89cf79fe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "電磁的，與電和磁的相互作用有關的。",
+    "en_def": "Relating to the interaction of electric and magnetic fields.",
+    "example": "The electromagnetic spectrum includes various types of waves, such as radio waves and X-rays."
+  },
+  "sentences_removed": 0
+}

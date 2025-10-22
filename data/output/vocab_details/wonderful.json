@@ -1,0 +1,54 @@
+{
+  "lemma": "wonderful",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Oh, how wonderful! (C) Oh, that was great!",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wonderful_ex_0_59d76c90.mp3"
+      },
+      {
+        "text": "Concert reviews from the period mourned the fact that the armonica sounded wonderful—only when it could be heard.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wonderful_ex_1_e1807f97.mp3"
+      },
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/wonderful_ex_2_3470d2c3.mp3"
+      },
+      {
+        "text": "To congratulate Tom on his wonderful achievement.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wonderful_ex_3_bb4533a2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Pets are wonderful, B.…with the freshest ingredients.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He viewed the kidnapping as a wonderful camping trip.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many children were upset to hear about the __38__ death of these wonderful sea creatures and decided to help __39__ them.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "極好的；令人驚奇的",
+    "en_def": "Extremely good; marvelous.",
+    "example": "The sunset was truly wonderful."
+  },
+  "sentences_removed": 0
+}

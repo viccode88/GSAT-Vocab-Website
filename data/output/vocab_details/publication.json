@@ -1,0 +1,23 @@
+{
+  "lemma": "publication",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He quit photography right after the publication of The Decisive Moment.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/publication_ex_0_6081d214.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "出版物；發行的書籍、期刊或報告。",
+    "en_def": "A work of literature or other content that is published, such as a book, journal, or report.",
+    "example": "The publication of her new novel was highly anticipated by readers."
+  },
+  "sentences_removed": 0
+}

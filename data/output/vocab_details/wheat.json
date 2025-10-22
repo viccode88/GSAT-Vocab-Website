@@ -1,0 +1,43 @@
+{
+  "lemma": "wheat",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The prickly pear has a number of advantages over other biofuel crops, such as wheat, sugarcane, and soybeans.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wheat_ex_0_749ee6cf.mp3"
+      },
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheat_ex_1_7c7f82a0.mp3"
+      },
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/wheat_ex_2_b6662313.mp3"
+      },
+      {
+        "text": "The first vodka made from wheat was imported from France.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/wheat_ex_3_9d3c4b1b.mp3"
+      },
+      {
+        "text": "The researchers noticed that small drops of water on the wheat leaves would move to combine and form a larger drop.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wheat_ex_4_2745544b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小麥，一種主要的穀物，通常用於製作麵包和其他食品。",
+    "en_def": "Wheat, a major cereal grain commonly used to make bread and other food products.",
+    "example": "She baked a loaf of bread using whole wheat flour."
+  },
+  "sentences_removed": 0
+}

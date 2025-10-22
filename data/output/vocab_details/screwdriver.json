@@ -1,0 +1,33 @@
+{
+  "lemma": "screwdriver",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/screwdriver_ex_0_bfc73ee5.mp3"
+      },
+      {
+        "text": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/screwdriver_ex_1_657a27bc.mp3"
+      },
+      {
+        "text": "It was a simple knife with one big blade, a can opener, and a screwdriver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/screwdriver_ex_2_b5e4f8d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用於旋轉螺絲的工具，通常有一個長柄和一個尖端。",
+    "en_def": "A tool used for turning screws, typically having a long handle and a pointed end.",
+    "example": "I need a screwdriver to fix the loose cabinet door."
+  },
+  "sentences_removed": 0
+}

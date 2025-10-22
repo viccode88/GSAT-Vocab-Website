@@ -1,0 +1,49 @@
+{
+  "lemma": "improve",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Her handwriting has improved a lot after entering the company.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/improve_ex_0_242c761f.mp3"
+      },
+      {
+        "text": "It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/improve_ex_1_9c1d26c0.mp3"
+      },
+      {
+        "text": "He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/improve_ex_2_5298624e.mp3"
+      },
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/improve_ex_3_fd1da88a.mp3"
+      },
+      {
+        "text": "In a study conducted by Levi Strauss and Company, 85 percent of employers said that they believe that casual dress improves employee morale.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/improve_ex_4_02212d1c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Keep in mind that even short periods of low-impact exercise serve as a powerful 39 to improve your health.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "改善；提高；增進",
+    "en_def": "To make or become better.",
+    "example": "She wants to improve her English skills."
+  },
+  "sentences_removed": 1
+}

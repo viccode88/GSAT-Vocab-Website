@@ -1,0 +1,23 @@
+{
+  "lemma": "taster",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the IOC trying to do? (A) Train more qualified olive oil tasters.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/taster_ex_0_791fdb2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "品嚐者；試吃者",
+    "en_def": "A person who tastes food or drink to evaluate its quality.",
+    "example": "The taster carefully sampled each dish before making a decision."
+  },
+  "sentences_removed": 1
+}

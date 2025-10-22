@@ -1,0 +1,49 @@
+{
+  "lemma": "appearance",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This is when the largest female in the group begins to change in appearance.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/appearance_ex_0_a54c0cc3.mp3"
+      },
+      {
+        "text": "It has been a market favorite since its first appearance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/appearance_ex_1_4ee95582.mp3"
+      },
+      {
+        "text": "As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/appearance_ex_2_a446ab15.mp3"
+      },
+      {
+        "text": "26 some six hundred years of architecture nearly untouched by natural disaster or war, the city retains much of its medieval appearance.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/appearance_ex_3_9cca3c1c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Laughter, too, has a beneficial effect on our immune system, (38) the production of white blood cells and increasing our resistance to infection.(39) makes a difference to our appearance, too, when we relax our facial muscles!",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The women in the story __(23)__ birth to children that have the same appearance.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "外觀；出現的樣子或形象。",
+    "en_def": "The way that someone or something looks; the outward aspect or image.",
+    "example": "Her appearance at the event surprised everyone."
+  },
+  "sentences_removed": 0
+}

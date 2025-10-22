@@ -1,0 +1,55 @@
+{
+  "lemma": "adventure",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 5,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, when the riders scan the band at the Off-Road Adventure, a photo will be taken and sent to their email.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/adventure_ex_0_a77d0a90.mp3"
+      },
+      {
+        "text": "Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/adventure_ex_1_8095420d.mp3"
+      },
+      {
+        "text": "The amazing adventures of Superman, Peter Pan, and Harry Potter have charmed many people, children and adults alike.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/adventure_ex_2_5cccb188.mp3"
+      },
+      {
+        "text": "No one will ever know for sure, but what we do know is that she took part in one of the greatest adventures in the 19th century.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/adventure_ex_3_a24cd8bf.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A Great Adventure (C) A Lifelong Punishment (D) A New Direction in Life 50.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The new expansion is composed of five themed splash pads and a River Boat Adventure Ride.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "冒險，指一種刺激或危險的經歷，通常涉及探索或旅行。",
+    "en_def": "An adventure is an exciting or unusual experience, often involving exploration or travel.",
+    "example": "We went on an adventure to the mountains last weekend."
+  },
+  "sentences_removed": 0
+}

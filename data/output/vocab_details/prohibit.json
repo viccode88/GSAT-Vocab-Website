@@ -1,0 +1,23 @@
+{
+  "lemma": "prohibit",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Norwegians were prohibited from wearing any 38 of their national unity, such as buttons with the initials of their king.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/prohibit_ex_0_8acd513e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "禁止，阻止某事發生或進行。",
+    "en_def": "To formally forbid something by law, rule, or other authority.",
+    "example": "The school decided to prohibit the use of mobile phones during classes."
+  },
+  "sentences_removed": 0
+}

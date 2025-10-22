@@ -1,0 +1,38 @@
+{
+  "lemma": "beauty",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Though often associated with beauty, most dimples are actually a genetic 33 caused by shortened facial muscles.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/beauty_ex_0_ede9b4bb.mp3"
+      },
+      {
+        "text": "Beauty standards vary with culture.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/beauty_ex_1_c604cea4.mp3"
+      },
+      {
+        "text": "However, for people who are not necessarily religious but are fond of nature, names 35 things of beauty are often favored.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/beauty_ex_2_3eab48b3.mp3"
+      },
+      {
+        "text": "It took me a long while to realize that there was something more for me to learn about beauty.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/beauty_ex_3_80bab1d8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美麗，吸引人的特質或外觀。",
+    "en_def": "The quality of being physically attractive or pleasing to the senses.",
+    "example": "The beauty of the sunset took my breath away."
+  },
+  "sentences_removed": 1
+}

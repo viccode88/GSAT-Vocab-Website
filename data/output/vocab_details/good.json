@@ -1,0 +1,706 @@
+{
+  "lemma": "good",
+  "count": 144,
+  "pos_dist": {
+    "ADJ": 131,
+    "NOUN": 12,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/good_ex_0_1e01808f.mp3"
+      },
+      {
+        "text": "If you are a vegetarian, or if your diet includes little meat, soy protein is a good alternative, and may even be essential to maintaining your health.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/good_ex_1_375bd35f.mp3"
+      },
+      {
+        "text": "She is very good at math.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/good_ex_2_d9c9c3d8.mp3"
+      },
+      {
+        "text": "We want to believe in magic powers, good friends, and the power of good to overcome evil.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/good_ex_3_7d4156ba.mp3"
+      },
+      {
+        "text": "When he returned, he felt “pretty good.” 31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/good_ex_4_74d346d5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Have a good laugh today--and feel better for it.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.”",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What advice would Wesla most likely give other disabled people? (A) Ignore what you have lost and make the best use of what you have.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She would beam and put it in her best crystal vase.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The old sages always used to say that laughter was the best medicine—indeed, better than medicine.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The best ice chisels are made in Japan, a country that, along with China, has a long tradition of magnificent ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Turning something that seems all bad into something good is one way to help you smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, (30) on what a good listener does, he may become either popular or disliked in his lifetime.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Such minimalist design is what makes these hotels both inexpensive and efficient, providing only the essential elements for a good night sleep.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes the life the author is leading?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Every good Swiss citizen had a knife in his pocket.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To sustain this amount of fluid in our bodies, plain water is considered our best choice, for it contains no sugar and no calories.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Nevertheless, poor diet, stress, a bad working environment, and carelessness can 39 good health.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which job has the best benefits in addition to the regular salary? 3.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If you are using fast film, you can take some good, quick shots of a pet by simply snapping a picture right after calling its name.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Is it a good idea to keep animals in sites not suited to them?",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Laughter (40) is the best medicine, so why not give yourself a treat?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "(H) Alexander Well, they taste good if you add plenty of spices and sauces.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Run by a team of church volunteers, the shop will collect any surplus, good-quality items and store them until they can be redistributed to the people who are needing those particular things.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following titles best describes the main idea of this passage? (A) The Origin of Lullabies (B) The Functions of Lullabies (C) Threatening Lullabies (D) Sleep-Inducing Lullabies 54.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All of us here think The International Institute of Not Doing Much is the best organization in the world.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Hindu beliefs, the color red is believed to bring good fortune to the married couple.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for this passage? (A) Totem Poles, the Legends of Aboriginal Peoples (B) Totem Poles: Their Functions (C) Totem Poles, Symbols of Historical Resistance (D) Totem Poles: Their Designs 46.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "F. Frank Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least! G. George Zoos have an educational aspect to it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Good work environment and great co-workers Good Knowledge of English.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "not only good service but also convenient public transport.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Alice: There’s a very good movie on television at eight tonight.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "John’s part-time experience at the cafeteria is good for running his own restaurant.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Jane felt ______ speaking in front of the class but was quite relaxed talking with her good friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "On the third day, he ___(37)___ came up with a good idea.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for the passage? (A) Magical Tricks (B) A Great Magician (C) Magic as Entertainment (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In other words, the scarcity of goods is 29 causes humans to attribute value.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But no matter what a child eats, brushing after each meal is still the best way to fight cavities.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "V2I could also request traffic information from a traffic management system and access the best possible routes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A good reader can often figure out what new words mean by using .",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this passage? (A) The Importance of Marketing (B) The Power of Youth Culture (C) The Popularity of Hip-hop Fashion (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best summarizes Zeke Emanuel’s response to the last question?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Only by entering this quiet mental state 25 a climber really do his or her best.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "And how good a magic sword would feel in our hand as we go off to kill a dragon or win the hand of a beautiful princess.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "One key factor to success is to have a definite goal first and then do your best to the goal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But many others enjoy a good fear spectacle, and line up to see the latest scary movie.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted to discover who had the best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Traveling is a good way for us to _____",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If you mistreat your body by keeping bad habits, 33 symptoms of illness, and ignoring common health rules, even the best medicine can be of little use.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Hanging around people who are positive and in good moods is another way to help you find your smile again.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "If you expect to have quick ________ of the goods, it is better to have them airmailed.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is believed that this would be to the best interest of all people, __(25)__ teens who might be tempted to start smoking.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "He saw a man with a hole in the leg of his trousers and 29 realized what Californians 30 for the rough work they were doing—good, strong trousers! 21.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following best characterizes Homer’s art? (A)",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They may also pretend to be 14 customers, arguing with a salesperson without a good reason.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He said that it was as much the result of good luck as his own talent.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "By exhaling air from the lungs in short (36) of laughter, breathing is quickened and heartbeats increased, which achieves (37) good as ten minutes on an exercise bike.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In Switzerland, there is a saying that every good Swiss citizen has one in his or her pocket.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "29 , it is a way for you to put the deepest areas of your brain to good use while you’re sleeping.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, good listeners are inclined to accept or tolerate (23) to judge and criticize.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Learn to Lighten Up and Live Longer, the best seller of the month, has several good suggestions.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The bank tries its best to attract more customers.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Some parents try to get rid of half of the candy after their children go to bed, but dentists say parents also need to separate the good kinds of treats from the bad.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "It can be inferred from the passage that a younger child is more likely to be a good __________.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "These nets are recognized by medical experts as the best hope for __(22)__ the spread of malaria－Cambodia’s most deadly disease.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "For these reasons, storage onions are the best choice for spicy dishes that require longer cooking times or more flavor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "McCarroll has good reasons for rejecting fur.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Unless (D) However 25. (A) best (B) correct (C) well (D) good 26.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Our well-trained staff will provide the best possible service for you and your dog.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most viewers agreed that the movie was not as good as the book.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Yet, it has consistently yielded many of the world’s best distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although your plans look good, you have to be _____ and consider what you can actually do.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Someone else remarked that “a merry heart does good, like medicine”—and infectious laughter is often catching.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To help your pet look its best.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the closing ceremony of the Olympic Games, all the athletes ________ good-bye to the audience.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Perhaps one of the best examples is their use of hip-hop culture.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Or did she throw away goods that she didn’t need in order to travel lighter?",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Within a short period of time, she has developed a good command of Chinese and Japanese.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Self-confident people are their own best friends.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For the average person, however, water remains a very good 27 for keeping hydrated—if you know how to drink it.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Those who take pride in being decisive often try their best to consider all the factors beforehand.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And maybe the third important thing is my father’s admonition that offense is the best defense.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Requirements for a 14-day non-visa entry are: passport good for at least six months, confirmed onward ticket within 14 days, no violation of law recorded.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "You may have to wait for a while until the animal does something interesting or moves into a position for you to get a good shot.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since Michael was the best candidate, the committee voted for him to take charge of the company’s sales department.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "D. Daniel To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "So, when gold was discovered in the West in 1849, he 23 thousands of others and rushed to California. 24 he planned to open a shop in San Francisco, he took many goods with him, 25 a large quantity of canvas.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But there is some good part to almost every bad thing.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He then coated the glue on a paper sample and found that it was not only a good bookmark, but it was great for writing notes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If your answer is “Yes!” to these questions, then you have good __(21)__ to take the course we have designed especially for people like you.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Later children may make good salespersons because persuasion may have been the only tool they had to deal with older siblings.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For the same reason, raisins and crackers are not the best choice.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Hard work often the best in you.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Suddenly one of the young engineers gave what he thought was a good solution 32 the problem.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This is certainly good news for cash-strapped students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At that point, it might be well past the best moment to take in fluid.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes the author’s attitude toward medical tests?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Jane is the best ______",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "That is 20 green tea is so good for health.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I turned on the tape-recorder and each in turn solemnly counted from one to twenty in their best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When 33. (A) good (B) serious (C) few (D) heavy 34.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Wellness means 35 the best possible health within the limits of your body.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes the author’s attitude toward the future of desalination? (A) Amazed.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes Cartier-Bresson’s family background?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this article? (A)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "H…discipline and a good plan.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best defines “subject” in the first paragraph? (A) A kind of mental disease.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For laughter is good medicine That helps to cheer the heart.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A good government official has to ________",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what is the best way to store olive oil?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It’s just not good enough!",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this passage? (A) A Painful Mistake (B)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Wendy is good at writing and she doesn’t like to work according to a fixed schedule.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best way to bring down high blood sugar level and blood pressure? (A) Exercising for 150 minutes or more every week.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He needs a good rest.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "21 , a woodpecker, when seen near the home, is regarded as a good sign.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title of this passage? (A)",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Because they hear more, good listeners (22) to know more and to be more sensitive to what is going on around them than other people.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "“You think she’s getting the best care in the world, but after a while you start to wonder: What is the objective?”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Wang Chien-ming, the Yankees’ best pitcher last year, already showed his great _____ for baseball when he was still a teenager.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The “Cups and Balls” trick which he was particularly good at is still performed by magicians all over the world today.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The government is doing its best to ____",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "良好的，優秀的，令人滿意的。",
+    "en_def": "Of high quality or standard; pleasing or satisfactory.",
+    "example": "She did a good job on her presentation."
+  },
+  "sentences_removed": 3
+}

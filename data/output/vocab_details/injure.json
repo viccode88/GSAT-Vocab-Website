@@ -1,0 +1,89 @@
+{
+  "lemma": "injure",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the early days of the film industry, actors themselves shot acrobatic acts and dangerous scenes, until they began to get injured.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/injure_ex_0_caf2893a.mp3"
+      },
+      {
+        "text": "But too much stress often injures both the mind and the body.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/injure_ex_1_dac6814a.mp3"
+      },
+      {
+        "text": "Over time, researchers have come to realize the importance of exercising when injured.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/injure_ex_2_50971502.mp3"
+      },
+      {
+        "text": "She injured her knee when she was trying to block her opponent.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/injure_ex_3_a7f18db9.mp3"
+      },
+      {
+        "text": "A gas leak one month later caused an explosion in the lights, injuring the policeman operating it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/injure_ex_4_b6cf810d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The man was severely injured in last weekend’s tragic car accident and died _____ afterwards.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Lisa _____ onto the ground and injured her ankle while she was playing basketball yesterday.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true, according to the passage? (A) Knight was injured in the explosion of his traffic light.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Badly injured in the car accident, Jason could ____",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He took an aspirin, iced the injured area, and off he went.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why are baby elephants easily injured in the Assam tea gardens according to the passage? (A)",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, an injured runner might end up cycling and swimming instead of running.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "使受傷或損害。",
+    "en_def": "To cause physical harm or damage to someone or something.",
+    "example": "He didn't mean to injure his friend during the game."
+  },
+  "sentences_removed": 0
+}

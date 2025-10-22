@@ -1,0 +1,23 @@
+{
+  "lemma": "yossi",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“They are very hot this year,” said Yossi Fogel at B & H Photo in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/yossi_ex_0_424977d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個常見的男性名字，源自希伯來語，意為「上帝將增加」或「上帝將增添」。",
+    "en_def": "A common male name of Hebrew origin meaning 'God will increase' or 'God will add.'",
+    "example": "Yossi is known for his kindness and generosity."
+  },
+  "sentences_removed": 0
+}

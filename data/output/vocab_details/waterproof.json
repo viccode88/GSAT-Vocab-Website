@@ -1,0 +1,24 @@
+{
+  "lemma": "waterproof",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Waterproof chairs enable visitors to roam all over the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/waterproof_ex_0_a97b1340.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "防水的，能抵抗水的滲透或損害。",
+    "en_def": "Able to resist the penetration of water.",
+    "example": "I bought a waterproof jacket for hiking in the rain."
+  },
+  "sentences_removed": 1
+}

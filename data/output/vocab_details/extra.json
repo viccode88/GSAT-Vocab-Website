@@ -1,0 +1,69 @@
+{
+  "lemma": "extra",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although there are extra costs involved in going digital—the cost of memory cards for storage and the special paper for printing—many buyers have been willing to make the switch.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/extra_ex_0_b6df8381.mp3"
+      },
+      {
+        "text": "In everyday situations, too, stress can provide that extra push needed to do something difficult.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/extra_ex_1_8f06423f.mp3"
+      },
+      {
+        "text": "Unless he prepares well, (B) … I stayed in bed an extra hour.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/extra_ex_2_18778420.mp3"
+      },
+      {
+        "text": "Extra virgin oil, the finest grade, is made from the first pressing of the olives and has a very low acidity rate (under 1%).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/extra_ex_3_edb33bf9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To be qualified as “extra virgin,” the oil must also pass both an official test in a laboratory and a sensory evaluation by a trained tasting panel.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some people, however, are so grateful that they send extra money to Jack or to the charities his company supports.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about extra virgin olive oil?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nasreddin gave Ali an extra small pot in the beginning because .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "“What started out as an extra one-day-a-week benefit for employees has really become an everyday thing,” said business consultant Maisly Jones.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "18 the extra money you want for this month, I am sorry that I have decided not to send it to you because I think it is time for you to learn how to live without my help.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "額外的；多餘的",
+    "en_def": "Additional or more than what is usual or necessary.",
+    "example": "She brought an extra sandwich for lunch."
+  },
+  "sentences_removed": 0
+}

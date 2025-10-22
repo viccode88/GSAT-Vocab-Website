@@ -1,0 +1,23 @@
+{
+  "lemma": "amusing",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/amusing_ex_0_900c1378.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有趣的，令人發笑的",
+    "en_def": "Causing laughter or providing entertainment.",
+    "example": "The comedian's jokes were very amusing."
+  },
+  "sentences_removed": 0
+}

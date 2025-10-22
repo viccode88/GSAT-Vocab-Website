@@ -1,0 +1,23 @@
+{
+  "lemma": "elbow",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His dark brown jacket had holes in the elbows and had _____ to light brown, but he continued to wear it.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/elbow_ex_0_5394065b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "肘部，手臂的關節，位於上臂和前臂之間。",
+    "en_def": "The joint between the upper arm and the forearm.",
+    "example": "He rested his elbow on the table while thinking."
+  },
+  "sentences_removed": 0
+}

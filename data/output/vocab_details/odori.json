@@ -1,0 +1,23 @@
+{
+  "lemma": "odori",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many areas will also organize bon-odori dances.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/odori_ex_0_d260ca90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種日本傳統舞蹈，通常伴隨著音樂和節奏進行，表達文化和社會的主題。",
+    "en_def": "A traditional Japanese dance often performed with music and rhythm, expressing cultural and social themes.",
+    "example": "The festival featured a vibrant odori that captivated everyone in attendance."
+  },
+  "sentences_removed": 0
+}

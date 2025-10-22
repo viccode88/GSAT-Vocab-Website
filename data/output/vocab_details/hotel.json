@@ -1,0 +1,114 @@
+{
+  "lemma": "hotel",
+  "count": 21,
+  "pos_dist": {
+    "NOUN": 21
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "34 those who prefer to stay in town, Grants Pass offers several nice hotels.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hotel_ex_0_d2ed0a55.mp3"
+      },
+      {
+        "text": "While it does have its share of resort hotels, shopping centers and good restaurants, and a smattering of museums, art galleries and night spots, its main attractions lie outdoors.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hotel_ex_1_1e01808f.mp3"
+      },
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/hotel_ex_2_37f64fdf.mp3"
+      },
+      {
+        "text": "These large ice blocks are used for large ice sculpting events and for building ice hotels.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hotel_ex_3_d6547b96.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "While offering budget-conscious travelers a unique option, capsule hotels may not be suitable for everyone.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Some hotels may not provide air conditioning in the capsules, leading to poor air flow.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "A hotel in Japan will give you a preview.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A few hotels are still being rebuilt, but Kauai remains as beautiful as ever.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Pod hotels are also seen in Europe and North America, especially in big cities like New York, London, and Paris.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "But here any resemblance to a twentieth-century hotel ends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then, capsule hotels have quickly spread to other cities and countries.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Such minimalist design is what makes these hotels both inexpensive and efficient, providing only the essential elements for a good night sleep.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of ice is ideal for sculpting? (A) Ice from ice hotels.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The name of this hotel is the Capsule Inn; its rooms rent for eleven dollars a night.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When holding a dinner party, some large restaurants or hotels will use an ice sculpture to decorate the table.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In response to rising demands, these hotels are embracing a wave of innovation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The first capsule hotel, the Capsule Inn Osaka, opened in 1979.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Located at the center of the city, the business hotel ______",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "酒店，一種提供住宿、餐飲和其他服務的商業場所。",
+    "en_def": "A hotel is a commercial establishment that provides lodging, meals, and other services for travelers and tourists.",
+    "example": "We booked a room at the hotel for our vacation."
+  },
+  "sentences_removed": 1
+}

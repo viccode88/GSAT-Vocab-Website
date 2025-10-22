@@ -1,0 +1,28 @@
+{
+  "lemma": "carnation",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements is explicitly mentioned in the passage? (A) Amy’s father planted carnations in the garden.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/carnation_ex_0_2c64e6c6.mp3"
+      },
+      {
+        "text": "If he were here now, Amy knew he would pick one of the prettiest carnations and gave it to Mama.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/carnation_ex_1_1315fc93.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "康乃馨，一種常見的花卉，通常用於花束和裝飾，象徵愛與魅力。",
+    "en_def": "A carnation is a common flower often used in bouquets and decorations, symbolizing love and fascination.",
+    "example": "She received a beautiful bouquet of carnations for her birthday."
+  },
+  "sentences_removed": 0
+}

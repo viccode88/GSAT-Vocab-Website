@@ -1,0 +1,28 @@
+{
+  "lemma": "iceland",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/iceland_ex_0_52ae9911.mp3"
+      },
+      {
+        "text": "Iceland has increased their fish catch by 30% in the last 20 years.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/iceland_ex_1_13e53940.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "冰島是一個位於北大西洋的島國，以其壯觀的自然景觀和火山活動而聞名。",
+    "en_def": "Iceland is an island country located in the North Atlantic, known for its stunning natural landscapes and volcanic activity.",
+    "example": "Iceland is famous for its geysers and hot springs."
+  },
+  "sentences_removed": 0
+}

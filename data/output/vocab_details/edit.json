@@ -1,0 +1,23 @@
+{
+  "lemma": "edit",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He preferred to edit his images carefully in his darkroom.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/edit_ex_0_f33f7b04.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "編輯，對文本或媒體內容進行修改、整理或改進的過程。",
+    "en_def": "To make changes to text or media content to improve or correct it.",
+    "example": "I need to edit my essay before submitting it."
+  },
+  "sentences_removed": 0
+}

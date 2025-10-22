@@ -1,0 +1,23 @@
+{
+  "lemma": "multiply",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/multiply_ex_0_8ade67d3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "將一個數字與另一個數字相乘的運算。",
+    "en_def": "To increase a number by adding it to itself a certain number of times.",
+    "example": "If you multiply 3 by 4, you get 12."
+  },
+  "sentences_removed": 0
+}

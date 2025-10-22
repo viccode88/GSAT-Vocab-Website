@@ -1,0 +1,23 @@
+{
+  "lemma": "provincial",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the face of this tragedy, food and other supplies from around the world landed in the provincial capital of Kerman on Sunday.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/provincial_ex_0_a65d4e8c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "省的；地方的；狹隘的",
+    "en_def": "Relating to a province or provinces; limited in perspective or outlook.",
+    "example": "His provincial views made it difficult for him to understand the broader issues at play."
+  },
+  "sentences_removed": 0
+}

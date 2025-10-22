@@ -1,0 +1,23 @@
+{
+  "lemma": "collective",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/collective_ex_0_70017871.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "集體的，涉及一群人的或事物的。",
+    "en_def": "Relating to a group of individuals or things considered as a whole.",
+    "example": "The collective effort of the team led to a successful project."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "mission",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was then decided that Alan Shepard should relieve himself in his space suit, and continue with the mission as scheduled.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mission_ex_0_6ddfb63e.mp3"
+      },
+      {
+        "text": "This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mission_ex_1_e097a789.mp3"
+      },
+      {
+        "text": "What does “this pioneering procedure” in the second paragraph refer to? (A) 100% Fish’s mission.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/mission_ex_2_67e49664.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "任務；使命",
+    "en_def": "A specific task or duty assigned to a person or group.",
+    "example": "The team was sent on a mission to explore the new planet."
+  },
+  "sentences_removed": 3
+}

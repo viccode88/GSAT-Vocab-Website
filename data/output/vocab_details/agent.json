@@ -1,0 +1,28 @@
+{
+  "lemma": "agent",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/agent_ex_0_05baacd8.mp3"
+      },
+      {
+        "text": "Interviewer: You’re the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/agent_ex_1_040100b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "代理人；代理商；行動者",
+    "en_def": "A person or entity that acts on behalf of another, often in a business or legal context.",
+    "example": "The agent negotiated the contract on behalf of the client."
+  },
+  "sentences_removed": 0
+}

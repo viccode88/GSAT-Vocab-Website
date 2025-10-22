@@ -1,0 +1,64 @@
+{
+  "lemma": "settle",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dioxin travels by air currents and settles onto grass, which is then eaten by cows and chickens in their feed.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/settle_ex_0_1a72b377.mp3"
+      },
+      {
+        "text": "They were trying to settle details of an important new plant site for a major client.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/settle_ex_1_398dcef3.mp3"
+      },
+      {
+        "text": "After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/settle_ex_2_6fed6d52.mp3"
+      },
+      {
+        "text": "Moran came to the United States at age 7 with his family and settled in Philadelphia.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/settle_ex_3_7e833d5b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Standing on the seashore, we saw a of seagulls flying over the ocean before they glided down and settled on the water.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "He experimented with different ways and settled on being a naturalist.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He settled permanently in Maine in 1883.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their Popole was granted asylum in 2014 by dreams.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "By doing so, the they have to work together to explore alternative flock members are able to keep a safe distance routes many times before they finally settle on the between themselves, and thus avoid crashing into most efficient one.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "解決；安頓；定居",
+    "en_def": "To resolve or reach an agreement; to establish a residence.",
+    "example": "They decided to settle in a small town after their travels."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,69 @@
+{
+  "lemma": "fruit",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They can quickly strip fruit trees of their fruit.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/fruit_ex_0_7ab5fb00.mp3"
+      },
+      {
+        "text": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fruit_ex_1_e5854f81.mp3"
+      },
+      {
+        "text": "Mangoes are a _____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fruit_ex_2_a3c2d68b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Natives planted the fruit across South and Central America and in the Caribbean region, 23 Christopher Columbus first found it.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, __(30)__ animals’ body parts, many fruits and vegetables can be harvested over and over again without dying. 26.(A) although (B) because (C) when (D) so that 27.(A)",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "But pineapples can also be a fashionable fruit: Pineapple leaves can 21 a substitute for leather.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The apple is one of the world’s most cultivated fruit trees, 27 over 7,000 different kinds in existence.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Tree products have been an important part of diets for thousands of years, from early humans 26 fruits and nuts to the first cultivation of important trees, such as mango and apple.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The farmhouse and fruit trees were all gone and nothing was left.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From there, the tasty fruit 24 throughout other parts of civilization.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "水果，通常是植物的可食用部分，含有種子或果核。",
+    "en_def": "The edible part of a plant that contains seeds or a stone, typically sweet or sour in taste.",
+    "example": "I like to eat fruit for breakfast."
+  },
+  "sentences_removed": 1
+}

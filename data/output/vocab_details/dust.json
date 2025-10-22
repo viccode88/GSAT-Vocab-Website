@@ -1,0 +1,34 @@
+{
+  "lemma": "dust",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One day, she dusted off the story she had written for the writers’ group and decided to make it into a novel.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dust_ex_0_43bf801b.mp3"
+      },
+      {
+        "text": "These buildings collapsed in heaps of dust and sand.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/dust_ex_1_8cf1a94b.mp3"
+      },
+      {
+        "text": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/dust_ex_2_64140f1a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "微小的固體顆粒，通常由土壤、灰燼或其他物質組成，常見於空氣或表面上。",
+    "en_def": "Fine, dry particles of matter that can accumulate on surfaces or be suspended in the air.",
+    "example": "I need to clean the dust off the shelves."
+  },
+  "sentences_removed": 0
+}

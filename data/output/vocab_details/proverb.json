@@ -1,0 +1,23 @@
+{
+  "lemma": "proverb",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A culture’s folk tales, fables, songs, and proverbs are an important part of its literature.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/proverb_ex_0_4dc44cbc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "諺語：具有智慧或道德教訓的簡短語句，通常是口耳相傳的。",
+    "en_def": "A proverb is a short, well-known saying that expresses a general truth or piece of advice.",
+    "example": "Actions speak louder than words is a common proverb."
+  },
+  "sentences_removed": 0
+}

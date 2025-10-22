@@ -1,0 +1,65 @@
+{
+  "lemma": "entertainment",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 8,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The level of quality of PBS programs, whether in national and international news, entertainment, or education, is excellent.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/entertainment_ex_0_bd5c3f00.mp3"
+      },
+      {
+        "text": "Each capsule is equipped with a comfortable mattress, a small light, and sometimes a television or other entertainment options.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/entertainment_ex_1_3435ecbc.mp3"
+      },
+      {
+        "text": "After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/entertainment_ex_2_c9abbf7e.mp3"
+      },
+      {
+        "text": "__(18)__ a small child, he would pick up a broom and pretend to be playing guitar for the entertainment of family guests.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/entertainment_ex_3_3e59e59e.mp3"
+      },
+      {
+        "text": "Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/entertainment_ex_4_7e5a97a2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "MAMMA MIA! has become a 22 entertainment phenomenon.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Magic is now entertainment for families all over the world.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "I don’t agree with caging animals for our entertainment.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for the passage? (A) Magical Tricks (B) A Great Magician (C) Magic as Entertainment (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "娛樂，指提供消遣或享樂的活動或事物。",
+    "en_def": "Activities or items that provide enjoyment or amusement.",
+    "example": "The concert was a great source of entertainment for the whole family."
+  },
+  "sentences_removed": 0
+}

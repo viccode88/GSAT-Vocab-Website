@@ -1,0 +1,17 @@
+{
+  "lemma": "popularly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "普遍地，廣泛地",
+    "en_def": "In a way that is liked or admired by many people.",
+    "example": "The song is popularly known as a summer anthem."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "historic",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Fifty years ago, teams of architects began restoring the historic treasures of the city.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/historic_ex_0_a2967ded.mp3"
+      },
+      {
+        "text": "In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/historic_ex_1_4039c111.mp3"
+      },
+      {
+        "text": "In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/historic_ex_2_23588dc8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "具有重要歷史意義的，或與歷史有關的。",
+    "en_def": "Having significance in history or being related to history.",
+    "example": "The signing of the Declaration of Independence was a historic event."
+  },
+  "sentences_removed": 1
+}

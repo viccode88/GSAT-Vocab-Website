@@ -1,0 +1,23 @@
+{
+  "lemma": "johannes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One of the first European books to be printed in movable type was Johannes Gutenberg's 42-line Bible.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/johannes_ex_0_3b6d9bf4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "約翰尼斯，一個常見的男性名字，源於希伯來語，意為「上帝是仁慈的」。",
+    "en_def": "Johannes is a common male given name of Hebrew origin meaning 'God is gracious.'",
+    "example": "Johannes is planning to travel to Europe next summer."
+  },
+  "sentences_removed": 0
+}

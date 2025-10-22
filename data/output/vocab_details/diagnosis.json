@@ -1,0 +1,28 @@
+{
+  "lemma": "diagnosis",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rule of thumb, however, is to see a doctor first and get an accurate diagnosis.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/diagnosis_ex_0_f3ef0786.mp3"
+      },
+      {
+        "text": "When the material has been recovered, the disk is returned to the sender with a diagnosis and a prescription for avoiding the problem in the future.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/diagnosis_ex_1_74c15584.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "診斷；確定疾病或問題的過程或結果。",
+    "en_def": "The process or result of identifying a disease or problem.",
+    "example": "The doctor made a diagnosis after reviewing the test results."
+  },
+  "sentences_removed": 0
+}

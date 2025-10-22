@@ -1,0 +1,23 @@
+{
+  "lemma": "cristo",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dumas’s two most famous stories, The Three Musketeers and The Count of Monte Cristo, have inspired more than 100 films.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cristo_ex_0_e91c09e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "基督，指耶穌基督，基督教的中心人物和信仰的基礎。",
+    "en_def": "Christ, referring to Jesus Christ, the central figure of Christianity and the foundation of the faith.",
+    "example": "Many people around the world celebrate Christmas to honor the birth of Christ."
+  },
+  "sentences_removed": 0
+}

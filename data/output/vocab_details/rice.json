@@ -1,0 +1,38 @@
+{
+  "lemma": "rice",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/rice_ex_0_b6662313.mp3"
+      },
+      {
+        "text": "Modern flip-flops derive from Japanese zōris, which were often worn with socks dividing the big toe from the rest, and were typically made of rice straw.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rice_ex_1_2fe2a257.mp3"
+      },
+      {
+        "text": "Mike fainted under the hot sun in his rice field.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rice_ex_2_81db14ca.mp3"
+      },
+      {
+        "text": "Rubber thus replaced rice straw as the major material for the flip-flop.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rice_ex_3_5f7b29e7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "稻米，主要的穀物之一，通常用作食物。",
+    "en_def": "A cereal grain that is a staple food for a large part of the world's population.",
+    "example": "She cooked a pot of rice to serve with the curry."
+  },
+  "sentences_removed": 0
+}

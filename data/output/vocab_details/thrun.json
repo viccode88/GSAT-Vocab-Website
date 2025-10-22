@@ -1,0 +1,28 @@
+{
+  "lemma": "thrun",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/thrun_ex_0_603c75c4.mp3"
+      },
+      {
+        "text": "Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/thrun_ex_1_ec6dc0c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種在特定情況下進行的快速移動或逃避行為。",
+    "en_def": "A quick movement or escape in a specific situation.",
+    "example": "He made a sudden thrun to avoid the oncoming car."
+  },
+  "sentences_removed": 0
+}

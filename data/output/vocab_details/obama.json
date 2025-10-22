@@ -1,0 +1,23 @@
+{
+  "lemma": "obama",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/obama_ex_0_a5fc4098.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美國第44任總統，任期從2009年至2017年，首位非裔美國人總統。",
+    "en_def": "The 44th President of the United States, serving from 2009 to 2017, and the first African American president.",
+    "example": "Barack Obama was awarded the Nobel Peace Prize in 2009."
+  },
+  "sentences_removed": 0
+}

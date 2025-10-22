@@ -1,0 +1,44 @@
+{
+  "lemma": "transplant",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His heart transplant surgery was more successful than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/transplant_ex_0_2af0e0f4.mp3"
+      },
+      {
+        "text": "But Oddsson’s life was saved by a creative invention: transplanting codfish skins onto human bodies.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/transplant_ex_1_fb712ef7.mp3"
+      },
+      {
+        "text": "In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/transplant_ex_2_5a7f5d07.mp3"
+      },
+      {
+        "text": "On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/transplant_ex_3_494b22f2.mp3"
+      },
+      {
+        "text": "Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/transplant_ex_4_6428e6e2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "移植，將器官、組織或植物從一個地方移到另一個地方。",
+    "en_def": "To move an organ, tissue, or plant from one location to another.",
+    "example": "The doctor decided to transplant the kidney from a donor to the patient."
+  },
+  "sentences_removed": 0
+}

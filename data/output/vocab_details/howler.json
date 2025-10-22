@@ -1,0 +1,65 @@
+{
+  "lemma": "howler",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Belize, where howler monkeys were newly reintroduced into a wildlife sanctuary, the howler monkeys were heard only a few times a week rather than every day.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howler_ex_0_0aaebbbf.mp3"
+      },
+      {
+        "text": "Male howler monkeys use their loud voices to fight for food, mates, or territory.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howler_ex_1_5cc37b02.mp3"
+      },
+      {
+        "text": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howler_ex_2_c8f5003b.mp3"
+      },
+      {
+        "text": "Interestingly, when there are few howler monkeys in an area, the howling routine takes on a different pattern.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howler_ex_3_c6ef4a6e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following is true about howler monkeys? (A) They howl most often at noon.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the future when the population grows, there will be no need for the recording because the howler monkeys will have more reason to check in with the neighbors to define their own territories.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why did the howler monkeys in Belize howl less often?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do howler monkeys howl?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do the keepers at the sanctuary use recorded howls? (A) To prevent the howler monkeys from getting homesick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種發出大聲吼叫或嚎叫的動物，特別是某些類型的猴子。",
+    "en_def": "An animal that makes loud howling sounds, especially certain types of monkeys.",
+    "example": "The howler monkey can be heard from miles away due to its loud calls."
+  },
+  "sentences_removed": 2
+}

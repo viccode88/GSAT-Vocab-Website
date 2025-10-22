@@ -1,0 +1,33 @@
+{
+  "lemma": "territory",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the future when the population grows, there will be no need for the recording because the howler monkeys will have more reason to check in with the neighbors to define their own territories.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/territory_ex_0_94878bbc.mp3"
+      },
+      {
+        "text": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/territory_ex_1_2b7eadc4.mp3"
+      },
+      {
+        "text": "Male howler monkeys use their loud voices to fight for food, mates, or territory.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/territory_ex_2_5cc37b02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "領土；地區；範圍",
+    "en_def": "An area of land under the jurisdiction of a particular government or ruler.",
+    "example": "The country expanded its territory by acquiring new lands."
+  },
+  "sentences_removed": 0
+}

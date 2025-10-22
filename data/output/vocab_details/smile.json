@@ -1,0 +1,100 @@
+{
+  "lemma": "smile",
+  "count": 20,
+  "pos_dist": {
+    "VERB": 14,
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It takes twice as many muscles to frown as it does to smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/smile_ex_0_51b1dc0f.mp3"
+      },
+      {
+        "text": "When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/smile_ex_1_389d042a.mp3"
+      },
+      {
+        "text": "Children born blind never see anybody smile, but they show the same kinds of smiles under the same situations as sighted people.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/smile_ex_2_4ad86558.mp3"
+      },
+      {
+        "text": "Some studies suggest that the act of shaping our mouths into a smile (creating a “physical smile”) can help us see the brighter, funnier side of things.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/smile_ex_3_272585d4.mp3"
+      },
+      {
+        "text": "Some people smile at me, but others just ignore me.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/smile_ex_4_2435678e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In addition, smiles signal to others that we are people who might be nice to talk to and work with—and that can help us make friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Smiling is of great help to us.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of feeling can a physical smile help to create? 3.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Although babies imitate the facial expressions they see, smiling isn’t just learned by imitation.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "People wearing the physical smile tend to feel happier.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In such hard times, there seems to be no reason to smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Unfortunately, sometimes you may find it difficult to smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Hanging around people who are positive and in good moods is another way to help you find your smile again.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Turning something that seems all bad into something good is one way to help you smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In what aspect can smiling help a person in his social life? 4. Give one example of “hard times” mentioned in the passage.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Why is smiling physically easier than frowning? 2.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "微笑，嘴角上揚的表情，通常表示快樂或友好。",
+    "en_def": "A facial expression characterized by an upward curving of the corners of the mouth, typically indicating pleasure or friendliness.",
+    "example": "She greeted everyone with a warm smile."
+  },
+  "sentences_removed": 2
+}

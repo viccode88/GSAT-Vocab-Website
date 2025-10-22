@@ -1,0 +1,64 @@
+{
+  "lemma": "action",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Very few people, no matter how intelligent or experienced, can 28 all the possibilities or outcomes of a policy or a course of action within just a short period of time.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/action_ex_0_6674cdf2.mp3"
+      },
+      {
+        "text": "(J) … I would have taken action right away.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/action_ex_1_9527fd2c.mp3"
+      },
+      {
+        "text": "Beginning around 1910, audiences developed a taste for serial action movies, which 26 the use of dedicated stunt people to perform in dangerous scenes.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/action_ex_2_a6439e66.mp3"
+      },
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/action_ex_3_9a26b85d.mp3"
+      },
+      {
+        "text": "They lick the rails to pick up iron filings caused by the action of wheels against tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/action_ex_4_fb539dda.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Dumas’s life sometimes was just like his action novels.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In this line of work, the person is paid to do daring actions that are deemed too 21 for the regular actor to perform, including jumping from heights, crashing cars, or fighting with weapons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The residents worried about the county’s decision and action.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The mark of heroes is not necessarily the result of their action, but 24 they are willing to do for others and for their chosen cause.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "行動；行為；活動",
+    "en_def": "The process of doing something, typically to achieve an aim.",
+    "example": "The team took immediate action to solve the problem."
+  },
+  "sentences_removed": 0
+}

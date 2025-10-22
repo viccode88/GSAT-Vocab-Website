@@ -1,0 +1,23 @@
+{
+  "lemma": "commercially",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ohio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/commercially_ex_0_01df811e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "商業上地；以商業為目的地",
+    "en_def": "In a manner related to commerce or business.",
+    "example": "The product was developed commercially to meet market demands."
+  },
+  "sentences_removed": 0
+}

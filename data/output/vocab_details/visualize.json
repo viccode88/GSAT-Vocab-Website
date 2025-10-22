@@ -1,0 +1,23 @@
+{
+  "lemma": "visualize",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The audience could not visualize the theme sung by the school children.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/visualize_ex_0_ad3e60fe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使可視化；將抽象的概念或數據轉化為可見的形式。",
+    "en_def": "To make something visible or to represent it in a visual format.",
+    "example": "The teacher used diagrams to visualize the complex concepts for her students."
+  },
+  "sentences_removed": 0
+}

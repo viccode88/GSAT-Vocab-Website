@@ -1,0 +1,23 @@
+{
+  "lemma": "stubborn",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Type Os are curious and generous but stubborn.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/stubborn_ex_0_04de7a0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "固執的，難以改變主意或行為的。",
+    "en_def": "Having or showing dogged determination not to change one's attitude or position on something.",
+    "example": "She was too stubborn to admit that she was wrong."
+  },
+  "sentences_removed": 0
+}

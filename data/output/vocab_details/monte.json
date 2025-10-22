@@ -1,0 +1,23 @@
+{
+  "lemma": "monte",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dumas’s two most famous stories, The Three Musketeers and The Count of Monte Cristo, have inspired more than 100 films.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/monte_ex_0_e91c09e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "山，特指高而陡峭的地形。",
+    "en_def": "A mountain or hill, especially a high or steep one.",
+    "example": "We hiked up the monte to enjoy the breathtaking view."
+  },
+  "sentences_removed": 0
+}

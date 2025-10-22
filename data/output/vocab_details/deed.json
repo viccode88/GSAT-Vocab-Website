@@ -1,0 +1,23 @@
+{
+  "lemma": "deed",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Brave deeds can take many different forms.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/deed_ex_0_4c34fe9e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "行為；契約；證書",
+    "en_def": "A deed is a legal document that represents an agreement or an action, often involving the transfer of property.",
+    "example": "He signed the deed to transfer ownership of the house."
+  },
+  "sentences_removed": 0
+}

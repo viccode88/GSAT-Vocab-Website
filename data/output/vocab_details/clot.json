@@ -1,0 +1,23 @@
+{
+  "lemma": "clot",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The soybean is free of cholesterol, and more importantly, the soy oil contains some special substances, called Omega 3 fatty acids, which reduce cholesterol and prevent blood from clotting in human body.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/clot_ex_0_2fdd3cc1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "凝塊；血塊，指液體（如血液）因凝固而形成的固體物質。",
+    "en_def": "A thick mass of coagulated liquid, especially blood.",
+    "example": "The doctor said the wound would heal faster if the clot formed properly."
+  },
+  "sentences_removed": 0
+}

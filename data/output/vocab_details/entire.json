@@ -1,0 +1,54 @@
+{
+  "lemma": "entire",
+  "count": 8,
+  "pos_dist": {
+    "ADJ": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The entire island of Kizhi is, 18 , an outdoor museum of wooden architecture created in 1966.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/entire_ex_0_001e6d97.mp3"
+      },
+      {
+        "text": "This international recognition highlights the importance of this area, not just to the United States and Canada, but to the entire world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/entire_ex_1_50e68557.mp3"
+      },
+      {
+        "text": "After working in front of my computer for the entire day, my neck and shoulders got so that I couldn’t even turn my head.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/entire_ex_2_52b11e41.mp3"
+      },
+      {
+        "text": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/entire_ex_3_f826db34.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The forces that are crushing individual lives and futures are also destroying the prospects for an entire region. 49.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Fourth of July means beer and New Year's Eve is an entire night dedicated to the proposition that everyone must get 25 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "全部的；整個的",
+    "en_def": "Whole; complete; not lacking any part.",
+    "example": "She read the entire book in one day."
+  },
+  "sentences_removed": 1
+}

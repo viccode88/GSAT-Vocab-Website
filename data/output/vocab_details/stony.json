@@ -1,0 +1,23 @@
+{
+  "lemma": "stony",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are stony structures full of dark hideaways where fish and sea animals can lay their eggs and 31 from predators.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/stony_ex_0_d261fbc6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多石的；像石頭一樣的，堅硬的",
+    "en_def": "Consisting of or covered with stones; hard and unyielding.",
+    "example": "The path was stony and difficult to walk on."
+  },
+  "sentences_removed": 0
+}

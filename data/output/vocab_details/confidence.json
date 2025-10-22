@@ -1,0 +1,33 @@
+{
+  "lemma": "confidence",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It 20 stress and creates calmness and confidence.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/confidence_ex_0_8b061a10.mp3"
+      },
+      {
+        "text": "This experience greatly boosted our confidence.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/confidence_ex_1_a60bc5ad.mp3"
+      },
+      {
+        "text": "For instance, people who have a 23 sense of self-esteem usually act with confidence.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/confidence_ex_2_a2b85b4a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自信；對自己或他人能力的信任。",
+    "en_def": "A feeling of self-assurance arising from one's appreciation of one's own abilities or qualities.",
+    "example": "She spoke with confidence during the presentation."
+  },
+  "sentences_removed": 0
+}

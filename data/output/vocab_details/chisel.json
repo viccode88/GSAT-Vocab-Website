@@ -1,0 +1,33 @@
+{
+  "lemma": "chisel",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It takes more time to carve with razor-sharp chisels.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/chisel_ex_0_bc023992.mp3"
+      },
+      {
+        "text": "Ice sculptors also use razor-sharp chisels that are specifically designed for cutting ice.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/chisel_ex_1_9e225812.mp3"
+      },
+      {
+        "text": "The best ice chisels are made in Japan, a country that, along with China, has a long tradition of magnificent ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/chisel_ex_2_ceeb4d56.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鑿子；用於雕刻或切割材料的工具。",
+    "en_def": "A tool with a sharp edge used for cutting or shaping hard materials.",
+    "example": "He used a chisel to carve the intricate design into the wood."
+  },
+  "sentences_removed": 0
+}

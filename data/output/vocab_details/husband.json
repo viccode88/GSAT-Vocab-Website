@@ -1,0 +1,23 @@
+{
+  "lemma": "husband",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Daphne’s husband, David Sheldrick, founded Tsavo National Park.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/husband_ex_0_794b5bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "丈夫，指已婚女性的配偶。",
+    "en_def": "A male partner in a marriage.",
+    "example": "Her husband is a great cook."
+  },
+  "sentences_removed": 0
+}

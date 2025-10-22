@@ -1,0 +1,23 @@
+{
+  "lemma": "barley",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/barley_ex_0_b6662313.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大麥，一種穀物，常用於製作啤酒和飼料。",
+    "en_def": "Barley is a cereal grain that is commonly used for brewing beer and as animal feed.",
+    "example": "Barley is often used to make healthy soups and salads."
+  },
+  "sentences_removed": 0
+}

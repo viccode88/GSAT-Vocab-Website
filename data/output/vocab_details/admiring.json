@@ -1,0 +1,23 @@
+{
+  "lemma": "admiring",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the author’s attitude toward Capoeira as a sport? (A) Admiring.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/admiring_ex_0_9c9a0442.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "欣賞的，讚美的",
+    "en_def": "Feeling or showing admiration for someone or something.",
+    "example": "She was admiring the beautiful artwork in the gallery."
+  },
+  "sentences_removed": 0
+}

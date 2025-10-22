@@ -1,0 +1,23 @@
+{
+  "lemma": "professionally",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/professionally_ex_0_27bd55ce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "專業地，職業上地",
+    "en_def": "In a manner that is suitable for a profession or occupation; with expertise or skill.",
+    "example": "She handled the situation professionally, ensuring that all parties felt heard."
+  },
+  "sentences_removed": 0
+}

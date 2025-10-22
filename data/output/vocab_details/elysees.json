@@ -1,0 +1,23 @@
+{
+  "lemma": "elysees",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/elysees_ex_0_c07b991e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "艾莉西斯，通常指的是巴黎的香榭麗舍大道，著名的街道和旅遊景點。",
+    "en_def": "Elysees refers to the Champs-Élysées, a famous avenue in Paris known for its theaters, cafés, and luxury shops.",
+    "example": "We took a leisurely stroll down the Elysees, enjoying the vibrant atmosphere and beautiful architecture."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "glaci",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is where the glacier runs to the lake.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/glaci_ex_0_e758eca6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "冰川，指的是由壓縮的雪和冰形成的大型冰體，通常在山區或極地地區存在。",
+    "en_def": "A glacier is a large mass of ice formed from compressed snow, typically found in mountainous or polar regions.",
+    "example": "The glacier slowly moved down the valley, carving the landscape over thousands of years."
+  },
+  "sentences_removed": 0
+}

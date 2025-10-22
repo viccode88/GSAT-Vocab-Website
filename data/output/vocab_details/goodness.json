@@ -1,0 +1,23 @@
+{
+  "lemma": "goodness",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/goodness_ex_0_d602ba35.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "善良；美德；良好品質或狀態。",
+    "en_def": "The quality of being good; moral excellence or virtue.",
+    "example": "Her kindness and goodness inspired everyone around her."
+  },
+  "sentences_removed": 0
+}

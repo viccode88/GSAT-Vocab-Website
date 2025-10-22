@@ -1,0 +1,23 @@
+{
+  "lemma": "grave",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some people also visit the cemetery to clean up the family graves and pray for their ancestors.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/grave_ex_0_62939ed5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "墓穴；埋葬的地方",
+    "en_def": "A burial place for a dead body.",
+    "example": "They visited their grandfather's grave on Memorial Day."
+  },
+  "sentences_removed": 0
+}

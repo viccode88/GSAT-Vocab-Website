@@ -1,0 +1,23 @@
+{
+  "lemma": "rearrange",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the printing was finished, the letters could be taken apart and rearranged to print something else.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rearrange_ex_0_4a77ac77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重新排列或調整某物的順序或位置。",
+    "en_def": "To change the order or position of something.",
+    "example": "Please rearrange the books on the shelf."
+  },
+  "sentences_removed": 0
+}

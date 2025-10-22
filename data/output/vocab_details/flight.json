@@ -1,0 +1,104 @@
+{
+  "lemma": "flight",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a _____ flight.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/flight_ex_0_ad1ebb5a.mp3"
+      },
+      {
+        "text": "His flight was supposed to last only 15 minutes, so there was no provision made for him to relieve himself in the capsule.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/flight_ex_1_d3a1f4bc.mp3"
+      },
+      {
+        "text": "Sue: I'm a flight attendant.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/flight_ex_2_1e7afab6.mp3"
+      },
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/flight_ex_3_0d7d8441.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "search strategies to link their food source to their Normally, the birds enjoy a smooth flight together nests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "my flight reservation a week before I left for Canada.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, how many space flights has Glenn taken? (A) One (B) Two (C) Three (D) Four 55.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The trails connect the ants’ fox) is present, the pattern of their flight will colonies and sources of food, forming a sort of change immediately.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All the flights to and from Kaohsiung were _____ because of the heavy thunderstorm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "His flight, _(21)_, was delayed for hours.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Glenn’s first ticker-tape parade on March 1, 1962, after his Mercury flight, is considered the largest ever in New York.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He should obtain a visa for entry into the Republic of China before getting on board the flight to Taiwan (B)",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "As the flights grew longer, a new set of two collection bags was devised, _(24)_ for liquid wastes and the other for solid wastes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This is a report about John Glenn after he (A) successfully accomplished his 1962 Mercury flight.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Once used, the bags are sealed and stored for the flight back to the earth, _(25)_",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "飛行；航班",
+    "en_def": "The act of flying or a scheduled journey by air.",
+    "example": "The flight to New York was delayed due to bad weather."
+  },
+  "sentences_removed": 0
+}

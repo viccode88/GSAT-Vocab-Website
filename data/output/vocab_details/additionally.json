@@ -1,0 +1,23 @@
+{
+  "lemma": "additionally",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/additionally_ex_0_100ffd4e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "此外；另外",
+    "en_def": "In addition; also.",
+    "example": "Additionally, we will provide training for all new employees."
+  },
+  "sentences_removed": 1
+}

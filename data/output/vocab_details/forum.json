@@ -1,0 +1,28 @@
+{
+  "lemma": "forum",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/forum_ex_0_d88f836a.mp3"
+      },
+      {
+        "text": "Feel free to share your ideas on this forum.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/forum_ex_1_218679ab.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "論壇；討論區，供人們交流意見或信息的場所或平台。",
+    "en_def": "A medium for open discussion or voicing of ideas, often in a public setting.",
+    "example": "The online forum allowed users to share their experiences and ask questions."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "airline",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, de Mestral’s design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons’ gowns.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/airline_ex_0_244a9b75.mp3"
+      },
+      {
+        "text": "Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/airline_ex_1_05baacd8.mp3"
+      },
+      {
+        "text": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/airline_ex_2_65d312dd.mp3"
+      },
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/airline_ex_3_25c8c511.mp3"
+      },
+      {
+        "text": "I called the airline to ______",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/airline_ex_4_8646c1be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "航空公司，提供航空運輸服務的公司。",
+    "en_def": "A company that provides air transport services for passengers and cargo.",
+    "example": "She booked a flight with a popular airline for her vacation."
+  },
+  "sentences_removed": 0
+}

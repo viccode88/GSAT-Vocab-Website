@@ -1,0 +1,104 @@
+{
+  "lemma": "local",
+  "count": 17,
+  "pos_dist": {
+    "ADJ": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/local_ex_0_cd94ff57.mp3"
+      },
+      {
+        "text": "Pumping this super-salty water back into the ocean can harm local aquatic life.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/local_ex_1_0fe95f4b.mp3"
+      },
+      {
+        "text": "A west-to-east journey, on the other hand, makes us late compared to the local time.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/local_ex_2_f5657ff8.mp3"
+      },
+      {
+        "text": "It is the two or three digits just before the local number.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/local_ex_3_801c17bd.mp3"
+      },
+      {
+        "text": "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/local_ex_4_4a43bc2a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the 1980s, proms were held in local churches for teenagers to attend.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Couples danced to music provided by a local amateur band or a record player.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur. 21.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When she applied for admission to a local music school in 1917, she was turned down because she was black.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The local number, 17 , must always be dialed in its entirety.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Then, a local green energy startup company got the idea to turn that waste into energy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "He blamed his failings on local officials.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another fun 37 is shopping at the open market where local folks sell produce grown in their gardens.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "當地的；地方性的",
+    "en_def": "Relating to a particular area or neighborhood.",
+    "example": "The local market sells fresh produce every Saturday."
+  },
+  "sentences_removed": 0
+}

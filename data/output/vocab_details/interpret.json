@@ -1,0 +1,28 @@
+{
+  "lemma": "interpret",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People have an instinct for interpreting non-verbal communication.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interpret_ex_0_40bbbb26.mp3"
+      },
+      {
+        "text": "Lyrics to those lullabies can indeed be interpreted as a reflection of the caregiver’s emotions.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interpret_ex_1_7bbb3274.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "解釋或翻譯某事的意義或內容。",
+    "en_def": "To explain or translate the meaning or content of something.",
+    "example": "She was asked to interpret the poem for the class."
+  },
+  "sentences_removed": 0
+}

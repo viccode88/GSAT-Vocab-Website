@@ -1,0 +1,23 @@
+{
+  "lemma": "silky",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The men took out an axe and an electric saw and started cutting into the tree’s silky smooth skin.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/silky_ex_0_f9e9d875.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "光滑柔軟的，像絲綢一樣的。",
+    "en_def": "Smooth and soft to the touch, resembling silk.",
+    "example": "Her hair was silky and shiny after the treatment."
+  },
+  "sentences_removed": 0
+}

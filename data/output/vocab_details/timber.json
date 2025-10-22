@@ -1,0 +1,23 @@
+{
+  "lemma": "timber",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/timber_ex_0_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "木材，特別是用於建築或製作家具的樹木或木料。",
+    "en_def": "Wood that is prepared for use in building and carpentry.",
+    "example": "The carpenter selected the finest timber for the new house."
+  },
+  "sentences_removed": 0
+}

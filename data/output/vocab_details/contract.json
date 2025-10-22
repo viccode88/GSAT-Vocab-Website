@@ -1,0 +1,39 @@
+{
+  "lemma": "contract",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/contract_ex_0_0b10a55e.mp3"
+      },
+      {
+        "text": "The 70-year-old professor sued the university for age _____, because his teaching contract had not been renewed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/contract_ex_1_53ba0de7.mp3"
+      },
+      {
+        "text": "This group of islands off the coast of Ecuador has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/contract_ex_2_89469594.mp3"
+      },
+      {
+        "text": "The increasing population in Texas raised the risk of contracting the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/contract_ex_3_be2a2e67.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "合同；協議，通常是法律上具有約束力的文件。",
+    "en_def": "A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+    "example": "They signed a contract to finalize the sale of the house."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,49 @@
+{
+  "lemma": "disability",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, the Paralympics are sports events for athletes from six different disability groups.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disability_ex_0_b873490e.mp3"
+      },
+      {
+        "text": "Which of the following statements is true about Wesla Whitfield’s physical disability?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/disability_ex_1_a8e48e1a.mp3"
+      },
+      {
+        "text": "The only real disability in life is losing your mind.”",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/disability_ex_2_c027b3e4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In Toronto in 1976, the idea of putting together different disability groups 26 sports competitions was born.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They emphasize the participants’ athletic achievements 27 their physical disability.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The needs of people who suffer from physical and mental disabilities. 54.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "身心障礙，指身體或心理功能的缺失或限制，影響個體的日常生活和活動能力。",
+    "en_def": "A physical or mental condition that limits a person's movements, senses, or activities.",
+    "example": "She overcame her disability and became a successful athlete."
+  },
+  "sentences_removed": 0
+}

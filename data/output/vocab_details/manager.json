@@ -1,0 +1,69 @@
+{
+  "lemma": "manager",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The new manager is a real gentleman.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/manager_ex_0_e76087bb.mp3"
+      },
+      {
+        "text": "She works as a manager in the author’s company.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/manager_ex_1_1d18ed2b.mp3"
+      },
+      {
+        "text": "A railway manager, Knight specialized in designing the signaling system for Britain’s growing railway network in the 1860s.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/manager_ex_2_8d11aeef.mp3"
+      },
+      {
+        "text": "Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/manager_ex_3_be3b04ff.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The new manager is very _____.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The manager must try to find out who is really ________ for this serious sales problem.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The manager ______ without hesitation after he had been offered a better job in another company.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "To work as motel managers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.” (A) verbally (B) dominantly (C) legitimately (D)",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "經理；管理者，負責組織和指導某項工作的個人。",
+    "en_def": "A person responsible for controlling or administering an organization or group.",
+    "example": "The manager held a meeting to discuss the new project."
+  },
+  "sentences_removed": 0
+}

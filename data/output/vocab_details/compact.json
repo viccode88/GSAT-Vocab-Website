@@ -1,0 +1,23 @@
+{
+  "lemma": "compact",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nowadays students can information from a variety of sources, such as computers, television, and compact discs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/compact_ex_0_f1230b9f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "緊湊的；小而功能齊全的",
+    "en_def": "Closely and neatly packed together; small in size but efficient.",
+    "example": "The compact car is perfect for city driving."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "claustrophobic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And, if you’re worried about feeling claustrophobic in small spaces, you’d better think twice before making a reservation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/claustrophobic_ex_0_949c50de.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幽閉恐懼症的，對狹小空間感到不安或恐懼的。",
+    "en_def": "Having an extreme or irrational fear of confined spaces.",
+    "example": "She felt claustrophobic in the small elevator."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "scholar",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The scholar then developed an equation to find the most depressing day of the year, and it turned out to be the third Monday in January.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/scholar_ex_0_337c89cd.mp3"
+      },
+      {
+        "text": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/scholar_ex_1_9d9604dd.mp3"
+      },
+      {
+        "text": "Some scholars theorize that onions may have been used for the dead because it was believed that their strong scent would 40 the dead to breathe again.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scholar_ex_2_1453b325.mp3"
+      },
+      {
+        "text": "The many awards that Professor Wang has won over the years are clear ______ that he is a distinguished scholar.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/scholar_ex_3_c96e6caa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "學者，專門從事學術研究或教學的人。",
+    "en_def": "A scholar is a person who is highly educated or has an extensive knowledge in a particular field, often engaged in academic research or teaching.",
+    "example": "The scholar published a groundbreaking paper on ancient history."
+  },
+  "sentences_removed": 0
+}

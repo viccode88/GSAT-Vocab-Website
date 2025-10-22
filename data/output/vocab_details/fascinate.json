@@ -1,0 +1,23 @@
+{
+  "lemma": "fascinate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The ancient Greeks and Romans were also fascinated by the idea of magic.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fascinate_ex_0_49ae0f44.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使著迷；吸引",
+    "en_def": "To attract and hold the attention of someone intensely.",
+    "example": "The magician's tricks never failed to fascinate the audience."
+  },
+  "sentences_removed": 0
+}

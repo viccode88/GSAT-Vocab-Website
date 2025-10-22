@@ -1,0 +1,43 @@
+{
+  "lemma": "distribute",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/distribute_ex_0_c0d7b070.mp3"
+      },
+      {
+        "text": "Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/distribute_ex_1_0a79e9fa.mp3"
+      },
+      {
+        "text": "In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/distribute_ex_2_cc81720a.mp3"
+      },
+      {
+        "text": "The report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/distribute_ex_3_44d8f7f6.mp3"
+      },
+      {
+        "text": "But income is not distributed __(36)__ throughout its population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/distribute_ex_4_ef17f2cd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分配，散佈或分發某物。",
+    "en_def": "To divide and give out something among a group or to spread something over an area.",
+    "example": "The teacher will distribute the textbooks to the students."
+  },
+  "sentences_removed": 0
+}

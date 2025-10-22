@@ -1,0 +1,28 @@
+{
+  "lemma": "sustain",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To sustain this amount of fluid in our bodies, plain water is considered our best choice, for it contains no sugar and no calories.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sustain_ex_0_ea1fe854.mp3"
+      },
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sustain_ex_1_eece5146.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "維持；支持；使持續",
+    "en_def": "To support or maintain something over time.",
+    "example": "We need to find ways to sustain our natural resources."
+  },
+  "sentences_removed": 1
+}

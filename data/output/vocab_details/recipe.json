@@ -1,0 +1,43 @@
+{
+  "lemma": "recipe",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At the end of the class, you __(25)__ with you classmates the meals you have created, and you will leave with recipe handouts and , more importantly, the ability to cook two weeks of fantastic, low-cost meals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/recipe_ex_0_47401af8.mp3"
+      },
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recipe_ex_1_f1d5d304.mp3"
+      },
+      {
+        "text": "The recipe for a breakfast food.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/recipe_ex_2_02b33d1b.mp3"
+      },
+      {
+        "text": "The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 .",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recipe_ex_3_58ef2d10.mp3"
+      },
+      {
+        "text": "The Moon Lake Restaurant’s menu included French-fried potatoes, a popular food recipe brought back from France by Thomas Jefferson.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/recipe_ex_4_3d0c0eac.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "食譜；烹飪方法的詳細說明。",
+    "en_def": "A set of instructions for preparing a particular dish, including a list of the ingredients required.",
+    "example": "I found a delicious recipe for chocolate cake online."
+  },
+  "sentences_removed": 0
+}

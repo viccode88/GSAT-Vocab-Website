@@ -1,0 +1,49 @@
+{
+  "lemma": "snack",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, some participants thought that they were eating a chocolate snack, but in fact they were not. 26.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/snack_ex_0_18d79a13.mp3"
+      },
+      {
+        "text": "The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 .",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/snack_ex_1_58ef2d10.mp3"
+      },
+      {
+        "text": "Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/snack_ex_2_d8bbdfb1.mp3"
+      },
+      {
+        "text": "And the healthy and fun snack is ready to serve.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/snack_ex_3_6b065239.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "However, the modern way of preparing this 31 snack may carry an unhappy secret.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 29 than it actually is.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "小吃；零食",
+    "en_def": "A small portion of food eaten between meals.",
+    "example": "I like to have a snack in the afternoon."
+  },
+  "sentences_removed": 2
+}

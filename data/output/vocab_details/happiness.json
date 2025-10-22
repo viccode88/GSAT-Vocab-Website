@@ -1,0 +1,28 @@
+{
+  "lemma": "happiness",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Next time, being thin will finally fulfill its promise of everlasting happiness, self-worth, and, of course, love.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/happiness_ex_0_46e8baf6.mp3"
+      },
+      {
+        "text": "More importantly, if it's happiness that we want, why not put our energy there rather than on the size of our body?",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/happiness_ex_1_8e5f4a45.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幸福，快樂的狀態或感覺。",
+    "en_def": "A state of well-being and contentment.",
+    "example": "Her smile was a clear sign of her happiness."
+  },
+  "sentences_removed": 0
+}

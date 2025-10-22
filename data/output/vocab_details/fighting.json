@@ -1,0 +1,38 @@
+{
+  "lemma": "fighting",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fighting_ex_0_41bb74a0.mp3"
+      },
+      {
+        "text": "The Amazons are completely dependent on their slaves ____(29)___ their sharp jaws, so well suited for fighting, are useless in taking care of larvae or for digging.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/fighting_ex_1_228f259b.mp3"
+      },
+      {
+        "text": "The 2011 Nobel Peace Prize was awarded _____ to three women for the efforts they made in fighting for women’s rights.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/fighting_ex_2_19b64a0d.mp3"
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fighting_ex_3_cff0c385.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "打鬥或爭鬥的行為，通常涉及身體的衝突或爭執。",
+    "en_def": "The act of engaging in a physical struggle or conflict, often involving violence.",
+    "example": "The two friends ended up fighting over a misunderstanding."
+  },
+  "sentences_removed": 0
+}

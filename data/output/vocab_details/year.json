@@ -1,0 +1,795 @@
+{
+  "lemma": "year",
+  "count": 171,
+  "pos_dist": {
+    "NOUN": 166,
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Seventy-five million pieces of mail can end up in these offices in one year.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/year_ex_0_1d0bc5d6.mp3"
+      },
+      {
+        "text": "About 200 million years ago this super-continent broke up into two continents: Laurasia and Gondwana.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/year_ex_1_f0a0aa7f.mp3"
+      },
+      {
+        "text": "In the year 1990 alone, the growth in trade in services was as high as 19%.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/year_ex_2_ab0d0ae8.mp3"
+      },
+      {
+        "text": "Each year, over a quarter of a million students take courses this way.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/year_ex_3_b213d580.mp3"
+      },
+      {
+        "text": "Emma and Joe are looking for a live-in babysitter for their three-year-old twins, one who knows how to cook.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/year_ex_4_aebd8e40.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After five years of research, she created from pineapple leaves a material which, like real leather, can be used for making bags, shoes, and 23 textile products.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Mounted in the two tall towers of the cathedral, Notre-Dame’s bells have been ringing for over 800 years.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "After a year in the orphanage with the constant companionship of her human family, Zoe was taken to a refuge at Tsavo National Park.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A few years later, they were selling all over the United States.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Forced to quit school in fifth grade after his father died, Abate worked as a shoe-shine boy for years.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The _____ costume party, held every September, is one of the biggest events of the school year.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Two years later, it was awarded first prize again at Houston’s first annual Invention Fair.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How much money do sales of rap music and videos together make each year?",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Fifty years ago, teams of architects began restoring the historic treasures of the city.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the first two years, none of the trees he planted 36 .",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the analysis, the 22 between India’s southern and northern tips shrinks by 2 cm every year.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "the shrinking continues, India will disappear in 200 million years.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The picture __(22)__ have been used in Canada for the last four years.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "They are very long-lived for insects, and some adult wetas can live as long as two years.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The scholar then developed an equation to find the most depressing day of the year, and it turned out to be the third Monday in January.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "With this special design, the shoes can “grow” up to five sizes and last for at least five years.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "None of them wanted to—though for some years afterwards I was left in no doubt that I was morally obliged to them, in the sense that it always seemed to be my round when it came to the buying of drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred from the study? (A) Sea snakes can easily survive long years of drought.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She has been writing a lot since her adolescent years.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Daphne has been working with wild animals for some 60 years, and in 1977 she opened the elephant orphanage at her home in Nairobi.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Already in Britain people say that computer crimes are costing companies between 500 million pounds and 2.5 billion pounds a year.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "After a year of depression she tried to kill herself.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is predicted that driverless cars will be ready for sale within five years.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "28 , professional football teams usually play no more than fourteen games a year.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, 23 a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Tree products have been an important part of diets for thousands of years, from early humans 26 fruits and nuts to the first cultivation of important trees, such as mango and apple.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We’ve been mostly vegan 90% of the time for the last 6 years and we cannot thank GreenBurger enough!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many other five-year-olds had problems reaching the bathroom sink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "。 For many years, people thought the 1 of smoking were 2 to smokers.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Several years later, her marriage began to fail.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why were redwood trees more prominent in the forests of North America millions of years ago? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "I'm quite to the weather in Taiwan, so I think I'll stay here for another year.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The students lost an average of 2.34 kilograms during the past two months, and the student who lost the most, the nine-year-old Howard Chang, shed more than six kilograms.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The Assamese variety can grow 18 meters high and lives about 40 years.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The tower is built to celebrate the coming of the year 2,000.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This process, known as “coral bleaching,” has happened more and more frequently in recent years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the years just prior to 1900, quite a few paperclip designs emerged.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Apples have been grown for thousands of years in Asia and Europe, and 29 to North America by European colonists in the 17th century.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With a loud roar, the saw chewed into the 150-year old tree.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The many awards that Professor Wang has won over the years are clear ______ that he is a distinguished scholar.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Bam was best known for its 2,000-year-old castle built out of mud, straw, and the trunks of palm trees.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "So, an 8-year-old who passes the 10-year-old’s test would have an IQ of 10/8 times 100, or 125.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "More than one-third are in such bad shape that they could die within ten years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Injuries limited Deborah’s time on the court as she hurt her knees three more times in the next five years.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Each year, tens of millions of animals, including dogs and cats, needlessly suffer and die to fuel the fur industry.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "She opened her first store two years ago; now she has fifty stores all over the country.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "However, in response to the 29 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced In 2015 when she was just a 17-year-old, her children in the capital, Kinshasa.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Though Kevin failed in last year’s singing contest, he did not feel .",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "This year he practiced day and night and finally won first place in the competition.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "＿27＿ you go, there are buildings in Romanic, Baroque, and Rococo styles that were popular hundreds of years ago.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After 11 years of work, the final section of the road was completed in 1932.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It has been many years… D.…whether Mary would come or not. 30.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This was thought to be enough for a person to survive for one year.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Less social and flexible because they become accustomed in the very early years to acting alone, they may have difficulty making close friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The ideas about family have changed _____ in the past twenty years.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The movement continued over the years; however, the problem remains.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "26 some six hundred years of architecture nearly untouched by natural disaster or war, the city retains much of its medieval appearance.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Canadian government made gold seekers bring one year’s supplies with them so that _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The couple was spending about $30,000 a year for her care.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, only the edible soft inner flesh has been used.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "19 Happy Puppy is a relatively new service, we benefit from more than 20 years of experience in breeding and caring for dogs.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "He has won the running championship _____ for three years.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The The company offers the most lucrative compensation selected candidate will undergo a training program to plan in the industry and has paid over $3.5 billion NTD be conducted by our manufacturer’s trained technical in commissions in just 6 years in the US.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, proms have been held every year in high schools for students to learn proper social behavior.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Paralympic Games have always been held in the same year as the Olympic Games.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This, of course, is just one of the millions of trees that fall in the Amazon each year.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to 23 the thousands of oil spills that happen each year.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The purchasing power of teenagers has been decreasing over the years.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, Jefferson welcomed visitors to annual receptions on New Year’s Day and on the Fourth of July.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is TRUE? (A) Company workers started to dress down about twenty years ago.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then, World Hello Day—November 21st of every year— 27 observed by people in 180 countries.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many scientists, however, say there is no evidence that Blue Monday causes any more sadness than other specific days of the year.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We have followed your high-school career with joy and pleasure and know that your four years at college will be even more rewarding.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The association of particular patterns with individual families can be traced back hundreds of years.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Over his 36-year career, Sullivan was struck by lightning seven times—and 22 each shock!",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "This extinct volcano is considered the wettest spot on earth, with almost 500 inches of rainfall each year.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The Chinese and Indians 16 it for at least 4,000 years to treat everything from headache to depression.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the United States, the legal blood alcohol limit is 0.08% for people aged 21 years or older, while people under 21 are not allowed to drive a car with any level of alcohol in their body.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "If 70 percent of 8-year-olds could pass a particular test, then 29 on the test represented an 8-year-old’s level of intelligence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of the passage? (A) Asians have used soybean produce for thousands of years.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The “Cups and Balls” trick has been performed for about 1,700 years.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "When asked what color is evoked by a letter or number, synesthetic people would persistently give the same answer even if tested months or years apart.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The prom has changed from a modest event to a glamorous party over the years. 47.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In recent years, the soybean has been used in making many different foods and has become the atom of health food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Both issues result from the tide of violence that has crossed the region in recent years.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Homer moved to England and, after a two-year stay, returned to America.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which season of the year serves as the setting of the poem?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The Fourth of July means beer and New Year's Eve is an entire night dedicated to the proposition that everyone must get 25 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The movie director adapted this year’s bestseller into a hit and made a ______.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The mother’s fear of loss especially makes sense since the infant/toddler years of life are fragile ones.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Iceland has increased their fish catch by 30% in the last 20 years.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During the 1990s, international trade grew by nearly 8.6% each year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But this story written 40 years ago __(27)__ predicted the arrival of a recent method of genetic engineering—cloning.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The Chinese variety, a strong plant that can grow to be 2.75 meters high, can live to be 100 years old and survives cold winters.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Where do you think they’ll be in five years?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, 21 the probability of being struck seven different times.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The non-profit organization has _____ $1 million over five years to finance the construction of the medical center.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1929, she went to Europe to study voice and spent several years performing there.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The 70-year-old professor sued the university for age _____, because his teaching contract had not been renewed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This 18-year-old sprinted to the finish of a 12-mile run with his bare feet bleeding.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true? (A) Magic began about 3,700 years ago.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“When I got married last year, I had all these pictures that didn’t come out right.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about the hard hat? (A) Global sales have doubled every ten years.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "We eat polluted dairy products and meat and take the dioxin into our bodies, where it is stored in our fat for years and builds up over time.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The famous conductor Toscanini praised her voice as “heard only once in a hundred years.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "It may take some years, but the final aim is to release all of them to a wild herd.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The territorial dispute can be back to the year 1917, when the two countries were at war.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "However, in the third year, several young trees started growing.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Founded in 1992, with some 28,000 listings, this company itself as the world’s largest home exchange club, reporting that membership has increased 30% this year.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Though not a national holiday, Obon is surely one of the most traditional events of the year.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "“They are very hot this year,” said Yossi Fogel at B & H Photo in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is estimated that more than 33 million acres of Amazonian Rainforest disappear every year.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Now she sees the doctor only four or five times a year.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, researchers have given different answers to this question.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Wang Chien-ming, the Yankees’ best pitcher last year, already showed his great _____ for baseball when he was still a teenager.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Mr. Lin is a very ________ writer; he publishes at least five novels every year.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "年；指地球繞太陽一周所需的時間，通常為365天或366天（閏年）。",
+    "en_def": "A period of 365 days (or 366 in a leap year) that is used to measure time, typically starting from January 1st.",
+    "example": "This year, I plan to travel to Europe."
+  },
+  "sentences_removed": 12
+}

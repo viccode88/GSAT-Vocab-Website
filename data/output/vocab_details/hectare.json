@@ -1,0 +1,28 @@
+{
+  "lemma": "hectare",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By 1975 the red imported fire ant had colonized over 52 million hectares of the United States.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/hectare_ex_0_c6d60549.mp3"
+      },
+      {
+        "text": "Now, it has infested more than 275 million hectares in the country.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/hectare_ex_1_60e024d8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "公頃，一種面積單位，等於10,000平方米或2.471英畝。",
+    "en_def": "A hectare is a unit of area equal to 10,000 square meters or 2.471 acres.",
+    "example": "The farm covers an area of 50 hectares."
+  },
+  "sentences_removed": 0
+}

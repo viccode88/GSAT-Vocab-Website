@@ -1,0 +1,34 @@
+{
+  "lemma": "poison",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Chemicals from the poisons kill reefs or make them weak, so they have less 37 to diseases.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/poison_ex_0_02390ad6.mp3"
+      },
+      {
+        "text": "The pollutants run with rainwater into rivers and streams, which 36 the poisons into the ocean.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/poison_ex_1_86799921.mp3"
+      },
+      {
+        "text": "We had better not breastfeed our babies, since babies are most likely to be poisoned by dioxin.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/poison_ex_2_424988f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "毒藥；有毒物質",
+    "en_def": "A substance that is capable of causing harm or death when introduced into a living organism.",
+    "example": "The scientist carefully handled the poison to avoid any accidents."
+  },
+  "sentences_removed": 0
+}

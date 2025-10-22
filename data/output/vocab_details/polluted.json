@@ -1,0 +1,28 @@
+{
+  "lemma": "polluted",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We eat polluted dairy products and meat and take the dioxin into our bodies, where it is stored in our fat for years and builds up over time.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/polluted_ex_0_67ec8966.mp3"
+      },
+      {
+        "text": "The place was severely polluted.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/polluted_ex_1_ae021817.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "受到污染的，通常指環境或物質中含有有害物質。",
+    "en_def": "Contaminated with harmful substances, typically referring to the environment or materials.",
+    "example": "The river was polluted by industrial waste."
+  },
+  "sentences_removed": 0
+}

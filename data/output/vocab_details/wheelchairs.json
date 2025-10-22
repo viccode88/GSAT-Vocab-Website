@@ -1,0 +1,17 @@
+{
+  "lemma": "wheelchairs",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輪椅是一種用於幫助行動不便者移動的座椅，通常有輪子以便於推動。",
+    "en_def": "A wheelchair is a chair on wheels used to assist individuals with mobility impairments in moving around.",
+    "example": "She uses a wheelchair to get around the city."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "isaacs",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "以撒的名字，通常指聖經中的人物，以撒是亞伯拉罕和撒拉的兒子。",
+    "en_def": "A name of Hebrew origin, often referring to the biblical figure Isaac, who is the son of Abraham and Sarah.",
+    "example": "Isaac was known for his faith and obedience to God."
+  },
+  "sentences_removed": 1
+}

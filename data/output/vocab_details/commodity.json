@@ -1,0 +1,23 @@
+{
+  "lemma": "commodity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A country is said to have a comparative advantage over another when it can produce a commodity more cheaply.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/commodity_ex_0_d79c2da4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "商品；可交易的物品或原材料。",
+    "en_def": "A basic good used in commerce that is interchangeable with other goods of the same type.",
+    "example": "Coffee is one of the most traded commodities in the world."
+  },
+  "sentences_removed": 0
+}

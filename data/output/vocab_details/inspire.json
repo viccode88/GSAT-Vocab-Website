@@ -1,0 +1,54 @@
+{
+  "lemma": "inspire",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/inspire_ex_0_defa366f.mp3"
+      },
+      {
+        "text": "This story may sound highly credible, but there seems to be no solid evidence that it inspired the creation of the 35 we know of today as fortune cookies.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inspire_ex_1_35f527db.mp3"
+      },
+      {
+        "text": "Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/inspire_ex_2_7e647dc2.mp3"
+      },
+      {
+        "text": "Dumas’s two most famous stories, The Three Musketeers and The Count of Monte Cristo, have inspired more than 100 films.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/inspire_ex_3_e91c09e4.mp3"
+      },
+      {
+        "text": "We need to feel the rhythm of the music, hear how it inspires us to move and learn our unique style of movement and expression.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/inspire_ex_4_122f1a99.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their Popole was granted asylum in 2014 by dreams.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "激勵或鼓舞某人去做某事或創造某事。",
+    "en_def": "To fill someone with the urge or ability to do or feel something, especially to do something creative.",
+    "example": "The teacher's words inspired the students to pursue their dreams."
+  },
+  "sentences_removed": 0
+}

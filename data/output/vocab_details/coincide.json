@@ -1,0 +1,23 @@
+{
+  "lemma": "coincide",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ancient cultures celebrated New Year’s Day on or around April 1, which roughly coincides with the beginning of spring.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coincide_ex_0_a65b151e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "同時發生或存在於同一時間或空間。",
+    "en_def": "To occur at the same time or to occupy the same space.",
+    "example": "The festival will coincide with the national holiday this year."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "access",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "V2I could also request traffic information from a traffic management system and access the best possible routes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/access_ex_0_025271af.mp3"
+      },
+      {
+        "text": "But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/access_ex_1_5982d8ab.mp3"
+      },
+      {
+        "text": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/access_ex_2_fdf1fc6a.mp3"
+      },
+      {
+        "text": "Members can access thousands of listings for apartments, villas, suburban homes and farms around the world.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/access_ex_3_02a9d5f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "接近或進入某物的權利或能力。",
+    "en_def": "The right or ability to approach, enter, or use something.",
+    "example": "You need a password to access the secure files."
+  },
+  "sentences_removed": 2
+}

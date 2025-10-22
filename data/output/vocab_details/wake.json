@@ -1,0 +1,59 @@
+{
+  "lemma": "wake",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thus, daydreams are really just waking thoughts.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wake_ex_0_7fbe7adb.mp3"
+      },
+      {
+        "text": "Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/wake_ex_1_27bd55ce.mp3"
+      },
+      {
+        "text": "24 these “non-dreamers” do their sleeping in a laboratory 25 researchers can wake them up and ask them whether they were having dreams the moment before, it 26 that they dream as much as others.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wake_ex_2_0780d6aa.mp3"
+      },
+      {
+        "text": "Anyway, it was not (39) 10 o’clock the next morning that I finally woke up.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wake_ex_3_acc3c9c8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In 21 , the brain waves of a sleeping person are similar to those of a waking person, and the eyes move about rapidly under the closed lids.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "After all, you can’t wake up a lion!",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "醒來；喚醒",
+    "en_def": "To emerge or cause to emerge from sleep; to become alert or aware.",
+    "example": "I usually wake up at 7 AM every day."
+  },
+  "sentences_removed": 0
+}

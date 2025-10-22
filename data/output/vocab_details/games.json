@@ -1,0 +1,54 @@
+{
+  "lemma": "games",
+  "count": 14,
+  "pos_dist": {
+    "PROPN": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From the 2012 bid onwards, the city chosen to host the Olympic Games will also host the Paralympics. 26.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/games_ex_0_1dc9f857.mp3"
+      },
+      {
+        "text": "The number of athletes 28 in the Summer Paralympic Games has increased from 400 athletes from 23 countries in 1960 to 3,806 athletes from 136 countries in 2004.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/games_ex_1_851d8972.mp3"
+      },
+      {
+        "text": "At the closing ceremony of the Olympic Games, all the athletes ________ good-bye to the audience.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/games_ex_2_4e24cd1b.mp3"
+      },
+      {
+        "text": "The Paralympic Games have always been held in the same year as the Olympic Games.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/games_ex_3_c8ca0434.mp3"
+      },
+      {
+        "text": "Refugee athletes have been invited to compete in the Olympic Games since 2016.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/games_ex_4_80a88310.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He made his Olympic Olympic Games.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Joining the Olympic Games more than once.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "遊戲；娛樂活動，通常涉及競爭或挑戰。",
+    "en_def": "Activities or contests engaged in for amusement or fun, often involving competition.",
+    "example": "The children played games in the park after school."
+  },
+  "sentences_removed": 3
+}

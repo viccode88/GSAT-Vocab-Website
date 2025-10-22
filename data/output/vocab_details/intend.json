@@ -1,0 +1,64 @@
+{
+  "lemma": "intend",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is intended for slim, fast people.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/intend_ex_0_6635584e.mp3"
+      },
+      {
+        "text": "When the Amazons reach the nest of their intended victims, a fierce battle may take place.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/intend_ex_1_ecdf7603.mp3"
+      },
+      {
+        "text": "The success of the park is exactly what Morgan intended to achieve.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/intend_ex_2_8aab77cf.mp3"
+      },
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/intend_ex_3_73b77ec7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This article about fantasy literature is intended to __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many believe that the aliens are here to help us, while others hold that the aliens intend us __(39)__.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "They were prized possessions made of expensive materials intended to impress guests.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the author, the second example is intended to (A) express opinions about seashells.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The design was intended to look as shiny and smooth as velvet.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "打算，意圖",
+    "en_def": "To have a plan or purpose in mind.",
+    "example": "I intend to finish my homework before dinner."
+  },
+  "sentences_removed": 0
+}

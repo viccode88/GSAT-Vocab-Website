@@ -1,0 +1,39 @@
+{
+  "lemma": "judo",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“Judo helped me a small boat that held 20 people and set sail into the by giving me serenity, discipline, commitment— deep waters of the Aegean Sea.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/judo_ex_0_cd652a0c.mp3"
+      },
+      {
+        "text": "She managed to reach There, Popole discovered judo, from which he Turkey through Lebanon.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/judo_ex_1_7804ae3b.mp3"
+      },
+      {
+        "text": "Judo helped Popole Misenga to be strong both physically and mentally, and gave him the courage to escape from the (B) of his coaches.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/judo_ex_2_051e8e2d.mp3"
+      },
+      {
+        "text": "Her incredible story and superior swimming Brazilian government and later continued judo skills won her the opportunity to participate in the training at a youth facility.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/judo_ex_3_70a96542.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種源自日本的武術，以摔跤和投擲技術為主，強調利用對手的力量來制服對方。",
+    "en_def": "A Japanese martial art that focuses on throwing and grappling techniques, emphasizing the use of an opponent's strength against them.",
+    "example": "He practices judo every Saturday at the local dojo."
+  },
+  "sentences_removed": 0
+}

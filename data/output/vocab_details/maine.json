@@ -1,0 +1,28 @@
+{
+  "lemma": "maine",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He settled permanently in Maine in 1883.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/maine_ex_0_ce7260fd.mp3"
+      },
+      {
+        "text": "It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/maine_ex_1_ad079275.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美國的一個州，位於新英格蘭地區，以其海岸線和自然風光著稱。",
+    "en_def": "A state in the northeastern United States, known for its coastline and natural beauty.",
+    "example": "Maine is famous for its lobster and beautiful lighthouses."
+  },
+  "sentences_removed": 0
+}

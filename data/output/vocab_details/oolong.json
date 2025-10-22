@@ -1,0 +1,39 @@
+{
+  "lemma": "oolong",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The preparation of oolong tea is similar to that of black tea.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/oolong_ex_0_6c2e9b64.mp3"
+      },
+      {
+        "text": "According to the passage, which of following is the most popular tea around the world? (A) Green tea (B) Black tea (C) Oolong tea (D) European tea 47.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/oolong_ex_1_7590c501.mp3"
+      },
+      {
+        "text": "Oolong tea is prepared similarly to black tea, but without the fermentation time.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/oolong_ex_2_bd29c542.mp3"
+      },
+      {
+        "text": "There are three kinds of tea: black, green, and oolong.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/oolong_ex_3_75602485.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "烏龍茶，一種部分發酵的茶葉，通常具有獨特的香氣和味道。",
+    "en_def": "Oolong is a type of partially fermented tea known for its distinct aroma and flavor.",
+    "example": "I enjoy drinking oolong tea in the afternoon."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,110 @@
+{
+  "lemma": "chemical",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 16,
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In ecological terms, the chemicals of living things are borrowed from the Earth, and at death they return.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chemical_ex_0_97fcb16d.mp3"
+      },
+      {
+        "text": "More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/chemical_ex_1_fd2ddf28.mp3"
+      },
+      {
+        "text": "It requires fewer chemicals, making it safer for the workers in factories.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/chemical_ex_2_e356648a.mp3"
+      },
+      {
+        "text": "But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/chemical_ex_3_b8827587.mp3"
+      },
+      {
+        "text": "It also helps retain the tea’s beneficial chemicals.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/chemical_ex_4_ce3ceb34.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They do not contain chemicals. 56.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Processing the plastic can lead to the release of harmful chemical substances into the water contained in the bottles.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The major chemical characteristics of seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Best I can figure is that I have some chemical, some mineral, in my body that draws lightning.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They include a range of bacteria, fungi, and small animals that break down nature’s wastes into ever smaller pieces until all the chemicals are released into the air, the soil, and the water, making them available to other living things.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Chemicals from the poisons kill reefs or make them weak, so they have less 37 to diseases.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Hundreds of residents received free testing _____ from the city government to find out if their water contained any harmful chemicals.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Once the pests detect the chemical fog in the room, they’ll hide themselves in walls or other hideaways, where you’ll never be able to treat them effectively.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, the infant is the most vulnerable member of society to this chemical.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "化學的；與化學有關的",
+    "en_def": "Relating to chemistry or the substances involved in chemical processes.",
+    "example": "Water is a chemical compound made of hydrogen and oxygen."
+  },
+  "sentences_removed": 1
+}

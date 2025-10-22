@@ -1,0 +1,23 @@
+{
+  "lemma": "stressful",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/stressful_ex_0_1cb4adca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人感到壓力的，緊張的",
+    "en_def": "Causing mental or emotional strain or tension.",
+    "example": "The exam week was very stressful for all the students."
+  },
+  "sentences_removed": 0
+}

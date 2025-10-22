@@ -1,0 +1,23 @@
+{
+  "lemma": "clay",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/clay_ex_0_bdcaa9eb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由細小顆粒組成的土壤，通常用於製作陶器和其他工藝品。",
+    "en_def": "A natural material made up of fine particles, often used for making pottery and other crafts.",
+    "example": "The artist shaped the clay into a beautiful vase."
+  },
+  "sentences_removed": 0
+}

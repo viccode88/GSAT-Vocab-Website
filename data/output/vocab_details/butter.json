@@ -1,0 +1,33 @@
+{
+  "lemma": "butter",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“We’d put half a pound of butter on a steak.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/butter_ex_0_f5f93c6c.mp3"
+      },
+      {
+        "text": "Making matters worse, the artificial butter substitute that generally 34 with microwavable popcorn contains a common food-flavoring substance.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/butter_ex_1_5affc4cb.mp3"
+      },
+      {
+        "text": "Then pour the popcorn into a bowl and season with a small 40 of real butter or olive oil and natural salt.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/butter_ex_2_9b5aeb6c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由牛奶或奶油製成的乳製品，通常用於烹飪或塗抹在食物上。",
+    "en_def": "A dairy product made from churning cream or milk, often used in cooking or as a spread.",
+    "example": "She spread butter on her toast before adding jam."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "publicly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/publicly_ex_0_71efca56.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "公開地，公然地",
+    "en_def": "In a manner that is open and accessible to all; not hidden or secret.",
+    "example": "The results of the study were publicly announced."
+  },
+  "sentences_removed": 0
+}

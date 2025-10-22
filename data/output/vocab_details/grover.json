@@ -1,0 +1,23 @@
+{
+  "lemma": "grover",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was not until Grover Cleveland’s first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/grover_ex_0_48f81fce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於清理或修整草坪或花園的工具，通常有一個長柄和一個平坦的頭部。",
+    "en_def": "A tool used for leveling or smoothing soil, typically with a long handle and a flat head.",
+    "example": "He used a grover to prepare the garden bed for planting."
+  },
+  "sentences_removed": 0
+}

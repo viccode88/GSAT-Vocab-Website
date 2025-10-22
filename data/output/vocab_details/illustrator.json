@@ -1,0 +1,38 @@
+{
+  "lemma": "illustrator",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He then moved to New York City, where he worked as a freelance illustrator with Harper’s Weekly, a popular magazine of the time, and began painting.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustrator_ex_0_c9cd8688.mp3"
+      },
+      {
+        "text": "Showing great talent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief illustrator by age 34.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustrator_ex_1_09e0b3a9.mp3"
+      },
+      {
+        "text": "He first established his reputation as an illustrator in his hometown of Boston. 51.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustrator_ex_2_59307e92.mp3"
+      },
+      {
+        "text": "He is considered the greatest illustrator in the history of American art.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustrator_ex_3_ac892285.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "插畫家，專門創作插圖的人。",
+    "en_def": "An illustrator is a person who creates images or drawings to accompany text or convey ideas.",
+    "example": "The illustrator brought the story to life with beautiful images."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "freelance",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He then moved to New York City, where he worked as a freelance illustrator with Harper’s Weekly, a popular magazine of the time, and began painting.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/freelance_ex_0_c9cd8688.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自由職業者，指不受僱於特定雇主，根據合同或項目提供服務的人。",
+    "en_def": "A person who works independently, providing services to multiple clients without long-term commitments to any employer.",
+    "example": "She decided to freelance as a graphic designer to have more flexibility in her work schedule."
+  },
+  "sentences_removed": 0
+}

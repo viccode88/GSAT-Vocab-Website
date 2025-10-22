@@ -1,0 +1,23 @@
+{
+  "lemma": "peppery",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It must be free from impurity, while exhibiting some fruitiness and creating a pleasant bitter flavor along with a peppery sensation in the mouth.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/peppery_ex_0_d47a7adf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "帶有胡椒味的；辛辣的",
+    "en_def": "Having a strong, spicy flavor reminiscent of pepper.",
+    "example": "The dish had a peppery taste that made it very flavorful."
+  },
+  "sentences_removed": 0
+}

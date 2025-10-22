@@ -1,0 +1,23 @@
+{
+  "lemma": "interact",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their relationship is how they interact with each other.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/interact_ex_0_f4e2d303.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "互動，指兩個或多個事物之間的相互作用或影響。",
+    "en_def": "To act in such a way as to have an effect on another; to communicate or engage with others.",
+    "example": "The teacher encouraged students to interact with each other during the group project."
+  },
+  "sentences_removed": 0
+}

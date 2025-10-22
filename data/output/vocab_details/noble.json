@@ -1,0 +1,28 @@
+{
+  "lemma": "noble",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/noble_ex_0_35c28d8f.mp3"
+      },
+      {
+        "text": "The reincarnated leaders were always “discovered” in the households of lowly families __(20)__ noble ones.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/noble_ex_1_b1e7cd69.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高貴的，具有崇高品德或地位的。",
+    "en_def": "Having or showing fine personal qualities or high moral principles.",
+    "example": "She comes from a noble family known for its charitable work."
+  },
+  "sentences_removed": 0
+}

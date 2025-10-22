@@ -1,0 +1,28 @@
+{
+  "lemma": "vote",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 2011, they were voted as one of the world’s top five performance groups by audiences of Japan Broadcasting Corporation’s Amazing Voice program.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vote_ex_0_316c1b1d.mp3"
+      },
+      {
+        "text": "Since Michael was the best candidate, the committee voted for him to take charge of the company’s sales department.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/vote_ex_1_ae550734.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "投票，表達對某個候選人或提案的支持或反對。",
+    "en_def": "To express one's choice or opinion in a decision-making process, typically in an election.",
+    "example": "I will vote for my favorite candidate in the upcoming election."
+  },
+  "sentences_removed": 0
+}

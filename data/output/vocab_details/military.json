@@ -1,0 +1,39 @@
+{
+  "lemma": "military",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 4,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Regarding the first example, which of the following is FALSE? (A) Nelson was not a responsible person. (B) Adam and Nelson are military officers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/military_ex_0_db0b742f.mp3"
+      },
+      {
+        "text": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/military_ex_1_729fc548.mp3"
+      },
+      {
+        "text": "And as they could buy the Swiss army knife at shops on military bases, they bought huge quantities of them.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/military_ex_2_76bfcee2.mp3"
+      },
+      {
+        "text": "In some countries, military service is ______ for men only; women do not have to serve in the military.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/military_ex_3_4b3cedf9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "軍事的；與軍隊或戰爭有關的。",
+    "en_def": "Relating to the armed forces or warfare.",
+    "example": "He decided to pursue a career in the military."
+  },
+  "sentences_removed": 0
+}

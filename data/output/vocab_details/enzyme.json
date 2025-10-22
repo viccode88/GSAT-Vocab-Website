@@ -1,0 +1,23 @@
+{
+  "lemma": "enzyme",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sitting for too long slows down the body’s metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/enzyme_ex_0_faa02c4b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "酶是一種催化劑，能加速生化反應的化學物質，通常是蛋白質。",
+    "en_def": "An enzyme is a catalyst that accelerates biochemical reactions, typically a protein.",
+    "example": "Enzymes in our saliva help break down food as we chew."
+  },
+  "sentences_removed": 0
+}

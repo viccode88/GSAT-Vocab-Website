@@ -1,0 +1,23 @@
+{
+  "lemma": "closing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At the closing ceremony of the Olympic Games, all the athletes ________ good-bye to the audience.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/closing_ex_0_4e24cd1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "結束或關閉的行為或過程。",
+    "en_def": "The act or process of bringing something to an end or shutting it down.",
+    "example": "The closing of the store was announced a week in advance."
+  },
+  "sentences_removed": 0
+}

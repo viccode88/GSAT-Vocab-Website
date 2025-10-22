@@ -1,0 +1,28 @@
+{
+  "lemma": "arouse",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People learn from people they love and remember the things that arouse emotion.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/arouse_ex_0_cb789a19.mp3"
+      },
+      {
+        "text": "To arouse the appetite of the pet.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/arouse_ex_1_0e1fc034.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "引起；激起",
+    "en_def": "To evoke or awaken a feeling, emotion, or response.",
+    "example": "The movie was able to arouse deep emotions in the audience."
+  },
+  "sentences_removed": 0
+}

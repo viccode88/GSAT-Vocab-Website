@@ -1,0 +1,59 @@
+{
+  "lemma": "recover",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To find an expert, who would recover the lost information for you, is probably the easiest solution.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/recover_ex_0_3a852af1.mp3"
+      },
+      {
+        "text": "She was then admitted to a hospital for treatment, where she was able to recover.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recover_ex_1_a8888c65.mp3"
+      },
+      {
+        "text": "The island continues to recover from its 1992 visit from Iniki, the most powerful hurricane to hit Hawaii this century.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/recover_ex_2_55028c69.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is an opinion, but NOT a fact? (A) Humans and zebrafish have 70 percent of genes in common. (B) Zebrafish can quickly recover vision after damage to the retina.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/recover_ex_3_7556ea91.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What does the word rescued in the second paragraph mean? (A) recovered (B) prescribed (C) examined (D) discovered 45.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Before the disciple could recover from the 39 of hearing the little pig speak in a human voice, it continued, “Don’t kill me.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She refused to seek professional assistance to help her recover from her injuries.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the material has been recovered, the disk is returned to the sender with a diagnosis and a prescription for avoiding the problem in the future.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "恢復，復原，重新獲得（健康、狀態或財產等）。",
+    "en_def": "To return to a normal state after a period of difficulty or to regain something lost.",
+    "example": "She worked hard to recover from her injury."
+  },
+  "sentences_removed": 1
+}

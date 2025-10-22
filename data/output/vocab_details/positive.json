@@ -1,0 +1,59 @@
+{
+  "lemma": "positive",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, which of following is a positive effect of stress? (A) Watching funny movies.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/positive_ex_0_7d61358d.mp3"
+      },
+      {
+        "text": "And the influence of one upon the other can be either positive or negative.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/positive_ex_1_987b9fe0.mp3"
+      },
+      {
+        "text": "Hanging around people who are positive and in good moods is another way to help you find your smile again.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/positive_ex_2_a9470fe4.mp3"
+      },
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/positive_ex_3_95f8d4f1.mp3"
+      },
+      {
+        "text": "A “positive” test result, a result over the legal limit, allows the police to arrest the driver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/positive_ex_4_ff1af8a8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The sooner the test is conducted after the consumption of these drinks, the more likely a positive alcohol reading will be obtained. 49.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "However, many people who tested positive on the test have claimed that they only drank a “non-alcoholic” energy drink.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "表示良好、愉快或有利的狀態或情況。",
+    "en_def": "Characterized by or expressing optimism, confidence, or a favorable attitude.",
+    "example": "She has a positive outlook on life."
+  },
+  "sentences_removed": 2
+}

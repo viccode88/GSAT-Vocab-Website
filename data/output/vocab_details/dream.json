@@ -1,0 +1,140 @@
+{
+  "lemma": "dream",
+  "count": 32,
+  "pos_dist": {
+    "NOUN": 25,
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/dream_ex_0_0c46082e.mp3"
+      },
+      {
+        "text": "Scientists have discovered that dreams happen mainly in REM sleep.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dream_ex_1_b97aa52b.mp3"
+      },
+      {
+        "text": "Events in daily life sometimes occur symbolically in dreams.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dream_ex_2_da2469da.mp3"
+      },
+      {
+        "text": "This kind of dream is called a “lucid dream.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dream_ex_3_7645f4c5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Daphne said that her dream for the future is to see ivory banned, all stored ivory destroyed and no one wearing an ivory ornament ever again.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When a person is having a lucid dream, the person’s body is 27 ; when a person daydreams, his/her body is awake.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, why a dream will take a certain symbolic form is still a mystery.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The term “lucid” means clear; lucid dreamers know that they are dreaming and 26 they are dreaming of.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nothing does surprise one in a dream.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "All these kids share the same dream: Some day they could become another Derartu Tulu. 53.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "23 people who say they never dream show about 20 percent of REM sleep.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He may dream at night of being alone in the playground, 28 a lion.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Yet, lucid dreaming is 28 just having a clear dream.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their Popole was granted asylum in 2014 by dreams.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It was something she had dreamed of since she was five.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If you want to know what your dreams mean, now there are websites you can visit to help you _____ them.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At other times the dreaded event from daily life simply occurs in a dream in its real-life form; 29 , the boy dreams of being bullied by the bigger boy. 30 scientific research, we have known more about the relationship between sleep and dreams.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Everyone dreams about 20 percent of their sleeping time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In the dream the cloakroom attendant at a theater stopped me in the lobby and insisted on my ___(31)___",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In lucid dreams, however, we are completely immersed in the dream world.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We work very hard to realize this dream.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "24 these “non-dreamers” do their sleeping in a laboratory 25 researchers can wake them up and ask them whether they were having dreams the moment before, it 26 that they dream as much as others.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "夢想；在睡眠中出現的影像或感覺。",
+    "en_def": "A series of thoughts, images, or emotions occurring during sleep; a cherished aspiration or ideal.",
+    "example": "She has always wanted to travel the world, and it's her dream to visit every continent."
+  },
+  "sentences_removed": 2
+}

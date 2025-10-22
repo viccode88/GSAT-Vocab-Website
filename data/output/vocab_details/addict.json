@@ -1,0 +1,29 @@
+{
+  "lemma": "addict",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "David Smith refers to himself as having been “a clothes addict,” because _________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/addict_ex_0_1b382b35.mp3"
+      },
+      {
+        "text": "“I was a clothes addict,” he jokes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/addict_ex_1_e34ed905.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對某種物質或行為有強烈依賴的人，通常無法自我控制。",
+    "en_def": "A person who is dependent on a substance or behavior, often unable to control their use.",
+    "example": "He became an addict after years of using drugs."
+  },
+  "sentences_removed": 0
+}

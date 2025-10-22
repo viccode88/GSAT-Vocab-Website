@@ -1,0 +1,49 @@
+{
+  "lemma": "abt",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 7
+  },
+  "sentences": [
+    {
+      "text": "For 11 of the 27 energy drinks, the ABT did detect the presence of alcohol if the test was given within one minute after the drink was taken.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "They asked test subjects to drink a full can or bottle of an energy drink and then gave each subject an ABT one minute and 15 minutes after the drink was finished.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "第 49 至 52 題為題組 An alcohol breath test (ABT) is often used by the police to find out whether a person is drunk while driving.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "Can one of these energy drinks really cause someone to test positive on an ABT? Researchers in Missouri set up an experiment to find out. - 5 - 102年學測 第 6 頁 英 文 考 科 共 7 頁 First, the amount of alcohol in 27 different popular energy drinks was measured.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "The scientists then investigated the possibility that these small levels of alcohol could be detected by an ABT.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "What is the most important factor that affects the ABT test result for energy drink consumers? (A)",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "To discover the relation between energy drinks and ABT test results.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "關於；有關",
+    "en_def": "About; concerning.",
+    "example": "We talked about the project during the meeting."
+  }
+}

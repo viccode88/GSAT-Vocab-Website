@@ -1,0 +1,149 @@
+{
+  "lemma": "language",
+  "count": 31,
+  "pos_dist": {
+    "NOUN": 31
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The term “hula,” however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/language_ex_0_f4b252a9.mp3"
+      },
+      {
+        "text": "The native greeted the travelers in a language which was strange to them.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/language_ex_1_c3b41260.mp3"
+      },
+      {
+        "text": "We should not judge the intention of a person by his body language.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/language_ex_2_187ac25f.mp3"
+      },
+      {
+        "text": "It contains no violence or strong language.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/language_ex_3_88e8a598.mp3"
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/language_ex_4_949e617f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the study, the subjects were placed inside the MRI scanner to (A) observe the activities of the brains when they used languages.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They have found that certain parts of the brain are responsible for learning, memory, and language.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He found that both groups of people used the same part of Wernicke’s area no matter what language they were speaking.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The other consisted of people who learned their second language later in life.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists now relate left and right hemispheres to the way different individuals learn languages.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The musical has been performed in more than nine languages, with more productions than any 23 musical.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The more one is the English-speaking environment, the better he or she will learn the language.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In the legends of some cultures, it is even claimed that men and women speak different languages.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Nicole is a _____ language learner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Those who spoke different languages always used the same part of Broca’s area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE for bilingual people? (A) Those who spoke different languages used the same part of Wernicke’s area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "People who learned a second language later in life used a special part of Broca’s area for their second language—near the one activated for their native tongue.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The language center in the brain that is believed to control speech production is called (A) MRI.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "People who learned a second language as children used the same region in Broca’s area for both languages.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists recognize the importance of both hemispheres in the learning of all sorts, including language learning.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But once that programming is complete, a different part of the brain must take over a new language.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "One group consisted of those who had learned a second language as children.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "He asked people from both groups to think about what they had done the day before, first in one language and then the other.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "He believes that, when language is first being programmed in young children, their brains may mix all languages into the same area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Another possibility is simply that we may acquire languages differently as children than we do as adults.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "語言是人類用來交流思想、感情和信息的系統，包括口語和書面形式。",
+    "en_def": "Language is a system used by humans to communicate thoughts, feelings, and information, encompassing both spoken and written forms.",
+    "example": "Learning a new language can open up many opportunities."
+  },
+  "sentences_removed": 2
+}

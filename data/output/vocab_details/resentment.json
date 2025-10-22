@@ -1,0 +1,23 @@
+{
+  "lemma": "resentment",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Somehow, problems creep in, resentments build, and communication __(37)__.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/resentment_ex_0_d6e57176.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "怨恨；不滿",
+    "en_def": "A feeling of anger or displeasure about someone or something unfair.",
+    "example": "She felt a deep resentment towards her colleague for taking credit for her work."
+  },
+  "sentences_removed": 0
+}

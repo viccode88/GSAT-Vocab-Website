@@ -1,0 +1,23 @@
+{
+  "lemma": "urgent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The urgent need to turn seawater into fresh water.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/urgent_ex_0_6761755d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "緊急的；需要立即處理的",
+    "en_def": "Requiring immediate action or attention.",
+    "example": "The patient was in urgent need of medical assistance."
+  },
+  "sentences_removed": 0
+}

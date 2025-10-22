@@ -1,0 +1,38 @@
+{
+  "lemma": "library",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Henry: I asked you me return these books to the library.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/library_ex_0_ada5b016.mp3"
+      },
+      {
+        "text": "This library is famous for its wide of books.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/library_ex_1_d05d7b44.mp3"
+      },
+      {
+        "text": "If you want to borrow magazines, tapes, or CDs, you can visit the library.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/library_ex_2_2309d19e.mp3"
+      },
+      {
+        "text": "Henry: Please help me return these books to the library, James.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/library_ex_3_bfc627cf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個提供書籍、雜誌和其他資料供公眾或特定群體使用的地方。",
+    "en_def": "A place that provides books, magazines, and other materials for public or specific group use.",
+    "example": "I borrowed a novel from the library."
+  },
+  "sentences_removed": 0
+}

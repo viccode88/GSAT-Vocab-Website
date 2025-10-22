@@ -1,0 +1,119 @@
+{
+  "lemma": "relationship",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This new understanding can enrich the relationship between dogs and their owners.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/relationship_ex_0_65970563.mp3"
+      },
+      {
+        "text": "Their relationship is how they interact with each other.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/relationship_ex_1_f4e2d303.mp3"
+      },
+      {
+        "text": "These and thousands of other features point to a blood relationship in the truest sense of the word.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/relationship_ex_2_3be8caeb.mp3"
+      },
+      {
+        "text": "Others speak to more universal themes such as the primal relationship of humans to nature.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/relationship_ex_3_2931818f.mp3"
+      },
+      {
+        "text": "A new relationship is like an embryo that requires time, care and attention to grow into whatever may evolve.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/relationship_ex_4_307b73dd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As the key building block for enduring relationships, trust is a bond that evolves as two persons get to know each other and experience safety in opening their hearts.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In our proper relationship with others, we will be known and seen for who we are, and love will come out of the seeing and the knowing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "On the basis of the letter, is the most likely relationship between Sally and Tom? (A) Mother and son.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Here are a few tips to help us create enduring relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If you do not dance, you cannot establish relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The relationship between two people is like the art of dancing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "We human beings need to love and be loved, and this will come from our relationship with others.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Accordingly, anyone who wishes to love and be loved will want to establish lasting relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "At other times the dreaded event from daily life simply occurs in a dream in its real-life form; 29 , the boy dreams of being bullied by the bigger boy. 30 scientific research, we have known more about the relationship between sleep and dreams.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Lastly, treat relationship as an organism.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Mei-ling has a very close relationship with her parents.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Everything that happens in the world happens through relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the most precise way to prove a close blood relationship between humans and chimpanzees? 5.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "人與人之間的聯繫或關係，通常涉及情感、社會或工作上的互動。",
+    "en_def": "The way in which two or more people or groups regard and behave toward each other.",
+    "example": "Their relationship has grown stronger over the years."
+  },
+  "sentences_removed": 0
+}

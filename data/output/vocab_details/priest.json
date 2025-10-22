@@ -1,0 +1,38 @@
+{
+  "lemma": "priest",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In ancient Greece, what did the priests do to show people they had unusual power?",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/priest_ex_0_215f6645.mp3"
+      },
+      {
+        "text": "This was done mainly to convince people that the priests were powerful.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/priest_ex_1_00ce6492.mp3"
+      },
+      {
+        "text": "They also talk to the priests and pray to the gods.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/priest_ex_2_ba72ca5d.mp3"
+      },
+      {
+        "text": "This explains why at that time the priests even built magic devices into their temples.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/priest_ex_3_d91e1a8c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "神父；牧師，負責宗教儀式和教會事務的人。",
+    "en_def": "A priest is a person authorized to perform religious rituals and ceremonies, especially in the Christian faith.",
+    "example": "The priest delivered a heartfelt sermon during the Sunday service."
+  },
+  "sentences_removed": 0
+}

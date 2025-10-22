@@ -1,0 +1,23 @@
+{
+  "lemma": "mollusk",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Animals with hard shells outside and soft bodies inside are called mollusks.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mollusk_ex_0_51feec80.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "軟體動物，通常具有外殼，如蝸牛、蛤蜊和章魚等。",
+    "en_def": "A soft-bodied invertebrate animal, often with a shell, such as snails, clams, and octopuses.",
+    "example": "The chef prepared a delicious dish featuring fresh mollusks from the ocean."
+  },
+  "sentences_removed": 0
+}

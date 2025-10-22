@@ -1,0 +1,23 @@
+{
+  "lemma": "advocate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To advocate the importance of vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/advocate_ex_0_cdd2153a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提倡者；支持者",
+    "en_def": "A person who publicly supports or recommends a particular cause or policy.",
+    "example": "She is an advocate for environmental protection."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "blossom",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/blossom_ex_0_b9bca2ec.mp3"
+      },
+      {
+        "text": "__(39)__ men and women are able to respect and accept their differences, love has a chance to blossom.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/blossom_ex_1_7c81475a.mp3"
+      },
+      {
+        "text": "Bam once blossomed as a trading post on the Silk Road.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/blossom_ex_2_885fe4bd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "花朵，特別是樹木或植物的花開時期。",
+    "en_def": "The flower of a plant, especially one that produces fruit.",
+    "example": "The cherry trees blossom beautifully in spring."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "iniki",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The island continues to recover from its 1992 visit from Iniki, the most powerful hurricane to hit Hawaii this century.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/iniki_ex_0_55028c69.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種強烈的颶風，特別是指1992年襲擊夏威夷的颶風。",
+    "en_def": "A powerful hurricane, specifically referring to the hurricane that struck Hawaii in 1992.",
+    "example": "Hurricane Iniki caused significant damage to the island of Kauai."
+  },
+  "sentences_removed": 0
+}

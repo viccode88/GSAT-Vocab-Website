@@ -1,0 +1,23 @@
+{
+  "lemma": "anonymous",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I like the anonymous verse which sums it all up:",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/anonymous_ex_0_1247ce32.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "匿名的，無名的，未透露身份的。",
+    "en_def": "Not identified by name; of unknown name.",
+    "example": "The author of the book chose to remain anonymous."
+  },
+  "sentences_removed": 0
+}

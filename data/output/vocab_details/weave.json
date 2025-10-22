@@ -1,0 +1,28 @@
+{
+  "lemma": "weave",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/weave_ex_0_abb0d322.mp3"
+      },
+      {
+        "text": "It consists of a piece of rubber, plastic, leather, or woven material in the outline of a foot, with a strap holding the sandal to a wearer’s toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/weave_ex_1_87975ccf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "編織，將纖維交錯在一起以形成布料或其他物品。",
+    "en_def": "To interlace threads or fibers to create fabric or other materials.",
+    "example": "She learned how to weave a beautiful tapestry."
+  },
+  "sentences_removed": 0
+}

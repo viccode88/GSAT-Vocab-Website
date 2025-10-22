@@ -1,0 +1,23 @@
+{
+  "lemma": "dwarf",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, __(34)__ the fairies and dwarfs in many classical tales, were in fact “space people” living here.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/dwarf_ex_0_1b0f1b75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "矮人；身材矮小的人或物",
+    "en_def": "A person or creature of unusually small stature; also refers to a member of a mythical race of beings in folklore.",
+    "example": "The dwarf in the story was known for his bravery and cleverness."
+  },
+  "sentences_removed": 0
+}

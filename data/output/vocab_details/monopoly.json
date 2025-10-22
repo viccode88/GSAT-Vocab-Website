@@ -1,0 +1,23 @@
+{
+  "lemma": "monopoly",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/monopoly_ex_0_844f9b1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壟斷：一種市場結構，其中一家公司或實體控制了某種商品或服務的供應，從而排除競爭。",
+    "en_def": "A monopoly is a market structure where a single company or entity controls the supply of a particular good or service, eliminating competition.",
+    "example": "The company has a monopoly on the production of electric cars in the region."
+  },
+  "sentences_removed": 0
+}

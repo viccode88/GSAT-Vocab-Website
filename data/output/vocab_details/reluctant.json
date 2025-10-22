@@ -1,0 +1,23 @@
+{
+  "lemma": "reluctant",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/reluctant_ex_0_925e31f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不情願的，勉強的",
+    "en_def": "Unwilling or hesitant to do something.",
+    "example": "She was reluctant to speak in front of the large audience."
+  },
+  "sentences_removed": 0
+}

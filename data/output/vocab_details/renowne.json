@@ -1,0 +1,23 @@
+{
+  "lemma": "renowne",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But due to their poor acoustic quality, all of the bells were replaced in 2013—except for Emmanuel, which 25 its renowned, excellent sound.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/renowne_ex_0_0e19540f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "著名，聲譽卓著的",
+    "en_def": "Famous or well-known, especially for a particular quality or achievement.",
+    "example": "The renowned artist will be showcasing her work at the gallery."
+  },
+  "sentences_removed": 0
+}

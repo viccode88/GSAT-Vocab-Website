@@ -1,0 +1,23 @@
+{
+  "lemma": "sailboat",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sailboat_ex_0_10c9d4fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種利用帆捕風推動的船隻。",
+    "en_def": "A boat that is propelled by sails and is typically used for recreation or racing.",
+    "example": "We took a sailboat out on the lake for a relaxing afternoon."
+  },
+  "sentences_removed": 0
+}

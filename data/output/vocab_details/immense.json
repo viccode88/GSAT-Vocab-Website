@@ -1,0 +1,23 @@
+{
+  "lemma": "immense",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead, like a human fly, George Willig climbed the outside of the immense 110-story building.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/immense_ex_0_8241f210.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巨大的；廣大的",
+    "en_def": "Extremely large or great in size or amount.",
+    "example": "The immense mountain range stretched as far as the eye could see."
+  },
+  "sentences_removed": 0
+}

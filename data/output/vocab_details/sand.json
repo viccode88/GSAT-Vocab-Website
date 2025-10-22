@@ -1,0 +1,49 @@
+{
+  "lemma": "sand",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The donkey was so much weighed down by the wet sand that he could hardly get out of the stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sand_ex_0_e5ff23fe.mp3"
+      },
+      {
+        "text": "This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sand_ex_1_f2916604.mp3"
+      },
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sand_ex_2_a3cc836b.mp3"
+      },
+      {
+        "text": "A giant egg-timer will be set up in the Place de la Concorde and its sand will begin running after a solar eclipse scheduled on April 11, 1999.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sand_ex_3_4c0f9919.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "These buildings collapsed in heaps of dust and sand.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The next day, Amir loaded the sacks ___(38)___ with salt but with sand.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "沙子，通常是由小石頭或礦物顆粒組成的細小顆粒，常見於海灘、沙漠和河床。",
+    "en_def": "A loose granular substance, typically composed of finely divided rock and mineral particles, commonly found on beaches, deserts, and riverbeds.",
+    "example": "The children built a sandcastle on the beach."
+  },
+  "sentences_removed": 0
+}

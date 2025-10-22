@@ -1,0 +1,23 @@
+{
+  "lemma": "gross",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Currently, health care costs account for __(37)__ twelve percent of the gross domestic product.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/gross_ex_0_04dd57e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人厭惡的；極其不愉快的",
+    "en_def": "Very unpleasant or disgusting; also refers to a total amount before deductions.",
+    "example": "The smell from the garbage was absolutely gross."
+  },
+  "sentences_removed": 0
+}

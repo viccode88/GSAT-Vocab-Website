@@ -1,0 +1,17 @@
+{
+  "lemma": "dimples",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "面頰或其他部位的凹陷，通常在微笑時出現。",
+    "en_def": "Small indentations in the skin, typically found on the cheeks, that appear when a person smiles.",
+    "example": "She has cute dimples that show when she smiles."
+  },
+  "sentences_removed": 1
+}

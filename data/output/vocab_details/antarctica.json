@@ -1,0 +1,17 @@
+{
+  "lemma": "antarctica",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "南極洲：地球最南端的洲，覆蓋著厚厚的冰層，擁有極端的氣候和獨特的生態系統。",
+    "en_def": "Antarctica: The southernmost continent on Earth, covered by a thick ice sheet, characterized by extreme climate and unique ecosystems.",
+    "example": "Scientists conduct research in Antarctica to study climate change and its effects on the planet."
+  },
+  "sentences_removed": 1
+}

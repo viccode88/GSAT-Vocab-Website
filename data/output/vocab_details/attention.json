@@ -1,0 +1,59 @@
+{
+  "lemma": "attention",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new relationship is like an embryo that requires time, care and attention to grow into whatever may evolve.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attention_ex_0_307b73dd.mp3"
+      },
+      {
+        "text": "Boys tend to pay less attention in class than girls.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/attention_ex_1_326c4da1.mp3"
+      },
+      {
+        "text": "all the newspaper and television attention, the problem of child abuse has become well-known.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attention_ex_2_2185d4e4.mp3"
+      },
+      {
+        "text": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones which stayed in front of their chairs, only a few inches from their mouths, thus giving excellent sound quality.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attention_ex_3_8d504a3e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The issue of environmental protection has not received much attention until very .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of paying attention communication network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The landslide after the typhoon signals that environmental protection our attention.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "注意；關注",
+    "en_def": "The act of focusing one's mind or awareness on something.",
+    "example": "She has a knack for capturing everyone's attention when she speaks."
+  },
+  "sentences_removed": 1
+}

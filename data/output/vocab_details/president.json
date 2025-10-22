@@ -1,0 +1,100 @@
+{
+  "lemma": "president",
+  "count": 17,
+  "pos_dist": {
+    "PROPN": 11,
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/president_ex_0_7cb33191.mp3"
+      },
+      {
+        "text": "He is the executive vice president of the HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/president_ex_1_72e2508e.mp3"
+      },
+      {
+        "text": "Despite his busy schedule, the President ______ the school’s graduation ceremony with his presence and a heartwarming speech. (A) praised (B) graced (C) addressed (D) credited 10.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/president_ex_2_4726b23c.mp3"
+      },
+      {
+        "text": "Jack was given the rare _____ of using the president’s office, which made others quite jealous.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/president_ex_3_25696aec.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As preparations began, a competition was held to find a builder of the “President’s House.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At various times in history, the White House has been known as the “President’s Palace,” the “President’s House,” and the “Executive Mansion.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "_ measures are a must when President Chen travels around the island.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "American presidents can express their individual style in how they decorate the house and in how they receive the public.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The designer of the White House was an American president.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "President Theodore Roosevelt officially gave the White House its current name in 1901. 41.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although President Washington oversaw the construction of the house, he never lived in it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "總統，國家的最高領導人，通常負責行政管理和政策制定。",
+    "en_def": "The head of state or government, typically responsible for overseeing the executive branch and implementing laws.",
+    "example": "The president delivered a speech about the importance of unity."
+  },
+  "sentences_removed": 0
+}

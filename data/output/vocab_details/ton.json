@@ -1,0 +1,64 @@
+{
+  "lemma": "ton",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The largest one, named “Emmanuel,” weighs over 13 tons.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/ton_ex_0_cce19ee1.mp3"
+      },
+      {
+        "text": "The Canadian government finally started requiring the gold seekers to bring one ton of supplies with them.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ton_ex_1_5c0eeb60.mp3"
+      },
+      {
+        "text": "The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/ton_ex_2_b2d6b2c0.mp3"
+      },
+      {
+        "text": "An estimated 2.5 million tons of carbon dioxide were generated in 2006 by the production of plastic for bottled water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ton_ex_3_b09a295e.mp3"
+      },
+      {
+        "text": "In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/ton_ex_4_d52744eb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "An estimated 3,474 tons of confetti and ticker-tape rained down along a seven-mile route.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This dietary need has led to a constant battle to keep the deer separate from the unforgiving nature of tons of onrushing rolling stock.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the author mean by “the unforgiving nature of tons of onrushing rolling stock” in the third paragraph?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "噸，一種重量單位，等於1000公斤。",
+    "en_def": "A ton is a unit of weight equal to 1,000 kilograms.",
+    "example": "The truck can carry up to five tons of cargo."
+  },
+  "sentences_removed": 0
+}

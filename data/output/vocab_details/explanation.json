@@ -1,0 +1,23 @@
+{
+  "lemma": "explanation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/explanation_ex_0_b59e3919.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "解釋；說明某事的過程或行為。",
+    "en_def": "The act of making something clear or understandable by describing it in detail.",
+    "example": "The teacher gave a detailed explanation of the math problem."
+  },
+  "sentences_removed": 0
+}

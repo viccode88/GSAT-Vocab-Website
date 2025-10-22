@@ -1,0 +1,23 @@
+{
+  "lemma": "caffeine",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The only reported negative effect of drinking green tea is a possible allergic reaction and insomnia due to the caffeine it contains.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/caffeine_ex_0_d59e3758.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "咖啡因，一種天然存在於咖啡、茶和某些食品中的興奮劑，能提高警覺性和減少疲勞感。",
+    "en_def": "Caffeine is a natural stimulant found in coffee, tea, and certain foods that increases alertness and reduces fatigue.",
+    "example": "I need a cup of coffee in the morning to get my caffeine fix."
+  },
+  "sentences_removed": 0
+}

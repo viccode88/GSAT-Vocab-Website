@@ -1,0 +1,23 @@
+{
+  "lemma": "shabby",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But now the garden looked shabby and bare.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/shabby_ex_0_62567504.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "破舊的，衣衫襤褸的，顯得不整潔或不體面的。",
+    "en_def": "In poor condition; worn out or dilapidated.",
+    "example": "The old house looked shabby and in need of repair."
+  },
+  "sentences_removed": 0
+}

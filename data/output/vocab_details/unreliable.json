@@ -1,0 +1,23 @@
+{
+  "lemma": "unreliable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But the new device was still relatively expensive and unreliable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/unreliable_ex_0_d3282300.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不可靠的，無法信賴的。",
+    "en_def": "Not able to be relied upon; not dependable.",
+    "example": "The weather forecast was unreliable, so we decided to bring our umbrellas just in case."
+  },
+  "sentences_removed": 0
+}

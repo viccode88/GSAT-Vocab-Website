@@ -1,0 +1,54 @@
+{
+  "lemma": "rush",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, some radio scripts had to be rushed by taxi to Jack’s house because they were needed for broadcasting the next day.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rush_ex_0_c98bc4bc.mp3"
+      },
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/rush_ex_1_d15fcfb3.mp3"
+      },
+      {
+        "text": "The amount, the police department reported, would pay the costs of rushing special equipment and eighty police officers in order to save him.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rush_ex_2_758ca2fc.mp3"
+      },
+      {
+        "text": "So, when gold was discovered in the West in 1849, he 23 thousands of others and rushed to California. 24 he planned to open a shop in San Francisco, he took many goods with him, 25 a large quantity of canvas.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rush_ex_3_c819db52.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "I rushed up to a couple of passers-by and asked in vain whether 39 .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It began to rain heavily so I decided 36 , while I rushed into a shop.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "匆忙，急速行動或移動。",
+    "en_def": "To move or act with great speed or urgency.",
+    "example": "I had to rush to catch the bus this morning."
+  },
+  "sentences_removed": 0
+}

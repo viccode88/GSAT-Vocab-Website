@@ -1,0 +1,50 @@
+{
+  "lemma": "appeal",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 5,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Also, the idea 30 a very complex issue regarding depression into something simple and easily understandable, and that tends to appeal to a lot of people. 26.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/appeal_ex_0_bec82ef1.mp3"
+      },
+      {
+        "text": "The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 .",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/appeal_ex_1_58ef2d10.mp3"
+      },
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/appeal_ex_2_7fd64a8e.mp3"
+      },
+      {
+        "text": "The idea of becoming famous appeals to many people.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/appeal_ex_3_bc9987c7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After retirement, Mr. Wang _____ ice skating, which he had always loved but had not had time for. (A) appealed to (B) took to (C) related to (D) saw to 15.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "吸引力；呼籲；上訴",
+    "en_def": "A request for a decision to be changed or a quality that makes something attractive.",
+    "example": "The charity made an appeal for donations to help those in need."
+  },
+  "sentences_removed": 0
+}

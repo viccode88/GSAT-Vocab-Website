@@ -1,0 +1,17 @@
+{
+  "lemma": "sofa",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "沙發：一種用於坐或躺的家具，通常有軟墊和靠背。",
+    "en_def": "A sofa is a piece of furniture designed for sitting or lying on, typically with soft cushions and a back.",
+    "example": "I love to relax on my sofa while watching movies."
+  },
+  "sentences_removed": 1
+}

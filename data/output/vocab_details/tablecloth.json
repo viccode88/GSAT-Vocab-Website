@@ -1,0 +1,23 @@
+{
+  "lemma": "tablecloth",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/tablecloth_ex_0_4014a219.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "桌布，通常用於覆蓋桌面以保護或裝飾。",
+    "en_def": "A cloth used to cover a table, typically for protection or decoration.",
+    "example": "She spread a beautiful tablecloth over the dining table for the dinner party."
+  },
+  "sentences_removed": 0
+}

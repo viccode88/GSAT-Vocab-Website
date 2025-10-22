@@ -1,0 +1,23 @@
+{
+  "lemma": "needy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He sets aside a part of his salary for a scholarship fund for children from needy families.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/needy_ex_0_3dbdeff4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "需要幫助或支持的人，通常指情感或物質上有需求的人。",
+    "en_def": "Describing someone who requires a lot of emotional or material support.",
+    "example": "The needy children in the community received donations during the holiday season."
+  },
+  "sentences_removed": 0
+}

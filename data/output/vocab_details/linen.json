@@ -1,0 +1,23 @@
+{
+  "lemma": "linen",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thus, they learned how to preserve the body by drying it out, oiling and then 19 the body in linen, before placing it in the coffin.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/linen_ex_0_2b2b596d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "亞麻布，一種由亞麻植物纖維製成的布料，通常用於製作衣物和家居用品。",
+    "en_def": "A fabric made from the fibers of the flax plant, commonly used for clothing and household items.",
+    "example": "She bought a beautiful linen dress for the summer."
+  },
+  "sentences_removed": 0
+}

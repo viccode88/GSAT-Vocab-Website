@@ -1,0 +1,33 @@
+{
+  "lemma": "sudden",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Her purchases seem to be driven by some sudden force or desire.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/sudden_ex_0_1c43df65.mp3"
+      },
+      {
+        "text": "Peter’s sudden death was a great blow to Jane and it took her a long time to the grief.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sudden_ex_1_adda80d0.mp3"
+      },
+      {
+        "text": "It seems not __(21)__ any afternoon in the village, but all of a sudden, people and animals lose consciousness.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sudden_ex_2_05f94510.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "突如其來的，意外的",
+    "en_def": "Happening or done quickly and unexpectedly.",
+    "example": "The sudden rain caught everyone off guard."
+  },
+  "sentences_removed": 0
+}

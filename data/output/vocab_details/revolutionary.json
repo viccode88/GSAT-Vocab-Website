@@ -1,0 +1,23 @@
+{
+  "lemma": "revolutionary",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They don’t look too revolutionary, but you’d be surprised __20__",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/revolutionary_ex_0_a5138b38.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "革命的；徹底改變的",
+    "en_def": "Involving or causing a complete or dramatic change.",
+    "example": "The invention of the internet was a revolutionary development in communication."
+  },
+  "sentences_removed": 0
+}

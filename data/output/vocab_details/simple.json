@@ -1,0 +1,114 @@
+{
+  "lemma": "simple",
+  "count": 20,
+  "pos_dist": {
+    "ADJ": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/simple_ex_0_6147eb1a.mp3"
+      },
+      {
+        "text": "The design of the knife was too simple.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/simple_ex_1_084f681e.mp3"
+      },
+      {
+        "text": "The remedy is as simple as standing up and taking activity breaks.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/simple_ex_2_369c5b90.mp3"
+      },
+      {
+        "text": "And there are plenty of models from which to choose: from simple $200 point-and-shoot snappers to $1,000 wonders with all the features that any advanced amateur could want.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/simple_ex_3_8a842879.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But where did this simple, cheap, and indispensable invention come from?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes this may be as simple as touching the holy man and being immediately healed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "These methods 40 from a simple step like makeup to a drastic one like surgery.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was a simple knife with one big blade, a can opener, and a screwdriver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, it is not ___(22)___ simple as that.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Their simple design is responsible for many foot injuries.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Because of its simple structure.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One simple way is a few new items that might __19__ life more enjoyable.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, the idea 30 a very complex issue regarding depression into something simple and easily understandable, and that tends to appeal to a lot of people. 26.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some simple strategies can help even the pickiest eater learn to like a more varied diet.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Whether simple or lavish, proms have always been more or less traumatic events for adolescents who worry about self-image and fitting in with their peers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Japanese used their rubber reserves from the war to mass-produce the simplest Japanese footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "簡單的；不複雜的",
+    "en_def": "Easily understood or done; presenting no difficulty.",
+    "example": "The instructions were simple and easy to follow."
+  },
+  "sentences_removed": 1
+}

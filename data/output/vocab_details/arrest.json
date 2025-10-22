@@ -1,0 +1,23 @@
+{
+  "lemma": "arrest",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A “positive” test result, a result over the legal limit, allows the police to arrest the driver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/arrest_ex_0_ff1af8a8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "逮捕；拘留",
+    "en_def": "To seize someone by legal authority and take them into custody.",
+    "example": "The police decided to arrest the suspect after gathering enough evidence."
+  },
+  "sentences_removed": 0
+}

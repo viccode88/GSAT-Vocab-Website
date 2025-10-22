@@ -1,0 +1,23 @@
+{
+  "lemma": "panda",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/panda_ex_0_f81d97bb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "熊貓，一種主要生活在中國的黑白色大型哺乳動物，以竹子為食。",
+    "en_def": "A panda is a large black-and-white bear-like mammal native to China, primarily known for eating bamboo.",
+    "example": "The panda is an endangered species and is often a symbol of wildlife conservation."
+  },
+  "sentences_removed": 0
+}

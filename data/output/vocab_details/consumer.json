@@ -1,0 +1,54 @@
+{
+  "lemma": "consumer",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/consumer_ex_0_6feafc23.mp3"
+      },
+      {
+        "text": "Although about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/consumer_ex_1_79359295.mp3"
+      },
+      {
+        "text": "28 the information on storage and shipment is not always readily available to consumers, bottled water may not be a better alternative to tap water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/consumer_ex_2_67a8a134.mp3"
+      },
+      {
+        "text": "The wide selection is a sure sign that in many consumers’ minds, digital cameras have risen from mere gadgets to must-have items.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/consumer_ex_3_0f869ed5.mp3"
+      },
+      {
+        "text": "What is the most important factor that affects the ABT test result for energy drink consumers? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/consumer_ex_4_75f8d256.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "More often than not, those in their early twenties are the more 17 consumers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To encourage consumers to choose high-quality brands.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "消費者，指購買商品或服務的人。",
+    "en_def": "A person or entity that purchases goods or services for personal use.",
+    "example": "The consumer is always looking for the best deals."
+  },
+  "sentences_removed": 0
+}

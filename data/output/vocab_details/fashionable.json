@@ -1,0 +1,28 @@
+{
+  "lemma": "fashionable",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They looked more fashionable in this way.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fashionable_ex_0_7911fdf0.mp3"
+      },
+      {
+        "text": "But pineapples can also be a fashionable fruit: Pineapple leaves can 21 a substitute for leather.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fashionable_ex_1_27d4c3e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "時尚的；流行的，符合當前潮流的。",
+    "en_def": "In accordance with the current trends or styles; stylish.",
+    "example": "She always wears the most fashionable clothes."
+  },
+  "sentences_removed": 1
+}

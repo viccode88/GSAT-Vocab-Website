@@ -1,0 +1,134 @@
+{
+  "lemma": "bird",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 24
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He picked up the parrot and threw the bird into the chicken house.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bird_ex_0_4ed33497.mp3"
+      },
+      {
+        "text": "But the bird would not (27) the name.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bird_ex_1_c8b5ee6d.mp3"
+      },
+      {
+        "text": "In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bird_ex_2_cadee1be.mp3"
+      },
+      {
+        "text": "Starting from April 2017, the pills were placed in 40 bird feeders 20 throughout the city.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bird_ex_3_7ca5fcdd.mp3"
+      },
+      {
+        "text": "Besides, birds are cheaper than telephone service.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bird_ex_4_fd1127e3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Jackdaws are birds in the crow family often Turtle ants often live in the cavities of dead found in the English countryside.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The parrot was (21) , there was no other bird like him in the whole world.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They have evolved social birds and often travel in large flocks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They asked citizens to stay away from dead birds.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At first he was very gentle with the bird, but gradually he lost his (25) .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It comes from direct human contact with birds infected with the virus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The feathers of peacocks are considered the most 25 part of the bird because the eye-shaped markings on them are associated with “evil eyes.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The city council originally proposed 18 the pigeon population by gathering the birds and shooting them.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, his forest is home to 1,500 medicinal plants, 2,000 varieties of trees, rare birds, animals, and insects.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Simply removing the jingle of telephones and replacing them with the pleasant sounds of birds has had a remarkable effect on everyone.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Small birds such as baby quails are fair game to the expanding colony.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "search strategies to link their food source to their Normally, the birds enjoy a smooth flight together nests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As a side benefit, the birds also fertilize the lawn outside the new employee sauna.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "鳥類，通常具有羽毛、能飛行的動物，並以蛋繁殖。",
+    "en_def": "A warm-blooded vertebrate animal that is characterized by feathers, wings, and typically the ability to fly, laying eggs.",
+    "example": "The bird sang beautifully in the morning."
+  },
+  "sentences_removed": 1
+}

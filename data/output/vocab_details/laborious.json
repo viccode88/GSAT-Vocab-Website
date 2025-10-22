@@ -1,0 +1,23 @@
+{
+  "lemma": "laborious",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Exercise doesn’t always have to be laborious.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/laborious_ex_0_8288e6b0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "費力的，艱難的，需耗費大量精力的。",
+    "en_def": "Requiring considerable effort and time; difficult and demanding.",
+    "example": "The laborious task of cleaning the entire house took all weekend."
+  },
+  "sentences_removed": 0
+}

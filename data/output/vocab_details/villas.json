@@ -1,0 +1,23 @@
+{
+  "lemma": "villas",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Members can access thousands of listings for apartments, villas, suburban homes and farms around the world.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/villas_ex_0_02a9d5f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "別墅：通常位於郊區或度假區的獨立住宅，提供舒適的居住環境和休閒設施。",
+    "en_def": "Villas: Independent houses typically located in suburban or resort areas, offering comfortable living spaces and recreational facilities.",
+    "example": "They rented a beautiful villa by the beach for their summer vacation."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "ape",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every time we watch apes in their cages we are startled by their manlike behavior.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ape_ex_0_454b3520.mp3"
+      },
+      {
+        "text": "1. Write down two physical similarities between humans and apes.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ape_ex_1_34add514.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "猿類，通常指大型的無尾或短尾的類人猿，如黑猩猩和大猩猩。",
+    "en_def": "A large primate that lacks a tail, typically characterized by long arms and a high degree of intelligence, including species like chimpanzees and gorillas.",
+    "example": "The ape swung gracefully from branch to branch in the jungle."
+  },
+  "sentences_removed": 0
+}

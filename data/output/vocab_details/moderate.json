@@ -1,0 +1,43 @@
+{
+  "lemma": "moderate",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/moderate_ex_0_dc20d257.mp3"
+      },
+      {
+        "text": "There were three levels of heat, producing mild, moderate, or strong pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/moderate_ex_1_fdba47ff.mp3"
+      },
+      {
+        "text": "Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/moderate_ex_2_fc43e971.mp3"
+      },
+      {
+        "text": "It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/moderate_ex_3_5195337b.mp3"
+      },
+      {
+        "text": "Interestingly, when the volunteers expected only mild or moderate pain but experienced severe pain, they reported feeling 28 percent less pain than when they expected severe pain and actually got it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/moderate_ex_4_dcab3329.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "適度的，不過分的，溫和的。",
+    "en_def": "Average in amount, intensity, quality, or degree; not extreme or excessive.",
+    "example": "The weather was moderate, making it a perfect day for a picnic."
+  },
+  "sentences_removed": 0
+}

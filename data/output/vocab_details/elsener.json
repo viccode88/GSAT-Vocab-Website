@@ -1,0 +1,28 @@
+{
+  "lemma": "elsener",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Who gave the name “the Swiss army knife” to the knife discussed in the passage? (A) Carl Elsener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/elsener_ex_0_1d0852d5.mp3"
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/elsener_ex_1_c4705e52.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種特定的姓氏，通常與某些地區或家族有關。",
+    "en_def": "A specific surname often associated with certain regions or families.",
+    "example": "The famous artist, Elsener, showcased his work at the gallery."
+  },
+  "sentences_removed": 0
+}

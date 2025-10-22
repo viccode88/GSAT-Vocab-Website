@@ -1,0 +1,23 @@
+{
+  "lemma": "lee",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The famous film director Ang Lee recalls his father’s disappointment with him when he was young.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/lee_ex_0_33e582de.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "李，常見的姓氏，也可指李樹的果實。",
+    "en_def": "A common surname; also refers to the fruit of the plum tree.",
+    "example": "Lee is a popular surname in many cultures."
+  },
+  "sentences_removed": 0
+}

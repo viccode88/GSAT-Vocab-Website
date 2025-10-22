@@ -1,0 +1,124 @@
+{
+  "lemma": "spend",
+  "count": 22,
+  "pos_dist": {
+    "VERB": 22
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In time the pupae develop into adults and spend their lives working for the Amazons.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/spend_ex_0_5193a0a1.mp3"
+      },
+      {
+        "text": "In 1929, she went to Europe to study voice and spent several years performing there.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/spend_ex_1_e22f2ece.mp3"
+      },
+      {
+        "text": "With digital cameras, you aren’t spending money on film for wasted pictures,” she said.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/spend_ex_2_5881d5d1.mp3"
+      },
+      {
+        "text": "And remember: never spend more than you earn.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/spend_ex_3_1af0a0b5.mp3"
+      },
+      {
+        "text": "Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO).",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/spend_ex_4_8b37580c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They generally spend less time sitting than those who are inactive.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One of __(34)__ measures is to calculate the percentage of income that people spend on certain necessities.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Then we were each separately sent on what was grandly referred to as a cruise in my father’s 18-foot boat, spending the night on board, and loaded down, according to my mother, with enough food for a week.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The user has to spend additional money for it.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Finding out which college suits you involves time and energy, but ___(25)___ more than those you might spend on buying a motorcycle or a computer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To have a full discussion of the issue, the committee spent a whole hour _____ their ideas at the meeting.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During this period, many people travel back to their hometowns and spend time with loved ones, both past and present.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "She had to spend countless hours in a physical therapy clinic to receive treatment.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "30 , baseball fans are more content to concentrate on the game’s finer details and spend the breaks between innings filling out their own private scorecards.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Speaking only limited English, the Vladimirs spent five hours trying to explain their presence.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals’ only source of fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The couple was spending about $30,000 a year for her care.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "花費（時間、金錢等）",
+    "en_def": "To use up time or money for a particular purpose.",
+    "example": "I plan to spend the weekend relaxing at home."
+  },
+  "sentences_removed": 1
+}

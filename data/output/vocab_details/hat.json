@@ -1,0 +1,75 @@
+{
+  "lemma": "hat",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 15,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/hat_ex_0_83e55e5a.mp3"
+      },
+      {
+        "text": "Over the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hat_ex_1_5e4546f8.mp3"
+      },
+      {
+        "text": "The hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hat_ex_2_7ef960ad.mp3"
+      },
+      {
+        "text": "For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hat_ex_3_83a60616.mp3"
+      },
+      {
+        "text": "Most men take off their hats in my car, and sometimes I have to tell passengers to put out their cigarettes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hat_ex_4_a2d2a5b7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following statements is true about the hard hat? (A) Global sales have doubled every ten years.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Soon, hard hats became widely used.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following aspects about hard hats is NOT discussed in the passage? (A) Their functions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In what order did the following protective hats appear? a. fiberglass hats b. hats with see-through shields c. hats with canvas and leather d. hats with tar over them (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025. 39.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種用來覆蓋頭部的衣物，通常用於保護頭部或作為裝飾。",
+    "en_def": "A piece of clothing worn on the head, typically for protection or as a fashion accessory.",
+    "example": "She wore a stylish hat to the party."
+  },
+  "sentences_removed": 2
+}

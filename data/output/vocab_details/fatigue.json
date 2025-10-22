@@ -1,0 +1,23 @@
+{
+  "lemma": "fatigue",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/fatigue_ex_0_02943189.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "疲勞，身體或精神上的極度疲倦或無力。",
+    "en_def": "A state of extreme tiredness or exhaustion, either physical or mental.",
+    "example": "After a long day at work, I felt a deep sense of fatigue."
+  },
+  "sentences_removed": 0
+}

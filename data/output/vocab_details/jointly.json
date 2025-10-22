@@ -1,0 +1,23 @@
+{
+  "lemma": "jointly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Both 36 know their own drawbacks and limitations very well; therefore, they jointly decide to have one last race—not to decide who the winner or loser is, but just for their own pleasure and satisfaction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/jointly_ex_0_537e22ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "共同地，聯合地",
+    "en_def": "In a joint manner; together with others.",
+    "example": "The two companies worked jointly on the project."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,74 @@
+{
+  "lemma": "tale",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many folk tales are also tall tales—stories of unbelievable events told with perfect seriousness.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/tale_ex_0_64a1432f.mp3"
+      },
+      {
+        "text": "A man might once have fought a bear, for example, and the tales told about him might make him into the greatest bear fighter who ever lived.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/tale_ex_1_2fc2ef5c.mp3"
+      },
+      {
+        "text": "A tall tale, in other words, is a story in which the truth has been exaggerated.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/tale_ex_2_1a1c720d.mp3"
+      },
+      {
+        "text": "A culture’s folk tales, fables, songs, and proverbs are an important part of its literature.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/tale_ex_3_4dc44cbc.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, __(34)__ the fairies and dwarfs in many classical tales, were in fact “space people” living here.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, folk tales _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk tales are usually the stories of _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many folk tales originally had some basis in fact and grew out of the lives of real people.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk tales are both down-to-earth and highly imaginative.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about tall tales is NOT TRUE? (A) Tall tales are factual stories.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people. 41.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "故事；傳說",
+    "en_def": "A narrative, often fictional, that tells a story.",
+    "example": "The old man told a fascinating tale about his adventures."
+  },
+  "sentences_removed": 2
+}

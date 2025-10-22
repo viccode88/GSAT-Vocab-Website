@@ -1,0 +1,49 @@
+{
+  "lemma": "leaf",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/leaf_ex_0_05664a62.mp3"
+      },
+      {
+        "text": "The ability is 25 to those with leaves that are hydrophobic, or repel water—a special feature that forces the liquid to move away when the leaf is exposed to it.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/leaf_ex_1_9d61389a.mp3"
+      },
+      {
+        "text": "Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/leaf_ex_2_100ffd4e.mp3"
+      },
+      {
+        "text": "Scientists already knew earlier that wind and splashes of rainwater can move bacteria and other germs from leaf to leaf.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/leaf_ex_3_e25eff8b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "植物的綠色部分，通常由葉片和葉柄組成，主要用於光合作用。",
+    "en_def": "The green part of a plant, typically consisting of a blade and a petiole, primarily used for photosynthesis.",
+    "example": "The tree's leaves turned bright colors in the fall."
+  },
+  "sentences_removed": 0
+}

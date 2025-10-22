@@ -1,0 +1,33 @@
+{
+  "lemma": "enhance",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Research shows that 31 amounts of exercise—even just 15 minutes a day—helps ease depression, enhance self-image, relieve stress, and much more.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/enhance_ex_0_75050000.mp3"
+      },
+      {
+        "text": "With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/enhance_ex_1_c67b5b7f.mp3"
+      },
+      {
+        "text": "Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/enhance_ex_2_ce59b512.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "增強；提高",
+    "en_def": "To improve the quality, value, or extent of something.",
+    "example": "The new software will enhance the performance of the computer."
+  },
+  "sentences_removed": 0
+}

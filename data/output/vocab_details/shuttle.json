@@ -1,0 +1,69 @@
+{
+  "lemma": "shuttle",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The shuttle does not use its engines for a landing.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/shuttle_ex_0_07bac536.mp3"
+      },
+      {
+        "text": "Astronauts sometimes go outside the shuttle to work.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/shuttle_ex_1_09e28d35.mp3"
+      },
+      {
+        "text": "Ground stations have been built to monitor larger pieces of space trash to prevent them from crashing into working satellites or space shuttles.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/shuttle_ex_2_09378cf5.mp3"
+      },
+      {
+        "text": "Also, astronauts conduct experiments on the shuttle to learn how space conditions, such as microgravity, affect humans, animals, plants, and insects.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/shuttle_ex_3_2b039500.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Diapers are _(23)_ used by astronauts when they are outside the space shuttle, wearing a spacesuit.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The passage is mainly about (A) how astronauts fly the space shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "A parachute needs to be opened because it can (A) slow down the shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "It may cause problems for space shuttles.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The astronauts need a space suit to work outside the shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "穿梭，指在兩地之間來回運送的人或物的交通工具或服務。",
+    "en_def": "A vehicle or service that travels back and forth between two places.",
+    "example": "The shuttle bus runs every 15 minutes between the airport and the hotel."
+  },
+  "sentences_removed": 2
+}

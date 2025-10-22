@@ -1,0 +1,23 @@
+{
+  "lemma": "resemblance",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But here any resemblance to a twentieth-century hotel ends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/resemblance_ex_0_eb38ad01.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相似；相像的特徵或外觀",
+    "en_def": "The state of being alike or similar to something else.",
+    "example": "There is a strong resemblance between the two paintings."
+  },
+  "sentences_removed": 0
+}

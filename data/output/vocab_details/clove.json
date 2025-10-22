@@ -1,0 +1,17 @@
+{
+  "lemma": "clove",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "丁香，一種香料，通常用於烹飪和醫療，具有強烈的香氣和味道。",
+    "en_def": "A clove is a dried flower bud of the clove tree, used as a spice for its strong aroma and flavor.",
+    "example": "She added a pinch of clove to the pumpkin pie for extra flavor."
+  },
+  "sentences_removed": 1
+}

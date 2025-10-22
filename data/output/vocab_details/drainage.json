@@ -1,0 +1,23 @@
+{
+  "lemma": "drainage",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/drainage_ex_0_6acbccb6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "排水系統或過程，通常用於去除多餘的水或液體。",
+    "en_def": "The system or process of removing excess water or liquid.",
+    "example": "The drainage system prevented flooding in the heavy rain."
+  },
+  "sentences_removed": 0
+}

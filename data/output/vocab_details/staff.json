@@ -1,0 +1,49 @@
+{
+  "lemma": "staff",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/staff_ex_0_753a0600.mp3"
+      },
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/staff_ex_1_25c8c511.mp3"
+      },
+      {
+        "text": "Our well-trained staff will provide the best possible service for you and your dog.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/staff_ex_2_91800217.mp3"
+      },
+      {
+        "text": "The staff of the dead mail offices has a variety of ways to deal with all of these pieces of dead mail.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/staff_ex_3_63ab021f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Its staff members are always available to provide service.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The staff in a dead mail office may open a package in order to find .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "員工；工作人員",
+    "en_def": "A group of people employed by an organization to carry out its activities.",
+    "example": "The staff worked late to complete the project on time."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "dietary",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This dietary need has led to a constant battle to keep the deer separate from the unforgiving nature of tons of onrushing rolling stock.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dietary_ex_0_4fb86aa8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "飲食的，與飲食有關的",
+    "en_def": "Relating to the kinds of food that a person, animal, or community habitually eats.",
+    "example": "She follows a strict dietary plan to maintain her health."
+  },
+  "sentences_removed": 0
+}

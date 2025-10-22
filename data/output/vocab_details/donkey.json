@@ -1,0 +1,59 @@
+{
+  "lemma": "donkey",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amir tried to get to the market on the following days, but the donkey ___(34)___ the same trick and ruined the salt.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/donkey_ex_0_330325ce.mp3"
+      },
+      {
+        "text": "The donkey was so much weighed down by the wet sand that he could hardly get out of the stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/donkey_ex_1_e5ff23fe.mp3"
+      },
+      {
+        "text": "The donkey jumped into the stream to cool ___(32)___.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/donkey_ex_2_0ef159f6.mp3"
+      },
+      {
+        "text": "From then on, the donkey learned the lesson, and ___(40)___ carried Amir’s salt to the market without ruining it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/donkey_ex_3_be08131f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "On ___(31)___, Amir and the donkey passed a stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "the load for the donkey.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the donkey jumped into the stream and got the sacks wet, they became much ___(39)___.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Amir was very much ___(35)___ by the donkey’s trick, but did not know what to do.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "驢子，一種常見的家畜，通常用於負重或騎乘。",
+    "en_def": "A donkey is a domesticated animal often used for carrying loads or riding.",
+    "example": "The farmer used a donkey to help transport goods to the market."
+  },
+  "sentences_removed": 1
+}

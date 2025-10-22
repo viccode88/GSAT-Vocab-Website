@@ -1,0 +1,28 @@
+{
+  "lemma": "crush",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The forces that are crushing individual lives and futures are also destroying the prospects for an entire region. 49.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/crush_ex_0_34751dec.mp3"
+      },
+      {
+        "text": "Many of the whales died on the beach—crushed by their own weight.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/crush_ex_1_384716d4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壓碎、碾碎或對某人產生強烈的愛慕之情。",
+    "en_def": "To press or squeeze with force, or to have a strong infatuation for someone.",
+    "example": "She has a crush on her classmate."
+  },
+  "sentences_removed": 1
+}

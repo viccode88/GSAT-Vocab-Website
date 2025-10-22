@@ -1,0 +1,23 @@
+{
+  "lemma": "perfectionist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/perfectionist_ex_0_0ad88cf8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對事物追求完美的人，對自己的工作或表現有極高的要求。",
+    "en_def": "A person who demands perfection in their work or performance and has very high standards.",
+    "example": "As a perfectionist, she spent hours making sure every detail of her project was flawless."
+  },
+  "sentences_removed": 0
+}

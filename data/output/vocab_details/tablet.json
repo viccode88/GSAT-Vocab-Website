@@ -1,0 +1,23 @@
+{
+  "lemma": "tablet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Recent research has found lots of evidence to the drug company’s claims about its “miracle” tablets for curing cancer.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tablet_ex_0_69ff2994.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "平板電腦，一種便攜式的電子設備，通常具有觸控屏幕，能夠執行各種應用程序和功能。",
+    "en_def": "A portable electronic device with a touchscreen, capable of running various applications and functions.",
+    "example": "She used her tablet to read e-books and browse the internet."
+  },
+  "sentences_removed": 0
+}

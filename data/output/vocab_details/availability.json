@@ -1,0 +1,23 @@
+{
+  "lemma": "availability",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Within the country, the quality and availability of education depends on whether a particular region is suffering violence.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/availability_ex_0_b1b78d78.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可用性；可獲得的狀態或情況",
+    "en_def": "The state of being able to be used or obtained.",
+    "example": "The availability of fresh produce varies by season."
+  },
+  "sentences_removed": 0
+}

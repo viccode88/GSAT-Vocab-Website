@@ -1,0 +1,90 @@
+{
+  "lemma": "list",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 15,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/list_ex_0_900c1378.mp3"
+      },
+      {
+        "text": "This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “danger list” in 2007.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/list_ex_1_fbe943b2.mp3"
+      },
+      {
+        "text": "But whenever Dad 32 on going, she made sure that he brought a shopping list.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/list_ex_2_5262d42d.mp3"
+      },
+      {
+        "text": "The left hemisphere deals with rules, lists of information, and short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/list_ex_3_4b25d54b.mp3"
+      },
+      {
+        "text": "Dead mail will also be listed on a computer so that people can call in and check to see if a missing item is there.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/list_ex_4_97e51bf8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But the young man who had made a fool of himself at the meeting was not on the list.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Cats, dogs, and other pets top the list, followed by zoo animals.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Left-brained learners usually concentrate on memorizing les and lists.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Of course, the 34 that he made were based mainly on his memory of the list.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a member country suffers great damage from a certain typhoon, it can 39 that the name of the typhoon be deleted from the list at the annual committee meeting.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The list-based convention, on the other hand, is based on the list of typhoon names compiled in advance by a committee, and is more widely used.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dad certainly had the list 33 when he left for the market, but he would somehow forget it, and then would find it again only after he returned home.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一系列項目的集合，通常以特定順序排列。",
+    "en_def": "A collection of items, typically arranged in a specific order.",
+    "example": "Please make a list of the groceries we need to buy."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "picking",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/picking_ex_0_e5854f81.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "挑選，採摘或收集某物的行為。",
+    "en_def": "The act of selecting or gathering something.",
+    "example": "She is picking apples from the tree."
+  },
+  "sentences_removed": 0
+}

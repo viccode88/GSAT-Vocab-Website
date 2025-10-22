@@ -1,0 +1,33 @@
+{
+  "lemma": "medicinal",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to certain documents, ancient Egyptians also used onions for medicinal purposes, but they likely would have viewed the 35 power of the vegetable as magical, rather than medical.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/medicinal_ex_0_32f24e60.mp3"
+      },
+      {
+        "text": "Today, his forest is home to 1,500 medicinal plants, 2,000 varieties of trees, rare birds, animals, and insects.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/medicinal_ex_1_0470565f.mp3"
+      },
+      {
+        "text": "There is evidence of onions being used for culinary and medicinal purposes all over the ancient world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/medicinal_ex_2_b0ad8538.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "具有治療或改善健康的特性。",
+    "en_def": "Having properties that are beneficial for healing or improving health.",
+    "example": "The herbal tea has medicinal qualities that can help soothe a sore throat."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "un",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was a U.S. delegate to the United Nations in 1958 and won the UN peace prize in 1977.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/un_ex_0_4e06b115.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不，沒有，或不正確的意思。",
+    "en_def": "A prefix meaning 'not' or 'opposite of'.",
+    "example": "The results were unconvincing."
+  },
+  "sentences_removed": 0
+}

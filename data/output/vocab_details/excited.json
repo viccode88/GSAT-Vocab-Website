@@ -1,0 +1,23 @@
+{
+  "lemma": "excited",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After you plunk your money down, Dognition’s website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/excited_ex_0_1618b96e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到興奮或激動的狀態。",
+    "en_def": "Feeling very enthusiastic and eager.",
+    "example": "She was excited to see her friends at the party."
+  },
+  "sentences_removed": 0
+}

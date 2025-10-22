@@ -1,0 +1,49 @@
+{
+  "lemma": "swim",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then, the tortoise carries the hare and swims to the 38 bank of the river.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/swim_ex_0_4aed4c6d.mp3"
+      },
+      {
+        "text": "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/swim_ex_1_a509e979.mp3"
+      },
+      {
+        "text": "This time, the tortoise wins the race because the hare cannot swim.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/swim_ex_2_b04c0b78.mp3"
+      },
+      {
+        "text": "And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/swim_ex_3_b8309269.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "swimming in the Applegate River.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming _____ in the 2008 Olympics.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "游泳，指在水中用四肢移動的運動。",
+    "en_def": "To move through water by using the arms and legs.",
+    "example": "I love to swim in the ocean during the summer."
+  },
+  "sentences_removed": 1
+}

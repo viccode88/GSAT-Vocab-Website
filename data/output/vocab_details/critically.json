@@ -1,0 +1,23 @@
+{
+  "lemma": "critically",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/critically_ex_0_e2de649c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "批判性地，重要地，關鍵地",
+    "en_def": "In a way that expresses adverse or disapproving comments or judgments.",
+    "example": "The report critically examines the impact of climate change on biodiversity."
+  },
+  "sentences_removed": 0
+}

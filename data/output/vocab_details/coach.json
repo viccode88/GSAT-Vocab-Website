@@ -1,0 +1,38 @@
+{
+  "lemma": "coach",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The coach took off his own Nikes and handed them to him.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coach_ex_0_56564a98.mp3"
+      },
+      {
+        "text": "To help Abate continue running, the coach arranged a motel job for him, which pays $9 a month.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coach_ex_1_594ecc5a.mp3"
+      },
+      {
+        "text": "However, each time he lost a dove into the cold water, and—with the help of her competition, his coaches would lock him in a cage sister and two men—swam and pushed the boat for for days, feeding him only coffee and bread.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/coach_ex_2_69f6da31.mp3"
+      },
+      {
+        "text": "Judo helped Popole Misenga to be strong both physically and mentally, and gave him the courage to escape from the (B) of his coaches.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/coach_ex_3_051e8e2d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "教練；指導者，通常在體育或其他活動中提供訓練和指導的人。",
+    "en_def": "A person who trains and instructs athletes or teams in sports or other activities.",
+    "example": "The coach gave the team a pep talk before the big game."
+  },
+  "sentences_removed": 0
+}

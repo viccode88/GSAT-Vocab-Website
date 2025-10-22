@@ -1,0 +1,23 @@
+{
+  "lemma": "asset",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She still possessed her most valuable asset—her mind.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/asset_ex_0_1bb75a6d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "資產，指擁有的有價值的物品或權利。",
+    "en_def": "An asset is a valuable item or resource owned by an individual or entity.",
+    "example": "The company's biggest asset is its skilled workforce."
+  },
+  "sentences_removed": 0
+}

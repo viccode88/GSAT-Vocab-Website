@@ -1,0 +1,23 @@
+{
+  "lemma": "eclipse",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A giant egg-timer will be set up in the Place de la Concorde and its sand will begin running after a solar eclipse scheduled on April 11, 1999.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/eclipse_ex_0_4c0f9919.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "天體（如月亮或行星）遮蔽另一天體的現象。",
+    "en_def": "An astronomical event where one celestial body moves into the shadow of another celestial body.",
+    "example": "During the solar eclipse, the moon completely covered the sun."
+  },
+  "sentences_removed": 0
+}

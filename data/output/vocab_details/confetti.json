@@ -1,0 +1,23 @@
+{
+  "lemma": "confetti",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "An estimated 3,474 tons of confetti and ticker-tape rained down along a seven-mile route.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/confetti_ex_0_957a9e3b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小紙屑，通常在慶祝活動中拋撒以增添氣氛。",
+    "en_def": "Small pieces of paper or other material, often thrown during celebrations to create a festive atmosphere.",
+    "example": "The bride and groom were showered with confetti as they exited the church."
+  },
+  "sentences_removed": 1
+}

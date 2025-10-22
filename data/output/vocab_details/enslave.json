@@ -1,0 +1,23 @@
+{
+  "lemma": "enslave",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They resist foreign influence because they were enslaved in the past.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/enslave_ex_0_c908db0d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使成為奴隸；剝奪自由或權利。",
+    "en_def": "To make someone a slave; to deprive someone of freedom or rights.",
+    "example": "The conquerors sought to enslave the local population."
+  },
+  "sentences_removed": 0
+}

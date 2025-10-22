@@ -1,0 +1,80 @@
+{
+  "lemma": "influence",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 8,
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to a recent marketing study, young adults influence 88% of household clothing purchases.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/influence_ex_0_16ce76c8.mp3"
+      },
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/influence_ex_1_c1b9ccb8.mp3"
+      },
+      {
+        "text": "Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/influence_ex_2_92f8d19e.mp3"
+      },
+      {
+        "text": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/influence_ex_3_ef1e3866.mp3"
+      },
+      {
+        "text": "Studies show that the unbiased media are in fact often deeply influenced by political ideology.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/influence_ex_4_b06e73a8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park? (A) The scenery along the road is too beautiful for visitors to drive carefully.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And the influence of one upon the other can be either positive or negative.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Meanwhile, environmental influences seem to shape a person’s synesthesia.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Capoeira? (A) It was greatly influenced by modern dancing styles.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They resist foreign influence because they were enslaved in the past.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Furthermore, the demand for a particular coin will also 24 influence coin values.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "影響，對某事物或某人的作用或影響力。",
+    "en_def": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+    "example": "Her speech had a significant influence on the audience."
+  },
+  "sentences_removed": 1
+}

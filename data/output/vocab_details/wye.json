@@ -1,0 +1,38 @@
+{
+  "lemma": "wye",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/wye_ex_0_cb96ed6c.mp3"
+      },
+      {
+        "text": "For example, an annual book festival is held in Hay-on-Wye.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/wye_ex_1_bcbcf693.mp3"
+      },
+      {
+        "text": "Since the 1970s, book towns like Hay- on-Wye 12 up all over the world.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/wye_ex_2_7f4a9456.mp3"
+      },
+      {
+        "text": "The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/wye_ex_3_0049a875.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種形狀像字母Y的結構，通常用於鐵路或管道的分岔。",
+    "en_def": "A structure shaped like the letter Y, commonly used for branching in railways or pipelines.",
+    "example": "The train switched tracks at the wye to head in the opposite direction."
+  },
+  "sentences_removed": 0
+}

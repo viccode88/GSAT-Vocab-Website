@@ -1,0 +1,28 @@
+{
+  "lemma": "mars",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mars_ex_0_e097a789.mp3"
+      },
+      {
+        "text": "Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mars_ex_1_a78da21e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "火星：太陽系中的第四顆行星，以其紅色外觀而聞名，並且是地球的鄰居。",
+    "en_def": "Mars: The fourth planet from the Sun in the solar system, known for its reddish appearance and being a neighbor to Earth.",
+    "example": "Mars is often called the Red Planet due to its color."
+  },
+  "sentences_removed": 2
+}

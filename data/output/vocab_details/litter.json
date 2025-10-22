@@ -1,0 +1,34 @@
+{
+  "lemma": "litter",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I’m going to be the fourth piglet of its next litter.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/litter_ex_0_e0b76911.mp3"
+      },
+      {
+        "text": "Future plans include a cooperative effort among many nations to stop littering in space and to clean up the trash already there.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/litter_ex_1_7bdda583.mp3"
+      },
+      {
+        "text": "Soon after their 36 , the guru died and the sow did have a litter of four little pigs.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/litter_ex_2_dab6dac2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "垃圾，廢棄物，尤其是隨意丟棄的物品。",
+    "en_def": "Waste material, especially trash that is carelessly discarded.",
+    "example": "Please don't litter in the park."
+  },
+  "sentences_removed": 0
+}

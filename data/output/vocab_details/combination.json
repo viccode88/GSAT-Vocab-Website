@@ -1,0 +1,33 @@
+{
+  "lemma": "combination",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“I have patchwork pieces that contain all sorts of combinations of fabrics.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/combination_ex_0_ddfd2859.mp3"
+      },
+      {
+        "text": "When the deer hear a combination of a 3-second- long recording of a deer’s snort and 20 seconds of a barking dog, they panic and flee rapidly.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/combination_ex_1_243c7ebe.mp3"
+      },
+      {
+        "text": "A combination of sound and visual devices attracts more deer to the tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/combination_ex_2_e3aa5066.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "結合，合併，將兩個或多個事物結合成一個整體的過程或結果。",
+    "en_def": "The act of combining two or more elements to form a single unit.",
+    "example": "The combination of different colors created a beautiful painting."
+  },
+  "sentences_removed": 0
+}

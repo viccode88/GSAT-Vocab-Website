@@ -1,0 +1,50 @@
+{
+  "lemma": "master",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Lost and scared, the little dog ______ along the streets, looking for its master.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/master_ex_0_9a566db0.mp3"
+      },
+      {
+        "text": "Also, the masters become so lazy that, after a while, they lose their muscles, and they become too weak ___(30)___ to feed themselves.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/master_ex_1_ae8cbe55.mp3"
+      },
+      {
+        "text": "Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/master_ex_2_7e647dc2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The skill of playing the glass armonica was very hard to master.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room _____.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "大師；專家；主人；精通某種技能的人",
+    "en_def": "A person who has control or authority over something; an expert in a particular field.",
+    "example": "She is a master of classical piano."
+  },
+  "sentences_removed": 0
+}

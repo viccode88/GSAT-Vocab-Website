@@ -1,0 +1,23 @@
+{
+  "lemma": "hygiene",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hygiene_ex_0_98f0e032.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "衛生，指保持身體和環境清潔以促進健康的實踐。",
+    "en_def": "The practice of maintaining cleanliness to promote health.",
+    "example": "Good hygiene is essential to prevent the spread of illness."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "intelligence",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most courses address artificial intelligence.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/intelligence_ex_0_a4371d6e.mp3"
+      },
+      {
+        "text": "From Binet’s work, the phrase “intelligence quotient” (“IQ”) entered the English vocabulary.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/intelligence_ex_1_de0b80af.mp3"
+      },
+      {
+        "text": "A dog’s intelligence can be ranked based on the score of a Dognition’s test.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intelligence_ex_2_0752f715.mp3"
+      },
+      {
+        "text": "We believe that with your intelligence and hard work, you will pass the exam without any difficulty.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intelligence_ex_3_7a785a36.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If 70 percent of 8-year-olds could pass a particular test, then 29 on the test represented an 8-year-old’s level of intelligence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "He later created a standard of measuring children’s intelligence 28 the data he had collected from the French children he studied.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Dr. Hare, one of the venture’s co-founders, says a dog’s intelligence can’t be described with a single number.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Just as humans have a wide range of intelligences, so do dogs.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Tiberi also said that Paris would be placed under the sign of the lights of “culture and life” and “intelligence.”",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Different dogs display strengths in different intelligences.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true according to the passage? (A) Rapid speech without mistakes is a reliable sign of intelligence.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "智力；理解、學習和適應環境的能力。",
+    "en_def": "The ability to acquire and apply knowledge and skills.",
+    "example": "Her intelligence helped her solve complex problems quickly."
+  },
+  "sentences_removed": 1
+}

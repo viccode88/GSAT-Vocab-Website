@@ -1,0 +1,28 @@
+{
+  "lemma": "offizier",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 41.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/offizier_ex_0_8d8f930b.mp3"
+      },
+      {
+        "text": "A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/offizier_ex_1_7218a3e6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "軍官；在軍隊或其他組織中擔任指揮或管理職務的人。",
+    "en_def": "An officer; a person who holds a position of authority or command in the military or other organizations.",
+    "example": "The officer gave orders to the troops during the training exercise."
+  },
+  "sentences_removed": 0
+}

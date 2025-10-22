@@ -1,0 +1,34 @@
+{
+  "lemma": "dissolve",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dissolve_ex_0_a964a54f.mp3"
+      },
+      {
+        "text": "Unlike hard candies, chocolate dissolves quickly in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/dissolve_ex_1_efcc6413.mp3"
+      },
+      {
+        "text": "They help chocolate to dissolve more quickly.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/dissolve_ex_2_6ff54965.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使溶解；使消失或消散。",
+    "en_def": "To cause a solid to become incorporated into a liquid, forming a solution; to disappear or fade away.",
+    "example": "The sugar will dissolve in hot water."
+  },
+  "sentences_removed": 0
+}

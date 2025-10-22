@@ -1,0 +1,28 @@
+{
+  "lemma": "burr",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Upon their return home, he found a lot of burrs (from plants) stuck to the dog’s fur and his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/burr_ex_0_18be629c.mp3"
+      },
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/burr_ex_1_b1b536b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "植物的刺果或刺種，通常附著在動物身上以便散播種子。",
+    "en_def": "A rough or prickly seed or seed case that can cling to fur or clothing, aiding in seed dispersal.",
+    "example": "The burrs stuck to my dog's fur after we walked through the field."
+  },
+  "sentences_removed": 0
+}

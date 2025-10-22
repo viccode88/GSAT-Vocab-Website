@@ -1,0 +1,23 @@
+{
+  "lemma": "informative",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The book is not only informative but also , making me laugh and feel relaxed while reading it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/informative_ex_0_835336cb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提供資訊或知識的，具有教育意義的。",
+    "en_def": "Providing useful or interesting information.",
+    "example": "The documentary was very informative and taught me a lot about wildlife."
+  },
+  "sentences_removed": 0
+}

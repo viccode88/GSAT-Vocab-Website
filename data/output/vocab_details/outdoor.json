@@ -1,0 +1,38 @@
+{
+  "lemma": "outdoor",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The entire island of Kizhi is, 18 , an outdoor museum of wooden architecture created in 1966.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/outdoor_ex_0_001e6d97.mp3"
+      },
+      {
+        "text": "But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 30 their productivity.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/outdoor_ex_1_a34ac3fa.mp3"
+      },
+      {
+        "text": "Obviously, a physically 22 person with an outdoor job under the sun will need to drink more fluid than a desk-bound person who lives and works in an air-conditioned place.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/outdoor_ex_2_b1f82c51.mp3"
+      },
+      {
+        "text": "The outdoor concert was canceled because of rain.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/outdoor_ex_3_1a732d5f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "戶外的；在戶外進行的",
+    "en_def": "Relating to or located in the open air; outside.",
+    "example": "We decided to have a picnic in the outdoor park."
+  },
+  "sentences_removed": 0
+}

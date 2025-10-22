@@ -1,0 +1,39 @@
+{
+  "lemma": "festival",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "34 Originally dedicated to the deceased, the dances have now become a symbol of the summer festival themselves.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/festival_ex_0_d4b8a62f.mp3"
+      },
+      {
+        "text": "For example, an annual book festival is held in Hay-on-Wye.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/festival_ex_1_bcbcf693.mp3"
+      },
+      {
+        "text": "The festival usually lasts for four to five days in August.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/festival_ex_2_72f2487a.mp3"
+      },
+      {
+        "text": "The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/festival_ex_3_0cfaa364.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "慶祝特定事件或季節的活動，通常包括音樂、舞蹈、美食和其他娛樂。",
+    "en_def": "A celebration or series of events held to mark a specific occasion or season, often featuring music, dance, food, and other entertainment.",
+    "example": "The town hosts a music festival every summer."
+  },
+  "sentences_removed": 1
+}

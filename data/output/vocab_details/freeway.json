@@ -1,0 +1,28 @@
+{
+  "lemma": "freeway",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/freeway_ex_0_753a0600.mp3"
+      },
+      {
+        "text": "I was held up by a traffic jam on the freeway for about an hour.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/freeway_ex_1_ac472d35.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高速公路，一種供汽車快速通行的道路，通常不允許行人和非機動車輛進入。",
+    "en_def": "A freeway is a high-capacity road designed for fast-moving vehicles, typically with no intersections or traffic signals.",
+    "example": "We took the freeway to reach the city faster."
+  },
+  "sentences_removed": 0
+}

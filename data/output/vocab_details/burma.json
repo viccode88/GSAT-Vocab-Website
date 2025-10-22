@@ -1,0 +1,23 @@
+{
+  "lemma": "burma",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in 1834, tea cultivation began in India and spread to Sri Lanka, Thailand, Burma, and other areas of Southeast Asia.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/burma_ex_0_c5b1e94a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "緬甸，位於東南亞的國家，與中國、印度和泰國接壤。",
+    "en_def": "Burma, a country in Southeast Asia bordered by China, India, and Thailand.",
+    "example": "Burma is known for its rich cultural heritage and diverse landscapes."
+  },
+  "sentences_removed": 0
+}

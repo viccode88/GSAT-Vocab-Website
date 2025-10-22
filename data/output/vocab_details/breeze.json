@@ -1,0 +1,23 @@
+{
+  "lemma": "breeze",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Beside the lake, beneath the trees, Fluttering and dancing in the breeze.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/breeze_ex_0_88cea917.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "微風；輕風",
+    "en_def": "A gentle wind.",
+    "example": "A cool breeze made the hot day more pleasant."
+  },
+  "sentences_removed": 0
+}

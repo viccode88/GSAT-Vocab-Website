@@ -1,0 +1,84 @@
+{
+  "lemma": "encourage",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/encourage_ex_0_6feafc23.mp3"
+      },
+      {
+        "text": "To encourage classroom _____, the teacher divided the class into groups and asked them to solve a problem together with their partners.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/encourage_ex_1_9c5711d9.mp3"
+      },
+      {
+        "text": "They encouraged citizens to get vaccinations.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/encourage_ex_2_9cb3e44e.mp3"
+      },
+      {
+        "text": "Participants, often dressed in light cotton kimonos, are encouraged to dance to the music around the stage.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/encourage_ex_3_ebaaf136.mp3"
+      },
+      {
+        "text": "This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/encourage_ex_4_dcd9d70f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Secondly, the shows young people watch on television encourage them to drink.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, it can be nurtured and encouraged.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But does our society encourage children to break the rules?",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "They should (A) encourage students to memorize rules.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To encourage consumers to choose high-quality brands.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "鼓勵，激勵某人去做某事或支持某人的行為。",
+    "en_def": "To give support, confidence, or hope to someone; to promote or stimulate an action or behavior.",
+    "example": "Teachers encourage their students to ask questions."
+  },
+  "sentences_removed": 1
+}

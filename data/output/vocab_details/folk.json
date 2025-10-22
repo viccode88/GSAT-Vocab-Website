@@ -1,0 +1,100 @@
+{
+  "lemma": "folk",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 16,
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The singers usually sing popular folk songs.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/folk_ex_0_ecc677a7.mp3"
+      },
+      {
+        "text": "A second kind of medicine is called “natural cures,” or “folk medicine,” in which less educated people try to cure sicknesses with various herbs.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/folk_ex_1_d92bfd33.mp3"
+      },
+      {
+        "text": "Many folk tales originally had some basis in fact and grew out of the lives of real people.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/folk_ex_2_31b523d6.mp3"
+      },
+      {
+        "text": "Another fun 37 is shopping at the open market where local folks sell produce grown in their gardens.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/folk_ex_3_acc953f8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Many folk tales are also tall tales—stories of unbelievable events told with perfect seriousness.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk tales are usually the stories of _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The success of folk medicine led to the development of doctor medicine.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A culture’s folk tales, fables, songs, and proverbs are an important part of its literature.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Recalling the group’s first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk tales are both down-to-earth and highly imaginative.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk medicine flourished long before the development of scientific medicine and was more successful in ancient times than doctor medicine.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people. 41.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Taiwu Elementary School Folk Singers? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, folk tales _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Folk healers choose different herbs to cure diseases without any sound basis.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "These folk healers also use observation and logic, but they are not so aware of it.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "民間的，民俗的；人們的，普通人的",
+    "en_def": "Relating to the traditional culture, customs, and beliefs of a community or group of people.",
+    "example": "The festival celebrated folk music and dance from various cultures."
+  },
+  "sentences_removed": 4
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "link",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 9,
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Stress is linked to the six __(36)__ causes of death— heart disease, cancer, lung disease, accidents, liver disease, and suicide.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/link_ex_0_046ed688.mp3"
+      },
+      {
+        "text": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/link_ex_1_8901c049.mp3"
+      },
+      {
+        "text": "Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/link_ex_2_ad3380f1.mp3"
+      },
+      {
+        "text": "If these letters were linked over and pressed on to paper, they would print the words.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/link_ex_3_4b89015a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The decomposers are a vital link in the natural cycle of life and death.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast (C) Literally (D) Accordingly 27. (A) gap (B) link (C) clue (D) ratio 28. (A) out of (B) as well as (C) in case of (D) due to 29.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In boys these links develop later.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "To link Russians’ vodka consumption to their adoption of Christianity. 44.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The links between certain parts of the brain develop earlier in girls than in boys.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Our personal celebrations, 22 weddings, promotions, graduations, and anniversaries, are 23 linked with drinking.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "search strategies to link their food source to their Normally, the birds enjoy a smooth flight together nests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "連結，聯繫或關聯的方式。",
+    "en_def": "A connection or relationship between two or more things.",
+    "example": "You can find the link to the article in the email."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "web",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "網絡；互聯網",
+    "en_def": "A system of interconnected computer networks that use the Internet Protocol Suite (TCP/IP) to link devices worldwide.",
+    "example": "She spent hours browsing the web for information on her research topic."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "northeastern",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/northeastern_ex_0_10c9d4fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "東北的，位於或與東北部有關的。",
+    "en_def": "Relating to the northeastern part of a region or country.",
+    "example": "The northeastern states are known for their beautiful autumn foliage."
+  },
+  "sentences_removed": 0
+}

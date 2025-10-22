@@ -1,0 +1,17 @@
+{
+  "lemma": "vanilla",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "香草，一種常用的香料，通常用於食品和香水中。",
+    "en_def": "A flavoring derived from the vanilla bean, commonly used in food and fragrances.",
+    "example": "I love adding vanilla extract to my cookies for extra flavor."
+  },
+  "sentences_removed": 1
+}

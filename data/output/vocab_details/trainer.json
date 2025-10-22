@@ -1,0 +1,23 @@
+{
+  "lemma": "trainer",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to fitness trainers, physically 36 exercises may make you breathe heavily and your muscles may ache temporarily, but exercise should not be painful.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/trainer_ex_0_8dc28b2d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "訓練者；教練",
+    "en_def": "A person who trains others, especially in a specific skill or sport.",
+    "example": "The trainer helped the athletes improve their performance."
+  },
+  "sentences_removed": 0
+}

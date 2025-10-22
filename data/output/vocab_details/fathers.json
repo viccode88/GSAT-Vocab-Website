@@ -1,0 +1,17 @@
+{
+  "lemma": "fathers",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "父親的複數形式，指多位男性家長或父親。",
+    "en_def": "The plural form of 'father', referring to multiple male parents.",
+    "example": "Many fathers enjoy spending time with their children on weekends."
+  },
+  "sentences_removed": 1
+}

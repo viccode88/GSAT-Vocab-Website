@@ -1,0 +1,119 @@
+{
+  "lemma": "behavior",
+  "count": 21,
+  "pos_dist": {
+    "NOUN": 21
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Therefore, proms have been held every year in high schools for students to learn proper social behavior.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/behavior_ex_0_cb50c5c8.mp3"
+      },
+      {
+        "text": "John’s reckless behavior gave rise to endless trouble for his parents.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/behavior_ex_1_d9547207.mp3"
+      },
+      {
+        "text": "The purpose of Dognition’s testing is to control a dog’s behavior.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/behavior_ex_2_022fa357.mp3"
+      },
+      {
+        "text": "Every time we watch apes in their cages we are startled by their manlike behavior.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/behavior_ex_3_454b3520.mp3"
+      },
+      {
+        "text": "Scientists are studying the suicidal behavior of pilot whales.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/behavior_ex_4_f4e1b3e2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "His behavior at the party last night seemed rather _______.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Joseph’s behavior is so unpredictable that no one can ______",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following describes the order of changes in the features of a blackspot angelfish during gender change? (A) Size  behavior  color  stripes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists are still trying to find out why whales have this self-destructive behavior.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "(F) They show behavior governed by a unique system of communication.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, this behavior is likely to make the interviewer feel very uncomfortable.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The 60 pilot whales swam ashore as a result of (A) a large winter storm off the coast of Cape Cod. (B) a behavior currently unknown to scientists.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of the third paragraph? (A) Proper social behavior must be observed by prom-goers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about horror movies can be inferred from the passage? (A) Most horror movie lovers are prone to aggressive behavior.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Slowly, her behavior toward the other fish also changes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These include not only external behavior, but also all the organs, the whole skeleton, every single bone and tooth.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The boy to the teacher for his improper behavior.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred about the elephant’s behavior from this passage? (A) Elephants learn from their experiences.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "行為；舉止",
+    "en_def": "The way in which one acts or conducts oneself.",
+    "example": "His behavior in class was disruptive."
+  },
+  "sentences_removed": 1
+}

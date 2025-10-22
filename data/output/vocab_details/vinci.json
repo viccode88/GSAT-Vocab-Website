@@ -1,0 +1,23 @@
+{
+  "lemma": "vinci",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/vinci_ex_0_9e31f671.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "文藝復興時期的意大利畫家、科學家和發明家，最著名的作品包括《蒙娜麗莎》和《最後的晚餐》。",
+    "en_def": "An Italian polymath of the Renaissance, known for his contributions to art, science, and invention, with famous works including the 'Mona Lisa' and 'The Last Supper.'",
+    "example": "Leonardo da Vinci is often regarded as one of the greatest artists of all time."
+  },
+  "sentences_removed": 0
+}

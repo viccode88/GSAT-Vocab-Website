@@ -1,0 +1,23 @@
+{
+  "lemma": "striped",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank. 43.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/striped_ex_0_74417a58.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有條紋的，通常指衣物或物體表面有平行的顏色或圖案。",
+    "en_def": "Having stripes; marked with long, narrow bands of color.",
+    "example": "She wore a striped shirt that made her stand out in the crowd."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "ankle",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Lisa _____ onto the ground and injured her ankle while she was playing basketball yesterday.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/ankle_ex_0_98721f7b.mp3"
+      },
+      {
+        "text": "her ankle while she was playing tennis last week.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ankle_ex_1_63ef0b91.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "腳踝，連接小腿和腳的關節。",
+    "en_def": "The joint connecting the foot with the leg.",
+    "example": "She twisted her ankle while running on the uneven ground."
+  },
+  "sentences_removed": 0
+}

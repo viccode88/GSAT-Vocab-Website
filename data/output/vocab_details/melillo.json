@@ -1,0 +1,17 @@
+{
+  "lemma": "melillo",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "梅利洛，一種意大利的姓氏或地名。",
+    "en_def": "Melillo, an Italian surname or place name.",
+    "example": "The Melillo family has a rich history in their hometown."
+  },
+  "sentences_removed": 1
+}

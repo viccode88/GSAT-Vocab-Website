@@ -1,0 +1,28 @@
+{
+  "lemma": "hazard",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hazard_ex_0_83a60616.mp3"
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/hazard_ex_1_d0163eb7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "危險，可能造成傷害或損失的情況或物體。",
+    "en_def": "A danger or risk that can cause harm or loss.",
+    "example": "The chemicals in the lab pose a serious hazard if not handled properly."
+  },
+  "sentences_removed": 0
+}

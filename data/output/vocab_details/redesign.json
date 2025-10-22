@@ -1,0 +1,23 @@
+{
+  "lemma": "redesign",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The sandals have subsequently undergone redesign, often appearing in bright colors in line with Californian beach culture.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/redesign_ex_0_00452ed0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重新設計，對某物進行改變或改善其外觀或功能。",
+    "en_def": "To design something again or differently, often to improve its appearance or functionality.",
+    "example": "The company decided to redesign their logo to attract a younger audience."
+  },
+  "sentences_removed": 0
+}

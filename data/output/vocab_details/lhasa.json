@@ -1,0 +1,23 @@
+{
+  "lemma": "lhasa",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The successful candidate, usually __(19)__ two or three, was then removed from his family to Lhasa to begin spiritual training for his future role.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/lhasa_ex_0_8a88f9dd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拉薩，中國西藏自治區的首府，位於青藏高原上，以其宗教和文化遺產而聞名。",
+    "en_def": "Lhasa, the capital of the Tibet Autonomous Region in China, located on the Tibetan Plateau, known for its religious and cultural heritage.",
+    "example": "Lhasa is home to the famous Potala Palace."
+  },
+  "sentences_removed": 0
+}

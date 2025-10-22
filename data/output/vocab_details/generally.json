@@ -1,0 +1,104 @@
+{
+  "lemma": "generally",
+  "count": 20,
+  "pos_dist": {
+    "ADV": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While it is generally taken as an indicator of their marital status, the practice is primarily related to the Hindu religion.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/generally_ex_0_d2675fa8.mp3"
+      },
+      {
+        "text": "Generally speaking, our biological clock is slightly disturbed if we just move into the next time zone, but jet lag becomes a problem once we have passed through three or four time zones.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/generally_ex_1_df5733d0.mp3"
+      },
+      {
+        "text": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/generally_ex_2_adc2c41e.mp3"
+      },
+      {
+        "text": "The researchers concluded that cattle do generally orient themselves in a north-south direction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/generally_ex_3_abee7595.mp3"
+      },
+      {
+        "text": "Nevertheless, passports were not generally required for international travel until the First World War.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/generally_ex_4_e4e65ee6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Generally, the biggest complaint among home exchangers has to do with different standards of cleanliness.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They generally spend less time sitting than those who are inactive.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I usually eat lunch from twelve to one and generally take a fifteen-minute break in the morning and in the afternoon.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Research also suggests that firstborn children generally become more conservative than other children because they receive most of the parental discipline.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Making matters worse, the artificial butter substitute that generally 34 with microwavable popcorn contains a common food-flavoring substance.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the more generally accepted story is that the fortune cookie first 38 in either 1907 or 1914 in San Francisco, created by a Japanese immigrant, Makoto Hagiwara.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In countries other than the United States and Canada, the area code generally determines the 20 of a call.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Red is a popular color, and women generally opt for checked, striped, or patterned pieces of cloth.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to one research report, which two parts of English are generally shared by men and women? 3.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "通常，普遍地",
+    "en_def": "In a general manner; usually or commonly.",
+    "example": "Generally, people prefer to eat breakfast in the morning."
+  },
+  "sentences_removed": 3
+}

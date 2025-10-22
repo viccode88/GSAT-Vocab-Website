@@ -1,0 +1,115 @@
+{
+  "lemma": "mail",
+  "count": 27,
+  "pos_dist": {
+    "NOUN": 23,
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Seventy-five million pieces of mail can end up in these offices in one year.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mail_ex_0_1d0bc5d6.mp3"
+      },
+      {
+        "text": "They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/mail_ex_1_a540f339.mp3"
+      },
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mail_ex_2_79b8f884.mp3"
+      },
+      {
+        "text": "Disks are usually sent to the Disk Doctor by post, but sometimes people are in such a hurry that they cannot wait for the mail to come.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mail_ex_3_827263dd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The staff in a dead mail office may open a package in order to find .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Initial contact is made via e-mail, with subsequent communication usually by phone.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The passage indicates that dead mail auctions are held .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a way to deal with dead mail?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Dead mail will also be listed on a computer so that people can call in and check to see if a missing item is there.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "First of all, they look for clues that can help them deliver the mail; they open packages in the hope that something inside will show where the package came from or is going to.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When a lot of dead mail has piled up, the dead mail offices hold public auctions.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "However, all of this mail cannot simply be stored forever; there is just too much of it.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The post office cannot just throw the mail away, so it becomes “dead mail.”",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Dead mail is sent to one of the U.S. Postal Service’s dead mail offices in Atlanta, New York, Philadelphia, St. Paul, and San Francisco.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Thanks, but I think I’ll wait until the mail .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes it is impossible to deliver all the mail that arrives at the post office.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The staff of the dead mail offices has a variety of ways to deal with all of these pieces of dead mail.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "E-mail plays a ______ role in modern communication.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "郵件，通常指通過郵政系統發送的信件或包裹。",
+    "en_def": "A system for sending letters and packages from one place to another, or the letters and packages themselves.",
+    "example": "I received a mail from my friend yesterday."
+  },
+  "sentences_removed": 1
+}

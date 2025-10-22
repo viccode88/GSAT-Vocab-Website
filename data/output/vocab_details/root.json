@@ -1,0 +1,39 @@
+{
+  "lemma": "root",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These patterns actually help the fish to hide from danger among roots and plants.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/root_ex_0_1c7b20ba.mp3"
+      },
+      {
+        "text": "These sprouts grow slowly, nourished by the root system of the “mother” tree.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/root_ex_1_7f8f1945.mp3"
+      },
+      {
+        "text": "All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/root_ex_2_215eb520.mp3"
+      },
+      {
+        "text": "we must bear in mind that the love of money is also the root of all evil.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/root_ex_3_9467f821.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "根，植物的部分，通常位於土壤中，負責吸收水分和養分。",
+    "en_def": "The part of a plant that typically lies below the surface of the soil, responsible for absorbing water and nutrients.",
+    "example": "The tree's roots spread deep into the ground."
+  },
+  "sentences_removed": 0
+}

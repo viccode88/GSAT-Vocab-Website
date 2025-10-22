@@ -1,0 +1,33 @@
+{
+  "lemma": "importantly",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The soybean is free of cholesterol, and more importantly, the soy oil contains some special substances, called Omega 3 fatty acids, which reduce cholesterol and prevent blood from clotting in human body.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/importantly_ex_0_2fdd3cc1.mp3"
+      },
+      {
+        "text": "More importantly, if it's happiness that we want, why not put our energy there rather than on the size of our body?",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/importantly_ex_1_8e5f4a45.mp3"
+      },
+      {
+        "text": "At the end of the class, you __(25)__ with you classmates the meals you have created, and you will leave with recipe handouts and , more importantly, the ability to cook two weeks of fantastic, low-cost meals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/importantly_ex_2_47401af8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重要地；顯著地",
+    "en_def": "In a manner that is significant or of great importance.",
+    "example": "It is importantly necessary to follow the safety guidelines."
+  },
+  "sentences_removed": 0
+}

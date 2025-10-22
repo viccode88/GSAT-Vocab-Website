@@ -1,0 +1,28 @@
+{
+  "lemma": "caliphate",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Later, in the medieval Islamic Caliphate, a form of passport was the bara’a, a receipt for taxes paid.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/caliphate_ex_0_525b7be4.mp3"
+      },
+      {
+        "text": "Only people who paid their taxes were permitted to travel to different regions of the Caliphate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/caliphate_ex_1_6838fcbe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "哈里發制度：伊斯蘭教的政治和宗教領導體系，由哈里發統治，代表穆罕默德的繼承者。",
+    "en_def": "A caliphate is a form of Islamic government led by a caliph, who is considered a political and religious successor to the Prophet Muhammad.",
+    "example": "The caliphate was an important political entity in the early history of Islam."
+  },
+  "sentences_removed": 0
+}

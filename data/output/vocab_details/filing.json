@@ -1,0 +1,23 @@
+{
+  "lemma": "filing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They lick the rails to pick up iron filings caused by the action of wheels against tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/filing_ex_0_fb539dda.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "整理文件或資料的過程，通常是將其分類和存放以便於檢索。",
+    "en_def": "The process of organizing documents or data, typically by categorizing and storing them for easy retrieval.",
+    "example": "She spent the afternoon filing important documents in the office."
+  },
+  "sentences_removed": 0
+}

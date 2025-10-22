@@ -1,0 +1,23 @@
+{
+  "lemma": "vineyard",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/vineyard_ex_0_9ee64108.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "種植葡萄的地方，通常用於生產葡萄酒。",
+    "en_def": "A plantation of grapevines, typically used for wine production.",
+    "example": "The vineyard produces some of the finest wines in the region."
+  },
+  "sentences_removed": 0
+}

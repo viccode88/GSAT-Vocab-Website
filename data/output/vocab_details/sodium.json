@@ -1,0 +1,23 @@
+{
+  "lemma": "sodium",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sodium_ex_0_973ea158.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鈉，一種化學元素，符號為Na，原子序數為11，是一種金屬元素，通常以鹽的形式存在。",
+    "en_def": "Sodium, a chemical element with the symbol Na and atomic number 11, is a metallic element commonly found in salt.",
+    "example": "Sodium is essential for maintaining fluid balance in the body."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "correlate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A snake’s likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/correlate_ex_0_c6ad33b3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相互關聯，互相影響的事物或現象。",
+    "en_def": "To show or establish a relationship or connection between two or more things.",
+    "example": "The study aims to correlate exercise habits with mental health outcomes."
+  },
+  "sentences_removed": 0
+}

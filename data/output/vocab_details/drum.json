@@ -1,0 +1,28 @@
+{
+  "lemma": "drum",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The style of the dances varies from region to region but is normally based on the rhythms of taiko drums.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/drum_ex_0_e3a7010e.mp3"
+      },
+      {
+        "text": "Which of the following will probably NOT be found in the performance of Capoeira? (A) Singing with drums.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/drum_ex_1_3a644793.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鼓，一種用於打擊樂器的樂器，通常由圓形的膜和空心的箱體組成。",
+    "en_def": "A percussion instrument consisting of a hollow cylinder or shell with a membrane stretched over one or both ends, played by striking with sticks or hands.",
+    "example": "He played the drum in the school band."
+  },
+  "sentences_removed": 0
+}

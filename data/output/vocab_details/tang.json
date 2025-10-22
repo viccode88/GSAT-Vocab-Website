@@ -1,0 +1,23 @@
+{
+  "lemma": "tang",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although Mr. Tang claims that the house belongs to him, he has not offered any proof of _____.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tang_ex_0_1c06c4eb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "唐朝，中國歷史上的一個朝代，存在於618年至907年，以其繁榮的文化和經濟著稱。",
+    "en_def": "The Tang Dynasty, a Chinese dynasty that lasted from 618 to 907 AD, known for its cultural and economic prosperity.",
+    "example": "The Tang Dynasty is often regarded as a golden age of Chinese civilization."
+  },
+  "sentences_removed": 0
+}

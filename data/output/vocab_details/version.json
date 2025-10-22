@@ -1,0 +1,64 @@
+{
+  "lemma": "version",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/version_ex_0_76597737.mp3"
+      },
+      {
+        "text": "Plant diseases can also spread through tiny water drops that jump off leaves— a plant’s version of a sneeze.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/version_ex_1_76ff8b50.mp3"
+      },
+      {
+        "text": "In the Greek version, the toe strap ran between the first and second toes, while Roman sandals had the strap between the second and third toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/version_ex_2_740eb679.mp3"
+      },
+      {
+        "text": "Some people also wear dressy versions for more formal occasions.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/version_ex_3_da171c7c.mp3"
+      },
+      {
+        "text": "It didn’t taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/version_ex_4_bf635463.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It has 25 so many people that a film version was also made.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We all have grown up with this popular version, but the 31 fable can be extended with different twists.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California’s Wham-O toy company.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "版本；某事物的特定形式或變體。",
+    "en_def": "A particular form or variant of something.",
+    "example": "The software update includes a new version with improved features."
+  },
+  "sentences_removed": 0
+}

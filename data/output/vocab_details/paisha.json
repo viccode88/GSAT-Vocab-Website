@@ -1,0 +1,23 @@
+{
+  "lemma": "paisha",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Surprised by the father and son’s “pale faces” and their battered vessel, the Penghu police and fishers in Paisha rescued them.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/paisha_ex_0_7455c275.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於清理或清除的工具或設備，通常用於清理地面或表面上的污垢和垃圾。",
+    "en_def": "A tool or device used for cleaning or clearing, typically used to remove dirt and debris from surfaces or floors.",
+    "example": "She used a paisha to sweep the leaves off the patio."
+  },
+  "sentences_removed": 0
+}

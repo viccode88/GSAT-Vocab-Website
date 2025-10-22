@@ -1,0 +1,43 @@
+{
+  "lemma": "zeke",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What does Zeke Emanuel have in mind when saying “What did Mom put in the cereal?” (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/zeke_ex_0_b30f6fda.mp3"
+      },
+      {
+        "text": "What does Zeke Emanuel think of the modern conveniences mentioned in the interview? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/zeke_ex_1_653fafb2.mp3"
+      },
+      {
+        "text": "Isn’t writing a book about how great your family is a bit odd? Zeke:",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/zeke_ex_2_d39e4011.mp3"
+      },
+      {
+        "text": "Which of the following best summarizes Zeke Emanuel’s response to the last question?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/zeke_ex_3_187b1f8e.mp3"
+      },
+      {
+        "text": "According to Zeke Emanuel, which of the following is a reason for the brothers’ success? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/zeke_ex_4_94435bd4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種男性名字，通常是以希伯來語的雅各為根源的變體。",
+    "en_def": "A male given name, often a variant of Jacob in Hebrew.",
+    "example": "Zeke is planning to travel to Europe next summer."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "era",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/era_ex_0_abb0d322.mp3"
+      },
+      {
+        "text": "The future may be a vehicle-accident-free era.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/era_ex_1_e4bdebf8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "時代；一段特定的歷史期間",
+    "en_def": "A period of time marked by distinctive character, events, or circumstances.",
+    "example": "The Victorian era was known for its strict social norms."
+  },
+  "sentences_removed": 0
+}

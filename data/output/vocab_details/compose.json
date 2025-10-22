@@ -1,0 +1,49 @@
+{
+  "lemma": "compose",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A dog’s cognitive profile is composed of nine cognitive skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/compose_ex_0_157ff269.mp3"
+      },
+      {
+        "text": "He invented an instrument for which both Mozart and Beethoven composed music—the glass armonica.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/compose_ex_1_74a23f13.mp3"
+      },
+      {
+        "text": "In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/compose_ex_2_0d82e19b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is composed of two parks located in two countries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the great Beethoven was asked to compose music for the guitar, he went into a rage and refused, but eventually even Beethoven could not ignore the challenge.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The new expansion is composed of five themed splash pads and a River Boat Adventure Ride.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "創作，尤其是音樂、文學或其他藝術作品的過程。",
+    "en_def": "To create or write, especially in reference to music, literature, or other artistic works.",
+    "example": "She decided to compose a new song for the upcoming concert."
+  },
+  "sentences_removed": 0
+}

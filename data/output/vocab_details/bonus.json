@@ -1,0 +1,23 @@
+{
+  "lemma": "bonus",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Due to the yearly bonus system, the 100 ________ positions in this high-tech company have attracted many applicants from around the island.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/bonus_ex_0_2174b8ad.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "額外的獎勵或獎金，通常是基於表現或成就的獎勵。",
+    "en_def": "An extra payment or reward given for good performance or achievement.",
+    "example": "She received a bonus for exceeding her sales targets this quarter."
+  },
+  "sentences_removed": 0
+}

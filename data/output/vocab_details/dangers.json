@@ -1,0 +1,23 @@
+{
+  "lemma": "dangers",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, what triggers the gender change in the blackspot angelfish? (A) Dangers to the group.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dangers_ex_0_3e2e454c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "危險，指可能造成傷害或損失的情況或事物。",
+    "en_def": "Dangers refer to situations or things that may cause harm or loss.",
+    "example": "The dangers of driving without a seatbelt are well known."
+  },
+  "sentences_removed": 0
+}

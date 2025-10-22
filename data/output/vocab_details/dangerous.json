@@ -1,0 +1,64 @@
+{
+  "lemma": "dangerous",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dangerous_ex_0_7d925647.mp3"
+      },
+      {
+        "text": "There would be a real chance of running aground and damaging the ship and the cargo, some of which might be dangerous if released into a water-based ecosystem.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dangerous_ex_1_3619245a.mp3"
+      },
+      {
+        "text": "They have become one of the most dangerous places in the world.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dangerous_ex_2_499d95ae.mp3"
+      },
+      {
+        "text": "Unprepared for such a dangerous journey, many died of starvation and exposure to the cold weather.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dangerous_ex_3_be7e2318.mp3"
+      },
+      {
+        "text": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/dangerous_ex_4_ed99dbae.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In the early days of the film industry, actors themselves shot acrobatic acts and dangerous scenes, until they began to get injured.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Beginning around 1910, audiences developed a taste for serial action movies, which 26 the use of dedicated stunt people to perform in dangerous scenes.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If something dangerous needed to be done for a scene, the producers would hire anyone crazy or desperate enough to do it.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "危險的，可能造成傷害或損失的。",
+    "en_def": "Able or likely to cause harm or injury.",
+    "example": "The storm created dangerous conditions for the hikers."
+  },
+  "sentences_removed": 1
+}

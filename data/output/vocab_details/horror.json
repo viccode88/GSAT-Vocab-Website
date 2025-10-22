@@ -1,0 +1,54 @@
+{
+  "lemma": "horror",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/horror_ex_0_02943189.mp3"
+      },
+      {
+        "text": "One benefit of horror movies revolves around the concept of so-called “safe fear.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/horror_ex_1_55c97a30.mp3"
+      },
+      {
+        "text": "Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/horror_ex_2_ee3662c3.mp3"
+      },
+      {
+        "text": "This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/horror_ex_3_1c09b41a.mp3"
+      },
+      {
+        "text": "Which of the following statements about horror movies can be inferred from the passage? (A) Most horror movie lovers are prone to aggressive behavior.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/horror_ex_4_12af13b8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "However, researchers also find that horror movies can have negative effects on some people.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "恐怖，令人感到害怕或不安的情況或事物。",
+    "en_def": "A genre of literature, film, or other art forms intended to frighten, scare, or induce feelings of dread.",
+    "example": "The horror movie kept me on the edge of my seat."
+  },
+  "sentences_removed": 0
+}

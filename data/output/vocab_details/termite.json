@@ -1,0 +1,23 @@
+{
+  "lemma": "termite",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This north-south preference has also been noted in flies, termites and honeybees.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/termite_ex_0_91078733.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "白蟻，一種以木材和植物為食的社會性昆蟲，通常在群體中生活。",
+    "en_def": "A termite is a social insect that feeds on wood and plant material, typically living in colonies.",
+    "example": "The termite infestation damaged the wooden beams in the house."
+  },
+  "sentences_removed": 0
+}

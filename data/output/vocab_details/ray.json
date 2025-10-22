@@ -1,0 +1,23 @@
+{
+  "lemma": "ray",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/ray_ex_0_23b9762f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "光線；射線；輻射線",
+    "en_def": "A line of light or energy that travels in a straight path.",
+    "example": "The sun's rays warmed the beach."
+  },
+  "sentences_removed": 0
+}

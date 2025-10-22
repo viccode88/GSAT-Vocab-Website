@@ -1,0 +1,44 @@
+{
+  "lemma": "mistake",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Perhaps our worst mistake is believing that being thin equals being loved, being special, and being cherished.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/mistake_ex_0_da45f3ff.mp3"
+      },
+      {
+        "text": "mistake found in parenthood is that parents often set unrealistic goals for their children.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/mistake_ex_1_a6a682b1.mp3"
+      },
+      {
+        "text": "What is the best title for this passage? (A) A Painful Mistake (B)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mistake_ex_2_bd1075d6.mp3"
+      },
+      {
+        "text": "They had to learn from their own mistakes, which 25 some their lives, and almost all suffered light or severe injuries.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mistake_ex_3_d6d1d1ca.mp3"
+      },
+      {
+        "text": "Which of the following statements is true according to the passage? (A) Rapid speech without mistakes is a reliable sign of intelligence.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mistake_ex_4_4f78e5cc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "錯誤；失誤",
+    "en_def": "An action or judgment that is misguided or wrong.",
+    "example": "I made a mistake on my math test."
+  },
+  "sentences_removed": 0
+}

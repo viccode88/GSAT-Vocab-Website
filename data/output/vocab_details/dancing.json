@@ -1,0 +1,54 @@
+{
+  "lemma": "dancing",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They were literally out of their seats and singing and dancing in the aisles.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dancing_ex_0_279086ab.mp3"
+      },
+      {
+        "text": "Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dancing_ex_1_1d805e1e.mp3"
+      },
+      {
+        "text": "The word “prom” was first used in the 1890s, referring to formal dances in which the guests of a party would display their fashions and dancing skills during the evening’s grand march.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dancing_ex_2_4f8f4967.mp3"
+      },
+      {
+        "text": "The relationship between two people is like the art of dancing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dancing_ex_3_b17767da.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, “especially when everybody’s dancing, because I love to dance.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People hoist their glasses 30 they are sitting around ski lodges, sailing, dancing, or enjoying a football game.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Capoeira? (A) It was greatly influenced by modern dancing styles.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "舞蹈；以音樂為伴隨的身體動作，通常表達情感或故事。",
+    "en_def": "The activity of moving rhythmically to music, typically following a set sequence of steps.",
+    "example": "She loves dancing at parties with her friends."
+  },
+  "sentences_removed": 0
+}

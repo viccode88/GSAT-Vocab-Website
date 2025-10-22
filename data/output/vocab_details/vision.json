@@ -1,0 +1,43 @@
+{
+  "lemma": "vision",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vision_ex_0_0363f463.mp3"
+      },
+      {
+        "text": "They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vision_ex_1_ac4d2fd3.mp3"
+      },
+      {
+        "text": "Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vision_ex_2_8bb491bb.mp3"
+      },
+      {
+        "text": "They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/vision_ex_3_ed4f3259.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is an opinion, but NOT a fact? (A) Humans and zebrafish have 70 percent of genes in common. (B) Zebrafish can quickly recover vision after damage to the retina.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/vision_ex_4_7556ea91.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "視力；視覺；想像力或願景。",
+    "en_def": "The ability to see; the faculty of sight; also refers to the ability to imagine or envision future possibilities.",
+    "example": "Her vision for the future includes a world where everyone has access to clean water."
+  },
+  "sentences_removed": 1
+}

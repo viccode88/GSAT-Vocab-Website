@@ -1,0 +1,23 @@
+{
+  "lemma": "traditionalist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/traditionalist_ex_0_3340a174.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "傳統主義者；堅持傳統的人",
+    "en_def": "A person who adheres to traditional views or practices.",
+    "example": "As a traditionalist, she believes in preserving the customs of her ancestors."
+  },
+  "sentences_removed": 0
+}

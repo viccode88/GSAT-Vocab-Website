@@ -1,0 +1,23 @@
+{
+  "lemma": "turquoise",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/turquoise_ex_0_f2916604.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種藍綠色的礦石，常用於珠寶和裝飾品。",
+    "en_def": "A blue-green mineral often used in jewelry and decorative items.",
+    "example": "She wore a beautiful turquoise necklace that matched her dress."
+  },
+  "sentences_removed": 0
+}

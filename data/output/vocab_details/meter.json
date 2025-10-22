@@ -1,0 +1,54 @@
+{
+  "lemma": "meter",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bekoji’s legend Derartu Tulu, who won the 10,000-meter Olympic gold medals in 1992 and 2000, is a national hero.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/meter_ex_0_00779eb9.mp3"
+      },
+      {
+        "text": "It was about 7 meters long.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/meter_ex_1_492e081c.mp3"
+      },
+      {
+        "text": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/meter_ex_2_b6fa7f95.mp3"
+      },
+      {
+        "text": "The tower, of pinewood, will be built on eight pillars and will be topped with a flower of five metal petals of 700 square meters each.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/meter_ex_3_3652785f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The Cambodian tea tree grows five meters tall.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The Chinese variety, a strong plant that can grow to be 2.75 meters high, can live to be 100 years old and survives cold winters.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The Assamese variety can grow 18 meters high and lives about 40 years.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "計量單位，通常用於測量長度，等於一百公分。",
+    "en_def": "A unit of measurement equal to 100 centimeters, used to measure length.",
+    "example": "The room is three meters long."
+  },
+  "sentences_removed": 1
+}

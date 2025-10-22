@@ -1,0 +1,54 @@
+{
+  "lemma": "sheet",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sheet_ex_0_676933e2.mp3"
+      },
+      {
+        "text": "The most recognizable piece of clothing is the shúkà, a sheet of fabric worn wrapped around the body.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sheet_ex_1_3018949c.mp3"
+      },
+      {
+        "text": "The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won’t reach.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sheet_ex_2_9470b47e.mp3"
+      },
+      {
+        "text": "Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children’s books.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sheet_ex_3_950f7490.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "For many indigenous Papuans, the ice sheets represent a sacred symbol.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Could I have those two sheets, please? 16.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But some mountain ranges of South America, Africa, and Indonesia are also 26 glaciers and ice sheets.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一片平坦的材料，通常是紙、布或金屬，具有一定的厚度和面積。",
+    "en_def": "A flat piece of material, typically paper, fabric, or metal, with a certain thickness and area.",
+    "example": "She wrote her notes on a sheet of paper."
+  },
+  "sentences_removed": 1
+}

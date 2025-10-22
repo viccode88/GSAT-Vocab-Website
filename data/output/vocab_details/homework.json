@@ -1,0 +1,23 @@
+{
+  "lemma": "homework",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It's next to impossible for me to finish the homework in three days.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/homework_ex_0_63c9e4c7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "學校布置給學生的作業或練習，以便在家完成。",
+    "en_def": "Assignments given to students by their teachers to be completed outside of class.",
+    "example": "I need to finish my homework before I can go out to play."
+  },
+  "sentences_removed": 0
+}

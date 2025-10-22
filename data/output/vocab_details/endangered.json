@@ -1,0 +1,23 @@
+{
+  "lemma": "endangered",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/endangered_ex_0_f7acc725.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瀕臨絕種的，指某種動植物的數量極少，面臨滅絕的風險。",
+    "en_def": "At risk of extinction; referring to a species whose population is very low and declining.",
+    "example": "The giant panda is an endangered species that needs protection."
+  },
+  "sentences_removed": 0
+}

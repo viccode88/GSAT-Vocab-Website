@@ -1,0 +1,60 @@
+{
+  "lemma": "behave",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 8,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was seen behaving rudely on TV.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/behave_ex_0_1a40f697.mp3"
+      },
+      {
+        "text": "The underlined word conduct in the first paragraph is closest in meaning to (A) behave.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/behave_ex_1_0e4d57bd.mp3"
+      },
+      {
+        "text": "However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/behave_ex_2_695db3bf.mp3"
+      },
+      {
+        "text": "their children when they behave well and punish them when they misbehave.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/behave_ex_3_cccfd331.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Whether cattle behave like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But as the magic fades and daily life __(33)__, it happens that men, forgetting that men and women are supposed to be different, continue to expect women to think and react the way men do; women, __(34)__, expect men to feel and behave the way women do.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "She begins behaving like a male.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what gave rise to alternative proms? (A) Not all students behaved well at the proms.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "表現，行為，遵守規則或標準。",
+    "en_def": "To act in a particular way, especially to conform to social norms or expectations.",
+    "example": "Children are expected to behave well in school."
+  },
+  "sentences_removed": 1
+}

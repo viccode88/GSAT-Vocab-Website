@@ -1,0 +1,23 @@
+{
+  "lemma": "transaction",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/transaction_ex_0_631e5f73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "交易；商業活動中涉及金錢或物品的交換。",
+    "en_def": "A transaction is an instance of buying or selling something, or the process of conducting business.",
+    "example": "She completed the transaction at the bank to transfer money to her savings account."
+  },
+  "sentences_removed": 0
+}

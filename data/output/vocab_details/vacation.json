@@ -1,0 +1,38 @@
+{
+  "lemma": "vacation",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If we can ______ to, we will take a vacation abroad in the summer.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/vacation_ex_0_90b1ebf7.mp3"
+      },
+      {
+        "text": "Having saved enough money, Joy two trips for this summer vacation, one to France and the other to Australia.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/vacation_ex_1_7e7e12f3.mp3"
+      },
+      {
+        "text": "The travel company wanted to 26 people to take January vacations, so they reached out to a psychologist.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/vacation_ex_2_6f610fc7.mp3"
+      },
+      {
+        "text": "you want to give your family a nice, wholesome vacation, try visiting this charming town.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/vacation_ex_3_1fe3a526.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "假期，通常指從工作或學校中休息的時間，通常用於旅遊或放鬆。",
+    "en_def": "A period of time spent away from home or work, often for relaxation or travel.",
+    "example": "We are planning a vacation to the beach next month."
+  },
+  "sentences_removed": 2
+}

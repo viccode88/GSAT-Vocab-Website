@@ -1,0 +1,23 @@
+{
+  "lemma": "headline",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On the basis of the clues, can you predict the of the story? (A) outcome (B) headline (C) cause (D) performance 5.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/headline_ex_0_3b3b81cd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "報紙或文章的標題，通常用來吸引讀者的注意。",
+    "en_def": "The title of a newspaper article or a story, often designed to attract attention.",
+    "example": "The headline of the article caught my eye immediately."
+  },
+  "sentences_removed": 0
+}

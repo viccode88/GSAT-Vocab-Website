@@ -1,0 +1,23 @@
+{
+  "lemma": "outstanding",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The goals of becoming an outstanding player and playing college ball were never far from Deborah’s mind.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/outstanding_ex_0_2bca43c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "卓越的，傑出的，顯著的",
+    "en_def": "Exceptionally good; clearly noticeable.",
+    "example": "Her outstanding performance in the competition earned her a scholarship."
+  },
+  "sentences_removed": 0
+}

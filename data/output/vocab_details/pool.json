@@ -1,0 +1,54 @@
+{
+  "lemma": "pool",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The names were chosen from a name pool 36 of 140 names, 10 each from the 14 members of the committee.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pool_ex_0_f0145199.mp3"
+      },
+      {
+        "text": "They drained the swimming pools in the county.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pool_ex_1_5bed48b0.mp3"
+      },
+      {
+        "text": "The rain makes still pools on the sidewalk.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pool_ex_2_a38a94ae.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The rain makes running pools in the gutter.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When he was nine, the political situation there, Yusra sometimes had to country’s civil war claimed the life of his mother train in pools under roofs that had been blown open and left him homeless.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一個供人們游泳、戲水或進行水上活動的人工水體。",
+    "en_def": "A man-made body of water for swimming, recreation, or water activities.",
+    "example": "We spent the afternoon relaxing by the pool."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "waitress",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/waitress_ex_0_544e1b9e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "女服務員，通常在餐廳或酒吧工作，負責為顧客提供餐飲服務。",
+    "en_def": "A female server who works in a restaurant or bar, responsible for serving food and drinks to customers.",
+    "example": "The waitress took our order and brought us our drinks."
+  },
+  "sentences_removed": 0
+}

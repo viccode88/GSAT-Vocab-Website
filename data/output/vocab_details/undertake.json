@@ -1,0 +1,23 @@
+{
+  "lemma": "undertake",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In view of all these strengths, in the 1930s the United States and Canada undertook a research project in which they managed to breed an especially nutritious soybean with a high oil content.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/undertake_ex_0_0eb924d8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "承擔；從事",
+    "en_def": "To take on a responsibility or task.",
+    "example": "She decided to undertake the project despite its challenges."
+  },
+  "sentences_removed": 0
+}

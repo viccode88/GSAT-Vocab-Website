@@ -1,0 +1,43 @@
+{
+  "lemma": "destination",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/destination_ex_0_f2916604.mp3"
+      },
+      {
+        "text": "If we walk at this slow , we’ll never get to our destination on time.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/destination_ex_1_b1b7e436.mp3"
+      },
+      {
+        "text": "Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/destination_ex_2_16e15a54.mp3"
+      },
+      {
+        "text": "Then it is the tortoise that 34 the hare to a third race along a different route in which there is a river just before the final destination.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/destination_ex_3_ee12ee93.mp3"
+      },
+      {
+        "text": "Our destination was a 150-foot tall capirana tree, by far the biggest tree around.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/destination_ex_4_c484cce6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "目的地；旅行或運輸的最終位置。",
+    "en_def": "The place to which someone or something is going or being sent.",
+    "example": "Our destination for the vacation is a beautiful beach resort."
+  },
+  "sentences_removed": 0
+}

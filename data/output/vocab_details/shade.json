@@ -1,0 +1,23 @@
+{
+  "lemma": "shade",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Rivers and streams flow slowly through jungles of shaded greens.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shade_ex_0_289294d5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "遮蔽，陰影或遮擋的地方。",
+    "en_def": "An area of darkness or partial darkness caused by the blocking of light.",
+    "example": "She sat under the shade of the tree to escape the heat."
+  },
+  "sentences_removed": 0
+}

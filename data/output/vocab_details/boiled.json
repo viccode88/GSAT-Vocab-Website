@@ -1,0 +1,23 @@
+{
+  "lemma": "boiled",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/boiled_ex_0_95f77268.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用水或其他液體加熱至沸騰狀態的過程或結果。",
+    "en_def": "Cooked in boiling water or other liquid.",
+    "example": "She boiled the vegetables for dinner."
+  },
+  "sentences_removed": 0
+}

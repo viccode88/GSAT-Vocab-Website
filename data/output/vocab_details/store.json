@@ -1,0 +1,145 @@
+{
+  "lemma": "store",
+  "count": 27,
+  "pos_dist": {
+    "NOUN": 15,
+    "VERB": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the health food stores of major cities, it is now possible to buy tofu burgers and even tofu hot dogs.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/store_ex_0_4cae9267.mp3"
+      },
+      {
+        "text": "The doors of these department stores slide open _____ when you approach them.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/store_ex_1_43afd26c.mp3"
+      },
+      {
+        "text": "She opened her first store two years ago; now she has fifty stores all over the country.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/store_ex_2_05f75c24.mp3"
+      },
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/store_ex_3_a5d2f4ac.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Daphne said that her dream for the future is to see ivory banned, all stored ivory destroyed and no one wearing an ivory ornament ever again.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Elderly shoppers in this store are advised to take the elevator rather than the _____, which may move too fast for them to keep their balance.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Their pictures can be stored for a long time.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "We eat polluted dairy products and meat and take the dioxin into our bodies, where it is stored in our fat for years and builds up over time.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With a large memory card to store pictures, you can shoot and shoot and never have to worry about changing a roll.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Picking up on teens' interest in computer games, Hilfiger sponsored a Nintendo competition and installed Nintendo terminals in his stores.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The memory _____ of the new computer has been increased so that more information can be stored.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what is the best way to store olive oil?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, all of this mail cannot simply be stored forever; there is just too much of it.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Once used, the bags are sealed and stored for the flight back to the earth, _(25)_",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Run by a team of church volunteers, the shop will collect any surplus, good-quality items and store them until they can be redistributed to the people who are needing those particular things.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Sue is so _____ that she always breaks something when she is shopping at a store.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "You will also learn important information about __(24)__ for fresh and inexpensive foods, the use of herbs and spices, and the proper ways of storing different kinds of food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "商店；儲存的地方",
+    "en_def": "A place where goods are sold; to keep or accumulate something for future use.",
+    "example": "I need to go to the store to buy some groceries."
+  },
+  "sentences_removed": 1
+}

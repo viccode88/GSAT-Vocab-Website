@@ -1,0 +1,28 @@
+{
+  "lemma": "tragic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "concerning the tragic incident have now been preserved in the museum.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/tragic_ex_0_43436b1c.mp3"
+      },
+      {
+        "text": "The man was severely injured in last weekend’s tragic car accident and died _____ afterwards.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/tragic_ex_1_b14efd89.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "悲劇的；悲慘的",
+    "en_def": "Causing or characterized by extreme distress or sorrow.",
+    "example": "The play ended with a tragic loss that left the audience in tears."
+  },
+  "sentences_removed": 0
+}

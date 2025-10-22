@@ -1,0 +1,33 @@
+{
+  "lemma": "dock",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The same strategy for docking a vessel during an incoming tide may not work during an outgoing tide.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dock_ex_0_72500ad8.mp3"
+      },
+      {
+        "text": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dock_ex_1_631e5f73.mp3"
+      },
+      {
+        "text": "Without the services of a marine pilot, docking ships would be hazardous.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dock_ex_2_acb88a27.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "碼頭；停泊處",
+    "en_def": "A structure where ships are moored or loaded and unloaded.",
+    "example": "The cargo ship arrived at the dock early in the morning."
+  },
+  "sentences_removed": 0
+}
