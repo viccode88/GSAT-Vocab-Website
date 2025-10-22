@@ -1,0 +1,23 @@
+{
+  "lemma": "unwanted",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dioxin is an unwanted byproduct that is created when PVC is burned.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/unwanted_ex_0_55cafedb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不受歡迎的；不需要的",
+    "en_def": "Not desired or wished for; not wanted.",
+    "example": "The unwanted noise made it difficult to concentrate."
+  },
+  "sentences_removed": 0
+}

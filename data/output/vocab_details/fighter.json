@@ -1,0 +1,23 @@
+{
+  "lemma": "fighter",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A man might once have fought a bear, for example, and the tales told about him might make him into the greatest bear fighter who ever lived.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/fighter_ex_0_2fc2ef5c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "戰鬥者；參加戰鬥或競賽的人。",
+    "en_def": "A person or animal that fights, especially as a soldier or in a competition.",
+    "example": "The fighter trained hard for the upcoming championship."
+  },
+  "sentences_removed": 0
+}

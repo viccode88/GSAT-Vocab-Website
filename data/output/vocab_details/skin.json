@@ -1,0 +1,84 @@
+{
+  "lemma": "skin",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/skin_ex_0_96b146a9.mp3"
+      },
+      {
+        "text": "Mary lost ten kilograms in three months, so her _____ skin-tight jeans are now hanging off her hips.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/skin_ex_1_fb501f38.mp3"
+      },
+      {
+        "text": "Many people who are troubled by skin rashes caused by bug bites use “foggers,” or “bug bombs,” to get rid of the annoying crawlers in their homes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/skin_ex_2_a6bd4e03.mp3"
+      },
+      {
+        "text": "Lizards, 33 can change the color of their skin and 34 the trees and leaves around them.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/skin_ex_3_25445d0f.mp3"
+      },
+      {
+        "text": "The men took out an axe and an electric saw and started cutting into the tree’s silky smooth skin.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/skin_ex_4_f9e9d875.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They can be 22 by their thin, light-colored skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Their skin is very 39 to temperature changes.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But Oddsson’s life was saved by a creative invention: transplanting codfish skins onto human bodies.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson’s case.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The electrical shock burned almost half of his body and melted layers of his skin off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "皮膚，覆蓋在人體或動物體表的組織，具有保護、感覺和調節體溫的功能。",
+    "en_def": "The outer protective layer of a person or animal's body, serving functions such as protection, sensation, and temperature regulation.",
+    "example": "She applied sunscreen to protect her skin from the sun."
+  },
+  "sentences_removed": 1
+}

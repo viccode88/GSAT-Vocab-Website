@@ -1,0 +1,23 @@
+{
+  "lemma": "atom",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In recent years, the soybean has been used in making many different foods and has become the atom of health food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/atom_ex_0_06925cce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "原子是物質的基本單位，由質子、中子和電子組成。",
+    "en_def": "An atom is the basic unit of matter, consisting of protons, neutrons, and electrons.",
+    "example": "Everything around us is made up of atoms."
+  },
+  "sentences_removed": 0
+}

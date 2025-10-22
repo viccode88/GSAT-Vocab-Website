@@ -1,0 +1,23 @@
+{
+  "lemma": "contractor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/contractor_ex_0_be3b04ff.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "承包商；負責執行特定工作的個人或公司。",
+    "en_def": "A person or company that undertakes a contract to provide materials or labor for a construction project or other services.",
+    "example": "The contractor completed the renovation ahead of schedule."
+  },
+  "sentences_removed": 0
+}

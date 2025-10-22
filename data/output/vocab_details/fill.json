@@ -1,0 +1,99 @@
+{
+  "lemma": "fill",
+  "count": 16,
+  "pos_dist": {
+    "VERB": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The sounds of Notre-Dame bells once again filled the air in Paris, and will be heard for generations to come.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/fill_ex_0_6367b19c.mp3"
+      },
+      {
+        "text": "This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/fill_ex_1_dcd9d70f.mp3"
+      },
+      {
+        "text": "For two weeks he filled his sketchbook with the landscape’s most stunning sights.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fill_ex_2_4fba6a7b.mp3"
+      },
+      {
+        "text": "Since the typhoon, the basement has been filled with water.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/fill_ex_3_56012c98.mp3"
+      },
+      {
+        "text": "They may fill out an agreement spelling out who shoulders which responsibilities if a problem arises.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fill_ex_4_60b3fbd6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "30 , baseball fans are more content to concentrate on the game’s finer details and spend the breaks between innings filling out their own private scorecards.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The town was filled with darkened holes.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Amy followed her, trying to recall how each one had looked when they were filled with furniture and rugs and pictures and books.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "We are not blank hard drives waiting to be filled with data.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are places filled with giant tree lizards, sandy beaches, and tropical plants.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In a panic (B) With delight (C) Out of sorrow (D) Filled with embarrassment 39. (A) they had seen my car (B) there was a shop nearby (C) they had seen two small girls (D) there was a police station in the neighborhood 40.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "When wholesome laughter fills the air, Some ills will soon depart;",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "填滿，裝滿或使充滿某物。",
+    "en_def": "To make something full by putting something into it.",
+    "example": "Please fill the glass with water."
+  },
+  "sentences_removed": 0
+}

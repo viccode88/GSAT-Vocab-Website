@@ -1,0 +1,50 @@
+{
+  "lemma": "smoke",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The shocking pictures include images of smoke-damaged lungs and teeth, with reminders in large print that smokers die younger.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/smoke_ex_0_cf0ba09f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In December 1987, a U.S. Government report 4 that non-smokers could risk getting lung cancer from 5 in other people's cigarette smoke.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But new studies have found that smoke from cigarettes can be 3 to non-smokers too.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "These people believe that if they smoke “light” cigarettes with less nicotine, they will not get cancer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Being 7 cigarette smoke hurt the athletes' lungs, and made them 8 more than athletes who did not have smokers close 9 , the study said.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since 26 percent of Taiwanese adults smoke, such a misunderstanding will lead to more illness, suffering, and early death.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "煙，燃燒時產生的氣體和微小顆粒的混合物。",
+    "en_def": "A visible suspension of carbon or other particles in air, typically produced by burning.",
+    "example": "The smoke from the campfire filled the air with a pleasant aroma."
+  },
+  "sentences_removed": 0
+}

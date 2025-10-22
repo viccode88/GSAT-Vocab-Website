@@ -1,0 +1,43 @@
+{
+  "lemma": "layer",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/layer_ex_0_96b146a9.mp3"
+      },
+      {
+        "text": "The cactus’s thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/layer_ex_1_e71c9f77.mp3"
+      },
+      {
+        "text": "When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/layer_ex_2_013bf066.mp3"
+      },
+      {
+        "text": "The electrical shock burned almost half of his body and melted layers of his skin off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/layer_ex_3_c0a81c27.mp3"
+      },
+      {
+        "text": "The overlapping layers in front are called “aprons.”",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/layer_ex_4_80ae2c17.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "層，指物體的不同層次或結構。",
+    "en_def": "A layer is a single thickness or stratum of material or substance, often stacked or arranged in a specific order.",
+    "example": "The cake has three layers of chocolate and vanilla."
+  },
+  "sentences_removed": 0
+}

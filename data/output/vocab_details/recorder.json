@@ -1,0 +1,64 @@
+{
+  "lemma": "recorder",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In front of each easy chair there was a microphone at head height, with wires leading to a tape-recorder in the middle of the floor.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/recorder_ex_0_72d3ef98.mp3"
+      },
+      {
+        "text": "He had to check whether his tape-recorder was working.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/recorder_ex_1_35acd553.mp3"
+      },
+      {
+        "text": "I turned on the tape-recorder and each in turn solemnly counted from one to twenty in their best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/recorder_ex_2_7a1b8d10.mp3"
+      },
+      {
+        "text": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones which stayed in front of their chairs, only a few inches from their mouths, thus giving excellent sound quality.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/recorder_ex_3_8d504a3e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "On a tape-recorder in another room. (D) In a studio. 53.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "On the tape-recorder in the middle of the floor. (B) Through hidden microphones.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When it was over, I turned the tape-recorder off and brought round the drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For, of course, the microphones were not connected to the tape-recorder in the middle of the room at all but to another one, which was turning happily away in the kitchen.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted to turn off a tape recorder in another room.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "錄音機；記錄者",
+    "en_def": "A device used to record audio or a person who keeps a record.",
+    "example": "She used a recorder to capture the lecture for later review."
+  },
+  "sentences_removed": 0
+}

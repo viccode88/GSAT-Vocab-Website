@@ -1,0 +1,23 @@
+{
+  "lemma": "heartbeat",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By exhaling air from the lungs in short (36) of laughter, breathing is quickened and heartbeats increased, which achieves (37) good as ten minutes on an exercise bike.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/heartbeat_ex_0_9d2f1fe4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "心跳，指心臟收縮和舒張的過程，通常用來測量心臟的健康狀況。",
+    "en_def": "The rhythmic contraction and relaxation of the heart, typically measured to assess heart health.",
+    "example": "I could feel my heartbeat quicken as I ran up the hill."
+  },
+  "sentences_removed": 0
+}

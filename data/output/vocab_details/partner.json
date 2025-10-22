@@ -1,0 +1,38 @@
+{
+  "lemma": "partner",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To encourage classroom _____, the teacher divided the class into groups and asked them to solve a problem together with their partners.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/partner_ex_0_9c5711d9.mp3"
+      },
+      {
+        "text": "David felt disappointed when he found out that he could not choose his study partners, but would be ______ placed in a study group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/partner_ex_1_a4dad4b8.mp3"
+      },
+      {
+        "text": "He’s got all the qualities that make a _____ partner.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/partner_ex_2_9c54bbd3.mp3"
+      },
+      {
+        "text": "If a British businessman wants to visit some trade partners in Taiwan for about three weeks, what should he do?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/partner_ex_3_e86cc79d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "夥伴；合作夥伴",
+    "en_def": "A person who shares or is associated with another in some action or endeavor.",
+    "example": "She is my business partner in the new venture."
+  },
+  "sentences_removed": 1
+}

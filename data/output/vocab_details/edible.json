@@ -1,0 +1,23 @@
+{
+  "lemma": "edible",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the years, only the edible soft inner flesh has been used.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/edible_ex_0_d4c0cbd7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可食用的，指可以安全食用的食物或物品。",
+    "en_def": "Fit or suitable for consumption; safe to eat.",
+    "example": "The berries in the garden are edible and can be used in salads."
+  },
+  "sentences_removed": 0
+}

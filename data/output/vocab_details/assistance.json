@@ -1,0 +1,39 @@
+{
+  "lemma": "assistance",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She refused to seek professional assistance to help her recover from her injuries.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/assistance_ex_0_e02faec7.mp3"
+      },
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/assistance_ex_1_c0d7b070.mp3"
+      },
+      {
+        "text": "A variety of driver assistance technologies are appearing on new cars.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/assistance_ex_2_76071032.mp3"
+      },
+      {
+        "text": "With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/assistance_ex_3_4ea2729d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幫助或支持，尤其是在困難或需要的時候。",
+    "en_def": "The act of helping or supporting someone, especially in times of difficulty or need.",
+    "example": "She offered her assistance to the new employee during the training."
+  },
+  "sentences_removed": 0
+}

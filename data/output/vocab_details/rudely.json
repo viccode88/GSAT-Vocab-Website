@@ -1,0 +1,23 @@
+{
+  "lemma": "rudely",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was seen behaving rudely on TV.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/rudely_ex_0_1a40f697.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "粗魯地；無禮地",
+    "en_def": "In a manner that is impolite or disrespectful.",
+    "example": "He spoke rudely to his teacher."
+  },
+  "sentences_removed": 0
+}

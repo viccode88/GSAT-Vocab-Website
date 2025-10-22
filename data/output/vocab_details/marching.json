@@ -1,0 +1,23 @@
+{
+  "lemma": "marching",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, football fans seem to love the half-time activities, the marching bands, and the pretty cheerleaders.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/marching_ex_0_ed2765c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "行進，特別是以整齊的步伐行走，通常用於軍事或遊行場合。",
+    "en_def": "The act of walking with regular and measured steps, often as part of a military or organized procession.",
+    "example": "The soldiers were marching in perfect formation during the parade."
+  },
+  "sentences_removed": 0
+}

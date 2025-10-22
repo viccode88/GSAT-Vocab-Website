@@ -1,0 +1,28 @@
+{
+  "lemma": "inactive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At night, when these fish become inactive, their colors may become pale.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inactive_ex_0_95cf05d2.mp3"
+      },
+      {
+        "text": "They generally spend less time sitting than those who are inactive.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/inactive_ex_1_5126b9ab.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不活躍的，未參與活動的",
+    "en_def": "Not engaging in or involving any activity; not active.",
+    "example": "The inactive volcano has not erupted in over a century."
+  },
+  "sentences_removed": 0
+}

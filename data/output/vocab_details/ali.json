@@ -1,0 +1,69 @@
+{
+  "lemma": "ali",
+  "count": 10,
+  "pos_dist": {
+    "PROPN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the end, Ali lost patience and went to demand his pot.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ali_ex_0_d873dcfc.mp3"
+      },
+      {
+        "text": "With such support, spiritual leader Ayatollah Ali Khamenei vowed, “We will rebuild Bam stronger than before.” 45.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/ali_ex_1_f31c1a55.mp3"
+      },
+      {
+        "text": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/ali_ex_2_994f35e9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It can be inferred that Ali had at the end of the story.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Ali gladly agreed and waited to see if Nasreddin would again give him back two pots.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "“I’m sorry, your pot has died,” said Nasreddin. “Died!” said Ali.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Why did Ali take Nasreddin’s words that his pot had a baby?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Nasreddin gave Ali an extra small pot in the beginning because .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "“That's not mine,” said Ali.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "One week later Nasreddin asked Ali to lend him the pot again.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "阿里（Ali）是一個常見的名字，通常用於男性，尤其在阿拉伯文化中。它也可以指代阿里巴巴集團，一家中國的電子商務公司。",
+    "en_def": "Ali is a common male name, especially in Arabic culture. It can also refer to Alibaba Group, a Chinese e-commerce company.",
+    "example": "Ali is planning to start his own business next year."
+  },
+  "sentences_removed": 0
+}

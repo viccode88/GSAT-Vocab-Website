@@ -1,0 +1,79 @@
+{
+  "lemma": "survive",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The astronauts need a space suit to survive in space.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/survive_ex_0_6afc2789.mp3"
+      },
+      {
+        "text": "The slow and clumsy wetas have been around on the island since the times of the dinosaurs, and have evolved and survived in an environment where they had no enemies until rats came to the island with European immigrants.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/survive_ex_1_14ffc1bf.mp3"
+      },
+      {
+        "text": "This was thought to be enough for a person to survive for one year.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/survive_ex_2_4847e2a4.mp3"
+      },
+      {
+        "text": "Which of the following is CORRECT about the earthquake in Bam? (A) About 50,000 people survived the earthquake.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/survive_ex_3_94d39b13.mp3"
+      },
+      {
+        "text": "Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/survive_ex_4_67629c34.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It was a great for his family that he had survived the cold weather in the mountain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The Chinese variety, a strong plant that can grow to be 2.75 meters high, can live to be 100 years old and survives cold winters.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The three were believed to be too young to survive on their own of returned to sea.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If seawater is not an option, how does this animal survive in the ocean?",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred from the study? (A) Sea snakes can easily survive long years of drought.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If people keep polluting the rivers, no fish there will survive ______.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "生存；活下來",
+    "en_def": "To continue to live or exist, especially in spite of danger or hardship.",
+    "example": "Many species struggle to survive in harsh environments."
+  },
+  "sentences_removed": 1
+}

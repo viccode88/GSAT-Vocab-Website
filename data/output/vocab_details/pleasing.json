@@ -1,0 +1,23 @@
+{
+  "lemma": "pleasing",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "it (B) here (C) that (D) where 18. (A) to be pleased (B) to please (C) to be pleasing (D) to have pleased 19.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/pleasing_ex_0_b76958ae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人愉快的，令人滿意的",
+    "en_def": "Giving a sense of pleasure or satisfaction.",
+    "example": "The pleasing aroma of fresh bread filled the kitchen."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "anita",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "安妮塔，一個女性名字，通常用於西方文化。",
+    "en_def": "Anita is a female given name of Spanish and Italian origin.",
+    "example": "Anita loves to paint in her free time."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "pink",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/pink_ex_0_b9bca2ec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "粉紅色，一種介於紅色和白色之間的顏色。",
+    "en_def": "A color that is a pale shade of red, often associated with softness and femininity.",
+    "example": "She wore a pink dress to the party."
+  },
+  "sentences_removed": 0
+}

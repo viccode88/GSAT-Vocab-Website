@@ -1,0 +1,33 @@
+{
+  "lemma": "fence",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A lighter and smaller car probably wouldn't have gone through the fence, its remaining energy would have been much less, and this would have reduced the chances of serious injury or death.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fence_ex_0_878bd8f7.mp3"
+      },
+      {
+        "text": "The car was moving so fast that it went through the highway-dividing fence, resulting in a collision in which five people died.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fence_ex_1_cb738ad8.mp3"
+      },
+      {
+        "text": "The author's statement about the highway fence's ability to retain a smaller and lighter car (A) is the author's assumption.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fence_ex_2_6414c909.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圍欄；圍住的結構，通常用於界定區域或保護財產。",
+    "en_def": "A barrier or enclosure made of wood, metal, or other materials, used to define a boundary or protect an area.",
+    "example": "The dog ran around the yard, chasing after a squirrel that climbed the fence."
+  },
+  "sentences_removed": 0
+}

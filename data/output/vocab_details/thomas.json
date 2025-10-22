@@ -1,0 +1,43 @@
+{
+  "lemma": "thomas",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1608, forks were brought to England by Thomas Coryate, who saw them during his travels in Italy.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/thomas_ex_0_da715a6b.mp3"
+      },
+      {
+        "text": "Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/thomas_ex_1_102c7b54.mp3"
+      },
+      {
+        "text": "Boys’ names such as John, Peter, and Thomas are chosen from the Bible.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/thomas_ex_2_c5a658ca.mp3"
+      },
+      {
+        "text": "Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/thomas_ex_3_0876dcc2.mp3"
+      },
+      {
+        "text": "The Moon Lake Restaurant’s menu included French-fried potatoes, a popular food recipe brought back from France by Thomas Jefferson.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/thomas_ex_4_3d0c0eac.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "湯瑪斯，一個常見的男性名字。",
+    "en_def": "Thomas, a common male given name.",
+    "example": "Thomas is going to the store to buy some groceries."
+  },
+  "sentences_removed": 0
+}

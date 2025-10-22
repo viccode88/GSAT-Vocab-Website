@@ -1,0 +1,33 @@
+{
+  "lemma": "technique",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You’ll get a different expression from your pet using this technique.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/technique_ex_0_90b0b040.mp3"
+      },
+      {
+        "text": "It involves a variety of techniques that make use of the hands, feet, legs, arms, and head.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/technique_ex_1_65b7d5cb.mp3"
+      },
+      {
+        "text": "The techniques of Capoeira. 46.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/technique_ex_2_f1332f0d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "技術；方法，特定的操作或處理方式。",
+    "en_def": "A method or way of doing something, especially one that is systematic or established.",
+    "example": "She used a new technique to improve her painting skills."
+  },
+  "sentences_removed": 1
+}

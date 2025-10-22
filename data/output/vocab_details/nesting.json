@@ -1,0 +1,29 @@
+{
+  "lemma": "nesting",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/nesting_ex_0_6255986e.mp3"
+      },
+      {
+        "text": "(E) They change their nesting sites from time to time.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/nesting_ex_1_fd80aa7b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "將物體或生物放置在其他物體或生物內部的行為或狀態。",
+    "en_def": "The act or state of placing objects or organisms inside one another.",
+    "example": "The birds are nesting in the trees to raise their young."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "amount",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/amount_ex_0_b11a589e.mp3"
+      },
+      {
+        "text": "However, the sea snake’s salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/amount_ex_1_c6d86148.mp3"
+      },
+      {
+        "text": "Research shows that 31 amounts of exercise—even just 15 minutes a day—helps ease depression, enhance self-image, relieve stress, and much more.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/amount_ex_2_75050000.mp3"
+      },
+      {
+        "text": "And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/amount_ex_3_a51e2ac8.mp3"
+      },
+      {
+        "text": "Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water 25 .",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/amount_ex_4_d36a63e3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "數量；總額",
+    "en_def": "The total quantity of something.",
+    "example": "The amount of water in the bottle is two liters."
+  },
+  "sentences_removed": 0
+}

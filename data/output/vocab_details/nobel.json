@@ -1,0 +1,33 @@
+{
+  "lemma": "nobel",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The 2011 Nobel Peace Prize was awarded _____ to three women for the efforts they made in fighting for women’s rights.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/nobel_ex_0_19b64a0d.mp3"
+      },
+      {
+        "text": "The history of the Nobel Prize in Literature. 42.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/nobel_ex_1_71a22415.mp3"
+      },
+      {
+        "text": "In 1993, Morrison received the Nobel Prize in Literature.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/nobel_ex_2_e78cbadc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "諾貝爾獎，表彰在物理學、化學、生理學或醫學、文學及和平等領域作出卓越貢獻的人士。",
+    "en_def": "A prestigious international award given annually in several categories, including Physics, Chemistry, Physiology or Medicine, Literature, and Peace, to individuals or organizations for outstanding contributions.",
+    "example": "Marie Curie was awarded the Nobel Prize in Physics for her research on radioactivity."
+  },
+  "sentences_removed": 1
+}

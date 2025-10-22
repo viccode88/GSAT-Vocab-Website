@@ -1,0 +1,23 @@
+{
+  "lemma": "startup",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then, a local green energy startup company got the idea to turn that waste into energy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/startup_ex_0_beb0e321.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "初創公司，通常是新成立的企業，專注於開發創新產品或服務以滿足市場需求。",
+    "en_def": "A startup is a newly established business, often focused on developing innovative products or services to meet market demands.",
+    "example": "The tech startup received funding to launch its new app."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "automotive",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/automotive_ex_0_1fd40772.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與汽車或其技術相關的。",
+    "en_def": "Relating to motor vehicles or their technology.",
+    "example": "The automotive industry is rapidly evolving with new technologies."
+  },
+  "sentences_removed": 0
+}

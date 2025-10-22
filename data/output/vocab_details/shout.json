@@ -1,0 +1,28 @@
+{
+  "lemma": "shout",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Shouting greetings and waving a big sign, Tony _____",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/shout_ex_0_e2e4cdc2.mp3"
+      },
+      {
+        "text": "I shouted at them to stop the ship and to get Tim out.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/shout_ex_1_2016f55f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大聲喊叫或呼喊。",
+    "en_def": "To call out loudly or to yell.",
+    "example": "She had to shout to be heard over the noise."
+  },
+  "sentences_removed": 0
+}

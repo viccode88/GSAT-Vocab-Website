@@ -1,0 +1,74 @@
+{
+  "lemma": "unusual",
+  "count": 11,
+  "pos_dist": {
+    "ADJ": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/unusual_ex_0_d320b05a.mp3"
+      },
+      {
+        "text": "It has long been assumed that creativity is some unusual trait enjoyed by the few.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unusual_ex_1_add1a488.mp3"
+      },
+      {
+        "text": "During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/unusual_ex_2_03a45e4d.mp3"
+      },
+      {
+        "text": "So she was trucked to a most unusual orphanage in Nairobi, run by a woman named Daphne Sheldrick.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/unusual_ex_3_e39186ae.mp3"
+      },
+      {
+        "text": "29 , it is not unusual for them to come up with a decision before they have the time to do so.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/unusual_ex_4_5416a4c3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The blood-type belief has been used in unusual ways.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes, people pick foreign names for their children because those names are unusual and will thus make their children more 39 and distinctive.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Australia has lots of very unusual animals.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In ancient Greece, what did the priests do to show people they had unusual power?",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The consumption of alcoholic beverages was unusual in ancient Russia.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The ordinary woman’s leather shoe is considered unusual because _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "不尋常的，與常規或常見的事物不同。",
+    "en_def": "Not common or ordinary; different from what is usual.",
+    "example": "Her unusual talent for painting amazed everyone."
+  },
+  "sentences_removed": 0
+}

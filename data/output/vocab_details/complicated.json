@@ -1,0 +1,28 @@
+{
+  "lemma": "complicated",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Baseball, on the other hand, seems more mental, like chess, and 27 those fans that prefer a quieter, more complicated game.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/complicated_ex_0_c134db06.mp3"
+      },
+      {
+        "text": "College education is far more complicated than ___(23)___",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/complicated_ex_1_357179b0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "複雜的，難以理解或處理的。",
+    "en_def": "Consisting of many interconnected parts; not easy to analyze or understand.",
+    "example": "The instructions for assembling the furniture were too complicated for me to follow."
+  },
+  "sentences_removed": 1
+}

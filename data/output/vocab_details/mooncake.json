@@ -1,0 +1,23 @@
+{
+  "lemma": "mooncake",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the legend, notes of 33 plans for a revolution to overthrow the Mongols were hidden in mooncakes that would ordinarily have been stuffed with sweet bean paste.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mooncake_ex_0_3f3bb42b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "月餅是一種中國傳統的糕點，通常在中秋節期間食用，內餡多樣，外皮通常為麵團製成。",
+    "en_def": "A mooncake is a traditional Chinese pastry typically eaten during the Mid-Autumn Festival, with various fillings and a usually round shape.",
+    "example": "We enjoyed delicious mooncakes while celebrating the Mid-Autumn Festival."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "replay",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It replays the image back through the glasses after processing it on an attached computer.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/replay_ex_0_bf75ca9a.mp3"
+      },
+      {
+        "text": "Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/replay_ex_1_a10ec47f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重播；再次播放或回覆某事。",
+    "en_def": "To play back or respond to something again.",
+    "example": "I will replay the video so you can see it again."
+  },
+  "sentences_removed": 0
+}

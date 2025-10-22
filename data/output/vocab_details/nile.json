@@ -1,0 +1,59 @@
+{
+  "lemma": "nile",
+  "count": 9,
+  "pos_dist": {
+    "PROPN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nile_ex_0_0b10a55e.mp3"
+      },
+      {
+        "text": "The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nile_ex_1_de658433.mp3"
+      },
+      {
+        "text": "Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nile_ex_2_dbcdf1b4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements is true about West Nile? (A) Its symptoms usually appear within two weeks.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is this passage mainly about? (A) West Nile and methods to fight it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What did Dallas County do to fight off West Nile?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "尼羅河：非洲的一條主要河流，流經埃及，為該地區提供水源和灌溉。",
+    "en_def": "The Nile: a major river in Africa that flows through Egypt, providing water and irrigation to the region.",
+    "example": "The Nile is known for being one of the longest rivers in the world."
+  },
+  "sentences_removed": 1
+}

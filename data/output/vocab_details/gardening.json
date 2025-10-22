@@ -1,0 +1,23 @@
+{
+  "lemma": "gardening",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For gardening and landscaping. 43.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/gardening_ex_0_59a173a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "園藝：種植和照顧植物的藝術或技術，通常在家庭花園或農場中進行。",
+    "en_def": "The practice of cultivating and managing a garden, including the growing of flowers, vegetables, and other plants.",
+    "example": "She spends every weekend gardening to relax and enjoy nature."
+  },
+  "sentences_removed": 0
+}

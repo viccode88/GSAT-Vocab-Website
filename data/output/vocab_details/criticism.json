@@ -1,0 +1,43 @@
+{
+  "lemma": "criticism",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "30 , they tend to believe criticism to be suggestion for improvement.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticism_ex_0_f4416fc6.mp3"
+      },
+      {
+        "text": "She cannot take any criticism and always finds excuses to justify herself.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/criticism_ex_1_4d050652.mp3"
+      },
+      {
+        "text": "For hours, we have heard nothing but negative criticism.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticism_ex_2_1e353167.mp3"
+      },
+      {
+        "text": "The problem with Jane is that she tends to take criticism too and gets angry easily.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticism_ex_3_0182b9f6.mp3"
+      },
+      {
+        "text": "People 28 high self-esteem are not hurt by criticism; they do not 29 criticism as personal rejection.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/criticism_ex_4_7393bc6b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對某事物的評價或指責，通常針對其缺點或不足之處。",
+    "en_def": "The expression of disapproval or the analysis and judgment of the merits and faults of something.",
+    "example": "The author's latest book received both praise and criticism from readers."
+  },
+  "sentences_removed": 0
+}

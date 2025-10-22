@@ -1,0 +1,50 @@
+{
+  "lemma": "command",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, because it’s hard to get them to sit still and “perform on command,” some professional photographers refuse to photograph pets.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/command_ex_0_45b7a694.mp3"
+      },
+      {
+        "text": "Within a short period of time, she has developed a good command of Chinese and Japanese.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/command_ex_1_89e87396.mp3"
+      },
+      {
+        "text": "In 1905 he developed a test in which he 27 children do tasks such as follow commands, copy patterns, name objects, and put things in order or arrange them properly.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/command_ex_2_a8e84aeb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Some coins may command higher prices because they are more popular with collectors.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The soldier was put on trial for to obey his commanding officer’s order.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "命令；指示某人做某事的權威性要求。",
+    "en_def": "An authoritative order or instruction to do something.",
+    "example": "The general issued a command to the troops to advance."
+  },
+  "sentences_removed": 0
+}

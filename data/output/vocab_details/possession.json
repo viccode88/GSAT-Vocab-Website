@@ -1,0 +1,33 @@
+{
+  "lemma": "possession",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A player of Mills had possession of the ball, and Deborah ran to guard against her.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/possession_ex_0_97c60a3b.mp3"
+      },
+      {
+        "text": "They were prized possessions made of expensive materials intended to impress guests.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/possession_ex_1_973e45f7.mp3"
+      },
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/possession_ex_2_aa8f9bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擁有或控制某物的狀態或行為。",
+    "en_def": "The state of having, owning, or controlling something.",
+    "example": "The possession of valuable items can attract unwanted attention."
+  },
+  "sentences_removed": 0
+}

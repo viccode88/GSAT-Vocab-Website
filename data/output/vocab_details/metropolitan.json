@@ -1,0 +1,23 @@
+{
+  "lemma": "metropolitan",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1955, Anderson became the first black soloist to sing with the Metropolitan Opera of New York City.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/metropolitan_ex_0_9315ca3a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大都市的；與大城市有關的",
+    "en_def": "Relating to a large city or its surrounding areas.",
+    "example": "New York is a vibrant metropolitan area with diverse cultures."
+  },
+  "sentences_removed": 1
+}

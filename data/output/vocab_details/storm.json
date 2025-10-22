@@ -1,0 +1,39 @@
+{
+  "lemma": "storm",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The 60 pilot whales swam ashore as a result of (A) a large winter storm off the coast of Cape Cod. (B) a behavior currently unknown to scientists.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/storm_ex_0_117ae734.mp3"
+      },
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/storm_ex_1_d29f242a.mp3"
+      },
+      {
+        "text": "They stormed away and never played on the street again.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/storm_ex_2_4add2de2.mp3"
+      },
+      {
+        "text": "A storm cloud “chased” him until he was struck.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/storm_ex_3_d969ff18.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "暴風雨；強烈的風和降水現象。",
+    "en_def": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+    "example": "The storm caused widespread damage across the city."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "sculpture",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some sculptures can be completed in as little as ten minutes if power tools are used.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sculpture_ex_0_636dad7e.mp3"
+      },
+      {
+        "text": "When holding a dinner party, some large restaurants or hotels will use an ice sculpture to decorate the table.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sculpture_ex_1_ae987aaf.mp3"
+      },
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/sculpture_ex_2_def0e2d6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The best ice chisels are made in Japan, a country that, along with China, has a long tradition of magnificent ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The places where ice is sculpted. (C) The quality of ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Ice sculptures are used as decorations in some cuisines, especially in Asia.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The uses of ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "雕塑是一種藝術形式，通過雕刻、塑造或鑄造材料來創造三維物體。",
+    "en_def": "Sculpture is an art form that creates three-dimensional objects by carving, modeling, or casting materials.",
+    "example": "The museum features a stunning sculpture made of marble."
+  },
+  "sentences_removed": 1
+}

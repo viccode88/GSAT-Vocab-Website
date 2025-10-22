@@ -1,0 +1,23 @@
+{
+  "lemma": "marketplace",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Public dwellings lined its ground level; a marketplace and two mosques also fit comfortably inside.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/marketplace_ex_0_58362b71.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "市場；交易場所，通常指商品或服務的買賣場所。",
+    "en_def": "A marketplace is a location or platform where goods and services are bought and sold.",
+    "example": "The online marketplace allows users to buy and sell products easily."
+  },
+  "sentences_removed": 0
+}

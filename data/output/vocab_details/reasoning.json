@@ -1,0 +1,23 @@
+{
+  "lemma": "reasoning",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dognition’s test measures a dog’s intellect in several aspects—from empathy to memory to reasoning skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/reasoning_ex_0_87b6343f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "推理或思考的過程，通常用於解釋或理解事物的原因或邏輯。",
+    "en_def": "The process of thinking about something in a logical way in order to form a conclusion or judgment.",
+    "example": "Her reasoning for choosing that option was based on careful analysis of the data."
+  },
+  "sentences_removed": 0
+}

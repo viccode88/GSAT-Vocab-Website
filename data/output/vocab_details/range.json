@@ -1,0 +1,65 @@
+{
+  "lemma": "range",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They include a range of bacteria, fungi, and small animals that break down nature’s wastes into ever smaller pieces until all the chemicals are released into the air, the soil, and the water, making them available to other living things.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/range_ex_0_e69968d7.mp3"
+      },
+      {
+        "text": "There would only be a vast mountain range along the southern coast of China.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/range_ex_1_79ee2120.mp3"
+      },
+      {
+        "text": "The animal’s longing look toward the food will be captured by the camera, but the treat won’t appear in the picture because it’s out of the camera’s range.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/range_ex_2_7b33858b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "And 38 , Grants Pass has a lot of places to eat, ranging from a low-calorie dessert place to lovely restaurants, some of which o f f e r g o o d f o o d a n d g o r g e o u s v i e w s . 39 you can see, Grants Pass offers a lot to do in the summer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides, soybeans can be fed to a variety of other animals ranging from livestock to silk worms.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Just as humans have a wide range of intelligences, so do dogs.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly “earworm.”",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But some mountain ranges of South America, Africa, and Indonesia are also 26 glaciers and ice sheets.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "範圍；幅度",
+    "en_def": "The extent or scope of something.",
+    "example": "The temperature range for this plant is between 60 and 75 degrees Fahrenheit."
+  },
+  "sentences_removed": 1
+}

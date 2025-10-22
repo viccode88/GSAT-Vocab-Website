@@ -1,0 +1,23 @@
+{
+  "lemma": "shocking",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The shocking pictures include images of smoke-damaged lungs and teeth, with reminders in large print that smokers die younger.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/shocking_ex_0_cf0ba09f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人震驚的，令人驚訝的",
+    "en_def": "Causing a strong emotional reaction, often due to something unexpected or disturbing.",
+    "example": "The news of the accident was shocking to everyone in the community."
+  },
+  "sentences_removed": 0
+}

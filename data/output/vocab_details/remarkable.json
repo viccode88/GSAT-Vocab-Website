@@ -1,0 +1,33 @@
+{
+  "lemma": "remarkable",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/remarkable_ex_0_81b0003b.mp3"
+      },
+      {
+        "text": "Simply removing the jingle of telephones and replacing them with the pleasant sounds of birds has had a remarkable effect on everyone.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/remarkable_ex_1_c539bc24.mp3"
+      },
+      {
+        "text": "During the process of evolution, man has shown remarkable ability to to the environment.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/remarkable_ex_2_b7da37be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "引人注目的；非凡的",
+    "en_def": "Worthy of attention; extraordinary.",
+    "example": "Her remarkable talent for painting impressed everyone at the gallery."
+  },
+  "sentences_removed": 0
+}

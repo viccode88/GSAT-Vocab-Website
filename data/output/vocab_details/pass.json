@@ -1,0 +1,131 @@
+{
+  "lemma": "pass",
+  "count": 27,
+  "pos_dist": {
+    "VERB": 22,
+    "PROPN": 4,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/pass_ex_0_cd94ff57.mp3"
+      },
+      {
+        "text": "Concerned about the poor people he saw wandering near his shop, he made cookies and passed them out free on the streets.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pass_ex_1_68a3e7ee.mp3"
+      },
+      {
+        "text": "We believe that with your intelligence and hard work, you will pass the exam without any difficulty.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pass_ex_2_7a785a36.mp3"
+      },
+      {
+        "text": "The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pass_ex_3_7fae8186.mp3"
+      },
+      {
+        "text": "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/pass_ex_4_16542b13.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To be qualified as “extra virgin,” the oil must also pass both an official test in a laboratory and a sensory evaluation by a trained tasting panel.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "34 those who prefer to stay in town, Grants Pass offers several nice hotels.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "(H) then John knew he had passed it.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They like to snort at the passing train.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And 38 , Grants Pass has a lot of places to eat, ranging from a low-calorie dessert place to lovely restaurants, some of which o f f e r g o o d f o o d a n d g o r g e o u s v i e w s . 39 you can see, Grants Pass offers a lot to do in the summer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Generally speaking, our biological clock is slightly disturbed if we just move into the next time zone, but jet lag becomes a problem once we have passed through three or four time zones.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The importance of passing on the traditional culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This poses special problems for childbearing women, who pass dioxin to an unborn baby or to a breastfeeding baby.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They would carry their supplies in backpacks each weighing up to fifty pounds; it usually took at least 40 trips to get everything to the top and over the pass.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If 70 percent of 8-year-olds could pass a particular test, then 29 on the test represented an 8-year-old’s level of intelligence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Storytelling was a (64) of passing on family history, of giving meaning to experience, of understanding (65) happens in people’s lives and of passing that (66) on.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It was discovered on the Chilkoot Pass, the famous trail used by the people seeking gold in Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So, an 8-year-old who passes the 10-year-old’s test would have an IQ of 10/8 times 100, or 125.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "the passing shoppers to visit his shop and buy the freshly baked bread.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "On ___(31)___, Amir and the donkey passed a stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "通過；傳遞；放行",
+    "en_def": "To move past or through something; to allow to proceed.",
+    "example": "Please pass the salt."
+  },
+  "sentences_removed": 3
+}

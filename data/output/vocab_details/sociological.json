@@ -1,0 +1,23 @@
+{
+  "lemma": "sociological",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sociological_ex_0_a971b82c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "社會學的；與社會學相關的",
+    "en_def": "Relating to the study of society, social institutions, and social relationships.",
+    "example": "The sociological perspective helps us understand the impact of social structures on individual behavior."
+  },
+  "sentences_removed": 0
+}

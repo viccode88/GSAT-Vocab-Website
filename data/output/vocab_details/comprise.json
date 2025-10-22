@@ -1,0 +1,17 @@
+{
+  "lemma": "comprise",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "包含，組成",
+    "en_def": "To consist of; to be made up of.",
+    "example": "The committee comprises five members."
+  },
+  "sentences_removed": 1
+}

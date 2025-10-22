@@ -1,0 +1,33 @@
+{
+  "lemma": "discipline",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "H…discipline and a good plan.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/discipline_ex_0_4087e312.mp3"
+      },
+      {
+        "text": "“Judo helped me a small boat that held 20 people and set sail into the by giving me serenity, discipline, commitment— deep waters of the Aegean Sea.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/discipline_ex_1_cd652a0c.mp3"
+      },
+      {
+        "text": "Research also suggests that firstborn children generally become more conservative than other children because they receive most of the parental discipline.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/discipline_ex_2_65079bd5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "紀律；訓練或控制行為的方式",
+    "en_def": "A system of rules and regulations that governs behavior; training to improve skills or behavior.",
+    "example": "She showed great discipline in her studies, always completing her assignments on time."
+  },
+  "sentences_removed": 0
+}

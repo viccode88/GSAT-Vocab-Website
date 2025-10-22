@@ -1,0 +1,38 @@
+{
+  "lemma": "entirely",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/entirely_ex_0_0d82e19b.mp3"
+      },
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/entirely_ex_1_6255986e.mp3"
+      },
+      {
+        "text": "None of them, however, has been proven to be entirely true.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/entirely_ex_2_c30d47c2.mp3"
+      },
+      {
+        "text": "The Maasai are a semi-nomadic group in Kenya and northern Tanzania, wandering in bands and living almost entirely on the meat, blood, and milk of their herds.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/entirely_ex_3_a5aa0ad7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "完全地；徹底地",
+    "en_def": "Completely; fully; without any part left out.",
+    "example": "She was entirely satisfied with the results."
+  },
+  "sentences_removed": 0
+}

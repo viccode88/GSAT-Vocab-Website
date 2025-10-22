@@ -1,0 +1,23 @@
+{
+  "lemma": "gamma",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gamma_ex_0_81593f0b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伽瑪，希臘字母的第三個字母，常用於數學和科學中表示特定的變量或常數。",
+    "en_def": "Gamma, the third letter of the Greek alphabet, often used in mathematics and science to represent specific variables or constants.",
+    "example": "In physics, gamma rays are a form of electromagnetic radiation."
+  },
+  "sentences_removed": 0
+}

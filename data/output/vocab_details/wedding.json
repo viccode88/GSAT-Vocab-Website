@@ -1,0 +1,43 @@
+{
+  "lemma": "wedding",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The young couple decided to ______ their wedding until all the details were well taken care of.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wedding_ex_0_a8ceed03.mp3"
+      },
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/wedding_ex_1_6afd3e65.mp3"
+      },
+      {
+        "text": "Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wedding_ex_2_95a96cbc.mp3"
+      },
+      {
+        "text": "Our personal celebrations, 22 weddings, promotions, graduations, and anniversaries, are 23 linked with drinking.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wedding_ex_3_c635cda6.mp3"
+      },
+      {
+        "text": "For example, in a wedding banquet it is common to see a pair of ice-sculpted swans that represent the union of the new couple. 49.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/wedding_ex_4_017e7e03.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "婚禮；結婚的儀式和慶祝活動。",
+    "en_def": "A ceremony in which two people are united in marriage.",
+    "example": "They planned a beautiful wedding in the garden."
+  },
+  "sentences_removed": 0
+}

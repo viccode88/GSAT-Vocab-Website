@@ -1,0 +1,23 @@
+{
+  "lemma": "accuse",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Accused of neglecting this part of our education, my father still instituted a summer school for my brother and me.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accuse_ex_0_cf012e98.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指控某人犯有罪行或不當行為。",
+    "en_def": "To charge someone with a fault or offense.",
+    "example": "She decided to accuse him of stealing her book."
+  },
+  "sentences_removed": 0
+}

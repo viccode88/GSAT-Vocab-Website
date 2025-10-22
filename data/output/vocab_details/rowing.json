@@ -1,0 +1,17 @@
+{
+  "lemma": "rowing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "划船的運動或活動，通常使用槳推動船隻前進。",
+    "en_def": "The sport or activity of propelling a boat forward using oars.",
+    "example": "She enjoys rowing on the lake every weekend."
+  },
+  "sentences_removed": 1
+}

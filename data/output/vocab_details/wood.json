@@ -1,0 +1,99 @@
+{
+  "lemma": "wood",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As beautiful as they are, people here chop down capirana trees for their wood.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wood_ex_0_6abd77d1.mp3"
+      },
+      {
+        "text": "She cut a plank of wood into two pieces, each about two feet wide and one foot long.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/wood_ex_1_19187435.mp3"
+      },
+      {
+        "text": "The first printing was done from wood blocks one letter at a time by hand.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/wood_ex_2_955ad89a.mp3"
+      },
+      {
+        "text": "Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/wood_ex_3_05baacd8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why is the new tower made of wood? (A)",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The first English book printed in movable type was (A) done from wood blocks one letter at a time.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, the use of movable type was considered as a \"great step forward\" because (A) it did not need a lot of wood.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The old iron Eiffel Tower needs to be re-built with wood.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 30 their productivity.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "木材，樹木的硬質部分，通常用於建築、製作家具等。",
+    "en_def": "The hard substance that makes up the trunk and branches of a tree, often used for construction and making furniture.",
+    "example": "The table is made of oak wood."
+  },
+  "sentences_removed": 1
+}

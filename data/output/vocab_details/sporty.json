@@ -1,0 +1,23 @@
+{
+  "lemma": "sporty",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sporty_ex_0_5b54d4cb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "運動的；喜愛運動的，通常指身體健康或穿著運動風格的。",
+    "en_def": "Having a strong interest in sports or physical activities; characterized by an athletic appearance or style.",
+    "example": "She wore a sporty outfit to the gym."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "suppose",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But as the magic fades and daily life __(33)__, it happens that men, forgetting that men and women are supposed to be different, continue to expect women to think and react the way men do; women, __(34)__, expect men to feel and behave the way women do.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/suppose_ex_0_33c4ac4f.mp3"
+      },
+      {
+        "text": "Swappers are supposed to make sure their home is in order before they depart, but one person’s idea of “clean” may be more forgiving than another’s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suppose_ex_1_8d79461d.mp3"
+      },
+      {
+        "text": "His flight was supposed to last only 15 minutes, so there was no provision made for him to relieve himself in the capsule.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/suppose_ex_2_d3a1f4bc.mp3"
+      },
+      {
+        "text": "Isn’t it supposed to be a healthy choice? (F) Linda I liked it fine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/suppose_ex_3_4150e8a4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "假設；推測",
+    "en_def": "To assume something to be true for the sake of argument or investigation.",
+    "example": "I suppose we should leave early to avoid traffic."
+  },
+  "sentences_removed": 1
+}

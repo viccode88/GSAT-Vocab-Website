@@ -1,0 +1,23 @@
+{
+  "lemma": "pus",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Pus will build up in the center of the stye, causing a yellowish spot.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pus_ex_0_c9c5d166.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "膿，通常是由感染引起的液體，含有死去的白血球、細菌和組織碎片。",
+    "en_def": "A thick fluid produced in infected tissue, consisting of dead white blood cells, bacteria, and tissue debris.",
+    "example": "The doctor drained the pus from the infected wound."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "editor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He is an editor of Fashion Wire Daily.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/editor_ex_0_1bc08e8d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "編輯者；負責編輯和修改文本的人。",
+    "en_def": "A person who prepares written material for publication by organizing, revising, and correcting it.",
+    "example": "The editor reviewed the manuscript before it was sent to print."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cruelly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, when he was cruelly abused for not They saved everyone aboard.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cruelly_ex_0_7bc17c87.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "殘酷地；無情地",
+    "en_def": "In a way that causes pain or suffering; harshly.",
+    "example": "She cruelly laughed at his mistakes."
+  },
+  "sentences_removed": 0
+}

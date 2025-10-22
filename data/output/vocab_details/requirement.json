@@ -1,0 +1,33 @@
+{
+  "lemma": "requirement",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When an American lady wants to enter Taiwan for a one-week sight-seeing trip, one of the requirements is (A) to obtain a landing-visa at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/requirement_ex_0_7d89b8bc.mp3"
+      },
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/requirement_ex_1_79b8f884.mp3"
+      },
+      {
+        "text": "Requirements for a 14-day non-visa entry are: passport good for at least six months, confirmed onward ticket within 14 days, no violation of law recorded.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/requirement_ex_2_4fcf94e5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "需求；必要條件",
+    "en_def": "A thing that is needed or wanted.",
+    "example": "Meeting the requirement is essential for passing the course."
+  },
+  "sentences_removed": 0
+}

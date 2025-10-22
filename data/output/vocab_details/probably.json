@@ -1,0 +1,119 @@
+{
+  "lemma": "probably",
+  "count": 23,
+  "pos_dist": {
+    "ADV": 23
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/probably_ex_0_1c09b41a.mp3"
+      },
+      {
+        "text": "I will only be away for a week ______-- probably only four or five days.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/probably_ex_1_a9ea361b.mp3"
+      },
+      {
+        "text": "A lighter and smaller car probably wouldn't have gone through the fence, its remaining energy would have been much less, and this would have reduced the chances of serious injury or death.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/probably_ex_2_878bd8f7.mp3"
+      },
+      {
+        "text": "It probably originated in the vicinity of China.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/probably_ex_3_beb30fd3.mp3"
+      },
+      {
+        "text": "Because so many people continue to drink the many varieties of tea, it will probably continue as the world’s most popular drink.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/probably_ex_4_b34fc509.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Where is the monkey house most probably located? 3.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Although nowadays it is successful, in the ancient world this approach probably did not cure many patients.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "I will probably continue to be my academic self.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Of his many achievements, probably the least well- known are his accomplishments in music.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "England was probably the first country in Europe 17 ordinary people used umbrellas 18 the rain.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "So the stunt industry is probably in no immediate danger of dying off.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "To find an expert, who would recover the lost information for you, is probably the easiest solution.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following will probably NOT be found in the performance of Capoeira? (A) Singing with drums.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The author probably got wounded in wars or accidents.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Probably the best known for the practice is the large brownish-red Amazon ant.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "(25) , they are probably the most loved of people.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Most people probably don’t feel sympathy for these endangered creatures, but they do need protecting.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If we 30 surrounded by an unending abundance of diamonds, we probably wouldn’t value them very much.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It can be inferred from the passage that Howard will probably gain his weight back again.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "These 17 are probably the beginning of an eye stye.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "大概，可能，或許",
+    "en_def": "Used to indicate that something is likely to happen or be true.",
+    "example": "She will probably arrive by noon."
+  },
+  "sentences_removed": 3
+}

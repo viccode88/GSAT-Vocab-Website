@@ -1,0 +1,33 @@
+{
+  "lemma": "association",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They use associations and intuition to learn.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/association_ex_0_7dfc3933.mp3"
+      },
+      {
+        "text": "The association of particular patterns with individual families can be traced back hundreds of years.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/association_ex_1_878b96ab.mp3"
+      },
+      {
+        "text": "Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/association_ex_2_0c017882.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聯想；協會；社團",
+    "en_def": "A connection or relationship between people or things, or a group of people organized for a common purpose.",
+    "example": "The association held a meeting to discuss community projects."
+  },
+  "sentences_removed": 0
+}

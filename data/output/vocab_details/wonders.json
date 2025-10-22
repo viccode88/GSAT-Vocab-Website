@@ -1,0 +1,23 @@
+{
+  "lemma": "wonders",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/wonders_ex_0_5dfba093.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "驚奇；奇觀；奇妙的事物",
+    "en_def": "A feeling of amazement and admiration, often caused by something beautiful, remarkable, or unfamiliar.",
+    "example": "The wonders of nature can leave us speechless."
+  },
+  "sentences_removed": 0
+}

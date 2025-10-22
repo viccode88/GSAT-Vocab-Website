@@ -1,0 +1,23 @@
+{
+  "lemma": "handling",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/handling_ex_0_b8b54b8b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "處理；操作",
+    "en_def": "The act of managing or dealing with something.",
+    "example": "The handling of the situation required careful consideration."
+  },
+  "sentences_removed": 0
+}

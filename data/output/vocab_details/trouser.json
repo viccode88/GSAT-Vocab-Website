@@ -1,0 +1,23 @@
+{
+  "lemma": "trouser",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He saw a man with a hole in the leg of his trousers and 29 realized what Californians 30 for the rough work they were doing—good, strong trousers! 21.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/trouser_ex_0_041a15e1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種覆蓋下半身的衣物，通常有兩條腿的設計。",
+    "en_def": "An article of clothing that covers the lower body, typically with two legs.",
+    "example": "He wore a pair of blue trousers to the meeting."
+  },
+  "sentences_removed": 0
+}

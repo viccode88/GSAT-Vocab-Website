@@ -1,0 +1,33 @@
+{
+  "lemma": "bathroom",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Also, you may have to share common facilities (such as bathrooms) with other guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bathroom_ex_0_60c374a4.mp3"
+      },
+      {
+        "text": "Many other five-year-olds had problems reaching the bathroom sink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/bathroom_ex_1_614e370f.mp3"
+      },
+      {
+        "text": "However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/bathroom_ex_2_1bfcae3e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "浴室；洗手間",
+    "en_def": "A room containing a toilet and sink, and typically a bathtub or shower.",
+    "example": "I need to use the bathroom before we leave."
+  },
+  "sentences_removed": 2
+}

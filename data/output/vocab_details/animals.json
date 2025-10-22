@@ -1,0 +1,17 @@
+{
+  "lemma": "animals",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "動物的總稱，指所有非植物的生物，通常具有感知能力和運動能力。",
+    "en_def": "Living organisms that are typically characterized by voluntary movement, sensory perception, and the ability to consume organic material.",
+    "example": "The zoo has many different animals, including lions, elephants, and monkeys."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "dread",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Anne dreaded giving a speech before three hundred people; even thinking about it made her ______.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/dread_ex_0_49557c06.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "恐懼；害怕即將發生的事情",
+    "en_def": "A strong feeling of fear or anxiety about something that may happen.",
+    "example": "She felt a sense of dread as the storm approached."
+  },
+  "sentences_removed": 0
+}

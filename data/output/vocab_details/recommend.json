@@ -1,0 +1,64 @@
+{
+  "lemma": "recommend",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They usually do not meet the standard of exercise recommended by WHO.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/recommend_ex_0_eb3635bb.mp3"
+      },
+      {
+        "text": "If children really love candy, dentists recommend that they eat chocolate instead.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/recommend_ex_1_ad5f4284.mp3"
+      },
+      {
+        "text": "It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/recommend_ex_2_9c1d26c0.mp3"
+      },
+      {
+        "text": "Exchange sites recommend that swappers discuss such matters ahead of time.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recommend_ex_3_b8934ff1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT recommended for clothing by Jay McCarroll? (A) Polyester.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "What is recommended in the passage to deal with theft and damage concerns? (A) One can file a lawsuit in court.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO).",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is highly recommended for those who plan to go to graduate school.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "建議；推薦某人或某事物以供考慮或採用。",
+    "en_def": "To suggest or endorse someone or something for consideration or use.",
+    "example": "I recommend trying the new restaurant downtown."
+  },
+  "sentences_removed": 0
+}

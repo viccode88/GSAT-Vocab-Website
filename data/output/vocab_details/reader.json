@@ -1,0 +1,54 @@
+{
+  "lemma": "reader",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is no death; only a change of worlds—the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/reader_ex_0_a51700a1.mp3"
+      },
+      {
+        "text": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/reader_ex_1_2dde4d8d.mp3"
+      },
+      {
+        "text": "A good reader can often figure out what new words mean by using .",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reader_ex_2_cbaaade5.mp3"
+      },
+      {
+        "text": "To inform the reader how to reduce stress.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/reader_ex_3_83c2e5dd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of _____ and his knowledge of trivial facts.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major message the author is trying to convey to readers? (A) All people, especially those working in the hospitals, should reduce the use of plastics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes authors write about these things to entertain readers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "讀者；閱讀者",
+    "en_def": "A person who reads or who is reading.",
+    "example": "The reader enjoyed the novel from start to finish."
+  },
+  "sentences_removed": 0
+}

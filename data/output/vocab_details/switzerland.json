@@ -1,0 +1,23 @@
+{
+  "lemma": "switzerland",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Switzerland, there is a saying that every good Swiss citizen has one in his or her pocket.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/switzerland_ex_0_9eb3b1b6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瑞士，位於歐洲中部的國家，以其美麗的山脈、銀行業和中立政策聞名。",
+    "en_def": "Switzerland, a landlocked country in Central Europe known for its beautiful mountains, banking industry, and policy of neutrality.",
+    "example": "I dream of visiting Switzerland to see the Alps and enjoy the chocolate."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "magician",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 6,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was in the 19th century that the magician Robert Houdin came along and changed people’s views and attitudes about magic.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magician_ex_0_ab3d8ef1.mp3"
+      },
+      {
+        "text": "Today magicians try hard to find new ways to show their practiced skills.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magician_ex_1_c0f8d8e3.mp3"
+      },
+      {
+        "text": "The “Cups and Balls” trick which he was particularly good at is still performed by magicians all over the world today.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magician_ex_2_a451018f.mp3"
+      },
+      {
+        "text": "Other times, a magician may make you a magic charm, or say a spell, to cure you.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magician_ex_3_bccd95b8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It was also because of Robert Houdin that many magicians were able to add Dr. or MD to their names.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for the passage? (A) Magical Tricks (B) A Great Magician (C) Magic as Entertainment (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A magician named Dedi of Dedsnefu was reported to have performed for the pharaoh, or the king.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "施展魔法或幻術的人。",
+    "en_def": "A person who performs magic tricks and illusions.",
+    "example": "The magician amazed the audience with his incredible tricks."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "fiberglass",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In what order did the following protective hats appear? a. fiberglass hats b. hats with see-through shields c. hats with canvas and leather d. hats with tar over them (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fiberglass_ex_0_3cb115a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "玻璃纖維，一種由細長的玻璃纖維組成的材料，常用於增強塑料和其他材料的強度。",
+    "en_def": "Fiberglass is a material made from fine strands of glass, commonly used to reinforce plastics and other materials.",
+    "example": "The boat's hull is made of fiberglass, making it both lightweight and durable."
+  },
+  "sentences_removed": 0
+}

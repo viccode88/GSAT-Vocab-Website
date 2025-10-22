@@ -1,0 +1,23 @@
+{
+  "lemma": "quail",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Small birds such as baby quails are fair game to the expanding colony.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/quail_ex_0_ae0015b6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鵪鶉，一種小型的野禽，通常用於狩獵或作為食物。",
+    "en_def": "A small game bird often hunted for sport or food.",
+    "example": "We spotted a quail hiding in the bushes during our hike."
+  },
+  "sentences_removed": 0
+}

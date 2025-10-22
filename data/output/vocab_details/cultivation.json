@@ -1,0 +1,33 @@
+{
+  "lemma": "cultivation",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in 1834, tea cultivation began in India and spread to Sri Lanka, Thailand, Burma, and other areas of Southeast Asia.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/cultivation_ex_0_c5b1e94a.mp3"
+      },
+      {
+        "text": "Java developed tea cultivation earlier than India. (C) Tea plants can grow for only a short period of time.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/cultivation_ex_1_57d8f498.mp3"
+      },
+      {
+        "text": "Tree products have been an important part of diets for thousands of years, from early humans 26 fruits and nuts to the first cultivation of important trees, such as mango and apple.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/cultivation_ex_2_53228646.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "耕作或培育植物、作物或思想的過程。",
+    "en_def": "The process of growing plants or crops, or the development of a particular skill or quality.",
+    "example": "The farmer focused on the cultivation of organic vegetables."
+  },
+  "sentences_removed": 0
+}

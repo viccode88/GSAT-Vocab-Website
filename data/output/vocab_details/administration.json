@@ -1,0 +1,23 @@
+{
+  "lemma": "administration",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The new vaccine was banned by the Food and Drug Administration due to its fatal side effects.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/administration_ex_0_e3d22789.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "管理或執行組織、機構或政府的過程或活動。",
+    "en_def": "The process or activity of organizing and managing the affairs of a business, institution, or government.",
+    "example": "The administration of the school implemented new policies to improve student performance."
+  },
+  "sentences_removed": 0
+}

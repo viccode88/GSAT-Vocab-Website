@@ -1,0 +1,23 @@
+{
+  "lemma": "burnett",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to psychologist Dean Burnett, people feel down in January 29 post-holiday discontent, and the Blue Monday claim makes it seem like there are scientific reasons for this.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/burnett_ex_0_7f82da7a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伯內特，一個常見的姓氏，或指某些特定的人物或品牌。",
+    "en_def": "Burnett is a common surname, or it may refer to specific individuals or brands.",
+    "example": "Burnett is known for his contributions to literature."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "consistently",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yet, it has consistently yielded many of the world’s best distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/consistently_ex_0_95dc55c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "始終如一地；一貫地",
+    "en_def": "In a manner that is steady and unchanging over time.",
+    "example": "She consistently performs well in her exams."
+  },
+  "sentences_removed": 0
+}

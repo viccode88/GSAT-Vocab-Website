@@ -1,0 +1,479 @@
+{
+  "lemma": "true",
+  "count": 93,
+  "pos_dist": {
+    "ADJ": 93
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These and thousands of other features point to a blood relationship in the truest sense of the word.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/true_ex_0_3be8caeb.mp3"
+      },
+      {
+        "text": "Which of the following statements is TRUE?",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/true_ex_1_f0a332a3.mp3"
+      },
+      {
+        "text": "The story about Hou-I shooting down nine suns is a well-known Chinese _____, but it may not be a true historical event.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/true_ex_2_1c3db983.mp3"
+      },
+      {
+        "text": "If this were true, how could boys communicate with their mothers?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/true_ex_3_364273dc.mp3"
+      },
+      {
+        "text": "None of them, however, has been proven to be entirely true.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/true_ex_4_c30d47c2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true about howler monkeys? (A) They howl most often at noon.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about extra virgin olive oil?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the passage? (A) Taiwanese teens experience more stress than American teens.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Wesla Whitfield’s physical disability?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Capoeira? (A) It was greatly influenced by modern dancing styles.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true according to the passage? (A) Rapid speech without mistakes is a reliable sign of intelligence.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about West Nile? (A) Its symptoms usually appear within two weeks.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is NOT true? (A)",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Willig was fined $250,000.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the article?",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT true? (A)",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about elephants and the tea gardens is true according to the passage? (A)",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the article, which of the following is TRUE about medicines for colds? (A) They can cure the common cold.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Taiwu Elementary School Folk Singers? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is NOT true about the White House? (A)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the color of angelfish? (A) Female angelfish are blue in color.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT TRUE about film cameras? (A)",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Mixing salt with water is not as easy as removing salt from seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Jay McCarroll?",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true regarding GABA in zebrafish? (A) Increasing GABA level facilitates neuron activities.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about how the glass armonica works? (A) Water has to be poured into the glass hemispheres. (B) Colored paint makes it sound better and last longer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about the prickly pear cactus is true? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the modern development of the flip-flop? (A) Modern flip-flops originated from Indian toe knob sandals.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is true about the Galápagos Islands? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Wetas are unpleasant to the eye.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the pulses of heat in the study?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the earliest travel document?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "King Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Cartier-Bresson’s career in photography?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the deer issue discussed in the passage? (A) RTRI’s new invention prompts deer to run away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about space junk?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Homer’s career?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about vodka production? (A) Vodka production in Russia started in the 15th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT true according to the passage? (A)",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Tofu is a rich protein source.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about use of the hoop in history?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about tall tales is NOT TRUE? (A) Tall tales are factual stories.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is true about Maggie? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Maasai clothing and beadwork?",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is most likely true about the poet? (A)",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Toni Morrison? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is TRUE? (A) Company workers started to dress down about twenty years ago.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Small living things like bacteria provide food for other living things.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Kamba and Maasai people? (A) Maasai people are a threat to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Slim-Fast?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE for bilingual people? (A) Those who spoke different languages used the same part of Wernicke’s area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true according to the passage? (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true about an earworm? (A) It is a creature living inside our ears.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true? (A) Unconventional proms have been organized since the 1960s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Actually, quite the opposite is true.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true? (A) High tea was served later in the day than afternoon tea in the nineteenth century.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about Morgan’s Wonderland? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Folk healers choose different herbs to cure diseases without any sound basis.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the earliest traders in Zanzibar?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Carnegie knew Hunter in person.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true, according to the passage? (A) Knight was injured in the explosion of his traffic light.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Bekoji?",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the Yellowstone National Park?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true? (A) Intimacy is limited to the sexual bond.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the process of sculpting ice?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Well, it may be true.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is true about fixing your eyes on a person when you first meet him/her? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is TRUE?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the practice of wearing a bindi today?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about how the Kiddie Stool works? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Different dogs display strengths in different intelligences.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true? (A) Magic began about 3,700 years ago.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about public television stations? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about the hard hat? (A) Global sales have doubled every ten years.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is true about Deborah Duffey? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about Velcro is true?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Cartier-Bresson’s approach to photography?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Jack’s Disk Doctor Service has only one standard fee.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements about fireflies is true? (A) All kinds of fireflies use the same signals.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is true of tannins? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about sea snakes? (A) Their salt glands can remove the salt in the seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Robot Redford was a talking machine. (B) Robot Redford walked to the stage by itself.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people. 41.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is TRUE according to the first example? (A) Nelson and Adam never liked each other.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is TRUE about tea preparation? (A) Black tea leaves need to be picked on a cloudy day.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements about foggers is true? (A)",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about V2V? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "真實的；符合事實的",
+    "en_def": "In accordance with fact or reality; genuine.",
+    "example": "It is true that honesty is the best policy."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "makeup",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These methods 40 from a simple step like makeup to a drastic one like surgery.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/makeup_ex_0_1620a84d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "化妝品，通常用於改善或改變面部外觀的產品。",
+    "en_def": "Cosmetics applied to the face to enhance or alter one's appearance.",
+    "example": "She applied her makeup carefully before the big event."
+  },
+  "sentences_removed": 0
+}

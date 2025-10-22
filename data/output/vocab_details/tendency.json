@@ -1,0 +1,23 @@
+{
+  "lemma": "tendency",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tendency_ex_0_19f85939.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "傾向；趨勢",
+    "en_def": "An inclination or predisposition toward a particular characteristic or type of behavior.",
+    "example": "She has a tendency to procrastinate when faced with difficult tasks."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "homeexchanges",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But trading online is gaining popularity these days, with several sites in bills operation, including HomeExchanges.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/homeexchanges_ex_0_094f6778.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "家庭交換，指兩個家庭在一定期間內互相交換居住的房屋或公寓。",
+    "en_def": "Home exchanges refer to the practice of two families swapping their homes for a certain period.",
+    "example": "We decided to try home exchanges for our vacation to save on accommodation costs."
+  },
+  "sentences_removed": 0
+}

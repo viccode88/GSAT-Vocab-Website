@@ -1,0 +1,59 @@
+{
+  "lemma": "frequently",
+  "count": 8,
+  "pos_dist": {
+    "ADV": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One research report shows men and women use much the same grammar and vocabulary in English, although each sex uses certain kinds of words and structures more frequently than the other.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/frequently_ex_0_3a620b74.mp3"
+      },
+      {
+        "text": "Scientists agree that synesthesia has a genetic basis, because it frequently runs in families.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/frequently_ex_1_ea97f0ab.mp3"
+      },
+      {
+        "text": "He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/frequently_ex_2_23b9762f.mp3"
+      },
+      {
+        "text": "This process, known as “coral bleaching,” has happened more and more frequently in recent years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/frequently_ex_3_45a1a90b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What kind of words do men use more frequently than women? 5.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The name most frequently 34 the paperclip invention is Johan Vaaler, a Norwegian inventor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "RTRI researchers say late-night tests, at times when deer are most frequently seen by railway tracks, have resulted in a 45 percent reduction of deer sighting.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "經常地，頻繁地",
+    "en_def": "Occurring or done many times at short intervals.",
+    "example": "She frequently visits her grandmother on weekends."
+  },
+  "sentences_removed": 0
+}

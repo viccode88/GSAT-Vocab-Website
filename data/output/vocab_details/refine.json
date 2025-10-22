@@ -1,0 +1,23 @@
+{
+  "lemma": "refine",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/refine_ex_0_9c1d26c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "精煉；改善或使更完善的過程。",
+    "en_def": "To improve or make something better by making small changes.",
+    "example": "She decided to refine her presentation to make it more engaging."
+  },
+  "sentences_removed": 0
+}

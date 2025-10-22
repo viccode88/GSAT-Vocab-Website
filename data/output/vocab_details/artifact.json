@@ -1,0 +1,28 @@
+{
+  "lemma": "artifact",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/artifact_ex_0_d893d24e.mp3"
+      },
+      {
+        "text": "Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world’s leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/artifact_ex_1_1ea6a844.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "人類製作的物品，通常具有文化或歷史意義。",
+    "en_def": "An object made by a human being, typically an item of cultural or historical interest.",
+    "example": "The museum displayed an ancient artifact from the Roman Empire."
+  },
+  "sentences_removed": 0
+}

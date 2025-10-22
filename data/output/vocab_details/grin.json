@@ -1,0 +1,23 @@
+{
+  "lemma": "grin",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/grin_ex_0_25185a8f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "露齒而笑，通常表示高興或調皮的情緒。",
+    "en_def": "A broad smile that shows the teeth, often indicating happiness or playfulness.",
+    "example": "She couldn't help but grin when she saw the surprise party."
+  },
+  "sentences_removed": 0
+}

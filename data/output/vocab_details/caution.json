@@ -1,0 +1,29 @@
+{
+  "lemma": "caution",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Installed in Detroit in 1920, Potts’ three-color system allowed for the added signal “proceed with caution” to be displayed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/caution_ex_0_62222522.mp3"
+      },
+      {
+        "text": "They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/caution_ex_1_5025f15f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小心，謹慎的行為或態度。",
+    "en_def": "Care taken to avoid danger or mistakes.",
+    "example": "Please exercise caution when driving in bad weather."
+  },
+  "sentences_removed": 0
+}

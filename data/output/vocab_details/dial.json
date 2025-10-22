@@ -1,0 +1,34 @@
+{
+  "lemma": "dial",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The booth he built 25 only an old dial phone with a disconnected phone line.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/dial_ex_0_7a7f150d.mp3"
+      },
+      {
+        "text": "If the number 16 is in the same area as the number making the call, an area code usually doesn’t need to be dialed.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/dial_ex_1_9e5919f6.mp3"
+      },
+      {
+        "text": "The local number, 17 , must always be dialed in its entirety.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/dial_ex_2_610576f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "撥號盤；轉盤，通常用於調整或選擇設定。",
+    "en_def": "A circular device used for making a phone call or adjusting settings.",
+    "example": "She turned the dial to increase the volume."
+  },
+  "sentences_removed": 0
+}

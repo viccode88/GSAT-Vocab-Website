@@ -1,0 +1,43 @@
+{
+  "lemma": "soil",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They include a range of bacteria, fungi, and small animals that break down nature’s wastes into ever smaller pieces until all the chemicals are released into the air, the soil, and the water, making them available to other living things.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/soil_ex_0_e69968d7.mp3"
+      },
+      {
+        "text": "Red imported fire ants build mounds in any type of soil.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/soil_ex_1_4036c593.mp3"
+      },
+      {
+        "text": "The soil was softer for seeds to sprout.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/soil_ex_2_3bbfe91e.mp3"
+      },
+      {
+        "text": "Whenever I set foot on the soil of Rwanda, a country in east-central Africa, I feel as if I have entered paradise: green hills, red earth, sparkling rivers and mountain lakes.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/soil_ex_3_2e545510.mp3"
+      },
+      {
+        "text": "But he simply 34 them and kept working on the soil and planting trees there.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/soil_ex_4_dd7d676a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "土壤是地球表面的一層松散物質，包含礦物質、有機物、水和空氣，支持植物生長。",
+    "en_def": "Soil is a layer of loose material on the Earth's surface that contains minerals, organic matter, water, and air, supporting plant growth.",
+    "example": "The farmer tested the soil to ensure it was suitable for planting crops."
+  },
+  "sentences_removed": 0
+}

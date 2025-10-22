@@ -1,0 +1,28 @@
+{
+  "lemma": "organism",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The dead material and waste matter form the diet of a group of living organisms called decomposers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/organism_ex_0_f0fb9552.mp3"
+      },
+      {
+        "text": "Lastly, treat relationship as an organism.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/organism_ex_1_10f6f91d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生物體，指任何活的生物，包括動物、植物、真菌和微生物。",
+    "en_def": "An organism is any living entity, including animals, plants, fungi, and microorganisms.",
+    "example": "A tree is a large organism that provides oxygen and habitat for many species."
+  },
+  "sentences_removed": 0
+}

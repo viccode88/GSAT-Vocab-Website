@@ -1,0 +1,39 @@
+{
+  "lemma": "humble",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": [
+    {
+      "text": "Through - 3 - 91學年度 第 4 頁 英文考科 共 7 頁 the power of imagination, folk tales can turn humble people into heroes.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+      "source": "2019_108_01-108學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "They often concern very strong or clever people who come from humble backgrounds.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "At 57, Whitfield is small and pretty, witty and humble, persistent and philosophical.",
+      "source": "2012_101_02-101學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "But the knife had humble beginnings.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "謙遜的；不自誇的",
+    "en_def": "Having or showing a modest or low estimate of one's own importance.",
+    "example": "Despite his success, he remained humble and always credited his team."
+  }
+}

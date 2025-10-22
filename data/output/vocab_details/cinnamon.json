@@ -1,0 +1,17 @@
+{
+  "lemma": "cinnamon",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "肉桂是一種香料，來自肉桂樹的樹皮，常用於烹飪和烘焙中，具有甜美和辛辣的味道。",
+    "en_def": "Cinnamon is a spice obtained from the inner bark of trees belonging to the genus Cinnamomum, commonly used in cooking and baking for its sweet and spicy flavor.",
+    "example": "I like to sprinkle cinnamon on my oatmeal for extra flavor."
+  },
+  "sentences_removed": 1
+}

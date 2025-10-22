@@ -1,0 +1,45 @@
+name = "gsat-vocab-api"
+main = "worker-api.js"
+compatibility_date = "2024-01-01"
+
+# Workers 日志
+workers_dev = true
+
+# 自定義域名（部署後可在 Cloudflare Dashboard 配置）
+# routes = [
+#   { pattern = "api.vocab.example.com/*", zone_name = "example.com" }
+# ]
+
+# R2 Bucket 綁定
+[[r2_buckets]]
+binding = "VOCAB_DATA"
+bucket_name = "vocab-data"
+preview_bucket_name = "vocab-data"
+
+[[r2_buckets]]
+binding = "AUDIO_BUCKET"
+bucket_name = "vocab-audio"
+preview_bucket_name = "vocab-audio"
+
+# KV Namespace 綁定（用於緩存）
+# 需要先創建 KV namespace，然後將 ID 填入下方
+# 運行: wrangler kv:namespace create "VOCAB_CACHE"
+# 運行: wrangler kv:namespace create "VOCAB_CACHE" --preview
+[[kv_namespaces]]
+binding = "VOCAB_CACHE"
+id = "9bee7d3cad2f431b969c0fb827e71ea2"
+preview_id = "9bee7d3cad2f431b969c0fb827e71ea2"
+
+# 環境變量
+[vars]
+ENVIRONMENT = "production"
+
+# 開發環境配置
+[env.development]
+name = "gsat-vocab-api-dev"
+vars = { ENVIRONMENT = "development" }
+
+# 生產環境配置
+[env.production]
+name = "gsat-vocab-api"
+vars = { ENVIRONMENT = "production" }

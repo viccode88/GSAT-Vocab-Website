@@ -1,0 +1,17 @@
+{
+  "lemma": "lama",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "喇嘛：藏傳佛教中的宗教領袖或僧侶，通常指受過專業訓練的佛教教師。",
+    "en_def": "Lama: A religious leader or monk in Tibetan Buddhism, often referring to a trained teacher of Buddhism.",
+    "example": "The lama gave a profound teaching on compassion."
+  },
+  "sentences_removed": 1
+}

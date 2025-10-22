@@ -1,0 +1,23 @@
+{
+  "lemma": "unsustainable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, some people think these are “unsustainable models of development.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/unsustainable_ex_0_c2cc1917.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無法持續的，指無法長期維持或支持的狀態或行為。",
+    "en_def": "Not able to be maintained at a certain rate or level; not sustainable.",
+    "example": "The company's unsustainable practices led to environmental damage."
+  },
+  "sentences_removed": 0
+}

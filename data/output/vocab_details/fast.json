@@ -1,0 +1,101 @@
+{
+  "lemma": "fast",
+  "count": 18,
+  "pos_dist": {
+    "ADV": 9,
+    "ADJ": 7,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The foreigner was speaking so fast that nobody was able to ______",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/fast_ex_0_ed28196b.mp3"
+      },
+      {
+        "text": "Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fast_ex_1_0456b133.mp3"
+      },
+      {
+        "text": "If you are using fast film, you can take some good, quick shots of a pet by simply snapping a picture right after calling its name.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fast_ex_2_e45fdeb6.mp3"
+      },
+      {
+        "text": "The carver must work fast in a cold environment to avoid catching cold.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fast_ex_3_c4b71860.mp3"
+      },
+      {
+        "text": "The car was moving so fast that it went through the highway-dividing fence, resulting in a collision in which five people died.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fast_ex_4_cb738ad8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is intended for slim, fast people.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about Slim-Fast?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He has been _____ to all his friends about how cool it looks and how fast it runs.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The danger of a fast-moving train.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Elderly shoppers in this store are advised to take the elevator rather than the _____, which may move too fast for them to keep their balance.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "We react strongly—and suspiciously—to fast talk.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Intense, fast-moving fires raged across much of California last week.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Tim and Dom were too careless (B) nobody on the fishing ship saw them (C) the speed of the fishing ship was too fast (D) their rowboat was not strong enough 43.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "His recovery from the heart surgery was faster than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The fast growth of the tea gardens destroys the elephants’ food source.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "快速的，迅速的，移動或發生的速度很高。",
+    "en_def": "Moving or capable of moving at high speed; quick.",
+    "example": "She is a fast runner and often wins races."
+  },
+  "sentences_removed": 2
+}

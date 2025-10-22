@@ -1,0 +1,23 @@
+{
+  "lemma": "thankfully",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Z: I’m down to two, thankfully.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/thankfully_ex_0_6e82f724.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感謝地；幸運地",
+    "en_def": "In a manner expressing gratitude or relief.",
+    "example": "Thankfully, the rain stopped just in time for the picnic."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "jealous",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Jack was given the rare _____ of using the president’s office, which made others quite jealous.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/jealous_ex_0_25696aec.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "嫉妒的，對他人的成功或擁有感到不滿或不安。",
+    "en_def": "Feeling or showing envy of someone or their achievements and advantages.",
+    "example": "She felt jealous when she saw her friend receiving praise for the project."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,71 @@
+{
+  "lemma": "express",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 8,
+    "ADJ": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But it later turned out that it was exactly his courage to “rebel” and to express his own ideas that marks his films with distinct creativity.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/express_ex_0_9ef6c2dd.mp3"
+      },
+      {
+        "text": "His art thoughtfully expressed the voices of people suffering from war.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/express_ex_1_e67cd45b.mp3"
+      },
+      {
+        "text": "American presidents can express their individual style in how they decorate the house and in how they receive the public.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/express_ex_2_d259036f.mp3"
+      },
+      {
+        "text": "Therefore, instead of showing fear and running away, the elephants express their anger and become aggressive. 45.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/express_ex_3_b0a84310.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The book reads like a prayer, expressing specific beliefs about dying.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the author, the second example is intended to (A) express opinions about seashells.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In a radio interview, Dom expressed his disappointment and explained how the accident took place.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What 26. (A) express (B) wonder (C) select (D) ignore 27.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To be creative, you must dare __(16)__, and courageously express your own outlook and __(17)__",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do girls express negative feelings better than boys? (A) Girls are more emotional than boys.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "表達，表現，傳達（思想、感情等）。",
+    "en_def": "To convey a thought, feeling, or idea through words, gestures, or other means.",
+    "example": "She wanted to express her gratitude with a heartfelt letter."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "focus",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 11,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/focus_ex_0_d320b05a.mp3"
+      },
+      {
+        "text": "An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/focus_ex_1_24073c46.mp3"
+      },
+      {
+        "text": "24 thinking must focus on what is happening at that moment, and the mind and the body become one.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/focus_ex_2_b051231d.mp3"
+      },
+      {
+        "text": "Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/focus_ex_3_b675b0d9.mp3"
+      },
+      {
+        "text": "But when that happens I just remove myself so I can focus instead on what I can do.” 45.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/focus_ex_4_b931fc4f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Many students find it hard to focus on their studies when holidays are .",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could 29 outside of work.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It’s tempting, when breathing the thin air of Bekoji, to focus on the special conditions of the place.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Currently a senior in college, Deborah focuses on pursuing a degree in physical therapy.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Surprisingly, the audience listened with full focus and high spirits.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "集中注意力或精力於某事物上。",
+    "en_def": "The center of interest or activity; to concentrate attention or effort.",
+    "example": "She needs to focus on her studies to improve her grades."
+  },
+  "sentences_removed": 1
+}

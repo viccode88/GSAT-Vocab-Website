@@ -1,0 +1,43 @@
+{
+  "lemma": "surprised",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was not surprised, but I was ___(32)___ annoyed.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/surprised_ex_0_1bf07270.mp3"
+      },
+      {
+        "text": "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/surprised_ex_1_40fc87df.mp3"
+      },
+      {
+        "text": "They don’t look too revolutionary, but you’d be surprised __20__",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/surprised_ex_2_a5138b38.mp3"
+      },
+      {
+        "text": "Many of us were quite surprised.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/surprised_ex_3_ad3f87c5.mp3"
+      },
+      {
+        "text": "It didn’t taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/surprised_ex_4_bf635463.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到驚訝或意外的情緒。",
+    "en_def": "Feeling or showing surprise; unexpected.",
+    "example": "She was surprised to see her old friend at the party."
+  },
+  "sentences_removed": 0
+}

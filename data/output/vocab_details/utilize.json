@@ -1,0 +1,23 @@
+{
+  "lemma": "utilize",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/utilize_ex_0_b2d6b2c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "利用，運用",
+    "en_def": "To make practical and effective use of something.",
+    "example": "We need to utilize our resources more efficiently."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "resemble",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/resemble_ex_0_bd32af92.mp3"
+      },
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/resemble_ex_1_8703ca0a.mp3"
+      },
+      {
+        "text": "An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/resemble_ex_2_ca4158cf.mp3"
+      },
+      {
+        "text": "Phones resembling the wind phone have since been built around the world.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/resemble_ex_3_62f5c52f.mp3"
+      },
+      {
+        "text": "The innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/resemble_ex_4_93c887e3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "類似於；看起來像",
+    "en_def": "To have a similar appearance or qualities to someone or something.",
+    "example": "She resembles her mother in both looks and personality."
+  },
+  "sentences_removed": 0
+}

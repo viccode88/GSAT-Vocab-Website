@@ -1,0 +1,23 @@
+{
+  "lemma": "patty",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/patty_ex_0_cfaaf207.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓形的肉餅或素餅，通常用於漢堡或三明治中。",
+    "en_def": "A small, flat, round piece of ground meat or a vegetarian alternative, typically used in burgers or sandwiches.",
+    "example": "She ordered a cheeseburger with a beef patty."
+  },
+  "sentences_removed": 0
+}

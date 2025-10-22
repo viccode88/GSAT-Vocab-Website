@@ -1,0 +1,29 @@
+{
+  "lemma": "protest",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But that idea led to strong protests from numerous animal rights groups.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/protest_ex_0_3a7d0dfc.mp3"
+      },
+      {
+        "text": "In 1979, however, male names were also included because women protested against the original naming 34 for reasons of gender equality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/protest_ex_1_695248b5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "抗議，表達對某事的不滿或反對的行為。",
+    "en_def": "A statement or action expressing disapproval of or objection to something.",
+    "example": "The citizens organized a protest against the new law."
+  },
+  "sentences_removed": 0
+}

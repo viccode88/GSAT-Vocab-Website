@@ -1,0 +1,28 @@
+{
+  "lemma": "modest",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For many older Americans, the prom was a modest, home-grown affair in the school gymnasium.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/modest_ex_0_d38b04c6.mp3"
+      },
+      {
+        "text": "The prom has changed from a modest event to a glamorous party over the years. 47.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/modest_ex_1_0fd6368c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "謙虛的；不張揚的；適度的",
+    "en_def": "Having or showing a moderate or humble estimate of one's merits, importance, or abilities.",
+    "example": "She wore a modest dress to the party."
+  },
+  "sentences_removed": 0
+}

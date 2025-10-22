@@ -1,0 +1,38 @@
+{
+  "lemma": "plane",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/plane_ex_0_0456b133.mp3"
+      },
+      {
+        "text": "In the early days of aviation, plane windows 17 square in shape.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/plane_ex_1_986cfd12.mp3"
+      },
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/plane_ex_2_0d7d8441.mp3"
+      },
+      {
+        "text": "I had just arrived by plane and still had jetlag.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/plane_ex_3_0afdbf3b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於空中運輸的飛行器，通常有固定的翼和一個或多個引擎。",
+    "en_def": "A vehicle designed for air travel that has wings and one or more engines.",
+    "example": "The plane took off smoothly from the runway."
+  },
+  "sentences_removed": 0
+}

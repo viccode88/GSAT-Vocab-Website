@@ -1,0 +1,30 @@
+{
+  "lemma": "pod",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/pod_ex_0_7fd64a8e.mp3"
+      },
+      {
+        "text": "Pod hotels are also seen in Europe and North America, especially in big cities like New York, London, and Paris.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/pod_ex_1_db4a5910.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "豆莢；艙；一組相似的物體或生物",
+    "en_def": "A pod is a casing or shell that contains seeds or a group of similar items.",
+    "example": "The gardener harvested the peas from the pod."
+  },
+  "sentences_removed": 1
+}

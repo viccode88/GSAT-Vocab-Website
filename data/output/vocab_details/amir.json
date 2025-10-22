@@ -1,0 +1,49 @@
+{
+  "lemma": "amir",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amir tried to get to the market on the following days, but the donkey ___(34)___ the same trick and ruined the salt.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amir_ex_0_330325ce.mp3"
+      },
+      {
+        "text": "As a result, much of the salt melted in the water, ruining the salt for Amir but ___(33)___",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amir_ex_1_b2a5813f.mp3"
+      },
+      {
+        "text": "From then on, the donkey learned the lesson, and ___(40)___ carried Amir’s salt to the market without ruining it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amir_ex_2_be08131f.mp3"
+      },
+      {
+        "text": "On ___(31)___, Amir and the donkey passed a stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amir_ex_3_49adf785.mp3"
+      },
+      {
+        "text": "Amir was very much ___(35)___ by the donkey’s trick, but did not know what to do.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amir_ex_4_f8c03336.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The next day, Amir loaded the sacks ___(38)___ with salt but with sand.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "阿米爾，一個常見的男性名字，源於阿拉伯語，意為“王子”或“領袖”。",
+    "en_def": "Amir, a common male name of Arabic origin meaning 'prince' or 'leader'.",
+    "example": "Amir was chosen as the captain of the soccer team."
+  },
+  "sentences_removed": 1
+}

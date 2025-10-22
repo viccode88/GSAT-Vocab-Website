@@ -1,0 +1,38 @@
+{
+  "lemma": "impossible",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In fact, it is nearly impossible to release captive-bred animals.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/impossible_ex_0_c868115c.mp3"
+      },
+      {
+        "text": "Instead of punishing Willig, the city treated him as a hero who attempted the impossible and met the challenge. 34.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/impossible_ex_1_11a834ef.mp3"
+      },
+      {
+        "text": "It's next to impossible for me to finish the homework in three days.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/impossible_ex_2_63c9e4c7.mp3"
+      },
+      {
+        "text": "Sometimes it is impossible to deliver all the mail that arrives at the post office.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/impossible_ex_3_38bb0af8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不可能的，無法實現的。",
+    "en_def": "Not able to occur, exist, or be done.",
+    "example": "It seemed impossible to finish the project in just one week."
+  },
+  "sentences_removed": 0
+}

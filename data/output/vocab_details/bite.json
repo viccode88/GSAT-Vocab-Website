@@ -1,0 +1,33 @@
+{
+  "lemma": "bite",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many people who are troubled by skin rashes caused by bug bites use “foggers,” or “bug bombs,” to get rid of the annoying crawlers in their homes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bite_ex_0_a6bd4e03.mp3"
+      },
+      {
+        "text": "Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bite_ex_1_0b10a55e.mp3"
+      },
+      {
+        "text": "Does it really ? (A) bite (B) type (C) work (D) use 2.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bite_ex_2_5b5577d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "咬，指用牙齒抓住或切割某物。",
+    "en_def": "To use the teeth to cut into something.",
+    "example": "The dog will bite if it feels threatened."
+  },
+  "sentences_removed": 2
+}

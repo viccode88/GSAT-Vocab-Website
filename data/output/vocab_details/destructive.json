@@ -1,0 +1,23 @@
+{
+  "lemma": "destructive",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists are still trying to find out why whales have this self-destructive behavior.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/destructive_ex_0_0d6cde77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "破壞性的，能造成損害或毀壞的。",
+    "en_def": "Causing or capable of causing damage or destruction.",
+    "example": "The hurricane had a destructive impact on the coastal towns."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "conservation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/conservation_ex_0_d320b05a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "保護自然資源和生態系統的行為或政策。",
+    "en_def": "The act or policy of protecting natural resources and ecosystems.",
+    "example": "Conservation efforts are essential to preserve endangered species."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "software",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“A lot of young people don’t want to dress up for work,” says the owner of a software company, “so it’s hard to hire people if you have a conservative dress code.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/software_ex_0_2e2e80d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "軟體是指用於計算機系統的程序和數據，通常用於執行特定任務或功能。",
+    "en_def": "Software refers to the programs and data used by a computer system to perform specific tasks or functions.",
+    "example": "She installed new software on her laptop to improve its performance."
+  },
+  "sentences_removed": 0
+}

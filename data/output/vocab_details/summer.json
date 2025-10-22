@@ -1,0 +1,110 @@
+{
+  "lemma": "summer",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 18,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The number of athletes 28 in the Summer Paralympic Games has increased from 400 athletes from 23 countries in 1960 to 3,806 athletes from 136 countries in 2004.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/summer_ex_0_851d8972.mp3"
+      },
+      {
+        "text": "Accused of neglecting this part of our education, my father still instituted a summer school for my brother and me.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/summer_ex_1_cf012e98.mp3"
+      },
+      {
+        "text": "John: I remember when we went camping last summer.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/summer_ex_2_c28d8b20.mp3"
+      },
+      {
+        "text": "That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/summer_ex_3_203f0ccc.mp3"
+      },
+      {
+        "text": "They have remained popular due to their convenience, and are often worn with bathing suits or summer clothing.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/summer_ex_4_a7ac66d6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Early this past summer the three whales were pronounced fit enough to be returned to the Atlantic Ocean.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If we can ______ to, we will take a vacation abroad in the summer.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "And 38 , Grants Pass has a lot of places to eat, ranging from a low-calorie dessert place to lovely restaurants, some of which o f f e r g o o d f o o d a n d g o r g e o u s v i e w s . 39 you can see, Grants Pass offers a lot to do in the summer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "34 Originally dedicated to the deceased, the dances have now become a symbol of the summer festival themselves.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "the heat during the hot summer days.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Having saved enough money, Joy two trips for this summer vacation, one to France and the other to Australia.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following activities was NOT planned by the father for his children’s summer education? (A) Going to church.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Why was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The main reason for holding the summer school was .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "夏季，通常指一年中最熱的季節，介於春季和秋季之間。",
+    "en_def": "The warmest season of the year, occurring between spring and autumn.",
+    "example": "We plan to go to the beach every weekend this summer."
+  },
+  "sentences_removed": 1
+}

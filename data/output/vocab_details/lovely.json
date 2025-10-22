@@ -1,0 +1,38 @@
+{
+  "lemma": "lovely",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And 38 , Grants Pass has a lot of places to eat, ranging from a low-calorie dessert place to lovely restaurants, some of which o f f e r g o o d f o o d a n d g o r g e o u s v i e w s . 39 you can see, Grants Pass offers a lot to do in the summer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lovely_ex_0_eabd3d8c.mp3"
+      },
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/lovely_ex_1_d602ba35.mp3"
+      },
+      {
+        "text": "Jack: Oh, in a lovely valley, about three miles north of the National Park.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lovely_ex_2_e5d68104.mp3"
+      },
+      {
+        "text": "33 , there are lovely, clean campgrounds where campers can park their vehicles.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lovely_ex_3_a7926a8b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可愛的；令人愉快的",
+    "en_def": "Delightful or attractive in a way that brings pleasure.",
+    "example": "She wore a lovely dress to the party."
+  },
+  "sentences_removed": 0
+}

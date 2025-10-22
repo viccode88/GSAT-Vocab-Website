@@ -1,0 +1,49 @@
+{
+  "lemma": "fee",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The landing-visa fee is NT$1,500. 44.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fee_ex_0_1cbbba5c.mp3"
+      },
+      {
+        "text": "The annual fee is usually less than US$100.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fee_ex_1_33cb892a.mp3"
+      },
+      {
+        "text": "The fees are always the same, no matter how precious the data on the disk is.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fee_ex_2_bab8a951.mp3"
+      },
+      {
+        "text": "Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/fee_ex_3_326be906.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The products one can get by paying a fee to Dognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Jack’s Disk Doctor Service has only one standard fee.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "費用；收費",
+    "en_def": "A payment made in exchange for services or goods.",
+    "example": "The registration fee for the conference is $100."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "ben",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "B. Ben What gives humans the right to capture, confine, or breed other species?",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/ben_ex_0_aab76a7d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "本，指某物的根本或基礎，也可指某人的名字或身份。",
+    "en_def": "A term used to refer to a person's name or identity, or the fundamental aspect of something.",
+    "example": "Ben is my best friend."
+  },
+  "sentences_removed": 0
+}

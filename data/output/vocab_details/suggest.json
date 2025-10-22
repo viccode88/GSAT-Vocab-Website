@@ -1,0 +1,74 @@
+{
+  "lemma": "suggest",
+  "count": 12,
+  "pos_dist": {
+    "VERB": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For an easy and 36 alternative, nutritionists suggest that we pop our own popcorn.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suggest_ex_0_f7cb3280.mp3"
+      },
+      {
+        "text": "But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/suggest_ex_1_467795d0.mp3"
+      },
+      {
+        "text": "Mr. Brown suggested that Mary stay with the company, ________, because the company needed her.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/suggest_ex_2_cbe21fcb.mp3"
+      },
+      {
+        "text": "In 1931, members of the Rotary Clubs of Alberta and Montana suggested joining the two parks as a symbol of peace and friendship between the two countries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/suggest_ex_3_60564b02.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Now, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "This suggested that GABA plays an important role in the fish’s ability to regain their sight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The gods suggested that they hide it 23 in the earth or take it to the top of the highest mountain.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Other scientists suggest that plants, like animals, 13 resources—nutrients, water, space, and light.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Some studies suggest that the act of shaping our mouths into a smile (creating a “physical smile”) can help us see the brighter, funnier side of things.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Research also suggests that firstborn children generally become more conservative than other children because they receive most of the parental discipline.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "建議；提議某事物或行動。",
+    "en_def": "To propose a plan or idea for consideration.",
+    "example": "I suggest we meet at the café for lunch."
+  },
+  "sentences_removed": 1
+}

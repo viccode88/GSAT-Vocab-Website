@@ -1,0 +1,28 @@
+{
+  "lemma": "scottish",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They were once symbols for different Scottish families.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scottish_ex_0_f4c58de1.mp3"
+      },
+      {
+        "text": "To introduce a Scottish garment.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scottish_ex_1_d116d96d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蘇格蘭的；與蘇格蘭有關的",
+    "en_def": "Relating to Scotland, its people, or its culture.",
+    "example": "She wore a traditional Scottish kilt to the festival."
+  },
+  "sentences_removed": 0
+}

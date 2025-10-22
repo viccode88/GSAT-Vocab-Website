@@ -1,0 +1,17 @@
+{
+  "lemma": "fixture",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "固定裝置或設備，通常用於某個特定的地方或用途。",
+    "en_def": "A fixture is a piece of equipment or furniture that is fixed in place, often used for a specific purpose.",
+    "example": "The new light fixture in the dining room adds a modern touch to the decor."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "camp",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "John: I remember when we went camping last summer.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/camp_ex_0_c28d8b20.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "露營；營地",
+    "en_def": "A place where people stay temporarily in tents or other temporary shelters, often for recreation.",
+    "example": "We decided to camp by the lake for the weekend."
+  },
+  "sentences_removed": 1
+}

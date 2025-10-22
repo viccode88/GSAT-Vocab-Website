@@ -1,0 +1,34 @@
+{
+  "lemma": "husk",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/husk_ex_0_ea259e7a.mp3"
+      },
+      {
+        "text": "The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/husk_ex_1_b2d6b2c0.mp3"
+      },
+      {
+        "text": "The cactus’s thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/husk_ex_2_e71c9f77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "外殼或外皮，通常指穀物或種子的包覆部分。",
+    "en_def": "The outer shell or coating, usually referring to the covering of grains or seeds.",
+    "example": "After harvesting, the farmers removed the husk from the rice."
+  },
+  "sentences_removed": 0
+}

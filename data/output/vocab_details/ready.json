@@ -1,0 +1,33 @@
+{
+  "lemma": "ready",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And the healthy and fun snack is ready to serve.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ready_ex_0_6b065239.mp3"
+      },
+      {
+        "text": "It is predicted that driverless cars will be ready for sale within five years.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ready_ex_1_4777c7cf.mp3"
+      },
+      {
+        "text": "Mary: Are you ready to go?",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ready_ex_2_9e1c44fd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "準備好的，隨時可以使用或行動的。",
+    "en_def": "Prepared for use or action; in a state of readiness.",
+    "example": "She is ready to start her new job next week."
+  },
+  "sentences_removed": 1
+}

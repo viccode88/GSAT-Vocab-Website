@@ -1,0 +1,325 @@
+{
+  "lemma": "believe",
+  "count": 66,
+  "pos_dist": {
+    "VERB": 65,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I could hardly believe my eyes.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/believe_ex_0_a1e987d2.mp3"
+      },
+      {
+        "text": "It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/believe_ex_1_17ca55f8.mp3"
+      },
+      {
+        "text": "He believed in whatever Nasreddin said.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/believe_ex_2_efac0482.mp3"
+      },
+      {
+        "text": "More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/believe_ex_3_fd2ddf28.mp3"
+      },
+      {
+        "text": "“Well, you believed me when I told you that your pot had a baby, didn’t you?” 41.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/believe_ex_4_36567468.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following does the author believe?",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "They believed umbrellas were 14 for women.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Furthermore (D) Accordingly 17. (A) made believe (B) got along (C) turned out (D) felt like 18.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The boys were thrilled, for they could hardly believe that they were being paid to do something they 33 !",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Still, many animal rights activists believe the cost of confining animals outweighs the benefits.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "They believe that some learners use one half of their brains more than the other half.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Perhaps our worst mistake is believing that being thin equals being loved, being special, and being cherished.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The three were believed to be too young to survive on their own of returned to sea.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Even so, we continue to believe that next time it will be different.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some scientists believe that the color difference between the young and the old indicates their different social positions.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some scholars theorize that onions may have been used for the dead because it was believed that their strong scent would 40 the dead to breathe again.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Other researchers believe it was because onions were known for their special curative properties, which would be helpful in the afterlife.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Hindu beliefs, the color red is believed to bring good fortune to the married couple.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Other people began to make fun of these traditionalists, sending them on “fool’s errands” or trying to fool them into believing something false.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We want to believe in magic powers, good friends, and the power of good to overcome evil.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "I believed that when the weight disappeared, it would take old wounds, hurts, and rejections with it.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "These people believe that if they smoke “light” cigarettes with less nicotine, they will not get cancer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "(3) Aggressive, energetic, and willing to learn If you believe you have what it takes to develop this business, please call 2742-6996 C D Wanted: Reporters & Editors Southeastern Travel Services Qualifications: ﹪",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They also believed the secrets in their families would never be 39 .",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He could not believe his eyes and ears!",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For those who speak into the wind phone, 30 is always there: They believe that their messages will— through some unknown way—reach the deceased.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "26 , many people believe that bad weather can reduce productivity and efficiency.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "30 , they tend to believe criticism to be suggestion for improvement.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "We naively believe that somehow we are __(32)__ from the problems our parents had.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, some researchers believe that the 34 of dimples from parents to children takes only one gene.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The ancient Egyptians believed firmly in life 16 death.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We have (69) believe that storytelling is just for children.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The language center in the brain that is believed to control speech production is called (A) MRI.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many weight-conscious people also mistakenly believe that changing our bodies will fix everything.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "“I don’t believe God is after me,” he theorized.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is believed that this would be to the best interest of all people, __(25)__ teens who might be tempted to start smoking.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "We want to believe in fantastic creatures in imaginary lands.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In a study conducted by Levi Strauss and Company, 85 percent of employers said that they believe that casual dress improves employee morale.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "She believed that the _____ of flowers refreshed her mind.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But Brahma thought 24 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the survey, most Taiwanese believe that _________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many believe that the aliens are here to help us, while others hold that the aliens intend us __(39)__.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "He believed in the ability of nature to renew itself without the 38 of humans.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many people believe that __(31)__ from outer space have visited us for centuries.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some see it as a celebration related to the turn of the seasons from winter to spring; others, however, believe that it 16 the adoption of a new calendar.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This kind of medicine is believed to date from the 4th century BC.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "There is currently no reason to believe that plants experience pain, because they are devoid of central nervous systems and brains.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "He believes that, when language is first being programmed in young children, their brains may mix all languages into the same area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "We believe that with your intelligence and hard work, you will pass the exam without any difficulty.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Often they write about real or make-believe people, places, or events that may be funny, sad, or scary.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers believe that the elephants’ emotional reactions are due to their different interpretations of the smells and the sights.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "相信；認為某事是真實或正確的。",
+    "en_def": "To accept something as true or real; to have faith or confidence in something.",
+    "example": "I believe in the power of kindness."
+  },
+  "sentences_removed": 5
+}

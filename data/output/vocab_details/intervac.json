@@ -1,0 +1,28 @@
+{
+  "lemma": "intervac",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At least one group, Intervac, has been facilitating such an arrangement since 1953.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intervac_ex_0_c5f8af25.mp3"
+      },
+      {
+        "text": "A contrast between Intervac and HomeExchange. bills 50.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intervac_ex_1_cbe58830.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "互換住宿的計劃或系統，讓人們在不同地點的家中互相居住。",
+    "en_def": "A system or plan for exchanging accommodations, allowing people to stay in each other's homes in different locations.",
+    "example": "We decided to join an intervac program to experience living in another country."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "myrtlewood",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/myrtlewood_ex_0_88465202.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種常綠樹，屬於桃金孃科，主要生長在美國西部，木材質地堅硬，常用於製作家具和工藝品。",
+    "en_def": "A type of evergreen tree belonging to the myrtle family, primarily found in the western United States, known for its hard wood used in furniture and crafts.",
+    "example": "The artisan crafted a beautiful table from myrtlewood."
+  },
+  "sentences_removed": 0
+}

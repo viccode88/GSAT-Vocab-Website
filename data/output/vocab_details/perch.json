@@ -1,0 +1,23 @@
+{
+  "lemma": "perch",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/perch_ex_0_23588dc8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "棲息，停留在高處的地方，通常指鳥類或魚類。",
+    "en_def": "To rest or settle on a high place; also refers to a type of fish.",
+    "example": "The bird found a perch on the branch of the tree."
+  },
+  "sentences_removed": 0
+}

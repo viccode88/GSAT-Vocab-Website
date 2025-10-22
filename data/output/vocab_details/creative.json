@@ -1,0 +1,38 @@
+{
+  "lemma": "creative",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But Oddsson’s life was saved by a creative invention: transplanting codfish skins onto human bodies.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/creative_ex_0_fb712ef7.mp3"
+      },
+      {
+        "text": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/creative_ex_1_7b8289c0.mp3"
+      },
+      {
+        "text": "To be creative, you must dare __(16)__, and courageously express your own outlook and __(17)__",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/creative_ex_2_8c8023bc.mp3"
+      },
+      {
+        "text": "Which of the following is closest in meaning to the word “venture” in the second paragraph? (A) Creative measurement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/creative_ex_3_363ea396.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有創造力的，能夠產生新想法或作品的。",
+    "en_def": "Having the ability to create or invent something original.",
+    "example": "She has a creative approach to solving problems."
+  },
+  "sentences_removed": 0
+}

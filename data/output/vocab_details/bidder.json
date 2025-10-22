@@ -1,0 +1,28 @@
+{
+  "lemma": "bidder",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bidder_ex_0_cb5d5ef5.mp3"
+      },
+      {
+        "text": "A man learns their secret and threatens to sell the water to the highest bidder.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/bidder_ex_1_fb312c09.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "出價者；投標者",
+    "en_def": "A person or entity that offers a price for something, especially at an auction or in a competitive bidding process.",
+    "example": "The bidder raised their hand to place a higher offer during the auction."
+  },
+  "sentences_removed": 0
+}

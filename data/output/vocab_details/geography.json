@@ -1,0 +1,23 @@
+{
+  "lemma": "geography",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From space, astronauts study the geography, pollution, and weather patterns on Earth.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/geography_ex_0_58427a5c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地理學；研究地球及其特徵、居民和現象的科學。",
+    "en_def": "The science that studies the Earth's physical features, its inhabitants, and the phenomena that occur on it.",
+    "example": "She decided to major in geography because she loves studying different cultures and landscapes."
+  },
+  "sentences_removed": 0
+}

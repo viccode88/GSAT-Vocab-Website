@@ -1,0 +1,28 @@
+{
+  "lemma": "grandmother",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "My grandmother likes to surprise people.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/grandmother_ex_0_ce870a40.mp3"
+      },
+      {
+        "text": "Instead of a gift, Tim’s grandmother always _____",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/grandmother_ex_1_1466fea7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "祖母；外祖母",
+    "en_def": "The mother of one's father or mother.",
+    "example": "My grandmother makes the best cookies."
+  },
+  "sentences_removed": 0
+}

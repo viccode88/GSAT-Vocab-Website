@@ -1,0 +1,23 @@
+{
+  "lemma": "porker",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“My weight dropped to 48.3 from 54.4 kilograms, and my classmates won’t be able to call me ‘porker’ anymore,” Chang said happily.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/porker_ex_0_dbd7018b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "豬，特別是指肥豬或用於肉類生產的豬。",
+    "en_def": "A pig, especially one that is raised for meat production.",
+    "example": "The farmer decided to sell his best porker at the market."
+  },
+  "sentences_removed": 0
+}

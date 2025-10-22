@@ -1,0 +1,28 @@
+{
+  "lemma": "eleanor",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Where is Eleanor’s letter sent to? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/eleanor_ex_0_0cfe1fe9.mp3"
+      },
+      {
+        "text": "Sincerely yours, Eleanor Lightly Spokeswoman and Company Hair Stylist ABC Activity Insurance: Insure against overdoing it 41.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/eleanor_ex_1_d452ad0f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埃莉諾，一個女性名字，源自法語，常用於英語國家。",
+    "en_def": "Eleanor, a female given name of French origin, commonly used in English-speaking countries.",
+    "example": "Eleanor decided to pursue a career in medicine."
+  },
+  "sentences_removed": 0
+}

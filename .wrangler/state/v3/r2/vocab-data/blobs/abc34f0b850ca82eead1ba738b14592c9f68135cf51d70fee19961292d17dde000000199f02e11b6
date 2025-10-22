@@ -1,0 +1,29 @@
+{
+  "lemma": "sponsor",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": [
+    {
+      "text": "Picking up on teens' interest in computer games, Hilfiger sponsored a Nintendo competition and installed Nintendo terminals in his stores.",
+      "source": "2003_92_92學測_english",
+      "audio_file": ""
+    },
+    {
+      "text": "第貳部份：非選擇題 一、簡答題(10%) 說明：1.根據下面這則報導，回答下列問題。答案必須寫在「答案卷」上。 2.作答時要標明題號，答案請簡明扼要。每題2分，共10分。 The Tri Service General Hospital yesterday held a ceremony for 35 children who completed a hospital-sponsored weight-loss program during their summer vacation.",
+      "source": "2000_89_89年學測英文科",
+      "audio_file": ""
+    },
+    {
+      "text": "Beer companies often sponsor the sports events young people watch.",
+      "source": "1995_84_84年學測英文科",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "贊助者；支持者，通常提供資金或資源以支持某項活動或計劃。",
+    "en_def": "A person or organization that provides financial or other support for a project, event, or individual.",
+    "example": "The company decided to sponsor the local sports team to promote its brand."
+  }
+}

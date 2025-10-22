@@ -1,0 +1,70 @@
+{
+  "lemma": "cattle",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why couldn’t the researchers get the answer to their research questions? (A) Many cattle in their study were sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cattle_ex_0_1bed14ce.mp3"
+      },
+      {
+        "text": "The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cattle_ex_1_9dd4d430.mp3"
+      },
+      {
+        "text": "Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cattle_ex_2_a427a0b5.mp3"
+      },
+      {
+        "text": "The researchers concluded that cattle do generally orient themselves in a north-south direction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cattle_ex_3_abee7595.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Whether cattle behave like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But cattle may have another hidden talent in telling which way is north.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The cattle constantly change directions to avoid wind chill.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major finding of Dr. Begall’s study? (A) Cattle point north-south.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Whether cattle are superior to other animals.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "牛類，特指用於農業或肉類生產的家畜。",
+    "en_def": "Domesticated bovine animals raised for milk, meat, or labor.",
+    "example": "The farmer has a large herd of cattle grazing in the field."
+  },
+  "sentences_removed": 1
+}

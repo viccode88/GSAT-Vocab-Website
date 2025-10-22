@@ -1,0 +1,23 @@
+{
+  "lemma": "tele",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over 95 percent of all public television stations have tele-courses.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/tele_ex_0_fb1e7cfd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "電視或電信的縮寫，通常指遠距離的通信或傳輸。",
+    "en_def": "A prefix meaning 'distant' or 'far off', often used in terms related to communication or transmission.",
+    "example": "We watched the game on the tele last night."
+  },
+  "sentences_removed": 0
+}

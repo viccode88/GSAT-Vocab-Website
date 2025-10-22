@@ -1,0 +1,23 @@
+{
+  "lemma": "singapore",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Chains have emerged in Taiwan, Singapore, and even on resort islands like Bali.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/singapore_ex_0_f0458ccf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "新加坡：位於東南亞的一個城市國家，以其繁榮的經濟和多元文化著稱。",
+    "en_def": "Singapore: A city-state in Southeast Asia known for its prosperous economy and multicultural society.",
+    "example": "Singapore is famous for its cleanliness and efficient public transport system."
+  },
+  "sentences_removed": 0
+}

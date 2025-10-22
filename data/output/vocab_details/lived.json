@@ -1,0 +1,23 @@
+{
+  "lemma": "lived",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Knight’s traffic signal was installed near London’s Westminster Bridge in December 1868, but the system was short-lived.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/lived_ex_0_511e9fb2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "居住，生活，存在於某個地方或狀態。",
+    "en_def": "Past tense of live; to have existed or resided in a particular place or condition.",
+    "example": "She lived in Paris for five years."
+  },
+  "sentences_removed": 0
+}

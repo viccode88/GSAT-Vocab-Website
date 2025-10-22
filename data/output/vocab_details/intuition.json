@@ -1,0 +1,23 @@
+{
+  "lemma": "intuition",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They use associations and intuition to learn.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/intuition_ex_0_7dfc3933.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "直覺；憑直覺獲得的知識或理解。",
+    "en_def": "The ability to understand something instinctively, without the need for conscious reasoning.",
+    "example": "She had an intuition that something was wrong."
+  },
+  "sentences_removed": 0
+}

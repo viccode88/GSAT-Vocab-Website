@@ -1,0 +1,119 @@
+{
+  "lemma": "accident",
+  "count": 23,
+  "pos_dist": {
+    "NOUN": 23
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The police had to count on him to find out exactly how the accident happened.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/accident_ex_0_9f3eef9d.mp3"
+      },
+      {
+        "text": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/accident_ex_1_82745a94.mp3"
+      },
+      {
+        "text": "How did the traffic accident ? (A) come about (B) come around (C) come off (D) come over 13.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accident_ex_2_6fdba46b.mp3"
+      },
+      {
+        "text": "A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/accident_ex_3_1fd40772.mp3"
+      },
+      {
+        "text": "Stress is linked to the six __(36)__ causes of death— heart disease, cancer, lung disease, accidents, liver disease, and suicide.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/accident_ex_4_046ed688.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to Dom, the main reason for the accident was that __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "that John ________ escaped being killed in a traffic accident.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The man was severely injured in last weekend’s tragic car accident and died _____ afterwards.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Everyone runs the risk of accidents, and no one can be sure of avoiding 38 disease.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Badly injured in the car accident, Jason could ____",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dom said that the most important thing in this accident was __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was caused by a traffic accident.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The future may be a vehicle-accident-free era.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In a radio interview, Dom expressed his disappointment and explained how the accident took place.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The author probably got wounded in wars or accidents.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Robert was the only _____ to the car accident.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "意外事件，通常指不幸或意外發生的情況。",
+    "en_def": "An unexpected event, typically resulting in damage or injury.",
+    "example": "She was involved in a car accident on her way to work."
+  },
+  "sentences_removed": 3
+}

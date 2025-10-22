@@ -1,0 +1,144 @@
+{
+  "lemma": "kill",
+  "count": 26,
+  "pos_dist": {
+    "VERB": 26
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many times the man screamed, “Say ‘Catano’ or I’ll kill you!”",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/kill_ex_0_802067ed.mp3"
+      },
+      {
+        "text": "Higher ocean temperatures kill the important food source for the coral—the algae, the tiny greenish-gold water plants that live on coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/kill_ex_1_4c3a0019.mp3"
+      },
+      {
+        "text": "The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kill_ex_2_7d925647.mp3"
+      },
+      {
+        "text": "Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/kill_ex_3_053887a4.mp3"
+      },
+      {
+        "text": "After a year of depression she tried to kill herself.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kill_ex_4_6b612f49.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When I asked you to kill me, I didn’t know what a pig’s life would be 40 .",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What people use to kill earworms.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Say ‘Catano’ or I’ll kill you!”",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "that John ________ escaped being killed in a traffic accident.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To ask for help to kill the red ant. (B) To urge people to protect the red ant.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Before the disciple could recover from the 39 of hearing the little pig speak in a human voice, it continued, “Don’t kill me.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The parrot was screaming at the fourth, “Say ‘Catano’ or I’ll kill you!” 21.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Mrs. Tuck kills the man and is jailed and sentenced to be executed.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "And how good a magic sword would feel in our hand as we go off to kill a dragon or win the hand of a beautiful princess.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Dooley attempts to save the old man by a ritual learned from comic books: killing a turtle and trading his soul for Grandfather’s.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides, chocolate contains tannins, which help to kill some of the bacteria in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Chemicals from the poisons kill reefs or make them weak, so they have less 37 to diseases.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the chicken house, there were four old chickens, waiting to be killed (28) Sunday’s dinner.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Eating dessert before meals may kill your ________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Though the family knows she cannot be killed, they worry that their secret will be revealed when they try to kill her.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "A boy has to kill a lion by himself before becoming an adult.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "殺死；使死亡",
+    "en_def": "To cause the death of a living being.",
+    "example": "The hunter decided to kill the deer for food."
+  },
+  "sentences_removed": 0
+}

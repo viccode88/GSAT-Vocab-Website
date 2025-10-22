@@ -1,0 +1,54 @@
+{
+  "lemma": "phenomenon",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MAMMA MIA! has become a 22 entertainment phenomenon.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/phenomenon_ex_0_3614843b.mp3"
+      },
+      {
+        "text": "Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/phenomenon_ex_1_b59e3919.mp3"
+      },
+      {
+        "text": "The phenomenon of stress is the constant interaction between mind and body.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/phenomenon_ex_2_09c579df.mp3"
+      },
+      {
+        "text": "15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/phenomenon_ex_3_c3915b02.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This beautiful phenomenon is called crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "This interesting phenomenon becomes a subject explored by many scientists.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "現象；可觀察到的事件或情況",
+    "en_def": "An observable event or situation, especially one that is unusual or difficult to explain.",
+    "example": "The northern lights are a natural phenomenon that attracts many tourists."
+  },
+  "sentences_removed": 0
+}

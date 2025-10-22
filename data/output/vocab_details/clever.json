@@ -1,0 +1,28 @@
+{
+  "lemma": "clever",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Others thought the idea was clever and innovative.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/clever_ex_0_3d136009.mp3"
+      },
+      {
+        "text": "They often concern very strong or clever people who come from humble backgrounds.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/clever_ex_1_69500354.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聰明的；機智的",
+    "en_def": "Having or showing quick intelligence or skill.",
+    "example": "She came up with a clever solution to the problem."
+  },
+  "sentences_removed": 0
+}

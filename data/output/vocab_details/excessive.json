@@ -1,0 +1,38 @@
+{
+  "lemma": "excessive",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some documents noted that Russians “indulge in excessive drinking whenever the occasion arises,” while others claimed that Russians “rarely drink wine.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/excessive_ex_0_0dbf2c5b.mp3"
+      },
+      {
+        "text": "Such dimples are not a permanent trait, for they vanish when the excessive fat goes away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/excessive_ex_1_0e43e8d5.mp3"
+      },
+      {
+        "text": "After the 1960s, and especially since the 1980s, the high school prom in many areas has become a serious exercise in excessive consumption, with boys renting expensive tuxedos and girls wearing designer gowns.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/excessive_ex_2_a869f73c.mp3"
+      },
+      {
+        "text": "Not all dimples are formed by a genetic defect, though; some may appear due to the 36 of excessive fat on the face.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/excessive_ex_3_15371eee.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "過度的，超過正常或合理範圍的。",
+    "en_def": "More than is necessary, normal, or desirable; immoderate.",
+    "example": "His excessive spending led to financial problems."
+  },
+  "sentences_removed": 0
+}

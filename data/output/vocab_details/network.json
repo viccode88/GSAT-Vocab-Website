@@ -1,0 +1,54 @@
+{
+  "lemma": "network",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At the close of the 15th century, Europeans’ craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/network_ex_0_611f9fa1.mp3"
+      },
+      {
+        "text": "When Jason failed to pay his bill, the network company his Internet connection.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/network_ex_1_7c9bf6de.mp3"
+      },
+      {
+        "text": "A railway manager, Knight specialized in designing the signaling system for Britain’s growing railway network in the 1860s.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/network_ex_2_8d11aeef.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Instead of paying attention communication network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not ESPN, the all-sports cable network, or even MTV, which is famous for its music videos.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Nor is it one of the cable networks such as CNN, which carries only news and news stories.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一組相互連接的系統或人員，通常用於共享信息或資源。",
+    "en_def": "A group of interconnected systems or people, typically used for sharing information or resources.",
+    "example": "The company has a strong network of contacts in the industry."
+  },
+  "sentences_removed": 2
+}

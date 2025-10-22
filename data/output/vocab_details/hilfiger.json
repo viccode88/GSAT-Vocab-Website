@@ -1,0 +1,43 @@
+{
+  "lemma": "hilfiger",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Teens rated Hilfiger jeans as their number one brand in a survey in 2000.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hilfiger_ex_0_c9961fa0.mp3"
+      },
+      {
+        "text": "Fashion designer Tommy Hilfiger was fully aware of the power of youth culture.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hilfiger_ex_1_ff3e6c5d.mp3"
+      },
+      {
+        "text": "The Success of Tommy Hilfiger 53.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hilfiger_ex_2_743e6275.mp3"
+      },
+      {
+        "text": "Picking up on teens' interest in computer games, Hilfiger sponsored a Nintendo competition and installed Nintendo terminals in his stores.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hilfiger_ex_3_7757c056.mp3"
+      },
+      {
+        "text": "It can be inferred from the passage that Hilfiger __________.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hilfiger_ex_4_b1ef5def.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "希爾費格（Hilfiger）是一個美國時尚品牌，以其經典的美式風格和休閒服裝而聞名。",
+    "en_def": "Hilfiger is an American fashion brand known for its classic American style and casual clothing.",
+    "example": "I bought a new Hilfiger shirt for the summer."
+  },
+  "sentences_removed": 0
+}

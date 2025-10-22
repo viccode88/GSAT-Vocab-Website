@@ -1,0 +1,49 @@
+{
+  "lemma": "relaxed",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By contrast, later children are more likely to be more relaxed and sociable because their parents are more relaxed.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/relaxed_ex_0_8d5710fb.mp3"
+      },
+      {
+        "text": "After a spa treatment at Happy Puppy, dogs come home 16 pampered and relaxed.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/relaxed_ex_1_4f250bb5.mp3"
+      },
+      {
+        "text": "The book is not only informative but also , making me laugh and feel relaxed while reading it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/relaxed_ex_2_835336cb.mp3"
+      },
+      {
+        "text": "Jane felt ______ speaking in front of the class but was quite relaxed talking with her good friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/relaxed_ex_3_42124d00.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "H…trying to make him relaxed.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "As 19.(A) who (B) while (C) that (D) when 20.(A) relieved (B) relaxed (C) relied (D) reacted European politicians are trying to get the UK Government to make cigarette companies print photos on the packets.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "放鬆的，無壓力的，心情輕鬆的。",
+    "en_def": "Free from tension and anxiety; at ease.",
+    "example": "After a long week at work, I felt relaxed while reading my favorite book."
+  },
+  "sentences_removed": 0
+}

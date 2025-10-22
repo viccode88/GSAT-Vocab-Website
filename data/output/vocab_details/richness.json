@@ -1,0 +1,23 @@
+{
+  "lemma": "richness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The secret power of green tea is its richness in a powerful anti-oxidant.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/richness_ex_0_9d1cb462.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "豐富性；富裕程度",
+    "en_def": "The state of having a lot of something, especially wealth or resources.",
+    "example": "The richness of the soil allows for a diverse range of plants to grow."
+  },
+  "sentences_removed": 0
+}

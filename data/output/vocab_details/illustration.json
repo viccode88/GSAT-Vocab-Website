@@ -1,0 +1,49 @@
+{
+  "lemma": "illustration",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustration_ex_0_cdc06031.mp3"
+      },
+      {
+        "text": "Which of the following is the closest illustration of Benjamin Franklin’s invention?",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/illustration_ex_1_d1562298.mp3"
+      },
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/illustration_ex_2_eece5146.mp3"
+      },
+      {
+        "text": "Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children’s books.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustration_ex_3_950f7490.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He is better known for his watercolors than his illustrations and oil paintings.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By definition and illustration. 46.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "插圖；圖解",
+    "en_def": "A visual representation or drawing that explains or decorates a text.",
+    "example": "The book includes beautiful illustrations that enhance the story."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "resign",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why did Prime Minister Ryu Matsumoto resign from office?",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/resign_ex_0_198ebda2.mp3"
+      },
+      {
+        "text": "In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/resign_ex_1_9feccc89.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "辭職，主動放棄職位或職務。",
+    "en_def": "To voluntarily leave a job or position.",
+    "example": "She decided to resign from her position to pursue other opportunities."
+  },
+  "sentences_removed": 0
+}

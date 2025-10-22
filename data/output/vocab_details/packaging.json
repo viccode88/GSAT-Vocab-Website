@@ -1,0 +1,23 @@
+{
+  "lemma": "packaging",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Packaging and storage also have an impact on the quality of olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/packaging_ex_0_69483fe6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "包裝是指用於包裹、保護和展示產品的材料和設計。",
+    "en_def": "Packaging refers to the materials and design used to wrap, protect, and present a product.",
+    "example": "The packaging of the product was colorful and eye-catching."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "jingle",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Simply removing the jingle of telephones and replacing them with the pleasant sounds of birds has had a remarkable effect on everyone.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/jingle_ex_0_c539bc24.mp3"
+      },
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/jingle_ex_1_e0b31df6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輕快的音樂或旋律，通常用於廣告或兒童歌曲中。",
+    "en_def": "A light, cheerful tune or melody, often used in advertisements or children's songs.",
+    "example": "The jingle for the cereal was so catchy that I found myself humming it all day."
+  },
+  "sentences_removed": 0
+}

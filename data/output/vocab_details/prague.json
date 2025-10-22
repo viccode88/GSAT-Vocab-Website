@@ -1,0 +1,28 @@
+{
+  "lemma": "prague",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While the Iron Curtain was still in place under the communist government, Prague was ＿29＿ visited by foreigners.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/prague_ex_0_de8ba48f.mp3"
+      },
+      {
+        "text": "Situated on both banks of the winding River Vltava, Prague is like one big open-air museum.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/prague_ex_1_e747283b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "捷克共和國的首都，以其歷史悠久的建築和文化遺產而聞名。",
+    "en_def": "The capital of the Czech Republic, known for its historic architecture and cultural heritage.",
+    "example": "I visited Prague last summer and was amazed by its beautiful castles."
+  },
+  "sentences_removed": 1
+}

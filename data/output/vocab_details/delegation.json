@@ -1,0 +1,23 @@
+{
+  "lemma": "delegation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/delegation_ex_0_0ca92a6d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "代表團；委派的權力或任務",
+    "en_def": "A group of representatives or the act of assigning tasks or responsibilities to others.",
+    "example": "The company formed a delegation to negotiate the new contract."
+  },
+  "sentences_removed": 0
+}

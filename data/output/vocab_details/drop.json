@@ -1,0 +1,100 @@
+{
+  "lemma": "drop",
+  "count": 19,
+  "pos_dist": {
+    "VERB": 10,
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/drop_ex_0_431ca077.mp3"
+      },
+      {
+        "text": "Due to the global financial crisis, the country’s exports _____ by 40 percent last month, the largest drop since 2000.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/drop_ex_1_c5553bba.mp3"
+      },
+      {
+        "text": "Whoever dropped the shoe must have been a brave and determined woman.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/drop_ex_2_14f59d8d.mp3"
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/drop_ex_3_d0163eb7.mp3"
+      },
+      {
+        "text": "As the applause __________, the curtain on the stage dropped slowly.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/drop_ex_4_e2be623f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“My weight dropped to 48.3 from 54.4 kilograms, and my classmates won’t be able to call me ‘porker’ anymore,” Chang said happily.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Plant diseases can also spread through tiny water drops that jump off leaves— a plant’s version of a sneeze.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Let the rain beat upon your head with silver liquid drops.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the phrase silver liquid drops refer to? 4.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is said that in ancient times a man would place a drop of blood between his wife’s eyes to seal their marriage.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers noticed that small drops of water on the wheat leaves would move to combine and form a larger drop.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If student enrollment continues to drop, some programs at the university may be to reduce the operation costs.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "放下或掉落某物。",
+    "en_def": "To let something fall or to release it from one's grasp.",
+    "example": "Please don't drop the glass."
+  },
+  "sentences_removed": 2
+}

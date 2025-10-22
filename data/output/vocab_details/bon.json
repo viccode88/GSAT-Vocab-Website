@@ -1,0 +1,24 @@
+{
+  "lemma": "bon",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many areas will also organize bon-odori dances.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/bon_ex_0_d260ca90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "良好的，愉快的，令人滿意的",
+    "en_def": "Good; pleasant; satisfactory.",
+    "example": "The weather today is bon for a picnic."
+  },
+  "sentences_removed": 1
+}

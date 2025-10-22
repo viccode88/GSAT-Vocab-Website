@@ -1,0 +1,28 @@
+{
+  "lemma": "eyelid",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/eyelid_ex_0_ca4158cf.mp3"
+      },
+      {
+        "text": "You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/eyelid_ex_1_2b91658e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "眼瞼是覆蓋在眼睛前面的皮膚摺疊，主要功能是保護眼睛和調節光線進入。",
+    "en_def": "The eyelid is a fold of skin that covers and protects the eye, helping to regulate the amount of light that enters.",
+    "example": "She blinked her eyelids to keep her eyes moist."
+  },
+  "sentences_removed": 0
+}

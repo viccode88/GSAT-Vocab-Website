@@ -1,0 +1,28 @@
+{
+  "lemma": "absolutely",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is absolutely _____ to waste your money on an expensive car when you cannot even get a driver’s license.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/absolutely_ex_0_4d60239e.mp3"
+      },
+      {
+        "text": "Colds are caused by viruses, not bacteria, so taking medicine is absolutely no use at all.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/absolutely_ex_1_90b8976f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "完全地；絕對地",
+    "en_def": "Without any doubt; completely.",
+    "example": "I absolutely agree with your opinion."
+  },
+  "sentences_removed": 0
+}

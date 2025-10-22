@@ -1,0 +1,23 @@
+{
+  "lemma": "cute",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To capture a cute look. (B) To create a special atmosphere.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cute_ex_0_1ad01e30.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可愛的，吸引人的，通常用來形容小動物或小孩。",
+    "en_def": "Attractive in a pretty or endearing way, often used to describe small animals or children.",
+    "example": "The puppy is so cute that everyone wants to pet it."
+  },
+  "sentences_removed": 0
+}

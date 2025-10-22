@@ -1,0 +1,28 @@
+{
+  "lemma": "toxic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/toxic_ex_0_d321609f.mp3"
+      },
+      {
+        "text": "When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/toxic_ex_1_baf31852.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有毒的，能引起傷害或疾病的。",
+    "en_def": "Harmful or poisonous, capable of causing injury or illness.",
+    "example": "The toxic fumes from the factory made the air unsafe to breathe."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "harmony",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the significance of the third eye in Hindu tradition? (A) To stay in harmony with nature.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/harmony_ex_0_5dafac9a.mp3"
+      },
+      {
+        "text": "However, in response to the 29 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/harmony_ex_1_492055c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "和諧；一致，特別是在音樂或人際關係中。",
+    "en_def": "A pleasing arrangement of parts; a state of agreement or concord.",
+    "example": "The choir sang in perfect harmony."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,75 @@
+{
+  "lemma": "climb",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 11,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They cannot find a safe shelter when climbing out of the trenches.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/climb_ex_0_1ec16eb6.mp3"
+      },
+      {
+        "text": "Instead, like a human fly, George Willig climbed the outside of the immense 110-story building.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/climb_ex_1_8241f210.mp3"
+      },
+      {
+        "text": "Instead, he would be fined a penny for each of the 110 floors he had climbed.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/climb_ex_2_a9bab3f3.mp3"
+      },
+      {
+        "text": "They canoed down rivers, hiked along muddy trails, and climbed into the forest to explore and learn.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/climb_ex_3_6b436612.mp3"
+      },
+      {
+        "text": "It's like climbing Mount Everest—it's something you have to do.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/climb_ex_4_4569fd84.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But Brahma thought 24 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "21 the climber is doing something very difficult, everything that he or she sees, hears, or 22 must come together to help in the work of climbing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The preceding passage refers to the word 'hacking' in the context of (A) climbing Mount Everest. (B) a game for young individuals.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Then they wanted to put him in jail and charged him with violation of law for climbing the building without a permit.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "His climb, which began at 6:30 a.m., took three and a half hours to finish.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "攀爬，向上移動或上升的行為。",
+    "en_def": "To go up or ascend, especially by using the hands and feet.",
+    "example": "We decided to climb the mountain early in the morning."
+  },
+  "sentences_removed": 2
+}

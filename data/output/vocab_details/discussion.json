@@ -1,0 +1,84 @@
+{
+  "lemma": "discussion",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/discussion_ex_0_32924a67.mp3"
+      },
+      {
+        "text": "After hours of discussion, our class finally reached the _____ that we would go to Hualien for our graduation trip.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discussion_ex_1_fdc58bad.mp3"
+      },
+      {
+        "text": "For a temporary escape, she joined a small writers’ group, in which each member was required to bring a story or poem for discussion.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discussion_ex_2_24c1adfd.mp3"
+      },
+      {
+        "text": "2. (A) Shall we continue our discussion?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/discussion_ex_3_4f07cbd2.mp3"
+      },
+      {
+        "text": "The discussion moved to Anthony’s recovery.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/discussion_ex_4_c043e3c1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To have a full discussion of the issue, the committee spent a whole hour _____ their ideas at the meeting.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As they moved from one table to another, they noticed new ideas emerging from the discussions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "During the discussion, all the students presented their ideas ______.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which phrase in the chatroom discussions means “serves the purpose” or “works well” ?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "討論；商議",
+    "en_def": "The action or process of talking about something to reach a decision or to exchange ideas.",
+    "example": "We had a discussion about the best way to improve our project."
+  },
+  "sentences_removed": 4
+}

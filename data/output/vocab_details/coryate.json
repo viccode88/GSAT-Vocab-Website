@@ -1,0 +1,23 @@
+{
+  "lemma": "coryate",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1608, forks were brought to England by Thomas Coryate, who saw them during his travels in Italy.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coryate_ex_0_da715a6b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種古老的英語，指的是一種特定的行為或狀態，通常與旅行或探險有關。",
+    "en_def": "An archaic English term referring to a specific behavior or state, often associated with travel or exploration.",
+    "example": "He decided to coryate through the mountains, seeking new adventures."
+  },
+  "sentences_removed": 0
+}

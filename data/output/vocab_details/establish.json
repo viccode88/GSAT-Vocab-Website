@@ -1,0 +1,89 @@
+{
+  "lemma": "establish",
+  "count": 15,
+  "pos_dist": {
+    "VERB": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1945, devastated from the war, the country set about establishing a cheap industry that could rebuild its economy.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/establish_ex_0_67d8f455.mp3"
+      },
+      {
+        "text": "His humane, spontaneous photographs helped establish photojournalism as an art form.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/establish_ex_1_59b812e4.mp3"
+      },
+      {
+        "text": "If you do not dance, you cannot establish relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/establish_ex_2_cedaa8cf.mp3"
+      },
+      {
+        "text": "He first established his reputation as an illustrator in his hometown of Boston. 51.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/establish_ex_3_59307e92.mp3"
+      },
+      {
+        "text": "They establish rules to stay away from enemies.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/establish_ex_4_960c6cb6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "How national parks around the world were established.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "They were established by the government for business purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The group was first established in 2009.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1476 he returned to England and established a printing press at Westminster.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It was the only national park established because of Moran’s works.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Accordingly, anyone who wishes to love and be loved will want to establish lasting relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Government policies were made and public organizations established to prevent the spread of alcoholism in the country.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "建立；設立",
+    "en_def": "To set up or lay the groundwork for something.",
+    "example": "They plan to establish a new school in the community."
+  },
+  "sentences_removed": 1
+}

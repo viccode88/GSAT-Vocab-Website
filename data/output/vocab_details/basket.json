@@ -1,0 +1,23 @@
+{
+  "lemma": "basket",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, the leaves are dried in a basket over a charcoal fire.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/basket_ex_0_2ab08829.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "籃子，一種用來裝載物品的容器，通常由編織的材料製成。",
+    "en_def": "A basket is a container used for carrying or storing items, typically made of woven materials.",
+    "example": "She carried the fruits in a woven basket."
+  },
+  "sentences_removed": 0
+}

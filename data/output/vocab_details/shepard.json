@@ -1,0 +1,23 @@
+{
+  "lemma": "shepard",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was then decided that Alan Shepard should relieve himself in his space suit, and continue with the mission as scheduled.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/shepard_ex_0_6ddfb63e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "牧羊人，專門照顧羊群的人。",
+    "en_def": "A person who herds and tends sheep.",
+    "example": "The shepherd led the flock to a new pasture."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "microscope",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You may also get sick from playing video games, or looking through a microscope.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/microscope_ex_0_a69f70cd.mp3"
+      },
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/microscope_ex_1_b1b536b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "顯微鏡，一種用於放大微小物體的光學儀器。",
+    "en_def": "A microscope is an optical instrument used to magnify small objects.",
+    "example": "The scientist used a microscope to examine the tiny details of the cell."
+  },
+  "sentences_removed": 0
+}

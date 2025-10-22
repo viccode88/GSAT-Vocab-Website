@@ -1,0 +1,28 @@
+{
+  "lemma": "harsh",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/harsh_ex_0_c86cdcb3.mp3"
+      },
+      {
+        "text": "Few of them understood that on their way they would have to cross a harsh wilderness.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/harsh_ex_1_25459092.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "嚴酷的；苛刻的",
+    "en_def": "Unpleasantly rough or jarring to the senses; severe or cruel.",
+    "example": "The harsh winter made it difficult for many animals to survive."
+  },
+  "sentences_removed": 1
+}

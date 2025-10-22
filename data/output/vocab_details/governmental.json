@@ -1,0 +1,17 @@
+{
+  "lemma": "governmental",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "政府的；與政府有關的",
+    "en_def": "Relating to or characteristic of a government.",
+    "example": "The governmental policies have a significant impact on the economy."
+  },
+  "sentences_removed": 1
+}

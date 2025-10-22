@@ -1,0 +1,28 @@
+{
+  "lemma": "tattoo",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tattoo_ex_0_50860686.mp3"
+      },
+      {
+        "text": "Over the centuries, henna tattoos 16 used in weddings and holiday celebrations because they are thought to carry blessings from the gods.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tattoo_ex_1_95a96cbc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在皮膚上用顏料或墨水永久性地繪製的圖案或文字。",
+    "en_def": "A design or pattern permanently marked on the skin using ink or pigment.",
+    "example": "She decided to get a tattoo of a butterfly on her arm."
+  },
+  "sentences_removed": 0
+}

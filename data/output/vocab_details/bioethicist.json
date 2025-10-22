@@ -1,0 +1,23 @@
+{
+  "lemma": "bioethicist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And you’re a bioethicist and one of the architects of Obamacare.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bioethicist_ex_0_c7dbd6b2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生物倫理學家：專門研究生物醫學和生命科學中倫理問題的專家。",
+    "en_def": "A bioethicist is an expert who studies ethical issues arising from advances in biology and medicine.",
+    "example": "The bioethicist provided guidance on the ethical implications of genetic testing."
+  },
+  "sentences_removed": 0
+}

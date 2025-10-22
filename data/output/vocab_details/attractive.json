@@ -1,0 +1,43 @@
+{
+  "lemma": "attractive",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Samoa a woman is not considered attractive unless she weighs more than 200 pounds.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/attractive_ex_0_beda27be.mp3"
+      },
+      {
+        "text": "Through a projector, this attractive radio-alarm-clock is able to display the time onto a wall, ceiling, or anywhere __23__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/attractive_ex_1_c1d86444.mp3"
+      },
+      {
+        "text": "This tour package is very appealing, and that one looks _____ attractive.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/attractive_ex_2_77752d1a.mp3"
+      },
+      {
+        "text": "Helen _____ with anger when she saw her boyfriend kissing an attractive girl.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/attractive_ex_3_ba632b8f.mp3"
+      },
+      {
+        "text": "Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/attractive_ex_4_7f624ef0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "吸引人的；迷人的",
+    "en_def": "Pleasant or appealing to the senses or mind.",
+    "example": "She wore an attractive dress to the party."
+  },
+  "sentences_removed": 0
+}

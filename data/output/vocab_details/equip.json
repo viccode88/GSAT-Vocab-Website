@@ -1,0 +1,23 @@
+{
+  "lemma": "equip",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Each capsule is equipped with a comfortable mattress, a small light, and sometimes a television or other entertainment options.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/equip_ex_0_3435ecbc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "裝備，配備，提供所需的工具或設備。",
+    "en_def": "To supply with the necessary items for a particular purpose.",
+    "example": "They decided to equip the team with new uniforms and gear."
+  },
+  "sentences_removed": 0
+}

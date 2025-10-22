@@ -1,0 +1,33 @@
+{
+  "lemma": "fame",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Winning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/fame_ex_0_eaffa7d1.mp3"
+      },
+      {
+        "text": "Marian Anderson (1897-1993) was an African American woman who gained fame as a concert singer in this climate of racism.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fame_ex_1_e97b9dfc.mp3"
+      },
+      {
+        "text": "He achieved international fame with his vivid paintings of England.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fame_ex_2_d502bba3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "名聲；聲譽",
+    "en_def": "The state of being known or recognized by many people.",
+    "example": "She achieved fame after her performance in the blockbuster movie."
+  },
+  "sentences_removed": 0
+}

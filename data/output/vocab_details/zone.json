@@ -1,0 +1,38 @@
+{
+  "lemma": "zone",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If we go north or south, we won’t notice any difference, because there is usually no time zone change.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/zone_ex_0_fbdb377b.mp3"
+      },
+      {
+        "text": "If one travels across three time zones, he needs about __________ hours to get over his jet lag problem.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/zone_ex_1_75e37116.mp3"
+      },
+      {
+        "text": "Escaping from the war zone, by bombings.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/zone_ex_2_ad7b7e71.mp3"
+      },
+      {
+        "text": "Generally speaking, our biological clock is slightly disturbed if we just move into the next time zone, but jet lag becomes a problem once we have passed through three or four time zones.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/zone_ex_3_df5733d0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "區域；範圍",
+    "en_def": "An area or region distinguished from others.",
+    "example": "The city is divided into several zones for different purposes."
+  },
+  "sentences_removed": 1
+}

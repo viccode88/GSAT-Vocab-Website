@@ -1,0 +1,23 @@
+{
+  "lemma": "awaken",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Depending on your pet’s mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you’ve awakened it from a nap.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/awaken_ex_0_1afc690a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "喚醒；使醒來",
+    "en_def": "To rouse from sleep or a state of inactivity.",
+    "example": "The loud noise outside helped to awaken her from her deep sleep."
+  },
+  "sentences_removed": 0
+}

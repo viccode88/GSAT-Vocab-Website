@@ -1,0 +1,23 @@
+{
+  "lemma": "gasoline",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cars in the future will be characterized by their use of gasoline.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/gasoline_ex_0_10a88cb5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於內燃機的液體燃料，通常由石油精煉而成。",
+    "en_def": "A liquid fuel used in internal combustion engines, typically refined from petroleum.",
+    "example": "He filled his car's tank with gasoline before the long road trip."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "growth",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the year 1990 alone, the growth in trade in services was as high as 19%.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/growth_ex_0_ab0d0ae8.mp3"
+      },
+      {
+        "text": "Still __(35)__ say that aliens were responsible for the growth of highly evolved civilizations which have __(36)__ perished, including the Incan and Mayan civilizations and the legendary Atlantis.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/growth_ex_1_97714100.mp3"
+      },
+      {
+        "text": "Researchers at Purdue University recently concluded that a compound in green tea 17 the growth of cancer cells.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/growth_ex_2_4c581b97.mp3"
+      },
+      {
+        "text": "The fast growth of the tea gardens destroys the elephants’ food source.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/growth_ex_3_ef4325dc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "增長，發展或成長的過程或狀態。",
+    "en_def": "The process or state of increasing in size, amount, or importance.",
+    "example": "The growth of the company has been remarkable over the past year."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "snowstorm",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The airport was closed because of the snowstorm, and our ______ for Paris had to be delayed until the following day.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/snowstorm_ex_0_a868630d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "暴風雪，一種強烈的雪和風的天氣現象，通常伴隨著低能見度和寒冷的氣溫。",
+    "en_def": "A snowstorm is a severe weather condition characterized by heavy snowfall and strong winds, often resulting in low visibility and cold temperatures.",
+    "example": "The snowstorm caused the roads to become impassable, forcing many people to stay home."
+  },
+  "sentences_removed": 0
+}

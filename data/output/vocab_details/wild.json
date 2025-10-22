@@ -1,0 +1,85 @@
+{
+  "lemma": "wild",
+  "count": 13,
+  "pos_dist": {
+    "ADJ": 7,
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Daphne has been working with wild animals for some 60 years, and in 1977 she opened the elephant orphanage at her home in Nairobi.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wild_ex_0_74d21fee.mp3"
+      },
+      {
+        "text": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/wild_ex_1_c86cdcb3.mp3"
+      },
+      {
+        "text": "Despite their great 28 , however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/wild_ex_2_daf1ccd8.mp3"
+      },
+      {
+        "text": "I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/wild_ex_3_e87c9a2d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It may take some years, but the final aim is to release all of them to a wild herd.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, some people are against zoos because the animals 48 there will lose the freedom they enjoy in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "D. Daniel To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain how Maasai warriors hunt for deer in the wild.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "There her keepers have gradually introduced her to the ways of the wild, helping her to find food and water.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Others have pulled people in front of moving trains or saved them from attacks by wild animals.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Lots of people also go hunting for wild berries that grow along the roadsides.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "未經馴化的，或自然生長的；狂野的，無法控制的。",
+    "en_def": "Living or growing in the natural environment; not domesticated or cultivated.",
+    "example": "The wild animals roamed freely in the forest."
+  },
+  "sentences_removed": 0
+}

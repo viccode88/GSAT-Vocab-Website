@@ -1,0 +1,23 @@
+{
+  "lemma": "mollusks",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What’s a Friend for (B) Seashells and Mollusks (C) Appropriate Topics for Writing (D) Writing for Different Purposes 42.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mollusks_ex_0_b5b588be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "軟體動物，通常具有外殼，如蝸牛、貝類和章魚等。",
+    "en_def": "Soft-bodied animals, usually with a shell, such as snails, clams, and octopuses.",
+    "example": "Mollusks can be found in both marine and freshwater environments."
+  },
+  "sentences_removed": 0
+}

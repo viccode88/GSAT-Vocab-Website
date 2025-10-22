@@ -1,0 +1,33 @@
+{
+  "lemma": "chicago",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/chicago_ex_0_94d26a1f.mp3"
+      },
+      {
+        "text": "Rahm would still be mayor of Chicago.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/chicago_ex_1_2d4ad29f.mp3"
+      },
+      {
+        "text": "Interviewer: You’re the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/chicago_ex_2_040100b7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "芝加哥：美國伊利諾伊州的一個主要城市，以其建築、音樂和文化而聞名。",
+    "en_def": "Chicago: A major city in Illinois, USA, known for its architecture, music, and culture.",
+    "example": "Chicago is famous for its deep-dish pizza."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "cruelty",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“So many people want to protect animals and live their lives without causing unnecessary cruelty.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/cruelty_ex_0_d736d52a.mp3"
+      },
+      {
+        "text": "The cruelty of a barking hound.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cruelty_ex_1_2717b43b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "殘忍；殘酷的行為或態度。",
+    "en_def": "The quality of being cruel; actions or attitudes that cause suffering or pain to others.",
+    "example": "The cruelty of the punishment shocked everyone in the community."
+  },
+  "sentences_removed": 0
+}

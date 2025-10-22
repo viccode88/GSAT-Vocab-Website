@@ -1,0 +1,17 @@
+{
+  "lemma": "freely",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自由地；隨意地",
+    "en_def": "In a manner that is not restricted or controlled; without limitation.",
+    "example": "She expressed her thoughts freely during the discussion."
+  },
+  "sentences_removed": 1
+}

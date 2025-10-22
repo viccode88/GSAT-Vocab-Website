@@ -1,0 +1,23 @@
+{
+  "lemma": "nikes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The coach took off his own Nikes and handed them to him.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nikes_ex_0_56564a98.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "耐克，一個知名的運動鞋和運動服裝品牌。",
+    "en_def": "Nike, a well-known brand of athletic shoes and apparel.",
+    "example": "She bought a new pair of Nikes for her morning runs."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "chatroom",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/chatroom_ex_0_32924a67.mp3"
+      },
+      {
+        "text": "Which phrase in the chatroom discussions means “serves the purpose” or “works well” ?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/chatroom_ex_1_7e69699a.mp3"
+      },
+      {
+        "text": "Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/chatroom_ex_2_cfaaf207.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個在線平台，讓用戶可以即時交流和討論。",
+    "en_def": "An online platform that allows users to communicate and discuss in real-time.",
+    "example": "We met in a chatroom to discuss our favorite books."
+  },
+  "sentences_removed": 1
+}

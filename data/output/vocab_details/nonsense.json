@@ -1,0 +1,23 @@
+{
+  "lemma": "nonsense",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His father, __(19)__ always hoped that he would get a PhD and become a professor, __(20)__ with a scoff: “What is all this nonsense?!”",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/nonsense_ex_0_03f01323.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無意義的話或行為；胡說八道。",
+    "en_def": "Words or ideas that are silly or have no meaning.",
+    "example": "What he said was pure nonsense and made no sense at all."
+  },
+  "sentences_removed": 0
+}

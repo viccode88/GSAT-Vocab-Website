@@ -1,0 +1,28 @@
+{
+  "lemma": "germ",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/germ_ex_0_1ce5f24b.mp3"
+      },
+      {
+        "text": "Scientists already knew earlier that wind and splashes of rainwater can move bacteria and other germs from leaf to leaf.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/germ_ex_1_e25eff8b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "微生物，特別是能引起疾病的細菌或病毒。",
+    "en_def": "A microorganism, especially one that causes disease.",
+    "example": "Washing your hands helps to eliminate germs."
+  },
+  "sentences_removed": 0
+}

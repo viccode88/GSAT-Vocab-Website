@@ -1,0 +1,23 @@
+{
+  "lemma": "debate",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/debate_ex_0_0d627d96.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "辯論；討論不同意見的過程或活動。",
+    "en_def": "A formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward.",
+    "example": "The students engaged in a lively debate about climate change."
+  },
+  "sentences_removed": 0
+}

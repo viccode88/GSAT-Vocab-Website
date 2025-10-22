@@ -1,0 +1,23 @@
+{
+  "lemma": "crow",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Jackdaws are birds in the crow family often Turtle ants often live in the cavities of dead found in the English countryside.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/crow_ex_0_360d0a47.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "烏鴉，一種大型的黑色鳥類，以其聰明和適應能力著稱。",
+    "en_def": "A crow is a large black bird known for its intelligence and adaptability.",
+    "example": "The crow cawed loudly as it perched on the tree branch."
+  },
+  "sentences_removed": 0
+}

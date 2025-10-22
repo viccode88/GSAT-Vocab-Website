@@ -1,0 +1,33 @@
+{
+  "lemma": "firm",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Next, we sold the computers off to Stab, Grab, Grit, and Nasty, a firm of lawyers nearby.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/firm_ex_0_070418bb.mp3"
+      },
+      {
+        "text": "Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/firm_ex_1_16e15a54.mp3"
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/firm_ex_2_65b9ef5d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "堅定的；穩固的；公司或企業",
+    "en_def": "Strong and steady; not likely to change; a business organization.",
+    "example": "She has a firm belief in the importance of education."
+  },
+  "sentences_removed": 0
+}

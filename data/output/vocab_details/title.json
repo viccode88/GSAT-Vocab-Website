@@ -1,0 +1,64 @@
+{
+  "lemma": "title",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/title_ex_0_35c28d8f.mp3"
+      },
+      {
+        "text": "What is the best title for this passage? (A) A Painful Mistake (B)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/title_ex_1_bd1075d6.mp3"
+      },
+      {
+        "text": "Which of the following titles best describes the main idea of this passage? (A) The Origin of Lullabies (B) The Functions of Lullabies (C) Threatening Lullabies (D) Sleep-Inducing Lullabies 54.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/title_ex_2_ec2e7a57.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What is the best title of this passage? (A)",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this article? (A)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this passage? (A) The Importance of Marketing (B) The Power of Youth Culture (C) The Popularity of Hip-hop Fashion (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is the best title for this passage? (A) Totem Poles, the Legends of Aboriginal Peoples (B) Totem Poles: Their Functions (C) Totem Poles, Symbols of Historical Resistance (D) Totem Poles: Their Designs 46.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for the passage? (A) Magical Tricks (B) A Great Magician (C) Magic as Entertainment (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "書籍、文章或其他作品的名稱，通常位於封面或標題頁上。",
+    "en_def": "The name of a book, article, or other work, typically found on the cover or title page.",
+    "example": "The title of her new novel is very intriguing."
+  },
+  "sentences_removed": 1
+}

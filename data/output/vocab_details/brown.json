@@ -1,0 +1,52 @@
+{
+  "lemma": "brown",
+  "count": 8,
+  "pos_dist": {
+    "PROPN": 4,
+    "NOUN": 2,
+    "VERB": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/brown_ex_0_bd32af92.mp3"
+      },
+      {
+        "text": "When the paper-thin browned potatoes arrived, the diner was pleased.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/brown_ex_1_02f56ea2.mp3"
+      },
+      {
+        "text": "These were thickly cut potatoes, fried until golden brown and crisp on the outside.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/brown_ex_2_e8eafc0a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "His dark brown jacket had holes in the elbows and had _____ to light brown, but he continued to wear it.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Mr. Brown suggested that Mary stay with the company, ________, because the company needed her.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "棕色的，通常是由紅色和綠色混合而成的顏色。",
+    "en_def": "A color that is a dark shade of orange or a mix of red and green.",
+    "example": "The brown dog played happily in the park."
+  },
+  "sentences_removed": 1
+}

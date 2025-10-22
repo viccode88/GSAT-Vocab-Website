@@ -1,0 +1,23 @@
+{
+  "lemma": "kim",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/kim_ex_0_62f6aebc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "金屬或合金的名稱，通常指鋼或鐵的合金，常用於製造工具和機械部件。",
+    "en_def": "A type of metal or alloy, often referring to steel or iron alloys, commonly used for making tools and mechanical parts.",
+    "example": "The mechanic used a kim to repair the engine."
+  },
+  "sentences_removed": 0
+}

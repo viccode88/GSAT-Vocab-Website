@@ -1,0 +1,23 @@
+{
+  "lemma": "unaccustomed",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since rats love to hunt and eat wetas, the rat population on the island has its grown into a real problem for many of the native species that are unaccustomed to presence, and poses a serious threat to the native weta population.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unaccustomed_ex_0_237876da.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不習慣的，未曾經歷過的",
+    "en_def": "Not familiar or used to something.",
+    "example": "She felt unaccustomed to the cold weather after living in a warm climate."
+  },
+  "sentences_removed": 0
+}

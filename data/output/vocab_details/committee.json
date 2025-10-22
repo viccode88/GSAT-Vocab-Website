@@ -1,0 +1,80 @@
+{
+  "lemma": "committee",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At the very beginning, only 33 names were used because at that time typhoons were named after girlfriends or wives of the experts on the committee.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/committee_ex_0_c10bcd75.mp3"
+      },
+      {
+        "text": "Since Michael was the best candidate, the committee voted for him to take charge of the company’s sales department.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/committee_ex_1_ae550734.mp3"
+      },
+      {
+        "text": "To support refugees and people facing crises around the world, the International Olympic Committee created the Refugee Olympic Team.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/committee_ex_2_465f482f.mp3"
+      },
+      {
+        "text": "The list-based convention, on the other hand, is based on the list of typhoon names compiled in advance by a committee, and is more widely used.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/committee_ex_3_64b0137e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Mr. Wang’s arguments were very , and the committee finally accepted his proposal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To have a full discussion of the issue, the committee spent a whole hour _____ their ideas at the meeting.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The names were chosen from a name pool 36 of 140 names, 10 each from the 14 members of the committee.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The proposal Mr. Lin ______ last week has very little chance of being accepted by the committee.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "On June 19, 2001, an agreement was signed between the International Olympic Committee and the International Paralympics Committee to keep this 30 in the future.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In Asia, Western names were used until 2000 when the committee decided to use Asian names to 35 Asians’ awareness of typhoons.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a member country suffers great damage from a certain typhoon, it can 39 that the name of the typhoon be deleted from the list at the annual committee meeting.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "委員會；由一群人組成，負責特定任務或決策的組織。",
+    "en_def": "A group of people appointed for a specific function, typically consisting of members from a larger organization.",
+    "example": "The committee will meet next week to discuss the new policy."
+  },
+  "sentences_removed": 0
+}

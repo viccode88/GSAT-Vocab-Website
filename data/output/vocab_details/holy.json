@@ -1,0 +1,23 @@
+{
+  "lemma": "holy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sometimes this may be as simple as touching the holy man and being immediately healed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/holy_ex_0_ac9fc9e6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "神聖的，受到尊敬的，與宗教有關的。",
+    "en_def": "Sacred or deserving of respect, often associated with religion.",
+    "example": "The holy book is revered by millions around the world."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,19 @@
+{
+  "lemma": "rehearsal",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": [
+    {
+      "text": "After studying classical music in college, she moved to San Francisco and went on to sing with the San Francisco Opera Chorus. - 4 - 第 5 頁 101年學測 共 7 頁 英文考科 Walking home from rehearsal at age 29, she was caught in the midst of a random shooting that left her paralyzed from the waist down.",
+      "source": "2012_101_02-101學測英文試卷定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "排練；預演",
+    "en_def": "A practice session for a performance or event.",
+    "example": "The cast gathered for a rehearsal before the opening night of the play."
+  }
+}

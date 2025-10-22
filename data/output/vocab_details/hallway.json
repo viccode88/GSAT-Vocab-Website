@@ -1,0 +1,23 @@
+{
+  "lemma": "hallway",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "(1) When he finished with unpacking, Nelson carried all the empty boxes down the hallway.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hallway_ex_0_dbaaf163.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "走廊，通常是連接房間或區域的長而狹窄的空間。",
+    "en_def": "A long, narrow passage in a building, typically with doors leading to rooms.",
+    "example": "She walked down the hallway to her classroom."
+  },
+  "sentences_removed": 0
+}

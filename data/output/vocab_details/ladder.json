@@ -1,0 +1,28 @@
+{
+  "lemma": "ladder",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his and fell to the ground.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ladder_ex_0_8093a390.mp3"
+      },
+      {
+        "text": "The chambers are stacked side-by-side, two units high, with the upper rooms reached by a ladder.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/ladder_ex_1_846bb459.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "梯子，一種用於攀爬的工具，通常由兩根平行的長桿和連接的橫桿組成。",
+    "en_def": "A ladder is a tool used for climbing, typically consisting of two parallel vertical supports and a series of horizontal rungs.",
+    "example": "She used a ladder to reach the top shelf."
+  },
+  "sentences_removed": 0
+}

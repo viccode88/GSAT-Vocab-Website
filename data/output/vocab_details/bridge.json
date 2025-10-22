@@ -1,0 +1,50 @@
+{
+  "lemma": "bridge",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One week after the typhoon, some bridges were finally opened and bus service _____ in the country’s most severely damaged areas.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/bridge_ex_0_824c6169.mp3"
+      },
+      {
+        "text": "The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/bridge_ex_1_62c7bd90.mp3"
+      },
+      {
+        "text": "“A fishing ship came towards us with nobody on the bridge and ran us down.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/bridge_ex_2_7b27b89e.mp3"
+      },
+      {
+        "text": "The bridge collapsed under the weight of the heavy truck.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bridge_ex_3_bb65de42.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Knight’s traffic signal was installed near London’s Westminster Bridge in December 1868, but the system was short-lived.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The basic structure of roads and bridges. (C) Knowledge and regulations about safe driving.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "橋樑，連接兩岸或兩地的結構，通常用於行人或交通通行。",
+    "en_def": "A structure built to span a physical obstacle, such as a body of water, road, or valley, for the purpose of providing passage.",
+    "example": "The bridge connects the two sides of the river."
+  },
+  "sentences_removed": 0
+}

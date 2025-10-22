@@ -1,0 +1,23 @@
+{
+  "lemma": "photojournalism",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His humane, spontaneous photographs helped establish photojournalism as an art form.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/photojournalism_ex_0_59b812e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "新聞攝影，指用攝影技術記錄新聞事件的藝術和技術。",
+    "en_def": "The practice of communicating news through photographs, often capturing events as they happen.",
+    "example": "Photojournalism plays a crucial role in documenting history through powerful images."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "comet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most people would think that aside from comets and stars there is little else out there.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/comet_ex_0_2314117d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "彗星是一種由冰、塵埃和氣體組成的天體，當它接近太陽時會形成明亮的尾巴。",
+    "en_def": "A comet is a celestial body made of ice, dust, and gas that develops a bright tail when it approaches the sun.",
+    "example": "The comet was visible in the night sky for several weeks."
+  },
+  "sentences_removed": 0
+}

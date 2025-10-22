@@ -1,0 +1,120 @@
+{
+  "lemma": "modern",
+  "count": 22,
+  "pos_dist": {
+    "ADJ": 21,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/modern_ex_0_215eb520.mp3"
+      },
+      {
+        "text": "Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/modern_ex_1_6d27f350.mp3"
+      },
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/modern_ex_2_d320b05a.mp3"
+      },
+      {
+        "text": "In modern times, many traditional concepts have ________ new ideas.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/modern_ex_3_41daa023.mp3"
+      },
+      {
+        "text": "E-mail plays a ______ role in modern communication.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/modern_ex_4_e7cc049f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following is true about the modern development of the flip-flop? (A) Modern flip-flops originated from Indian toe knob sandals.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The scientist’s project to build a modern laboratory was __________ on account of its huge budget.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The sandals American soldiers brought home from Japan later became modern flip-flops.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the modern way of preparing this 31 snack may carry an unhappy secret.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the word “sedentary” in the third paragraph most likely mean? (A) Modern.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about Capoeira? (A) It was greatly influenced by modern dancing styles.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of this passage? (A) To point out the challenges of the modern lifestyle.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does Zeke Emanuel think of the modern conveniences mentioned in the interview? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The man who has played football knows that teamwork is 39 in modern living.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To discuss how a modern epidemic may spread quickly.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "No modern agricultural methods are used.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The 1960s and ’70s 28 the development of most modern stunt technology, like air rams and bullet squibs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Modern flip-flops derive from Japanese zōris, which were often worn with socks dividing the big toe from the rest, and were typically made of rice straw.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The development of modern transportation. 36.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "現代的；當代的",
+    "en_def": "Relating to the present time or recent times; contemporary.",
+    "example": "The modern architecture of the building stands out in the historic neighborhood."
+  },
+  "sentences_removed": 1
+}

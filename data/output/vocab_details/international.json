@@ -1,0 +1,155 @@
+{
+  "lemma": "international",
+  "count": 30,
+  "pos_dist": {
+    "ADJ": 21,
+    "PROPN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "During the 1990s, international trade grew by nearly 8.6% each year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/international_ex_0_1e846f22.mp3"
+      },
+      {
+        "text": "He achieved international fame with his vivid paintings of England.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/international_ex_1_d502bba3.mp3"
+      },
+      {
+        "text": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a _____ flight.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/international_ex_2_ad1ebb5a.mp3"
+      },
+      {
+        "text": "To support refugees and people facing crises around the world, the International Olympic Committee created the Refugee Olympic Team.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/international_ex_3_465f482f.mp3"
+      },
+      {
+        "text": "In 1932, the United States and Canadian governments renamed the parks the Waterton-Glacier International Peace Park, the world’s first.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/international_ex_4_ea864a0c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What is special about the Waterton-Glacier International Peace Park?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "More recently, the parks have received several international honors.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This international recognition highlights the importance of this area, not just to the United States and Canada, but to the entire world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California’s Wham-O toy company.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most international tea trading is in black tea.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the keen competition of this international tennis tournament, she ________ won the championship.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The level of quality of PBS programs, whether in national and international news, entertainment, or education, is excellent.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The International Institute of Not Doing Much. 43.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "On June 19, 2001, an agreement was signed between the International Olympic Committee and the International Paralympics Committee to keep this 30 in the future.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Winning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nevertheless, passports were not generally required for international travel until the First World War.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "An international company requires a A major US corporation in the health and nutritional Service Technician industry has announced the opening of its direct selling To service and maintain electronic medical equipment division in Taiwan.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The Shoe That Grows, created by a charity called Because International, changes all this.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "His pictures of the Union troops won international recognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All of us here think The International Institute of Not Doing Much is the best organization in the world.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "國際的，涉及多個國家或國際間的事務。",
+    "en_def": "Relating to or involving two or more countries.",
+    "example": "The international conference brought together leaders from around the world."
+  },
+  "sentences_removed": 1
+}

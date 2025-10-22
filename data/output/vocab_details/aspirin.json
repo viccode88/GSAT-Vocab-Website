@@ -1,0 +1,23 @@
+{
+  "lemma": "aspirin",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He took an aspirin, iced the injured area, and off he went.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/aspirin_ex_0_0aee0462.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿斯匹靈，一種常用的非類固醇抗炎藥，主要用於減輕疼痛、降低發燒和抗炎。",
+    "en_def": "Aspirin is a commonly used nonsteroidal anti-inflammatory drug (NSAID) that helps relieve pain, reduce fever, and decrease inflammation.",
+    "example": "I took an aspirin to relieve my headache."
+  },
+  "sentences_removed": 0
+}

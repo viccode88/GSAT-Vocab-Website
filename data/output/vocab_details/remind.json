@@ -1,0 +1,33 @@
+{
+  "lemma": "remind",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/remind_ex_0_dc41d42d.mp3"
+      },
+      {
+        "text": "The aim of the campaign is to remind people of the damage the deadly weed does to their body.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/remind_ex_1_bf95d1a5.mp3"
+      },
+      {
+        "text": "It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/remind_ex_2_6147eb1a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提醒，使想起",
+    "en_def": "To cause someone to remember something.",
+    "example": "Please remind me to call my friend tomorrow."
+  },
+  "sentences_removed": 0
+}

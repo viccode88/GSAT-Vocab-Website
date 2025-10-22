@@ -1,0 +1,38 @@
+{
+  "lemma": "convince",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To convince people that temporary housing can be easily found.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/convince_ex_0_6c922626.mp3"
+      },
+      {
+        "text": "However, if you convince yourself beforehand that the pain won’t be so bad, you might not suffer as much.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/convince_ex_1_38409b33.mp3"
+      },
+      {
+        "text": "This was done mainly to convince people that the priests were powerful.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/convince_ex_2_00ce6492.mp3"
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/convince_ex_3_cff0c385.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "說服，使相信",
+    "en_def": "To persuade someone to do or believe something.",
+    "example": "She tried to convince him to join the team."
+  },
+  "sentences_removed": 1
+}

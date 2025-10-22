@@ -1,0 +1,23 @@
+{
+  "lemma": "phd",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His father, __(19)__ always hoped that he would get a PhD and become a professor, __(20)__ with a scoff: “What is all this nonsense?!”",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/phd_ex_0_03f01323.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "博士學位，通常是學術界的最高學位，代表在某一學科領域的深入研究和專業知識。",
+    "en_def": "A Doctor of Philosophy degree, typically the highest academic degree awarded, representing advanced research and expertise in a specific field.",
+    "example": "She earned her PhD in biology after years of dedicated research."
+  },
+  "sentences_removed": 0
+}

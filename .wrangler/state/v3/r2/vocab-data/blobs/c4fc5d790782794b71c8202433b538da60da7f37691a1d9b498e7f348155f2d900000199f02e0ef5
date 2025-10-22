@@ -1,0 +1,19 @@
+{
+  "lemma": "mandatory",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": [
+    {
+      "text": "The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.",
+      "source": "2022_111_02-111學測英文試卷",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "強制性的；必須遵守的",
+    "en_def": "Required by law or rules; compulsory.",
+    "example": "Wearing a seatbelt is mandatory in most countries."
+  }
+}

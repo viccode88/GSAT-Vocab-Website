@@ -1,0 +1,49 @@
+{
+  "lemma": "location",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The location of the White House.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/location_ex_0_e62d6b19.mp3"
+      },
+      {
+        "text": "While many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/location_ex_1_34bfe4a2.mp3"
+      },
+      {
+        "text": "V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/location_ex_2_77b61f58.mp3"
+      },
+      {
+        "text": "From ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/location_ex_3_1a7e8afb.mp3"
+      },
+      {
+        "text": "The totem pole can be grouped into specific categories, depending on its location and the occasion for which it was carved.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/location_ex_4_1eb66f0c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "位置；地點",
+    "en_def": "A particular place or position.",
+    "example": "The location of the meeting is at the downtown conference center."
+  },
+  "sentences_removed": 0
+}

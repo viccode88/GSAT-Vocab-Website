@@ -1,0 +1,86 @@
+{
+  "lemma": "general",
+  "count": 14,
+  "pos_dist": {
+    "ADJ": 9,
+    "NOUN": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In general (D) Even so 22. (A) have (B) having (C) to have (D) has 23.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/general_ex_0_04de5b90.mp3"
+      },
+      {
+        "text": "When I open a book, I look first at the table of to get a general idea of the book and to see which chapters I might be interested in reading.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/general_ex_1_ff066c6c.mp3"
+      },
+      {
+        "text": "Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/general_ex_2_326be906.mp3"
+      },
+      {
+        "text": "Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/general_ex_3_be3b04ff.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Even fewer people know that Dumas’ father rose rapidly from a soldier to a general in the French Army before he was 31.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They used to come in one general pattern for all individuals and institutions. 43.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He was the son of a general.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Right-brained learners look for a general picture and concentrate on relating new information to what they already know.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The general died young, leaving Alexander penniless.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一般的，普遍的，或涉及多數的事物或人。",
+    "en_def": "Relating to or affecting all or most people, places, or things; not specific.",
+    "example": "The general opinion is that the new policy will benefit everyone."
+  },
+  "sentences_removed": 1
+}

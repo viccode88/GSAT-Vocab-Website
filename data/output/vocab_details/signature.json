@@ -1,0 +1,43 @@
+{
+  "lemma": "signature",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But nowadays, autographs (signatures) are big business.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/signature_ex_0_8d5fa567.mp3"
+      },
+      {
+        "text": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/signature_ex_1_7a5f8be3.mp3"
+      },
+      {
+        "text": "Many athletes and VIPs demand payment for their signatures, and many people are willing to pay.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/signature_ex_2_b01c2711.mp3"
+      },
+      {
+        "text": "In the past, the signatures of athletes and VIPs __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/signature_ex_3_90e3dba7.mp3"
+      },
+      {
+        "text": "According to this passage, many people now collect athletes’ and VIPs’ signatures __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/signature_ex_4_3b53a4bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "簽名；特徵或標誌",
+    "en_def": "A person's name written in a distinctive way as a form of identification or authorization.",
+    "example": "Please sign your signature at the bottom of the document."
+  },
+  "sentences_removed": 0
+}

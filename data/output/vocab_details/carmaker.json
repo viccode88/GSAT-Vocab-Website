@@ -1,0 +1,23 @@
+{
+  "lemma": "carmaker",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/carmaker_ex_0_e03c89de.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "製造汽車的公司或個人。",
+    "en_def": "A company or individual that manufactures cars.",
+    "example": "The carmaker announced a new electric vehicle model."
+  },
+  "sentences_removed": 0
+}

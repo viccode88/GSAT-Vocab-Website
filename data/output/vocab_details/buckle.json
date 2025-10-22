@@ -1,0 +1,23 @@
+{
+  "lemma": "buckle",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A properly made kilt should not be so loose that the wearer can easily twist the kilt around the body, nor should it be so tight that it causes bulging of the fabric where it is buckled.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/buckle_ex_0_04227f50.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "扣環；皮帶扣",
+    "en_def": "A fastening device, typically made of metal, used to secure two ends of a strap or belt.",
+    "example": "He fastened his belt with a shiny silver buckle."
+  },
+  "sentences_removed": 0
+}

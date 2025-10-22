@@ -1,0 +1,28 @@
+{
+  "lemma": "illustrate",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By defining and illustrating a concept.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/illustrate_ex_0_7b29529a.mp3"
+      },
+      {
+        "text": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/illustrate_ex_1_5dfba093.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "說明或展示某事物的方式，通常通過圖畫或示例。",
+    "en_def": "To explain or make something clear by using pictures, diagrams, or examples.",
+    "example": "The teacher used a diagram to illustrate the concept of photosynthesis."
+  },
+  "sentences_removed": 0
+}

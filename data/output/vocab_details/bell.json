@@ -1,0 +1,74 @@
+{
+  "lemma": "bell",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The 10 bells vary in size, each 23 a name.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bell_ex_0_5180837d.mp3"
+      },
+      {
+        "text": "Mounted in the two tall towers of the cathedral, Notre-Dame’s bells have been ringing for over 800 years.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bell_ex_1_7abdb5c0.mp3"
+      },
+      {
+        "text": "Over centuries, the bells have become a 26 part of life in Paris, where they are known as “the cathedral’s voice.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bell_ex_2_1e2fefa3.mp3"
+      },
+      {
+        "text": "On his way to the dump, the bell rang.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bell_ex_3_ce4eb7cf.mp3"
+      },
+      {
+        "text": "This particular bell, ringing in F sharp, is considered one of the most harmonically beautiful in Europe.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/bell_ex_4_ee3b94ae.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Located at the heart of Paris, this medieval cathedral is 21 for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, there is documented 22 to the ringing of bells even before the cathedral’s construction was completed, dating as far back as the 12th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The sounds of Notre-Dame bells once again filled the air in Paris, and will be heard for generations to come.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "But due to their poor acoustic quality, all of the bells were replaced in 2013—except for Emmanuel, which 25 its renowned, excellent sound.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "However, after the devastating fire that damaged the cathedral in 2019, the bells fell 29 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The melted bells were recast in the late 19th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "鈴，通常用於發出聲音的圓形物體，常見於教堂、學校或作為警報裝置。",
+    "en_def": "A hollow metallic object that makes a ringing sound when struck, often used for signaling or decoration.",
+    "example": "The school bell rang, signaling the end of the class."
+  },
+  "sentences_removed": 0
+}

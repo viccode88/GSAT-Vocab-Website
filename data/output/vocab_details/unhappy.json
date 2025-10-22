@@ -1,0 +1,28 @@
+{
+  "lemma": "unhappy",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, the modern way of preparing this 31 snack may carry an unhappy secret.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unhappy_ex_0_b7adc109.mp3"
+      },
+      {
+        "text": "She wanted to get away from her unhappy marriage.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/unhappy_ex_1_9d3a9062.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不快樂的，心情不好的。",
+    "en_def": "Feeling sad or discontented.",
+    "example": "She felt unhappy after hearing the bad news."
+  },
+  "sentences_removed": 0
+}

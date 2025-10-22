@@ -1,0 +1,23 @@
+{
+  "lemma": "englishman",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was printed in Flanders in 1474 by an Englishman, William Caxton.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/englishman_ex_0_4c932471.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "英國人，特指男性，通常指英格蘭的公民或居民。",
+    "en_def": "A man from England; a male citizen or resident of England.",
+    "example": "The Englishman enjoyed a cup of tea in the afternoon."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,160 @@
+{
+  "lemma": "earth",
+  "count": 34,
+  "pos_dist": {
+    "PROPN": 22,
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The usefulness of Google Earth.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/earth_ex_0_8b453698.mp3"
+      },
+      {
+        "text": "From space, astronauts study the geography, pollution, and weather patterns on Earth.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/earth_ex_1_58427a5c.mp3"
+      },
+      {
+        "text": "Whenever I set foot on the soil of Rwanda, a country in east-central Africa, I feel as if I have entered paradise: green hills, red earth, sparkling rivers and mountain lakes.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/earth_ex_2_2e545510.mp3"
+      },
+      {
+        "text": "When on Earth, we have more fluids in our lower body because they are pulled down by Earth’s gravity.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/earth_ex_3_bfddf8fc.mp3"
+      },
+      {
+        "text": "Because of the tremendous amount of oxygen produced in this area, it has been called the “lungs of the earth.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/earth_ex_4_69a942aa.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In ecological terms, the chemicals of living things are borrowed from the Earth, and at death they return.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "That means that 64 acres of the rainforest is lost every minute.” (1) Which place is called “the lungs of the earth”? (2) What kinds of people are on the AmazonQuest team?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The gods suggested that they hide it 23 in the earth or take it to the top of the highest mountain.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Still others think that most aliens visit Earth to study us like our scientists study primitive natives and animals, and have no interest in helping us __(40)__.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Moreover, pieces of junk may collide with each other and break into fragments which fall back to the Earth.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "All the material that every animal, from the smallest fly to the largest elephant, takes in as food also returns to the Earth, as waste matter.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It was millions of miles away from the Earth.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "This extinct volcano is considered the wettest spot on earth, with almost 500 inches of rainfall each year.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A movement of 25 a few millimeters (mm) of the earth’s crust is a sign of possible earthquakes.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, __(34)__ the fairies and dwarfs in many classical tales, were in fact “space people” living here.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is estimated that there are currently over 500,000 pieces of man-made trash orbiting the Earth at speeds of up to 17,500 miles per hour.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since it kept orbiting around the Earth without any consequences, scientists became increasingly comfortable abandoning things that no longer served any useful purpose in space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Some regions prepare horses made of cucumbers and cows made of eggplants, hoping that the spirits will come back to Earth quickly, on a horse, and leave slowly, riding the cow.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Some say that life on Earth __(32)__ “out there” and was seeded here.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk tales are both down-to-earth and highly imaginative.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Once used, the bags are sealed and stored for the flight back to the earth, _(25)_",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But Brahma thought 24 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Our bodies have evolved to exist within Earth’s gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "地球；地面；土壤",
+    "en_def": "The planet on which we live, the third from the sun in the solar system.",
+    "example": "The Earth revolves around the sun once every year."
+  },
+  "sentences_removed": 4
+}

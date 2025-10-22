@@ -1,0 +1,28 @@
+{
+  "lemma": "blindness",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/blindness_ex_0_ed4f3259.mp3"
+      },
+      {
+        "text": "If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/blindness_ex_1_02edc2c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "失明，視力喪失的狀態。",
+    "en_def": "The condition of being unable to see; lack of vision.",
+    "example": "His blindness did not stop him from pursuing his dreams."
+  },
+  "sentences_removed": 0
+}

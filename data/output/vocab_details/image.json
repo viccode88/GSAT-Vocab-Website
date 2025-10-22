@@ -1,0 +1,94 @@
+{
+  "lemma": "image",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the most ordinary objects can present to us powerful images.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/image_ex_0_4d5c975d.mp3"
+      },
+      {
+        "text": "He preferred to edit his images carefully in his darkroom.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/image_ex_1_f33f7b04.mp3"
+      },
+      {
+        "text": "Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/image_ex_2_462acf39.mp3"
+      },
+      {
+        "text": "It replays the image back through the glasses after processing it on an attached computer.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/image_ex_3_bf75ca9a.mp3"
+      },
+      {
+        "text": "Whether simple or lavish, proms have always been more or less traumatic events for adolescents who worry about self-image and fitting in with their peers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/image_ex_4_50712879.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "His powerful images of Yellowstone fired the imagination of Congress members.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Research shows that 31 amounts of exercise—even just 15 minutes a day—helps ease depression, enhance self-image, relieve stress, and much more.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The shocking pictures include images of smoke-damaged lungs and teeth, with reminders in large print that smokers die younger.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following pictures best represents the image of a typical Maasai warrior? (A) (B) (C) (D) 36.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "As the wearer brings the food toward their mouth, the camera captures an image of the food.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "影像；圖像，通常指視覺上可見的物體或場景的表現。",
+    "en_def": "A representation of the external form of a person or thing in art or photography.",
+    "example": "She captured a beautiful image of the sunset."
+  },
+  "sentences_removed": 1
+}

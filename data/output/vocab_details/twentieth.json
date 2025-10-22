@@ -1,0 +1,23 @@
+{
+  "lemma": "twentieth",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But here any resemblance to a twentieth-century hotel ends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/twentieth_ex_0_eb38ad01.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第二十的，表示順序中的第20個。",
+    "en_def": "The ordinal number corresponding to the number 20.",
+    "example": "She finished in twentieth place in the race."
+  },
+  "sentences_removed": 0
+}

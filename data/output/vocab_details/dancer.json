@@ -1,0 +1,38 @@
+{
+  "lemma": "dancer",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was a great dancer.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dancer_ex_0_a8f48043.mp3"
+      },
+      {
+        "text": "Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dancer_ex_1_6c743f4c.mp3"
+      },
+      {
+        "text": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/dancer_ex_2_af560fe9.mp3"
+      },
+      {
+        "text": "The ballet dancers’ __________ movements delighted all the audience.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dancer_ex_3_3e7c7bd0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "舞者；從事舞蹈表演的人。",
+    "en_def": "A person who performs dances, especially as a profession.",
+    "example": "The dancer captivated the audience with her graceful movements."
+  },
+  "sentences_removed": 0
+}

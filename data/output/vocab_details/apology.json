@@ -1,0 +1,23 @@
+{
+  "lemma": "apology",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even though Jack said “Sorry!” to me in person, I did not feel any in his apology.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/apology_ex_0_e2fa4403.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "道歉；對過錯或冒犯的承認和表達懊悔。",
+    "en_def": "A statement expressing regret for an error or offense.",
+    "example": "She offered an apology for being late to the meeting."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,60 @@
+{
+  "lemma": "hospital",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was then admitted to a hospital for treatment, where she was able to recover.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hospital_ex_0_a8888c65.mp3"
+      },
+      {
+        "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hospital_ex_1_e2de649c.mp3"
+      },
+      {
+        "text": "Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/hospital_ex_2_ad3380f1.mp3"
+      },
+      {
+        "text": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hospital_ex_3_74166249.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "_ move his legs and was sent to the hospital right away.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major message the author is trying to convey to readers? (A) All people, especially those working in the hospitals, should reduce the use of plastics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Given the harm caused by the burning of medical waste, physicians and nurses have the responsibility to take a lead in reducing the use of plastics in the hospitals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After all, they can’t be treating cancer on the inside of hospitals and contributing to it on the outside. 52.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "醫院：提供醫療服務的機構，通常包括診斷、治療和護理。",
+    "en_def": "A hospital is an institution that provides medical treatment and care for patients.",
+    "example": "She was taken to the hospital after the accident."
+  },
+  "sentences_removed": 1
+}

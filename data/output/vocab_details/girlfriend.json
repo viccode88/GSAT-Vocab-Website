@@ -1,0 +1,23 @@
+{
+  "lemma": "girlfriend",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At the very beginning, only 33 names were used because at that time typhoons were named after girlfriends or wives of the experts on the committee.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/girlfriend_ex_0_c10bcd75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "女朋友，指與某人有浪漫關係的女性伴侶。",
+    "en_def": "A girlfriend is a female partner in a romantic relationship.",
+    "example": "She introduced her girlfriend to her family at dinner."
+  },
+  "sentences_removed": 0
+}

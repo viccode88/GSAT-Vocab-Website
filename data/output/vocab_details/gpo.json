@@ -1,0 +1,23 @@
+{
+  "lemma": "gpo",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/gpo_ex_0_c0d7b070.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "群組政策物件，指在Windows操作系統中用於管理和配置計算機和用戶設置的集合。",
+    "en_def": "Group Policy Object, a collection used in Windows operating systems to manage and configure computer and user settings.",
+    "example": "The IT department implemented a new GPO to enhance security across all company computers."
+  },
+  "sentences_removed": 0
+}

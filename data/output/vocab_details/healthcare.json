@@ -1,0 +1,23 @@
+{
+  "lemma": "healthcare",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "More than 2,000 adults took part in the survey to find out about their knowledge of diet, healthcare, disease control, and medication.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/healthcare_ex_0_e844c0fd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "醫療保健，指提供醫療服務以促進和維護健康的系統或行業。",
+    "en_def": "Healthcare refers to the organized provision of medical services to maintain or improve people's health.",
+    "example": "Access to quality healthcare is essential for a healthy society."
+  },
+  "sentences_removed": 1
+}

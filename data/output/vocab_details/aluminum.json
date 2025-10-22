@@ -1,0 +1,23 @@
+{
+  "lemma": "aluminum",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/aluminum_ex_0_5e4546f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鋁，一種輕質金屬，具有良好的導電性和耐腐蝕性，常用於製造各種產品。",
+    "en_def": "Aluminum, a lightweight metal known for its good conductivity and corrosion resistance, commonly used in manufacturing various products.",
+    "example": "The airplane's body is made of aluminum to reduce weight and improve fuel efficiency."
+  },
+  "sentences_removed": 0
+}

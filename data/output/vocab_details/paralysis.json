@@ -1,0 +1,23 @@
+{
+  "lemma": "paralysis",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/paralysis_ex_0_2a2d4c2a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "癱瘓；失去運動能力或感覺的狀態。",
+    "en_def": "A state of being unable to move or feel in part or most of the body.",
+    "example": "The accident left him with paralysis in his legs."
+  },
+  "sentences_removed": 0
+}

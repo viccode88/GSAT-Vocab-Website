@@ -1,0 +1,28 @@
+{
+  "lemma": "habitat",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant’s habitats and endangering their population.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/habitat_ex_0_348c4c35.mp3"
+      },
+      {
+        "text": "H. Henry Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/habitat_ex_1_a0ec0d14.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生物的自然環境或棲息地。",
+    "en_def": "The natural environment in which a particular species or community of organisms lives.",
+    "example": "The rainforest is a diverse habitat for many species of plants and animals."
+  },
+  "sentences_removed": 0
+}

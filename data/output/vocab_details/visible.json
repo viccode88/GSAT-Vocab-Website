@@ -1,0 +1,23 @@
+{
+  "lemma": "visible",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones which stayed in front of their chairs, only a few inches from their mouths, thus giving excellent sound quality.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/visible_ex_0_8d504a3e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可見的，能夠被看見或察覺的。",
+    "en_def": "Able to be seen; perceptible to the eye.",
+    "example": "The stars are visible in the night sky."
+  },
+  "sentences_removed": 0
+}

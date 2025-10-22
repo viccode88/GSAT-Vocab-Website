@@ -1,0 +1,33 @@
+{
+  "lemma": "performer",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1761, while living in England, Franklin heard a performer playing musical glasses.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/performer_ex_0_d3ee222b.mp3"
+      },
+      {
+        "text": "The performer’s fingers have to be slightly wet when playing it.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/performer_ex_1_fe1cb88e.mp3"
+      },
+      {
+        "text": "Performers usually play on a tall stage with lanterns and banners strung all around.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/performer_ex_2_761a5571.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "表演者，特別是在音樂、戲劇或舞蹈等表演藝術中進行表演的人。",
+    "en_def": "A person who entertains an audience by acting, singing, dancing, or playing a musical instrument.",
+    "example": "The performer captivated the audience with her stunning dance routine."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "corporación",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This group of islands off the coast of Ecuador has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/corporación_ex_0_89469594.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種法律上承認的組織，通常由多個人組成，目的是進行商業活動或其他類型的活動。",
+    "en_def": "A legal entity formed by a group of individuals to conduct business or other activities.",
+    "example": "The corporation announced its plans to expand into international markets."
+  },
+  "sentences_removed": 0
+}

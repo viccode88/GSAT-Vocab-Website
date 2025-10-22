@@ -1,0 +1,23 @@
+{
+  "lemma": "suburb",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/suburb_ex_0_1752cc30.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "郊區，通常指城市周圍的住宅區，與市中心相對。",
+    "en_def": "A residential area on the outskirts of a city.",
+    "example": "They moved to a suburb to enjoy a quieter lifestyle."
+  },
+  "sentences_removed": 0
+}

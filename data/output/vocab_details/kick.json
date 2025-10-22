@@ -1,0 +1,23 @@
+{
+  "lemma": "kick",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It has been very successful and has led to a 44% __(23)__ in smokers wanting to kick the habit.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/kick_ex_0_57d0ac27.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用腳踢或猛擊某物。",
+    "en_def": "To strike or hit something with the foot.",
+    "example": "He decided to kick the ball into the goal."
+  },
+  "sentences_removed": 0
+}

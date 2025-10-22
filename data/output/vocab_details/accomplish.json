@@ -1,0 +1,38 @@
+{
+  "lemma": "accomplish",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Icelandic success is accomplished largely through cooperative efforts across various industries.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/accomplish_ex_0_1ae0f8f0.mp3"
+      },
+      {
+        "text": "The tools used for sculpting also affect when the task can be accomplished.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/accomplish_ex_1_9dc7b13d.mp3"
+      },
+      {
+        "text": "All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/accomplish_ex_2_da153e9a.mp3"
+      },
+      {
+        "text": "This is a report about John Glenn after he (A) successfully accomplished his 1962 Mercury flight.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accomplish_ex_3_179d7042.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "完成，達成（某事）",
+    "en_def": "To achieve or complete something successfully.",
+    "example": "She worked hard to accomplish her goals."
+  },
+  "sentences_removed": 1
+}

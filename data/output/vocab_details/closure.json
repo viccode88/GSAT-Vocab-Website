@@ -1,0 +1,23 @@
+{
+  "lemma": "closure",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He first tried cotton, but it proved too soft and could not withstand repeated openings and closures.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/closure_ex_0_1ee83aa5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "結束，結論或完成某事的狀態或過程。",
+    "en_def": "The state or process of bringing something to an end or conclusion.",
+    "example": "After a long discussion, they finally reached closure on the project."
+  },
+  "sentences_removed": 0
+}

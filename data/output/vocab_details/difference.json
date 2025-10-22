@@ -1,0 +1,139 @@
+{
+  "lemma": "difference",
+  "count": 26,
+  "pos_dist": {
+    "NOUN": 26
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If we go north or south, we won’t notice any difference, because there is usually no time zone change.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/difference_ex_0_fbdb377b.mp3"
+      },
+      {
+        "text": "They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/difference_ex_1_ac4d2fd3.mp3"
+      },
+      {
+        "text": "So you see, everyone can make a difference.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/difference_ex_2_84a79a08.mp3"
+      },
+      {
+        "text": "This can be clearly demonstrated by comparing the genes of chimpanzees and those of humans: the difference between them is just about 2 percent. .",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/difference_ex_3_68fab1e0.mp3"
+      },
+      {
+        "text": "The body takes about one day to get over each hour of time difference.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/difference_ex_4_8b129dc7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Some scientists believe that the color difference between the young and the old indicates their different social positions.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "__(39)__ men and women are able to respect and accept their differences, love has a chance to blossom.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The difference among the brothers.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Participation costs the donor nothing and can make such a difference to others. 41.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main difference between a chimpanzee’s brain and a human’s? 4.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent research has shown that there are biological differences between boys and girls.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, girls are born with more sensitive hearing than boys, and the difference increases as kids grow up.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "How does Hirsch explain this difference?",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Laughter, too, has a beneficial effect on our immune system, (38) the production of white blood cells and increasing our resistance to infection.(39) makes a difference to our appearance, too, when we relax our facial muscles!",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Research about learning styles has identified __(26)__ differences.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Understanding these differences is important in raising and educating children.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, one study found various differences __(27)__ boys and girls in sensory learning styles.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, parents and teachers should try to recognize, understand, and make use of the biological differences that make a girl a girl, and a boy a boy.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "You can notice the difference.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sex differences should be ignored in education.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Love is, __(40)__, magical, and it certainly can last if we remember our differences and respect each other.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "差異；不同之處",
+    "en_def": "The quality or condition of being unlike or dissimilar.",
+    "example": "There is a significant difference between the two proposals."
+  },
+  "sentences_removed": 1
+}

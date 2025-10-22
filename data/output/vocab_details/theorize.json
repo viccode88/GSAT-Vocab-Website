@@ -1,0 +1,28 @@
+{
+  "lemma": "theorize",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“I don’t believe God is after me,” he theorized.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/theorize_ex_0_9cd340b5.mp3"
+      },
+      {
+        "text": "Some scholars theorize that onions may have been used for the dead because it was believed that their strong scent would 40 the dead to breathe again.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/theorize_ex_1_1453b325.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "推測或提出理論。",
+    "en_def": "To form a theory or set of theories about something.",
+    "example": "Scientists often theorize about the origins of the universe."
+  },
+  "sentences_removed": 0
+}

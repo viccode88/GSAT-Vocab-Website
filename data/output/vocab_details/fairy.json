@@ -1,0 +1,33 @@
+{
+  "lemma": "fairy",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the main tree dies, the sprouts are then free to grow as full trees, forming a “fairy ring” of trees around the initial tree.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fairy_ex_0_83299c57.mp3"
+      },
+      {
+        "text": "What does a “fairy ring” in the last paragraph refer to? (A) Circled tree trunks.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fairy_ex_1_c835f8eb.mp3"
+      },
+      {
+        "text": "what happens on Earth, and are responsible for quite a few legends, and that the ancient Greek and Roman gods, __(34)__ the fairies and dwarfs in many classical tales, were in fact “space people” living here.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/fairy_ex_2_1b0f1b75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小精靈，通常被描繪為擁有魔法能力的女性生物，常見於童話故事中。",
+    "en_def": "A small imaginary being of human form that has magical powers, often depicted as having wings.",
+    "example": "The children believed that a fairy lived in the garden."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "trembling",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Feeling quite sick with fear, I sat on the driver’s seat, trying to stop trembling.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/trembling_ex_0_34496d2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "顫抖，因為寒冷、恐懼或情緒而引起的身體顫動。",
+    "en_def": "The act of shaking or quivering, often due to cold, fear, or strong emotion.",
+    "example": "She was trembling with excitement as she opened her birthday present."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "rem",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One is Rapid Eye Movement (REM) sleep.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rem_ex_0_6978daec.mp3"
+      },
+      {
+        "text": "Scientists have discovered that dreams happen mainly in REM sleep.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rem_ex_1_b97aa52b.mp3"
+      },
+      {
+        "text": "23 people who say they never dream show about 20 percent of REM sleep.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rem_ex_2_c5f42f5d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種計算機科學術語，指的是從記憶體中刪除或忽略某些內容。",
+    "en_def": "A computer science term referring to the act of removing or disregarding certain content from memory.",
+    "example": "You can use the 'rem' command to clear unnecessary data from the system."
+  },
+  "sentences_removed": 0
+}

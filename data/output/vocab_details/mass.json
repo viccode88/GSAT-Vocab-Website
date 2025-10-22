@@ -1,0 +1,38 @@
+{
+  "lemma": "mass",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Though it was once known to the world for the 1994 tribal conflict that resulted in about one million deaths, Rwanda has 30 the mass killing.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/mass_ex_0_e0e5cd80.mp3"
+      },
+      {
+        "text": "The Japanese used their rubber reserves from the war to mass-produce the simplest Japanese footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/mass_ex_1_22a3d6d8.mp3"
+      },
+      {
+        "text": "De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/mass_ex_2_f1f473e3.mp3"
+      },
+      {
+        "text": "According to this passage, mass production of potato chips was made possible when ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mass_ex_3_d4c4120a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "質量；大量，群眾",
+    "en_def": "The quantity of matter in an object, often measured in kilograms or grams; a large number of people or things.",
+    "example": "The mass of the object was too heavy for one person to lift."
+  },
+  "sentences_removed": 0
+}

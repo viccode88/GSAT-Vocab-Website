@@ -1,0 +1,49 @@
+{
+  "lemma": "ensure",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are often given a checklist that provides directions on what to observe or look out for to ensure consistency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/ensure_ex_0_9698c3e9.mp3"
+      },
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/ensure_ex_1_35c28d8f.mp3"
+      },
+      {
+        "text": "She will ensure it doesn’t happen again.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ensure_ex_2_54fc9481.mp3"
+      },
+      {
+        "text": "They ensured the meat would not twist while being cut.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ensure_ex_3_c758fc9c.mp3"
+      },
+      {
+        "text": "It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ensure_ex_4_9e60a20c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To reduce the weight and ensure the safety.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "確保，保證某事發生或某事的真實性。",
+    "en_def": "To make certain that something will happen or be the case.",
+    "example": "Please ensure that the door is locked before you leave."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "wireless",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/wireless_ex_0_77b61f58.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無線的，指不需要電纜或導線的通信或連接方式。",
+    "en_def": "Relating to or using radio, microwaves, or other signals to transmit data without physical connections.",
+    "example": "The wireless internet connection allows us to access the web from anywhere in the house."
+  },
+  "sentences_removed": 0
+}

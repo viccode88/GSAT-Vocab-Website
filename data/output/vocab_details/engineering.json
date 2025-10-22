@@ -1,0 +1,49 @@
+{
+  "lemma": "engineering",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But this story written 40 years ago __(27)__ predicted the arrival of a recent method of genetic engineering—cloning.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/engineering_ex_0_2d7c03a1.mp3"
+      },
+      {
+        "text": "What does “an engineering feat” mean? (A) A big success in construction.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/engineering_ex_1_212319ce.mp3"
+      },
+      {
+        "text": "Rapid advancement in motor engineering makes it _____ possible to build a flying car in the near future.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/engineering_ex_2_0c77c4f4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following fields is NOT mentioned for Velcro uses in the passage? (A) Civil engineering.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "how the ancient Egyptians created such marvelous feats of engineering as the pyramids? (A) concluded (B) wondered (C) admitted (D) persuaded 5.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The road is considered an engineering feat.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "工程學；應用科學的技術和設計。",
+    "en_def": "The application of scientific and mathematical principles to design and build structures, machines, and systems.",
+    "example": "She decided to pursue a degree in engineering to design sustainable buildings."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "tuesday",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "星期二，週的第二天。",
+    "en_def": "Tuesday, the second day of the week.",
+    "example": "I have a meeting scheduled for Tuesday."
+  },
+  "sentences_removed": 1
+}

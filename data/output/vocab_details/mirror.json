@@ -1,0 +1,23 @@
+{
+  "lemma": "mirror",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You 16 the mirror to find a tiny red spot on the base of your lower lashes.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mirror_ex_0_e35a7c32.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鏡子；反射物體的表面",
+    "en_def": "A reflective surface, typically made of glass coated with a metal amalgam, that reflects a clear image.",
+    "example": "She looked at her reflection in the mirror."
+  },
+  "sentences_removed": 1
+}

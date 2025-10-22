@@ -1,0 +1,29 @@
+{
+  "lemma": "indoor",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/indoor_ex_0_5d947192.mp3"
+      },
+      {
+        "text": "They also make mounds indoors.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/indoor_ex_1_69b90535.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "室內的，指在建築物內部的空間或活動。",
+    "en_def": "Located, occurring, or used within a building.",
+    "example": "We decided to have the party indoors because of the rain."
+  },
+  "sentences_removed": 0
+}

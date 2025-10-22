@@ -1,0 +1,28 @@
+{
+  "lemma": "compass",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/compass_ex_0_8a194e44.mp3"
+      },
+      {
+        "text": "Whether cattle behave like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/compass_ex_1_395bd90a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指南針：一種用於指示方向的工具，通常有一個自由旋轉的磁針，指向地球的磁北極。",
+    "en_def": "A compass is a device used for navigation and orientation that shows direction relative to the Earth's magnetic poles.",
+    "example": "He used a compass to find his way through the dense forest."
+  },
+  "sentences_removed": 0
+}

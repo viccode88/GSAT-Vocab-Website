@@ -1,0 +1,17 @@
+{
+  "lemma": "cent",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種貨幣單位，通常是美元或其他貨幣的百分之一。",
+    "en_def": "A monetary unit that is typically one hundredth of a dollar or other currency.",
+    "example": "The candy costs fifty cents."
+  },
+  "sentences_removed": 1
+}

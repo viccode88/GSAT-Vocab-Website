@@ -1,0 +1,28 @@
+{
+  "lemma": "rumor",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As the rumor of his scandal ______ quickly during the election campaign, more and more people began to question the honesty of the candidate.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/rumor_ex_0_18a59e97.mp3"
+      },
+      {
+        "text": "It is both legally and _______ wrong to spread rumors about other people on the Internet.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rumor_ex_1_b4d0b81f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "未經證實的消息或傳聞。",
+    "en_def": "A piece of information or a story that is passed from person to person but has not been confirmed as true.",
+    "example": "There was a rumor that the company would be closing down soon."
+  },
+  "sentences_removed": 0
+}

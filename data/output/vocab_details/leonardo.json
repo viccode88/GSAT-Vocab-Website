@@ -1,0 +1,28 @@
+{
+  "lemma": "leonardo",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/leonardo_ex_0_9e31f671.mp3"
+      },
+      {
+        "text": "In this movie, Leonardo DiCaprio played both King Louis XIV and his twin brother Philippe.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/leonardo_ex_1_19502cca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "列奧納多，意指意大利文藝復興時期的藝術家和科學家，最著名的作品包括《蒙娜麗莎》和《最後的晚餐》。",
+    "en_def": "Leonardo refers to Leonardo da Vinci, an Italian Renaissance artist and scientist known for masterpieces like the 'Mona Lisa' and 'The Last Supper.'",
+    "example": "Leonardo da Vinci was a true polymath, excelling in both art and science."
+  },
+  "sentences_removed": 0
+}

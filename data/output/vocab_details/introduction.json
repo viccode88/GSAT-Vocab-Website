@@ -1,0 +1,38 @@
+{
+  "lemma": "introduction",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/introduction_ex_0_58d3c320.mp3"
+      },
+      {
+        "text": "Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/introduction_ex_1_6f656728.mp3"
+      },
+      {
+        "text": "What is the theme of this passage? (A) Introduction to a foreign culture.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/introduction_ex_2_9484487d.mp3"
+      },
+      {
+        "text": "his primary school classmate Mary until he listened to her self-introduction.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/introduction_ex_3_b47fd74f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "介紹；引言",
+    "en_def": "The act of bringing something into use or operation for the first time.",
+    "example": "The introduction of the new policy improved employee satisfaction."
+  },
+  "sentences_removed": 0
+}

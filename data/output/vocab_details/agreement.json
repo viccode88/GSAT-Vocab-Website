@@ -1,0 +1,43 @@
+{
+  "lemma": "agreement",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/agreement_ex_0_e830ef29.mp3"
+      },
+      {
+        "text": "It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/agreement_ex_1_d41af6dd.mp3"
+      },
+      {
+        "text": "On June 19, 2001, an agreement was signed between the International Olympic Committee and the International Paralympics Committee to keep this 30 in the future.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/agreement_ex_2_78f1cad7.mp3"
+      },
+      {
+        "text": "It does not matter if the agreement would hold up in court, but it does give the exchangers a little satisfaction.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/agreement_ex_3_96d60d74.mp3"
+      },
+      {
+        "text": "They may fill out an agreement spelling out who shoulders which responsibilities if a problem arises.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/agreement_ex_4_60b3fbd6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "協議；同意的狀態或條件",
+    "en_def": "A mutual understanding or arrangement between parties.",
+    "example": "We reached an agreement on the terms of the contract."
+  },
+  "sentences_removed": 0
+}

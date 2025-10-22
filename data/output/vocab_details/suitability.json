@@ -1,0 +1,23 @@
+{
+  "lemma": "suitability",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Another issue is the suitability of exposing feet on the street and places other than the beach.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/suitability_ex_0_6d6d2726.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "適合性；合適的程度",
+    "en_def": "The quality of being right or appropriate for a particular purpose or situation.",
+    "example": "The suitability of the candidate for the job was evident during the interview."
+  },
+  "sentences_removed": 0
+}

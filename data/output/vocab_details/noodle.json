@@ -1,0 +1,23 @@
+{
+  "lemma": "noodle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/noodle_ex_0_12f666cb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種長條形的食物，通常由麵粉和水製成，經過煮熟後食用。",
+    "en_def": "A long, thin piece of food made from flour and water, typically cooked and eaten.",
+    "example": "I love to eat noodle soup on cold days."
+  },
+  "sentences_removed": 0
+}

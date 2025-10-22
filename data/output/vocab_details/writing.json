@@ -1,0 +1,39 @@
+{
+  "lemma": "writing",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Wendy is good at writing and she doesn’t like to work according to a fixed schedule.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/writing_ex_0_aba3fae8.mp3"
+      },
+      {
+        "text": "What’s a Friend for (B) Seashells and Mollusks (C) Appropriate Topics for Writing (D) Writing for Different Purposes 42.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/writing_ex_1_b5b588be.mp3"
+      },
+      {
+        "text": "Jonathan had qualified as a doctor but later gave up the of medicine for full-time writing.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/writing_ex_2_e3fce0c8.mp3"
+      },
+      {
+        "text": "A lot of ancient civilizations, __(37)__ the Egyptians, Hindus, Greeks, and Mayans, have left writings and __(38)__ which indicate contacts with superior beings “from the stars.”",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/writing_ex_3_069fddee.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "寫作；書寫的行為或過程。",
+    "en_def": "The act or process of composing text.",
+    "example": "She enjoys writing stories in her free time."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "faith",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Girls’ names such as Faith, Patience, and Sophie (wisdom) are chosen because they symbolize Christian qualities.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/faith_ex_0_eddb3588.mp3"
+      },
+      {
+        "text": "The third kind is called “health spas,” or “faith healing.”",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/faith_ex_1_8730815e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對某人或某事的信任或相信，通常不需要證據或證明。",
+    "en_def": "A strong belief or trust in someone or something, often without requiring proof.",
+    "example": "She has faith that everything will work out in the end."
+  },
+  "sentences_removed": 0
+}

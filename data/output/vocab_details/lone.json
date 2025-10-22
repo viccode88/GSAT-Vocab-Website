@@ -1,0 +1,23 @@
+{
+  "lemma": "lone",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In society, the former player does not look upon himself as a lone wolf who has the right to remain 36 from the society and go his own way.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/lone_ex_0_56584fb3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "孤獨的；單獨的",
+    "en_def": "Being alone; solitary.",
+    "example": "He felt lone while walking through the empty streets."
+  },
+  "sentences_removed": 0
+}

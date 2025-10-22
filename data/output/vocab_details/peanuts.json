@@ -1,0 +1,23 @@
+{
+  "lemma": "peanuts",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dooley keeps Peanuts company while the adults in the family attend to Grandfather.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/peanuts_ex_0_93daab58.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "花生，一種常見的豆類植物，通常用於食物或製作油。",
+    "en_def": "Peanuts are a type of legume that is commonly used as food or for making oil.",
+    "example": "I love snacking on roasted peanuts while watching a movie."
+  },
+  "sentences_removed": 0
+}

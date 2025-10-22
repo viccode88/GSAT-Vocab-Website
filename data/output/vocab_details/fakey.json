@@ -1,0 +1,23 @@
+{
+  "lemma": "fakey",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "That being said, I’m definitely a carnivore and prefer meat, but I don’t see anything wrong with choosing one of the fakey- fakey meaty things once in a while—just for a change.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fakey_ex_0_a7126c2f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "假冒的；不真實的",
+    "en_def": "Not genuine; fake or artificial.",
+    "example": "She wore a fakey designer handbag that looked real at first glance."
+  },
+  "sentences_removed": 0
+}

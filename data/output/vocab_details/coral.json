@@ -1,0 +1,50 @@
+{
+  "lemma": "coral",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 5,
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/coral_ex_0_431ca077.mp3"
+      },
+      {
+        "text": "Higher ocean temperatures kill the important food source for the coral—the algae, the tiny greenish-gold water plants that live on coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/coral_ex_1_4c3a0019.mp3"
+      },
+      {
+        "text": "Moreover, some people even break coral off to collect for 40 since it is so colorful and pretty.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/coral_ex_2_3d0f97cc.mp3"
+      },
+      {
+        "text": "This process, known as “coral bleaching,” has happened more and more frequently in recent years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/coral_ex_3_45a1a90b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The last factor contributing to the 39 of coral reefs is people.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "When the algae die, the coral loses its color and it also dies 38 .",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "珊瑚是一種海洋生物，通常形成礁石，具有硬質外殼，並且是海洋生態系統的重要組成部分。",
+    "en_def": "Coral is a marine organism that typically forms reefs, has a hard outer structure, and is an important part of marine ecosystems.",
+    "example": "The coral reef is home to a diverse range of marine life."
+  },
+  "sentences_removed": 2
+}

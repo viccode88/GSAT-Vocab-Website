@@ -1,0 +1,23 @@
+{
+  "lemma": "appetite",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To arouse the appetite of the pet.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/appetite_ex_0_0e1fc034.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "食慾；對食物的渴望或需求。",
+    "en_def": "A natural desire to satisfy a bodily need, especially for food.",
+    "example": "After a long hike, I had a huge appetite for dinner."
+  },
+  "sentences_removed": 0
+}

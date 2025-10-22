@@ -1,0 +1,23 @@
+{
+  "lemma": "victory",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A second important thing is you never rest on the last victory.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/victory_ex_0_86a31a4d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "勝利；成功的結果或狀態",
+    "en_def": "The act of winning or achieving success in a contest or struggle.",
+    "example": "The team celebrated their victory after the championship game."
+  },
+  "sentences_removed": 0
+}

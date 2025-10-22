@@ -1,0 +1,94 @@
+{
+  "lemma": "tradition",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/tradition_ex_0_97d1c356.mp3"
+      },
+      {
+        "text": "His style faithfully conformed to the artistic traditions of his time.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tradition_ex_1_d7323310.mp3"
+      },
+      {
+        "text": "The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tradition_ex_2_7fae8186.mp3"
+      },
+      {
+        "text": "However, the tradition of men wearing it has faded in recent times, so nowadays we see a lot more women than men wearing one.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/tradition_ex_3_b790e90d.mp3"
+      },
+      {
+        "text": "Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/tradition_ex_4_b675b0d9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In fact, they are one of the few tribes that have retained most of their traditions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Some families have a tradition of 32 the father’s first name to the first born son.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The best ice chisels are made in Japan, a country that, along with China, has a long tradition of magnificent ice sculptures.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The parents’ vague understanding of their own tradition.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A long-standing tradition in the UK.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They have been urged by governments to leave behind their traditions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "their own cultures and traditions.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the significance of the third eye in Hindu tradition? (A) To stay in harmony with nature.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "C. Cathy Zoos are a tradition, and a visit to a zoo is a wholesome family activity.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "傳統是指在社會或文化中世代相傳的習俗、信仰或做法。",
+    "en_def": "Tradition refers to customs, beliefs, or practices that are passed down through generations within a society or culture.",
+    "example": "Every year, our family follows the tradition of gathering for a big dinner on Thanksgiving."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "equally",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These are reasonable causes for concern, but equally unlikely.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/equally_ex_0_6927fd6c.mp3"
+      },
+      {
+        "text": "A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/equally_ex_1_cdc06031.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "同樣地，平等地",
+    "en_def": "In the same manner or to the same degree; fairly.",
+    "example": "The prizes will be distributed equally among the winners."
+  },
+  "sentences_removed": 0
+}

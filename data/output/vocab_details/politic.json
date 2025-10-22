@@ -1,0 +1,33 @@
+{
+  "lemma": "politic",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/politic_ex_0_a5fc4098.mp3"
+      },
+      {
+        "text": "Used to caring for others, they are more likely to move toward such leadership professions as teaching and politics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/politic_ex_1_b84f583e.mp3"
+      },
+      {
+        "text": "The belief even affects politics.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/politic_ex_2_36ca86fc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與政治有關的，或涉及權力和治理的事務。",
+    "en_def": "Relating to the government or public affairs of a country.",
+    "example": "She has a strong interest in politic issues and often participates in debates."
+  },
+  "sentences_removed": 0
+}

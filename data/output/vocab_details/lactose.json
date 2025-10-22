@@ -1,0 +1,23 @@
+{
+  "lemma": "lactose",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water 25 .",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/lactose_ex_0_d36a63e3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "乳糖是一種存在於乳製品中的糖類，主要由葡萄糖和半乳糖組成。",
+    "en_def": "Lactose is a sugar found in milk and dairy products, composed of glucose and galactose.",
+    "example": "Some people are lactose intolerant and cannot digest dairy products."
+  },
+  "sentences_removed": 0
+}

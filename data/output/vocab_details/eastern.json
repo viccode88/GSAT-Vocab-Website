@@ -1,0 +1,28 @@
+{
+  "lemma": "eastern",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/eastern_ex_0_62da6c1b.mp3"
+      },
+      {
+        "text": "Medvedev Vladimir, 43, and his son, Maxsine, 14, sailed from an unnamed eastern Russian seaport on August 18, to begin an ambitious around-the-world cruise.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/eastern_ex_1_cd2beacd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "位於或來自東方的，或與東方有關的。",
+    "en_def": "Relating to the east or the eastern part of a region.",
+    "example": "The eastern part of the country is known for its beautiful landscapes."
+  },
+  "sentences_removed": 0
+}

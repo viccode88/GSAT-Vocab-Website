@@ -1,0 +1,28 @@
+{
+  "lemma": "caxton",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was printed in Flanders in 1474 by an Englishman, William Caxton.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/caxton_ex_0_4c932471.mp3"
+      },
+      {
+        "text": "The use of movable type was first introduced by (A) William Caxton.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/caxton_ex_1_30f8080c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "凱克斯頓，英國印刷商，於15世紀末至16世紀初推廣印刷技術。",
+    "en_def": "Caxton, an English printer who introduced the printing press to England in the late 15th century.",
+    "example": "William Caxton was the first to print books in the English language."
+  },
+  "sentences_removed": 0
+}

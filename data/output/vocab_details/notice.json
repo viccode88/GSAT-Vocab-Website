@@ -1,0 +1,60 @@
+{
+  "lemma": "notice",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 6,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If we go north or south, we won’t notice any difference, because there is usually no time zone change.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/notice_ex_0_fbdb377b.mp3"
+      },
+      {
+        "text": "In the early 1990s, however, scientists noticed that synesthetic colors do not change over time.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/notice_ex_1_e37bdc15.mp3"
+      },
+      {
+        "text": "“But,” says Jack, “most people don’t take any notice of the doctor’s advice!” 44.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/notice_ex_2_622fb6e2.mp3"
+      },
+      {
+        "text": "As they moved from one table to another, they noticed new ideas emerging from the discussions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/notice_ex_3_3abe4466.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "You can notice the difference.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers noticed that small drops of water on the wheat leaves would move to combine and form a larger drop.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From the statement “But … most people don’t take any notice of the doctor's advice!”",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Later, as steel wire became more common, inventors began to notice its elastic feature.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "通知；公告；注意",
+    "en_def": "A written or spoken announcement or warning.",
+    "example": "I received a notice about the upcoming meeting."
+  },
+  "sentences_removed": 0
+}

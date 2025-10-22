@@ -1,0 +1,23 @@
+{
+  "lemma": "assassinate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His photos told the world who was guilty of assassinating Gandhi. 52.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/assassinate_ex_0_fa0c0ca5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "暗殺，特別是出於政治原因而故意殺害某人。",
+    "en_def": "To deliberately kill a prominent or important person, often for political reasons.",
+    "example": "The politician was assassinated during a public event."
+  },
+  "sentences_removed": 0
+}

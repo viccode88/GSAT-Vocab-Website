@@ -1,0 +1,23 @@
+{
+  "lemma": "random",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, the change is not made at random; it happens for a specific reason.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/random_ex_0_f4d24478.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "隨機的；無特定模式或計劃的",
+    "en_def": "Made, done, or happening without method or conscious decision.",
+    "example": "The numbers were chosen at random for the lottery."
+  },
+  "sentences_removed": 1
+}

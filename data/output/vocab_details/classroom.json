@@ -1,0 +1,59 @@
+{
+  "lemma": "classroom",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/classroom_ex_0_a8f1c3c3.mp3"
+      },
+      {
+        "text": "The moment the students felt the earthquake, they ran ______ out of the classroom to an open area outside.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/classroom_ex_1_b7e414b0.mp3"
+      },
+      {
+        "text": "To encourage classroom _____, the teacher divided the class into groups and asked them to solve a problem together with their partners.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/classroom_ex_2_9c5711d9.mp3"
+      },
+      {
+        "text": "They crowd the classrooms at Bekoji Elementary School, where Eshetu works as a physical-education instructor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/classroom_ex_3_d04337e5.mp3"
+      },
+      {
+        "text": "With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/classroom_ex_4_51c632f3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Since our classroom is not air-conditioned, we have to _____",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The teacher showed ______ for the noise in the classroom and continued with his lecture as if he had not heard anything.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To prove that classrooms there are big enough to host many families.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "教室，供學生上課和學習的房間。",
+    "en_def": "A room where students are taught and learn.",
+    "example": "The teacher arranged the desks in a circle in the classroom."
+  },
+  "sentences_removed": 1
+}

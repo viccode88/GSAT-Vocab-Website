@@ -1,0 +1,23 @@
+{
+  "lemma": "dare",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To be creative, you must dare __(16)__, and courageously express your own outlook and __(17)__",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/dare_ex_0_8c8023bc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "敢於做某事，尤其是挑戰或冒險的行為。",
+    "en_def": "To have the courage to do something, especially something challenging or risky.",
+    "example": "I dare you to jump into the lake!"
+  },
+  "sentences_removed": 0
+}

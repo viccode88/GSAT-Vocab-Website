@@ -1,0 +1,28 @@
+{
+  "lemma": "scarcity",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "First, scarcity is a major determinant.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/scarcity_ex_0_382a1d38.mp3"
+      },
+      {
+        "text": "In other words, the scarcity of goods is 29 causes humans to attribute value.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scarcity_ex_1_2f8e4307.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "稀缺，指某種資源或物品的數量不足，無法滿足需求。",
+    "en_def": "The state of being in short supply; a situation in which something is not easily available.",
+    "example": "The scarcity of water in the region has led to strict conservation measures."
+  },
+  "sentences_removed": 0
+}

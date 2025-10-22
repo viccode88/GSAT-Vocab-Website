@@ -1,0 +1,23 @@
+{
+  "lemma": "johnson",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mr. Johnson was disappointed at his students for having a passive learning ______.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/johnson_ex_0_d0f08e99.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "約翰遜，常見的姓氏，可能指代多位著名人物或品牌。",
+    "en_def": "Johnson is a common surname, often referring to various notable individuals or brands.",
+    "example": "Johnson won the award for best actor last night."
+  },
+  "sentences_removed": 0
+}

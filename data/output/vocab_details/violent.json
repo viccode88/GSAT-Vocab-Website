@@ -1,0 +1,23 @@
+{
+  "lemma": "violent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To gain more ______, some legislators would get into violent physical fights so that they may appear in TV news reports.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/violent_ex_0_e99c41ad.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "形容詞，指使用或涉及暴力的行為或情況。",
+    "en_def": "Adjective describing actions or situations that involve physical force intended to hurt or damage.",
+    "example": "The movie was too violent for young audiences."
+  },
+  "sentences_removed": 0
+}

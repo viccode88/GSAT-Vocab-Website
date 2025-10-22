@@ -1,0 +1,33 @@
+{
+  "lemma": "explosion",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements is true, according to the passage? (A) Knight was injured in the explosion of his traffic light.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/explosion_ex_0_e4097a98.mp3"
+      },
+      {
+        "text": "A gas leak one month later caused an explosion in the lights, injuring the policeman operating it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/explosion_ex_1_b6cf810d.mp3"
+      },
+      {
+        "text": "First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/explosion_ex_2_eabcf368.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "爆炸；突然的強烈爆發或擴散。",
+    "en_def": "A sudden and violent release of energy, often resulting in a loud noise and destruction.",
+    "example": "The explosion shattered the windows of nearby buildings."
+  },
+  "sentences_removed": 0
+}

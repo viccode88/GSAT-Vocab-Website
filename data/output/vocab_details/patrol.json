@@ -1,0 +1,23 @@
+{
+  "lemma": "patrol",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Strike five occurred in 1973 when Sullivan was on patrol.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/patrol_ex_0_0d9f73d1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巡邏，指在特定區域內定期檢查以維持安全或監視。",
+    "en_def": "To walk or drive around an area to monitor or maintain security.",
+    "example": "The police will patrol the neighborhood to ensure everyone's safety."
+  },
+  "sentences_removed": 0
+}

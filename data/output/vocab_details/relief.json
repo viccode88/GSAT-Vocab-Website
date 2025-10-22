@@ -1,0 +1,28 @@
+{
+  "lemma": "relief",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I almost wept with relief!",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/relief_ex_0_fb369d80.mp3"
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/relief_ex_1_2234894e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "緩解，減輕痛苦或壓力的狀態或行為。",
+    "en_def": "The alleviation or easing of pain, distress, or anxiety.",
+    "example": "The medicine provided her with immediate relief from the headache."
+  },
+  "sentences_removed": 0
+}

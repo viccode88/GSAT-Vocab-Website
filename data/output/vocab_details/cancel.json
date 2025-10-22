@@ -1,0 +1,28 @@
+{
+  "lemma": "cancel",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/cancel_ex_0_25c8c511.mp3"
+      },
+      {
+        "text": "The outdoor concert was canceled because of rain.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cancel_ex_1_1a732d5f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "取消，終止或撤回某項計劃、活動或訂單。",
+    "en_def": "To decide that something planned will not happen or to stop an ongoing process.",
+    "example": "I had to cancel my appointment due to a scheduling conflict."
+  },
+  "sentences_removed": 0
+}

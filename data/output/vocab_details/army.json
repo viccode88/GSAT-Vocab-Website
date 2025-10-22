@@ -1,0 +1,90 @@
+{
+  "lemma": "army",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 13,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/army_ex_0_bfc73ee5.mp3"
+      },
+      {
+        "text": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 41.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/army_ex_1_8d8f930b.mp3"
+      },
+      {
+        "text": "The army had no budget to make the purchase.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/army_ex_2_c8c63e7e.mp3"
+      },
+      {
+        "text": "At the same time, canned food was becoming common in the army.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/army_ex_3_50fdb7b4.mp3"
+      },
+      {
+        "text": "Even fewer people know that Dumas’ father rose rapidly from a soldier to a general in the French Army before he was 31.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/army_ex_4_e8fa760c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To introduce the functions of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The Swiss army needed a knife for every soldier.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Who gave the name “the Swiss army knife” to the knife discussed in the passage? (A) Carl Elsener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Interestingly, the Officer’s Knife was never given to those serving in the army.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "And as they could buy the Swiss army knife at shops on military bases, they bought huge quantities of them.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Why didn’t the Swiss army purchase the Swiss Officer’s Knife?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain the origin of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To emphasize the importance of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "軍隊；一個國家或地區的武裝部隊。",
+    "en_def": "A large organized group of soldiers trained for war, typically serving under a national government.",
+    "example": "The army was deployed to assist in disaster relief efforts."
+  },
+  "sentences_removed": 0
+}

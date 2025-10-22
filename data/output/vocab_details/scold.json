@@ -1,0 +1,28 @@
+{
+  "lemma": "scold",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scold_ex_0_56f3dd11.mp3"
+      },
+      {
+        "text": "John has been scolded by his boss for over ten minutes now.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/scold_ex_1_52556d75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "責罵；斥責",
+    "en_def": "To speak to someone in a harsh or critical way.",
+    "example": "The teacher scolded the student for not doing his homework."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "bent",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "彎曲的；不直的",
+    "en_def": "Curved or not straight.",
+    "example": "The tree had a bent trunk due to the strong winds."
+  },
+  "sentences_removed": 1
+}

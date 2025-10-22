@@ -1,0 +1,23 @@
+{
+  "lemma": "stretching",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many great forms of exercise—like walking, swimming, or gentle stretching—get results without the 38 or discomfort some people associate with exercise.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/stretching_ex_0_468c9b03.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伸展，拉伸或擴展身體的動作或過程。",
+    "en_def": "The act of extending or enlarging something, especially the body or a muscle.",
+    "example": "She enjoys stretching every morning to improve her flexibility."
+  },
+  "sentences_removed": 0
+}

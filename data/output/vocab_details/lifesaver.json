@@ -1,0 +1,23 @@
+{
+  "lemma": "lifesaver",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/lifesaver_ex_0_bff544cd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "救生員；救命的人或物",
+    "en_def": "A person or thing that saves someone from danger or difficulty.",
+    "example": "The lifeguard acted as a lifesaver when he rescued the swimmer from drowning."
+  },
+  "sentences_removed": 0
+}

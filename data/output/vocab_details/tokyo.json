@@ -1,0 +1,23 @@
+{
+  "lemma": "tokyo",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a _____ flight.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tokyo_ex_0_ad1ebb5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "東京，日本的首都，位於日本本州東部，是一個重要的經濟、文化和政治中心。",
+    "en_def": "Tokyo, the capital of Japan, located in the eastern part of Honshu, is a major economic, cultural, and political center.",
+    "example": "Tokyo is known for its vibrant city life and rich history."
+  },
+  "sentences_removed": 1
+}

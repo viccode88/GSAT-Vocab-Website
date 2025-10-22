@@ -1,0 +1,49 @@
+{
+  "lemma": "effective",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is a simple act that anyone can do and it reminds us that communication is more effective than conflict.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/effective_ex_0_6147eb1a.mp3"
+      },
+      {
+        "text": "In fact, 34 health studies prove that exercise doesn’t have to hurt to be effective.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/effective_ex_1_075f2135.mp3"
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/effective_ex_2_c21da94c.mp3"
+      },
+      {
+        "text": "It was not until Grover Cleveland’s first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/effective_ex_3_48f81fce.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After heated debates and discussions, the government was finally persuaded to consider another 19 effective method: giving the pigeons birth control.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "有效的；能達到預期效果的",
+    "en_def": "Producing the desired result or having a strong impact.",
+    "example": "The new marketing strategy proved to be very effective in increasing sales."
+  },
+  "sentences_removed": 0
+}

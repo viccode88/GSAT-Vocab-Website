@@ -1,0 +1,23 @@
+{
+  "lemma": "measurement",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is closest in meaning to the word “venture” in the second paragraph? (A) Creative measurement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/measurement_ex_0_363ea396.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "測量的過程或結果，通常用於確定物體的大小、長度、面積或體積等。",
+    "en_def": "The process or result of determining the size, length, area, or volume of an object.",
+    "example": "The measurement of the room showed it was 20 feet long."
+  },
+  "sentences_removed": 0
+}

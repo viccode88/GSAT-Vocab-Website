@@ -1,0 +1,70 @@
+{
+  "lemma": "stool",
+  "count": 13,
+  "pos_dist": {
+    "PROPN": 8,
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She did not think that plastic stools were tall enough for her.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/stool_ex_0_810dd30d.mp3"
+      },
+      {
+        "text": "Jeanie called her invention the “Kiddie Stool.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/stool_ex_1_91dd1885.mp3"
+      },
+      {
+        "text": "However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/stool_ex_2_1bfcae3e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What are the characteristics of Jeanie’s Kiddie Stool? (A) Permanent and foldable.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Jeanie’s Kiddie Stool won first place in her school’s contest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why did Jeanie Low invent the Kiddie Stool, according to the passage?",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Kiddie Stool will swing out only when the cabinet door opens.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about how the Kiddie Stool works? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "凳子，通常用來坐的家具，通常沒有靠背和扶手。",
+    "en_def": "A seat or support for the buttocks, typically without a back or arms.",
+    "example": "She sat on the stool to reach the top shelf."
+  },
+  "sentences_removed": 2
+}

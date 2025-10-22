@@ -1,0 +1,49 @@
+{
+  "lemma": "breathe",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dolphins, like us, have to breathe air.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/breathe_ex_0_c1d316a1.mp3"
+      },
+      {
+        "text": "According to fitness trainers, physically 36 exercises may make you breathe heavily and your muscles may ache temporarily, but exercise should not be painful.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/breathe_ex_1_8dc28b2d.mp3"
+      },
+      {
+        "text": "It’s tempting, when breathing the thin air of Bekoji, to focus on the special conditions of the place.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/breathe_ex_2_88593de3.mp3"
+      },
+      {
+        "text": "Some scholars theorize that onions may have been used for the dead because it was believed that their strong scent would 40 the dead to breathe again.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/breathe_ex_3_1453b325.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The astronauts can hardly breathe in a space suit.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "When they are __36__ in the nets too long, they cannot breathe.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "呼吸，指吸入空氣並排出二氧化碳的過程。",
+    "en_def": "To take air into the lungs and then expel it, a vital process for living organisms.",
+    "example": "She took a deep breath before speaking in front of the crowd."
+  },
+  "sentences_removed": 0
+}

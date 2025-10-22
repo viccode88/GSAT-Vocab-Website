@@ -1,0 +1,17 @@
+{
+  "lemma": "shortly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "短暫地；不久地",
+    "en_def": "In a brief manner; soon.",
+    "example": "She will arrive shortly after the meeting starts."
+  },
+  "sentences_removed": 1
+}

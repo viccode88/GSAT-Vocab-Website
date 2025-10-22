@@ -1,0 +1,49 @@
+{
+  "lemma": "reef",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/reef_ex_0_431ca077.mp3"
+      },
+      {
+        "text": "How can we help the reefs?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/reef_ex_1_52e38cb2.mp3"
+      },
+      {
+        "text": "Divers who walk on reefs can also do serious damage.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/reef_ex_2_7ca26f9e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "There are thousands of reefs in the world; 33 , however, they are now in serious danger.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Chemicals from the poisons kill reefs or make them weak, so they have less 37 to diseases.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The last factor contributing to the 39 of coral reefs is people.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "珊瑚礁：由珊瑚及其他海洋生物的骨骼形成的水下結構，通常位於淺水區域。",
+    "en_def": "A reef is a ridge of rock or coral that rises to or near the surface of a body of water, often providing habitat for marine life.",
+    "example": "The divers explored the vibrant coral reef teeming with colorful fish."
+  },
+  "sentences_removed": 2
+}

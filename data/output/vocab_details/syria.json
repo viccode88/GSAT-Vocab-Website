@@ -1,0 +1,38 @@
+{
+  "lemma": "syria",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The war in Syria has been going on since 2011.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/syria_ex_0_a92158af.mp3"
+      },
+      {
+        "text": "Yusra Mardini is a swimmer who grew up in Popole Misenga was born in the Democratic the war-torn country of Syria.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/syria_ex_1_f82a32ad.mp3"
+      },
+      {
+        "text": "The government issued a travel _____ for Taiwanese in response to the outbreak of civil war in Syria.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/syria_ex_2_30bd7230.mp3"
+      },
+      {
+        "text": "With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/syria_ex_3_5adbf5c5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "敘利亞，位於中東的國家，與黎巴嫩、以色列、約旦、伊拉克和土耳其接壤。",
+    "en_def": "Syria, a country in the Middle East bordered by Lebanon, Israel, Jordan, Iraq, and Turkey.",
+    "example": "Syria has a rich history and diverse culture."
+  },
+  "sentences_removed": 1
+}

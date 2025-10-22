@@ -1,0 +1,28 @@
+{
+  "lemma": "charles",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The profits of Prince Charles’s organic farm go to _____ to help the poor and the sick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/charles_ex_0_a04c43f3.mp3"
+      },
+      {
+        "text": "Charles has a strong interest in technology.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/charles_ex_1_6fd15c06.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "查爾斯，一個常見的男性名字。",
+    "en_def": "Charles, a common male given name.",
+    "example": "Charles is planning to visit his grandparents this weekend."
+  },
+  "sentences_removed": 1
+}

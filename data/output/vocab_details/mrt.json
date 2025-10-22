@@ -1,0 +1,23 @@
+{
+  "lemma": "mrt",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/mrt_ex_0_1752cc30.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "捷運，指城市中的快速交通系統，通常是地下或高架的鐵路系統。",
+    "en_def": "MRT stands for Mass Rapid Transit, a type of high-capacity public transport system, typically involving trains that operate on dedicated tracks.",
+    "example": "I took the MRT to work to avoid traffic."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "shaw",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is no record of whether Shaw ever sent the tickets. 54.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shaw_ex_0_b7822b76.mp3"
+      },
+      {
+        "text": "He didn’t want to take Shaw’s insult.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shaw_ex_1_5c17612d.mp3"
+      },
+      {
+        "text": "What was Shaw trying to say to Churchill on his card? (A) Churchill should not go to the play alone.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shaw_ex_2_efc06ffd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小屋，通常用於農場或鄉村地區，作為倉庫或簡單的居住空間。",
+    "en_def": "A small, simple building, often used for storage or as a shelter in rural areas.",
+    "example": "They built a cozy shaw in the backyard to store their gardening tools."
+  },
+  "sentences_removed": 1
+}

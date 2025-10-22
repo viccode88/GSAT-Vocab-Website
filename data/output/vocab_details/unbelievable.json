@@ -1,0 +1,23 @@
+{
+  "lemma": "unbelievable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many folk tales are also tall tales—stories of unbelievable events told with perfect seriousness.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/unbelievable_ex_0_64a1432f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "難以置信的，令人驚訝的",
+    "en_def": "Incredible or hard to believe; extraordinary.",
+    "example": "The magician's tricks were so unbelievable that the audience gasped in amazement."
+  },
+  "sentences_removed": 0
+}

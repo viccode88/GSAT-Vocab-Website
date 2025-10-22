@@ -1,0 +1,23 @@
+{
+  "lemma": "dismantle",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/dismantle_ex_0_bfc73ee5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拆解，拆卸，將某物分解成其組成部分。",
+    "en_def": "To take apart or remove the components of something.",
+    "example": "The workers will dismantle the old machinery for recycling."
+  },
+  "sentences_removed": 0
+}

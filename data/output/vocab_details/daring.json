@@ -1,0 +1,23 @@
+{
+  "lemma": "daring",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In this line of work, the person is paid to do daring actions that are deemed too 21 for the regular actor to perform, including jumping from heights, crashing cars, or fighting with weapons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/daring_ex_0_b53d8b2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大膽的；勇敢的，無畏的",
+    "en_def": "Showing a willingness to take risks; bold and adventurous.",
+    "example": "His daring approach to the project impressed everyone."
+  },
+  "sentences_removed": 0
+}

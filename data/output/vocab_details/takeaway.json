@@ -1,0 +1,23 @@
+{
+  "lemma": "takeaway",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/takeaway_ex_0_753a0600.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "外賣食物，或從某事中獲得的主要觀點或教訓。",
+    "en_def": "Food that is ordered to be eaten elsewhere, or the main point or lesson derived from something.",
+    "example": "The main takeaway from the meeting was the need for better communication."
+  },
+  "sentences_removed": 0
+}

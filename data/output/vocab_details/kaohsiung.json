@@ -1,0 +1,23 @@
+{
+  "lemma": "kaohsiung",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All the flights to and from Kaohsiung were _____ because of the heavy thunderstorm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/kaohsiung_ex_0_55c66e79.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高雄是台灣的一個城市，位於南部，是台灣第二大城市，以其港口和工業聞名。",
+    "en_def": "Kaohsiung is a city in southern Taiwan, known for its port and industrial significance, and is the second largest city in Taiwan.",
+    "example": "Kaohsiung is famous for its beautiful harbor and vibrant night markets."
+  },
+  "sentences_removed": 0
+}

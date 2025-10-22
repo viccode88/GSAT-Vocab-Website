@@ -1,0 +1,23 @@
+{
+  "lemma": "indigenous",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For many indigenous Papuans, the ice sheets represent a sacred symbol.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/indigenous_ex_0_d58b12ca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "本土的；土著的，指某地原有的居民或物種。",
+    "en_def": "Originating or occurring naturally in a particular place; native.",
+    "example": "The indigenous people of the region have a rich cultural heritage."
+  },
+  "sentences_removed": 0
+}

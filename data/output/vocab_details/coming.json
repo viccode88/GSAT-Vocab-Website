@@ -1,0 +1,28 @@
+{
+  "lemma": "coming",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Young men wear black for several months after their circumcision, a ritual signifying their coming of age.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/coming_ex_0_b61db1b4.mp3"
+      },
+      {
+        "text": "The tower is built to celebrate the coming of the year 2,000.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/coming_ex_1_65a9edb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "來臨的，將要到達的",
+    "en_def": "Approaching or about to arrive.",
+    "example": "The coming storm will bring heavy rain."
+  },
+  "sentences_removed": 0
+}

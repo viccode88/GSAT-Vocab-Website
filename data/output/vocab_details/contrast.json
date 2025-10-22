@@ -1,0 +1,74 @@
+{
+  "lemma": "contrast",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By contrast, later children are more likely to be more relaxed and sociable because their parents are more relaxed.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/contrast_ex_0_8d5710fb.mp3"
+      },
+      {
+        "text": "In contrast, the right hemisphere deals with feelings, colors, and long-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/contrast_ex_1_5ad7bb14.mp3"
+      },
+      {
+        "text": "By contrast, men are much more likely to interrupt (about three times as often in some studies), to argue about what has been said, to ignore or respond poorly to what has been said, to introduce more new topics into the conversation, and to make more assertions.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/contrast_ex_2_71b0e6e7.mp3"
+      },
+      {
+        "text": "To form a contrast with the iron structure of the old tower.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/contrast_ex_3_0a6b47fc.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In contrast 28. (A) face (B) faced (C) facing (D) to face 29.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast, the peacock is not 22 seen as lucky.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast (C) Literally (D) Accordingly 27. (A) gap (B) link (C) clue (D) ratio 28. (A) out of (B) as well as (C) in case of (D) due to 29.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By comparison and contrast. 54.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast (B) In particular (C)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast (D) On the other hand 36. (A) about (B) above (C) against (D) around 37. (A) give (B) are going to give (C) have given (D) have been given 38.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A contrast between Intervac and HomeExchange. bills 50.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "對比；差異",
+    "en_def": "The state of being strikingly different from something else in juxtaposition or close association.",
+    "example": "The contrast between the two paintings highlights the different styles of the artists."
+  },
+  "sentences_removed": 2
+}

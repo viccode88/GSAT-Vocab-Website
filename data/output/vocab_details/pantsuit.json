@@ -1,0 +1,23 @@
+{
+  "lemma": "pantsuit",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Women’s fashions are changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/pantsuit_ex_0_2cec18bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種女性穿著的套裝，通常由西裝外套和褲子組成。",
+    "en_def": "A woman's suit consisting of a jacket and trousers, often worn in professional settings.",
+    "example": "She wore a stylish pantsuit to the business meeting."
+  },
+  "sentences_removed": 0
+}

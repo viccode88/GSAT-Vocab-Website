@@ -1,0 +1,23 @@
+{
+  "lemma": "prose",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/prose_ex_0_da98551c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "散文；不以韻律或詩歌形式寫成的文學作品。",
+    "en_def": "Written or spoken language in its ordinary form, without metrical structure.",
+    "example": "She prefers reading prose over poetry because it feels more relatable."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "scheme",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/scheme_ex_0_aa8f9bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "計劃；方案；陰謀",
+    "en_def": "A systematic plan or arrangement for achieving a particular goal.",
+    "example": "The team developed a new scheme to improve productivity."
+  },
+  "sentences_removed": 0
+}

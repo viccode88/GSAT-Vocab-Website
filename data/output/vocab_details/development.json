@@ -1,0 +1,84 @@
+{
+  "lemma": "development",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the development of radio and television has not diminished the importance of printing.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/development_ex_0_4bab3a3d.mp3"
+      },
+      {
+        "text": "This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “danger list” in 2007.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/development_ex_1_fbe943b2.mp3"
+      },
+      {
+        "text": "Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/development_ex_2_e3113752.mp3"
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/development_ex_3_0467c519.mp3"
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/development_ex_4_940acf73.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The development of fork-related table manners.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The success of folk medicine led to the development of doctor medicine.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The development of modern transportation. 36.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the modern development of the flip-flop? (A) Modern flip-flops originated from Indian toe knob sandals.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, some people think these are “unsustainable models of development.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The 1960s and ’70s 28 the development of most modern stunt technology, like air rams and bullet squibs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Folk medicine flourished long before the development of scientific medicine and was more successful in ancient times than doctor medicine.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "發展，指事物的進步或成長過程。",
+    "en_def": "The process of growth, progress, or evolution in a particular area.",
+    "example": "The development of new technologies has transformed the way we live."
+  },
+  "sentences_removed": 0
+}

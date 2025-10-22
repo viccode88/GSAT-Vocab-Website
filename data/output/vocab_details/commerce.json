@@ -1,0 +1,28 @@
+{
+  "lemma": "commerce",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "During the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/commerce_ex_0_874cff10.mp3"
+      },
+      {
+        "text": "Today, they provide low-budget, overnight lodging in commerce centers in large cities worldwide.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/commerce_ex_1_6e1b0daa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "商業；貿易，特別是大規模的買賣活動。",
+    "en_def": "The activity of buying and selling, especially on a large scale.",
+    "example": "The rise of e-commerce has changed the way people shop."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "spaghetti",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spaghetti_ex_0_12f666cb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種長條形的意大利麵，通常用小麥粉和水製成。",
+    "en_def": "A type of long, thin pasta made from wheat flour and water.",
+    "example": "I love to eat spaghetti with marinara sauce."
+  },
+  "sentences_removed": 0
+}

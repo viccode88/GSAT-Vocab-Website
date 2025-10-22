@@ -1,0 +1,23 @@
+{
+  "lemma": "vibrant",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vibrant_ex_0_dc9b5090.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "充滿活力的；鮮豔的",
+    "en_def": "Full of energy and life; bright and striking in color.",
+    "example": "The garden was vibrant with colorful flowers in full bloom."
+  },
+  "sentences_removed": 0
+}

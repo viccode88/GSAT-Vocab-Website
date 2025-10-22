@@ -1,0 +1,23 @@
+{
+  "lemma": "shorten",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Though often associated with beauty, most dimples are actually a genetic 33 caused by shortened facial muscles.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/shorten_ex_0_ede9b4bb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使變短或縮小。",
+    "en_def": "To make something shorter or smaller in length or duration.",
+    "example": "Please shorten the document to fit the page limit."
+  },
+  "sentences_removed": 0
+}

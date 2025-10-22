@@ -1,0 +1,23 @@
+{
+  "lemma": "spontaneously",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They participate 26 life enthusiastically and spontaneously.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/spontaneously_ex_0_0ac555fb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自發地，無需外力或計劃地發生或進行。",
+    "en_def": "In a manner that occurs naturally or without external influence.",
+    "example": "The flowers bloomed spontaneously after the rain."
+  },
+  "sentences_removed": 0
+}

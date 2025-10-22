@@ -1,0 +1,28 @@
+{
+  "lemma": "halloween",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, which of the following is a better choice for Halloween treats? (A) Chocolate.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/halloween_ex_0_8e12a3cf.mp3"
+      },
+      {
+        "text": "Hard candies take a long time to consume and are also a bad choice for Halloween treats.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/halloween_ex_1_2d22e9c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "萬聖節，慶祝於每年10月31日的節日，通常與鬼怪、南瓜燈和化妝派對有關。",
+    "en_def": "Halloween, a holiday celebrated on October 31st, associated with ghosts, pumpkins, and costumes.",
+    "example": "Children dress up in costumes and go trick-or-treating on Halloween."
+  },
+  "sentences_removed": 1
+}

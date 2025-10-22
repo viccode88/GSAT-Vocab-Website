@@ -1,0 +1,33 @@
+{
+  "lemma": "atlantic",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Early this past summer the three whales were pronounced fit enough to be returned to the Atlantic Ocean.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/atlantic_ex_0_03362a1d.mp3"
+      },
+      {
+        "text": "In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a _____.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/atlantic_ex_1_3c6e61ba.mp3"
+      },
+      {
+        "text": "According to the passage, where is Zanzibar most likely located on the following map? North America Europe Asia ○ A Atlantic Pacific Pacific Ocean ○ Ocean C Ocean Africa South ○ B Indian America Ocean ○ D (A) A (B) B (C) C (D) D 45.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/atlantic_ex_2_ae968bd3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大西洋的；與大西洋有關的",
+    "en_def": "Relating to the Atlantic Ocean.",
+    "example": "The Atlantic coast is known for its beautiful beaches."
+  },
+  "sentences_removed": 1
+}

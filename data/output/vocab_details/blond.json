@@ -1,0 +1,23 @@
+{
+  "lemma": "blond",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They all have blond hair and “strange eyes.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/blond_ex_0_6f1e5645.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "金色或淺色的頭髮。",
+    "en_def": "Having light-colored hair, typically yellow or golden.",
+    "example": "She has beautiful blond hair that shines in the sunlight."
+  },
+  "sentences_removed": 0
+}

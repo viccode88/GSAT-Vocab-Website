@@ -1,0 +1,23 @@
+{
+  "lemma": "irritability",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/irritability_ex_0_02943189.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "易怒，情緒不穩定的狀態。",
+    "en_def": "The quality of being easily annoyed or angered.",
+    "example": "His irritability made it difficult for others to approach him."
+  },
+  "sentences_removed": 0
+}

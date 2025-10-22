@@ -1,0 +1,23 @@
+{
+  "lemma": "frugal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cartier-Bresson’s family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents’ frugal ways, it often seemed as though his family was poor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/frugal_ex_0_ffc3ccf5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "節儉的，節省的，避免浪費的。",
+    "en_def": "Economical in use or expenditure; prudently saving or sparing.",
+    "example": "She is very frugal and always looks for discounts before shopping."
+  },
+  "sentences_removed": 0
+}

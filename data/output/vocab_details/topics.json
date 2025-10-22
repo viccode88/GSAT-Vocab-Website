@@ -1,0 +1,23 @@
+{
+  "lemma": "topics",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What’s a Friend for (B) Seashells and Mollusks (C) Appropriate Topics for Writing (D) Writing for Different Purposes 42.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/topics_ex_0_b5b588be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "主題；話題；討論的內容或範疇。",
+    "en_def": "Subjects or themes that are the focus of discussion or consideration.",
+    "example": "We discussed various topics during the meeting."
+  },
+  "sentences_removed": 0
+}

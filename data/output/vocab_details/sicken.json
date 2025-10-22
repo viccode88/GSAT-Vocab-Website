@@ -1,0 +1,23 @@
+{
+  "lemma": "sicken",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sicken_ex_0_de658433.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使生病；使感到不適",
+    "en_def": "To make someone ill or to feel unwell.",
+    "example": "The strong smell of the fish began to sicken her."
+  },
+  "sentences_removed": 0
+}

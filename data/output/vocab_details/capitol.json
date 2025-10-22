@@ -1,0 +1,23 @@
+{
+  "lemma": "capitol",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capitol_ex_0_102c7b54.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "國會大廈；政府機構的所在地",
+    "en_def": "A building where a legislative assembly meets.",
+    "example": "The new capitol was inaugurated with a grand ceremony."
+  },
+  "sentences_removed": 0
+}

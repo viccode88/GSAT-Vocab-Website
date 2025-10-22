@@ -1,0 +1,23 @@
+{
+  "lemma": "lightweight",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/lightweight_ex_0_35a4c04b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輕量的，指物體或材料的重量較輕，便於攜帶或使用。",
+    "en_def": "Having little weight; easy to carry or handle.",
+    "example": "This lightweight backpack is perfect for hiking."
+  },
+  "sentences_removed": 0
+}

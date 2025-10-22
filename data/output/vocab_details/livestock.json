@@ -1,0 +1,28 @@
+{
+  "lemma": "livestock",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Worst of all, their stings can be fatal to livestock and humans.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/livestock_ex_0_0528fc9c.mp3"
+      },
+      {
+        "text": "Besides, soybeans can be fed to a variety of other animals ranging from livestock to silk worms.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/livestock_ex_1_7865803e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "家畜，指用於農業生產的動物，如牛、羊、豬等。",
+    "en_def": "Farm animals raised for commercial purposes, such as cattle, sheep, and pigs.",
+    "example": "The farmer decided to expand his livestock by adding more sheep and goats."
+  },
+  "sentences_removed": 0
+}

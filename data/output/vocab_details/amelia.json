@@ -1,0 +1,23 @@
+{
+  "lemma": "amelia",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/amelia_ex_0_c9abbf7e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿梅莉亞，一個女性名字，源自拉丁語，意指勤奮或努力。",
+    "en_def": "Amelia is a female given name of Latin origin, meaning industrious or striving.",
+    "example": "Amelia loves to read books in her free time."
+  },
+  "sentences_removed": 0
+}

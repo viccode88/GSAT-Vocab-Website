@@ -1,0 +1,64 @@
+{
+  "lemma": "viewer",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The industry leader, NBC, however, attracts 11 percent of viewers.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/viewer_ex_0_c2e8e393.mp3"
+      },
+      {
+        "text": "The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/viewer_ex_1_81b0003b.mp3"
+      },
+      {
+        "text": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/viewer_ex_2_38b33a5f.mp3"
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/viewer_ex_3_2234894e.mp3"
+      },
+      {
+        "text": "Most viewers agreed that the movie was not as good as the book.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/viewer_ex_4_f6f321cd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The majority of their viewers are minority people.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "This TV program will young viewers' understanding of the changing world.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "PBS only attracts a minority of all TV viewers, about 2 percent.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "觀眾；觀看者",
+    "en_def": "A person who watches something, such as a television program or a performance.",
+    "example": "The viewer was captivated by the stunning visuals of the documentary."
+  },
+  "sentences_removed": 2
+}

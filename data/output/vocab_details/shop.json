@@ -1,0 +1,96 @@
+{
+  "lemma": "shop",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 12,
+    "VERB": 3,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their pictures can be printed at a photo shop.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/shop_ex_0_51db2393.mp3"
+      },
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shop_ex_1_2751dae4.mp3"
+      },
+      {
+        "text": "Run by a team of church volunteers, the shop will collect any surplus, good-quality items and store them until they can be redistributed to the people who are needing those particular things.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shop_ex_2_beeec1a2.mp3"
+      },
+      {
+        "text": "It was in response to this situation that The Carpenters’ Shop was opened in the town of Walsall, Staffordshire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shop_ex_3_b13e8a6e.mp3"
+      },
+      {
+        "text": "So, when gold was discovered in the West in 1849, he 23 thousands of others and rushed to California. 24 he planned to open a shop in San Francisco, he took many goods with him, 25 a large quantity of canvas.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/shop_ex_4_c819db52.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "the passing shoppers to visit his shop and buy the freshly baked bread.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of setting up The Carpenters’ Shop was .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Some have many small private shops, while others have organizations steered by volunteers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "And as they could buy the Swiss army knife at shops on military bases, they bought huge quantities of them.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In a panic (B) With delight (C) Out of sorrow (D) Filled with embarrassment 39. (A) they had seen my car (B) there was a shop nearby (C) they had seen two small girls (D) there was a police station in the neighborhood 40.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Sue is so _____ that she always breaks something when she is shopping at a store.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In town, tourists can browse through 35 number of interesting shops, such as antique stores and the shop that sells items 36 from Oregon's beautiful myrtlewood.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Concerned about the poor people he saw wandering near his shop, he made cookies and passed them out free on the streets.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It began to rain heavily so I decided 36 , while I rushed into a shop.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Another fun 37 is shopping at the open market where local folks sell produce grown in their gardens.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "商店，出售商品的地方。",
+    "en_def": "A place where goods are sold to customers.",
+    "example": "I need to go to the shop to buy some groceries."
+  },
+  "sentences_removed": 1
+}

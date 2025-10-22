@@ -1,0 +1,23 @@
+{
+  "lemma": "channel",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pilot is needed to direct large ships into a port, where there are often deep water channels surrounded by shallower seabeds.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/channel_ex_0_35060df0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "頻道；渠道；通道",
+    "en_def": "A medium for communication or the route through which something is transmitted.",
+    "example": "She turned on the television to watch her favorite channel."
+  },
+  "sentences_removed": 0
+}

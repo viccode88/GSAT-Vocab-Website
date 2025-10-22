@@ -1,0 +1,60 @@
+{
+  "lemma": "amazing",
+  "count": 11,
+  "pos_dist": {
+    "ADJ": 9,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of _____ and his knowledge of trivial facts.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/amazing_ex_0_6544d37a.mp3"
+      },
+      {
+        "text": "The amazing adventures of Superman, Peter Pan, and Harry Potter have charmed many people, children and adults alike.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/amazing_ex_1_5cccb188.mp3"
+      },
+      {
+        "text": "Brilliant colors and stripes form amazing patterns on their body.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/amazing_ex_2_1d032592.mp3"
+      },
+      {
+        "text": "Although scientists have not been able to solve all the mysteries of this amazing organ, they have made some progress.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/amazing_ex_3_4d57fb70.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Above all, they possess some amazing “self-healing” power.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2011, they were voted as one of the world’s top five performance groups by audiences of Japan Broadcasting Corporation’s Amazing Voice program.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "令人驚嘆的；非常出色的",
+    "en_def": "Causing great surprise or wonder; astonishing.",
+    "example": "The magician's performance was truly amazing."
+  },
+  "sentences_removed": 3
+}

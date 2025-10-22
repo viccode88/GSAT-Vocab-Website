@@ -1,0 +1,38 @@
+{
+  "lemma": "hirsch",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "How does Hirsch explain this difference?",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/hirsch_ex_0_600a5c97.mp3"
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/hirsch_ex_1_949e617f.mp3"
+      },
+      {
+        "text": "This allowed Hirsch to see which parts of the brain were getting more blood and were more active.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/hirsch_ex_2_bf8915f3.mp3"
+      },
+      {
+        "text": "Hirsch thinks that mothers teach a baby to speak by using different methods such as touch, sound, and sight.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/hirsch_ex_3_3a2574ca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種大型的鹿，通常生活在北美和歐洲，特徵是有分枝的角。",
+    "en_def": "A large deer, typically found in North America and Europe, characterized by branched antlers.",
+    "example": "The hirsch grazed peacefully in the meadow."
+  },
+  "sentences_removed": 1
+}

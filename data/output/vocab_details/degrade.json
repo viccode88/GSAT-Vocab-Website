@@ -1,0 +1,23 @@
+{
+  "lemma": "degrade",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some students thought it was insensitive and degrading to use a robot.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/degrade_ex_0_edeeee65.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使降級；使退化；使惡化",
+    "en_def": "To lower in quality, value, or dignity; to deteriorate.",
+    "example": "The constant pollution can degrade the quality of the water."
+  },
+  "sentences_removed": 0
+}

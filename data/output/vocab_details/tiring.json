@@ -1,0 +1,23 @@
+{
+  "lemma": "tiring",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/tiring_ex_0_6857a134.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人疲倦的，耗費精力的",
+    "en_def": "Causing fatigue or exhaustion.",
+    "example": "The long hike was tiring, but the view at the top was worth it."
+  },
+  "sentences_removed": 0
+}

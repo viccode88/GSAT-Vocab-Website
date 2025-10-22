@@ -1,0 +1,23 @@
+{
+  "lemma": "instantly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "one child learns is also known by the others instantly.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/instantly_ex_0_20d7452f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "立即地，瞬間地",
+    "en_def": "Without any delay; at once.",
+    "example": "She responded instantly to the emergency call."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "apartment",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Members can access thousands of listings for apartments, villas, suburban homes and farms around the world.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/apartment_ex_0_02a9d5f3.mp3"
+      },
+      {
+        "text": "Without these underwater “apartment houses,” there would be fewer fish in the ocean.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/apartment_ex_1_27369bce.mp3"
+      },
+      {
+        "text": "The thief went into the apartment building and stole some jewelry.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/apartment_ex_2_bfe09d7d.mp3"
+      },
+      {
+        "text": "What I can never understand B.…moved into a new apartment.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/apartment_ex_3_0c927af1.mp3"
+      },
+      {
+        "text": "I like everything about the apartment the rent.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/apartment_ex_4_14058c85.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種供人居住的住宅單位，通常位於多層建築中。",
+    "en_def": "A self-contained housing unit that occupies part of a building, typically consisting of a living space, kitchen, and bathroom.",
+    "example": "She lives in a small apartment in the city."
+  },
+  "sentences_removed": 0
+}

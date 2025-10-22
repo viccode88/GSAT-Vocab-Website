@@ -1,0 +1,23 @@
+{
+  "lemma": "deletion",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The deletion of both names was due to the severe damage caused by the typhoons bearing the names.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/deletion_ex_0_0f479d54.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "刪除，指去除或消除某物的行為或過程。",
+    "en_def": "The act of removing or eliminating something.",
+    "example": "The deletion of the file was accidental."
+  },
+  "sentences_removed": 0
+}

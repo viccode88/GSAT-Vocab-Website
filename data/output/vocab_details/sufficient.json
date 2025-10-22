@@ -1,0 +1,23 @@
+{
+  "lemma": "sufficient",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/sufficient_ex_0_37f64fdf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "足夠的；充分的",
+    "en_def": "Adequate quantity, quality, or degree to meet the needs or requirements.",
+    "example": "She has sufficient funds to cover her expenses."
+  },
+  "sentences_removed": 1
+}

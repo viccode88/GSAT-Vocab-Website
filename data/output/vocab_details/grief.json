@@ -1,0 +1,23 @@
+{
+  "lemma": "grief",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Peter’s sudden death was a great blow to Jane and it took her a long time to the grief.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/grief_ex_0_adda80d0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "悲傷，特別是因為失去或死亡而產生的情感。",
+    "en_def": "A deep sorrow, especially caused by someone's death or a significant loss.",
+    "example": "She felt a profound grief after the passing of her beloved pet."
+  },
+  "sentences_removed": 0
+}

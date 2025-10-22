@@ -1,0 +1,23 @@
+{
+  "lemma": "harper",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He then moved to New York City, where he worked as a freelance illustrator with Harper’s Weekly, a popular magazine of the time, and began painting.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/harper_ex_0_c9cd8688.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "演奏豎琴的人；豎琴製造者。",
+    "en_def": "A person who plays the harp; a maker of harps.",
+    "example": "The talented harper captivated the audience with her beautiful melodies."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "basketball",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "all the doubts about his ability to play on our school basketball team.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/basketball_ex_0_2426eb7c.mp3"
+      },
+      {
+        "text": "Lisa _____ onto the ground and injured her ankle while she was playing basketball yesterday.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/basketball_ex_1_98721f7b.mp3"
+      },
+      {
+        "text": "She knew that she couldn’t be a basketball player when she was a child.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/basketball_ex_2_8d05bf7a.mp3"
+      },
+      {
+        "text": "Finally, after years of training and intensive workouts, Deborah Duffey was going to compete in her first high school basketball game.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/basketball_ex_3_9343c1c4.mp3"
+      },
+      {
+        "text": "“Adam Joshua!” yelled Nelson, pushing away a basketball and shaking a toy frog off his foot.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/basketball_ex_4_f58905c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種團隊運動，兩隊在一個矩形場地上用手將球投進對方的籃框中得分。",
+    "en_def": "A team sport in which two teams try to score points by throwing a ball through the opponent's hoop.",
+    "example": "She practices basketball every weekend to improve her skills."
+  },
+  "sentences_removed": 0
+}

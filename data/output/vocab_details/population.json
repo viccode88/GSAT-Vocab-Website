@@ -1,0 +1,164 @@
+{
+  "lemma": "population",
+  "count": 30,
+  "pos_dist": {
+    "NOUN": 30
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/population_ex_0_3875f1f0.mp3"
+      },
+      {
+        "text": "It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/population_ex_1_8a9ba117.mp3"
+      },
+      {
+        "text": "The severity of tropical diseases is also a matter of whether governments are capable—and willing— to defend their populations against infections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/population_ex_2_7384d139.mp3"
+      },
+      {
+        "text": "At least 25,000 people died in the quake—nearly a third of the city's population.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/population_ex_3_5817ab11.mp3"
+      },
+      {
+        "text": "As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/population_ex_4_53377bda.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "With multiple queens at work, its population increases rapidly.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Once thought to be extremely rare, synesthesia is now found to affect about one to four percent of the population.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the future when the population grows, there will be no need for the recording because the howler monkeys will have more reason to check in with the neighbors to define their own territories.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since rats love to hunt and eat wetas, the rat population on the island has its grown into a real problem for many of the native species that are unaccustomed to presence, and poses a serious threat to the native weta population.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Since it is cheap to produce and rich in protein, and has many uses, the soybean could provide food to the world’s growing population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They have had a great increase in population since 2001.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The increasing population in Texas raised the risk of contracting the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The soybean provides food for the world’s growing population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "An international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Buddhism is the _____ religion in Thailand, with 90% of the total population identified as Buddhists.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These tropical glaciers serve as a major source of water supply to one-sixth of the world’s population.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The sea snakes’ population distribution is closely related to rainfall.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The city council originally proposed 18 the pigeon population by gathering the birds and shooting them.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Cities and areas with higher populations would have a smaller first and third digit, and 1 as the center digit.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The increasing population in Saudi Arabia has resulted in shortages of fresh water.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant’s habitats and endangering their population.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "But income is not distributed __(36)__ throughout its population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一個特定地區內的所有人數。",
+    "en_def": "The total number of people living in a specific area.",
+    "example": "The population of the city has increased significantly over the last decade."
+  },
+  "sentences_removed": 0
+}

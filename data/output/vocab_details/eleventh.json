@@ -1,0 +1,29 @@
+{
+  "lemma": "eleventh",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Chinese 11 umbrellas in the eleventh century B.C. 12 China they traveled to India, Persia, and Egypt.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/eleventh_ex_0_c15e2687.mp3"
+      },
+      {
+        "text": "Fewer than half of Japanese and Taiwanese eleventh graders reported feeling stress that often.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/eleventh_ex_1_45c28b5f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第十一的，表示順序中的第十一個。",
+    "en_def": "The ordinal number corresponding to the number eleven in a sequence.",
+    "example": "She finished in eleventh place in the race."
+  },
+  "sentences_removed": 0
+}

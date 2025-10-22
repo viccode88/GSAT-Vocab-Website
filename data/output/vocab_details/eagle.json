@@ -1,0 +1,28 @@
+{
+  "lemma": "eagle",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/eagle_ex_0_6c743f4c.mp3"
+      },
+      {
+        "text": "As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another’s company.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/eagle_ex_1_4b2fef4c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種大型猛禽，通常具有尖銳的爪子和強大的視力，主要以其他動物為食。",
+    "en_def": "A large bird of prey known for its keen eyesight and powerful build, often hunting other animals.",
+    "example": "The eagle soared high above the mountains, searching for its next meal."
+  },
+  "sentences_removed": 0
+}

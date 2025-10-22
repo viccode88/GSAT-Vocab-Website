@@ -1,0 +1,23 @@
+{
+  "lemma": "constitution",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When it was arranged for her to sing at Constitution Hall in Washington, D.C., the Daughters of the American Revolution opposed it because of her color.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/constitution_ex_0_3b35d9af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "憲法；一個國家的基本法律和原則。",
+    "en_def": "A constitution is a set of fundamental principles or established precedents according to which a state or other organization is governed.",
+    "example": "The constitution of the country guarantees freedom of speech."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "flooding",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/flooding_ex_0_e031418c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "洪水，指水位上升到超過正常水平，淹沒土地或建築物的現象。",
+    "en_def": "The overflow of water onto normally dry land, often caused by heavy rain or melting snow.",
+    "example": "The flooding after the storm caused significant damage to the homes in the area."
+  },
+  "sentences_removed": 0
+}

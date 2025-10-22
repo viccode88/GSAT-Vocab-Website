@@ -1,0 +1,23 @@
+{
+  "lemma": "doe",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, 30 who you are in real life.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/doe_ex_0_402bf75c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "母鹿，特指雌性鹿類。",
+    "en_def": "A female deer, especially a mature one.",
+    "example": "The doe grazed peacefully in the meadow."
+  },
+  "sentences_removed": 0
+}

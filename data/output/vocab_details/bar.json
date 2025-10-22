@@ -1,0 +1,28 @@
+{
+  "lemma": "bar",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "27 on the videos sit in bars, nightclubs, and roadhouses.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bar_ex_0_ad916617.mp3"
+      },
+      {
+        "text": "When photographing zoo animals, don’t get too close to the cages, and never tap on the glass or throw things between the bars of a cage.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bar_ex_1_51893da6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種長條形的物體，通常用於支撐或阻擋，或指酒吧等社交場所。",
+    "en_def": "A long, rigid piece of material used for support or as a barrier, or a place where alcoholic beverages are served.",
+    "example": "We met at the bar for drinks after work."
+  },
+  "sentences_removed": 0
+}

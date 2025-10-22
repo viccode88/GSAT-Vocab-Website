@@ -1,0 +1,28 @@
+{
+  "lemma": "alley",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/alley_ex_0_27bd55ce.mp3"
+      },
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/alley_ex_1_2751dae4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小巷，狹窄的街道或通道，通常位於建築物之間。",
+    "en_def": "A narrow passageway or street, typically situated between buildings.",
+    "example": "The children played in the alley behind the houses."
+  },
+  "sentences_removed": 0
+}

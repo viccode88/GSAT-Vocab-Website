@@ -1,0 +1,23 @@
+{
+  "lemma": "salesman",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Salesmen expect digital cameras to be popular gifts this holiday season.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/salesman_ex_0_04368577.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "銷售員，負責推銷和銷售產品或服務的人。",
+    "en_def": "A person whose job is to sell products or services.",
+    "example": "The salesman helped me choose the best laptop for my needs."
+  },
+  "sentences_removed": 0
+}

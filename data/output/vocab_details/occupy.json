@@ -1,0 +1,49 @@
+{
+  "lemma": "occupy",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/occupy_ex_0_bd6f1cc5.mp3"
+      },
+      {
+        "text": "During World War II, Norway was occupied by the Nazis.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/occupy_ex_1_202ac054.mp3"
+      },
+      {
+        "text": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico’s national flag.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/occupy_ex_2_5b65afa9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following is closest in meaning to “arid” in the first paragraph? (A) Occupied.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the 1950s, flip-flops became popular in the United States as soldiers returning from occupied Japan brought zōris home.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One of these stories 32 the cookie’s origin back to 13th- and 14th-century China, which was then occupied by the Mongols.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "佔據；佔用（空間、時間或職位）",
+    "en_def": "To take up space, time, or a position.",
+    "example": "The children occupy the playground every afternoon."
+  },
+  "sentences_removed": 0
+}

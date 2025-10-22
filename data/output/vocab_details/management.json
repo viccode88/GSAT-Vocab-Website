@@ -1,0 +1,33 @@
+{
+  "lemma": "management",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It seemed to me that the management had gone beyond their legal right in making this order.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/management_ex_0_089db5e3.mp3"
+      },
+      {
+        "text": "Above all, it is about risk management.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/management_ex_1_d34fd141.mp3"
+      },
+      {
+        "text": "V2I could also request traffic information from a traffic management system and access the best possible routes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/management_ex_2_025271af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "管理，指對組織或資源的計劃、組織、領導和控制的過程。",
+    "en_def": "The process of planning, organizing, leading, and controlling an organization or its resources.",
+    "example": "Effective management is crucial for the success of any business."
+  },
+  "sentences_removed": 1
+}

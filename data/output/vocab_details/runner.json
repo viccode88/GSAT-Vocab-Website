@@ -1,0 +1,49 @@
+{
+  "lemma": "runner",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yet, it has consistently yielded many of the world’s best distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/runner_ex_0_95dc55c8.mp3"
+      },
+      {
+        "text": "But wait, you’re a runner.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/runner_ex_1_0a90171e.mp3"
+      },
+      {
+        "text": "Added to this early training is a physical trait shared by people there－disproportionately long legs, which is advantageous for distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/runner_ex_2_cf2a3441.mp3"
+      },
+      {
+        "text": "For example, an injured runner might end up cycling and swimming instead of running.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/runner_ex_3_89621cb7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A strong desire burns inside Bekoji’s young runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a factor for the excellence of distance runners in Ethiopia? .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "跑步者；參加賽跑的人",
+    "en_def": "A person who runs, especially in races or as a form of exercise.",
+    "example": "She is a dedicated runner who trains every morning."
+  },
+  "sentences_removed": 0
+}

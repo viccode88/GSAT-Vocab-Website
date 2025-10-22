@@ -1,0 +1,28 @@
+{
+  "lemma": "fundamental",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In essence, fundamental changes in biology occur if you sit for too long.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/fundamental_ex_0_0c2dbbc7.mp3"
+      },
+      {
+        "text": "The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fundamental_ex_1_4e4fc371.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "基本的，根本的；構成事物基礎的。",
+    "en_def": "Serving as a foundation or basis; essential.",
+    "example": "Understanding the fundamental principles of math is crucial for solving complex problems."
+  },
+  "sentences_removed": 0
+}

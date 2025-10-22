@@ -1,0 +1,23 @@
+{
+  "lemma": "wayward",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Unless (D) Though 24. (A) wayward (B) downward (C) northward (D) outward 25. (A) yet (B) even (C) rather (D) indeed",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/wayward_ex_0_117af888.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "任性的；不受約束的",
+    "en_def": "Difficult to control or predict because of unusual or perverse behavior.",
+    "example": "The wayward child often ignored his parents' rules."
+  },
+  "sentences_removed": 0
+}

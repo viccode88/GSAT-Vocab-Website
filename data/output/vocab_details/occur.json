@@ -1,0 +1,64 @@
+{
+  "lemma": "occur",
+  "count": 9,
+  "pos_dist": {
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/occur_ex_0_f81d97bb.mp3"
+      },
+      {
+        "text": "Events in daily life sometimes occur symbolically in dreams.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/occur_ex_1_da2469da.mp3"
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/occur_ex_2_d0b2f04b.mp3"
+      },
+      {
+        "text": "Such dimples tend to occur in families, and are assumed to be an inherited feature.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/occur_ex_3_0f72fc95.mp3"
+      },
+      {
+        "text": "As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/occur_ex_4_53377bda.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "At other times the dreaded event from daily life simply occurs in a dream in its real-life form; 29 , the boy dreams of being bullied by the bigger boy. 30 scientific research, we have known more about the relationship between sleep and dreams.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Motion sickness occurs when the signals your brain receives from your eyes, ears, and body 17 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In essence, fundamental changes in biology occur if you sit for too long.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Strike five occurred in 1973 when Sullivan was on patrol.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "發生，出現",
+    "en_def": "To happen or take place.",
+    "example": "The event will occur next Saturday."
+  },
+  "sentences_removed": 0
+}

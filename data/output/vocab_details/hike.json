@@ -1,0 +1,38 @@
+{
+  "lemma": "hike",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Peter plans to hike in a _____ part of Africa, where he might not meet another human being for days.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hike_ex_0_85e0990f.mp3"
+      },
+      {
+        "text": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hike_ex_1_49f80b0e.mp3"
+      },
+      {
+        "text": "They canoed down rivers, hiked along muddy trails, and climbed into the forest to explore and learn.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hike_ex_2_6b436612.mp3"
+      },
+      {
+        "text": "After hiking all day without drinking any water, the students sat down by the stream to quench their .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hike_ex_3_c8df28c2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "徒步旅行；遠足",
+    "en_def": "A long walk, especially in the countryside or wilderness.",
+    "example": "We decided to hike up the mountain to enjoy the beautiful views."
+  },
+  "sentences_removed": 0
+}

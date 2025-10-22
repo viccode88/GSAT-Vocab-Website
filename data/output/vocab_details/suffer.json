@@ -1,0 +1,119 @@
+{
+  "lemma": "suffer",
+  "count": 20,
+  "pos_dist": {
+    "VERB": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "My father started to suffer from memory loss right after his marriage.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suffer_ex_0_80f1f475.mp3"
+      },
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suffer_ex_1_d29f242a.mp3"
+      },
+      {
+        "text": "Peanuts’ beloved grandfather has suffered a heart attack.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/suffer_ex_2_7766c687.mp3"
+      },
+      {
+        "text": "However, if you convince yourself beforehand that the pain won’t be so bad, you might not suffer as much.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/suffer_ex_3_38409b33.mp3"
+      },
+      {
+        "text": "others suffer in extreme poverty.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/suffer_ex_4_a69ecf19.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "His art thoughtfully expressed the voices of people suffering from war.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Within the country, the quality and availability of education depends on whether a particular region is suffering violence.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They had to learn from their own mistakes, which 25 some their lives, and almost all suffered light or severe injuries.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "If a member country suffers great damage from a certain typhoon, it can 39 that the name of the typhoon be deleted from the list at the annual committee meeting.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The needs of people who suffer from physical and mental disabilities. 54.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Mary is suffering from a stomachache and needs to eat food which is easy to _____.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A person may suffer the most serious case of jet lag when he takes a __________ journey.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Each year, tens of millions of animals, including dogs and cats, needlessly suffer and die to fuel the fur industry.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "She suffered from severe racial discrimination in her family.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Forty-three percent of all adults suffer terrible health effects __(35)__ stress.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A traveler who suffers from jet lag has problems in ___________.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "After suffering the bad injury, Deborah found that, for the first time in her life, she was in a situation beyond her control.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "遭受痛苦或困難",
+    "en_def": "To experience pain, distress, or hardship.",
+    "example": "She had to suffer through a long illness."
+  },
+  "sentences_removed": 0
+}

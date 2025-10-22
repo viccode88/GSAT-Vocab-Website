@@ -1,0 +1,28 @@
+{
+  "lemma": "motel",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To help Abate continue running, the coach arranged a motel job for him, which pays $9 a month.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/motel_ex_0_594ecc5a.mp3"
+      },
+      {
+        "text": "To work as motel managers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/motel_ex_1_5a4a42e0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "汽車旅館，一種提供住宿的設施，通常位於公路旁，方便駕駛者停留。",
+    "en_def": "A type of lodging that provides accommodation for travelers, typically located along highways and designed for motorists.",
+    "example": "We decided to stay at a motel for the night during our road trip."
+  },
+  "sentences_removed": 0
+}

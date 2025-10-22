@@ -1,0 +1,144 @@
+{
+  "lemma": "possible",
+  "count": 25,
+  "pos_dist": {
+    "ADJ": 25
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the health food stores of major cities, it is now possible to buy tofu burgers and even tofu hot dogs.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/possible_ex_0_4cae9267.mp3"
+      },
+      {
+        "text": "The only reported negative effect of drinking green tea is a possible allergic reaction and insomnia due to the caffeine it contains.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/possible_ex_1_d59e3758.mp3"
+      },
+      {
+        "text": "According to the passage, what would a Charmer most likely do? (A) Stay away from people whenever possible.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/possible_ex_2_ee59005c.mp3"
+      },
+      {
+        "text": "Our well-trained staff will provide the best possible service for you and your dog.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/possible_ex_3_91800217.mp3"
+      },
+      {
+        "text": "By this time the cook was angry and decided to do exactly what the dinner guest wanted: slice the potatoes as thin as possible.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/possible_ex_4_713a2928.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Reducing these impacts is possible, but it adds to the costs.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Wellness means 35 the best possible health within the limits of your body.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "And my lengthy absence meant that I was able to obtain as natural a piece of conversation as it would be possible to find.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Rapid advancement in motor engineering makes it _____ possible to build a flying car in the near future.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "the water as soon as possible.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Is it possible for elephants to coexist with the prosperous tea business?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "V2I could also request traffic information from a traffic management system and access the best possible routes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But the British Museum has said that the Museum is the best possible place for them.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Living in a highly _____ society, you definitely have to arm yourself with as much knowledge as possible.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, mass production of potato chips was made possible when ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A movement of 25 a few millimeters (mm) of the earth’s crust is a sign of possible earthquakes.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These devices made it possible for doors to open by themselves and wine to flow magically out of statues’ mouths.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "F. Frank Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least! G. George Zoos have an educational aspect to it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Elephant Friendly Tea is an organization that takes the initiative to make it possible.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "可能的；有可能發生的",
+    "en_def": "Able to be done or achieved; within the realm of possibility.",
+    "example": "It is possible to finish the project by the deadline."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "multiple",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/multiple_ex_0_96b146a9.mp3"
+      },
+      {
+        "text": "Each nest used to have but one queen, but now many mounds are often found with multiple queens.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/multiple_ex_1_2a09bed8.mp3"
+      },
+      {
+        "text": "With multiple queens at work, its population increases rapidly.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/multiple_ex_2_9dc769b7.mp3"
+      },
+      {
+        "text": "A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/multiple_ex_3_cdc06031.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多個的，許多的",
+    "en_def": "Consisting of or involving more than one; numerous.",
+    "example": "She has multiple options to choose from for her vacation."
+  },
+  "sentences_removed": 0
+}

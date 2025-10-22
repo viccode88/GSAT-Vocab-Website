@@ -1,0 +1,49 @@
+{
+  "lemma": "constantly",
+  "count": 6,
+  "pos_dist": {
+    "ADV": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His paintings constantly reflected his desire to escape from society.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/constantly_ex_0_ccdd09d8.mp3"
+      },
+      {
+        "text": "I always call out floors very clearly, and I am constantly on the move.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/constantly_ex_1_ba1e3be6.mp3"
+      },
+      {
+        "text": "The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/constantly_ex_2_b0da7f1b.mp3"
+      },
+      {
+        "text": "In this way, dioxin is globally distributed, and as a consequence, every member of the human population is constantly exposed to this poisonous substance.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/constantly_ex_3_cc81720a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The cattle constantly change directions to avoid wind chill.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The expression “constantly on the move” in the passage refers to the fact that __________.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "持續地，不斷地",
+    "en_def": "In a manner that occurs continuously over a period of time.",
+    "example": "She is constantly seeking new challenges in her career."
+  },
+  "sentences_removed": 0
+}

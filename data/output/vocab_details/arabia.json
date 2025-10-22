@@ -1,0 +1,38 @@
+{
+  "lemma": "arabia",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The increasing population in Saudi Arabia has resulted in shortages of fresh water.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/arabia_ex_0_52de32cf.mp3"
+      },
+      {
+        "text": "From ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/arabia_ex_1_1a7e8afb.mp3"
+      },
+      {
+        "text": "Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/arabia_ex_2_acb90699.mp3"
+      },
+      {
+        "text": "But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/arabia_ex_3_a89020da.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿拉伯半島，位於西南亞，包含沙烏地阿拉伯、也門、阿聯酋等國家。",
+    "en_def": "A peninsula in Southwest Asia, home to countries such as Saudi Arabia, Yemen, and the United Arab Emirates.",
+    "example": "Arabia is known for its vast deserts and rich cultural heritage."
+  },
+  "sentences_removed": 0
+}

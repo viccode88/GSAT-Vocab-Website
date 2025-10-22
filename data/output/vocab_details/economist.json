@@ -1,0 +1,23 @@
+{
+  "lemma": "economist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Different __(33)__ have been employed by economists to measure standard of living.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/economist_ex_0_f94d8eb9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "經濟學家：研究經濟現象及其運作的專家。",
+    "en_def": "An economist is a professional who studies the production, distribution, and consumption of goods and services.",
+    "example": "The economist presented a new theory on market behavior."
+  },
+  "sentences_removed": 0
+}

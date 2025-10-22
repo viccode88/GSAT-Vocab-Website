@@ -1,0 +1,89 @@
+{
+  "lemma": "phone",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Initial contact is made via e-mail, with subsequent communication usually by phone.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/phone_ex_0_bc8b8068.mp3"
+      },
+      {
+        "text": "But you have four cell phones.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/phone_ex_1_39b5d8c8.mp3"
+      },
+      {
+        "text": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/phone_ex_2_f5f9307c.mp3"
+      },
+      {
+        "text": "Sasaki opened his wind phone to the public in 2011, after the devastating tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/phone_ex_3_0b7fab97.mp3"
+      },
+      {
+        "text": "When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/phone_ex_4_3abdd70a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The booth he built 25 only an old dial phone with a disconnected phone line.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sasaki stated in an interview: “Because my thoughts couldn’t be 26 through a regular phone line, I wanted them to be carried on the wind.”",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "News about the phone gradually spread, and the booth has become a 28 between the living and the dead.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Phones resembling the wind phone have since been built around the world.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He had to make a phone call to order some drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For those who speak into the wind phone, 30 is always there: They believe that their messages will— through some unknown way—reach the deceased.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The lonely “wind phone” serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "電話，一種用於語音通訊的設備。",
+    "en_def": "A device used for voice communication.",
+    "example": "I called my friend on the phone to discuss our plans."
+  },
+  "sentences_removed": 1
+}

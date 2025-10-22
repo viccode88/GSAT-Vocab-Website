@@ -1,0 +1,60 @@
+{
+  "lemma": "worldwide",
+  "count": 8,
+  "pos_dist": {
+    "ADV": 6,
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank. 43.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/worldwide_ex_0_74417a58.mp3"
+      },
+      {
+        "text": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/worldwide_ex_1_e03c89de.mp3"
+      },
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/worldwide_ex_2_f4630afa.mp3"
+      },
+      {
+        "text": "Tea is enjoyed worldwide as a refreshing and stimulating drink.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/worldwide_ex_3_462780d1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro’s snows and glaciers are melting and are 23 to disappear by 2020.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, they provide low-budget, overnight lodging in commerce centers in large cities worldwide.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "遍及全世界的；全球的",
+    "en_def": "Extending or reaching throughout the entire world.",
+    "example": "The company has a worldwide presence in over 50 countries."
+  },
+  "sentences_removed": 0
+}

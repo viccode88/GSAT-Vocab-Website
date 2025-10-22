@@ -1,0 +1,23 @@
+{
+  "lemma": "rite",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It has also been a rite of passage for young Americans for nearly a century.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rite_ex_0_40e9909f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "儀式，特定的宗教或社會活動的程序或慣例。",
+    "en_def": "A ceremonial act or series of acts performed in a prescribed order.",
+    "example": "The wedding rite included exchanging vows and rings."
+  },
+  "sentences_removed": 0
+}

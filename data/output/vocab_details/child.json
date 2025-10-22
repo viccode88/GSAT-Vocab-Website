@@ -1,0 +1,539 @@
+{
+  "lemma": "child",
+  "count": 118,
+  "pos_dist": {
+    "NOUN": 118
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/child_ex_0_97d1c356.mp3"
+      },
+      {
+        "text": "With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/child_ex_1_3013d976.mp3"
+      },
+      {
+        "text": "He can still vividly describe his first day at school as a child.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/child_ex_2_806ba968.mp3"
+      },
+      {
+        "text": "But no matter what a child eats, brushing after each meal is still the best way to fight cavities.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/child_ex_3_bde884d4.mp3"
+      },
+      {
+        "text": "all the newspaper and television attention, the problem of child abuse has become well-known.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/child_ex_4_2185d4e4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Those college students work at the orphanage on a _____ basis, helping the children with their studies without receiving any pay.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The children whose parents work in a cafeteria. 55.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Almost a whole generation of children throughout the world is familiar with Sesame Street and the characters of The Muppet Show.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The nurse approached the child, D.…don’t lose any opportunity. 20.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach children about the meal preparation process.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The children were so _____ to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Wildlife encounters are unforgettable experiences for children and adults alike.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The children who help cook food.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach children right from wrong, some parents will ______",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, some researchers believe that the 34 of dimples from parents to children takes only one gene.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He later created a standard of measuring children’s intelligence 28 the data he had collected from the French children he studied.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "__(24)__ the children grow, they run around the village in a pack, wearing identical clothing and hairstyles, staring at everyone impolitely.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "We have (69) believe that storytelling is just for children.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "mistake found in parenthood is that parents often set unrealistic goals for their children.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "__(18)__ a small child, he would pick up a broom and pretend to be playing guitar for the entertainment of family guests.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "After you plunk your money down, Dognition’s website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1905 he developed a test in which he 27 children do tasks such as follow commands, copy patterns, name objects, and put things in order or arrange them properly.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "We may say we don't want our children to drink, but our messages say just the opposite.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Another child said dieting meant “you fix food but you don’t eat it.”",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In other families, a surname is included in the selection of a child’s given name to 33 a family surname going.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another possibility is simply that we may acquire languages differently as children than we do as adults.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Children in this region often start running at an early age, covering great distances to fetch water and firewood or to reach the nearest school.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "First of all, you don’t have to send children out of the kitchen.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Children’s Day as a national holiday.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another strategy is not to diet in front of your children.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Younger children tend to remain forever “the baby,” enjoyable to be around, but at times overdependent on others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Exciting or challenging events __(39)__ the birth of a child, completion of a major project at work, or moving to a new city generate __(40)__ much stress as does tragedy or disaster.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain what causes children’s eating disorder.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Now with the children performing the pieces, parents are beginning to ask, ‘Why do we not know how to sing these ballads?’",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The children whose parents are on a diet.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers found that children who had cooked their own foods were more likely to eat those foods in the cafeteria than children who had not.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People who learned a second language as children used the same region in Broca’s area for both languages.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced In 2015 when she was just a 17-year-old, her children in the capital, Kinshasa.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "one child learns is also known by the others instantly.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, the first child tends to be __________.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One group consisted of those who had learned a second language as children.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "This TV program is designed for children, _____ for those under five.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If children really love candy, dentists recommend that they eat chocolate instead.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Research also suggests that firstborn children generally become more conservative than other children because they receive most of the parental discipline.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some parents try to get rid of half of the candy after their children go to bed, but dentists say parents also need to separate the good kinds of treats from the bad.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "It can be inferred from the passage that a younger child is more likely to be a good __________.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As for our neighbors, they liked to invite my father to dinner so that they could tell him stories about their children, parents, friends, and pets.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She knew that she couldn’t be a basketball player when she was a child.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "24 children can attend any family affair without seeing the adults enjoying their liquor.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Children born blind never see anybody smile, but they show the same kinds of smiles under the same situations as sighted people.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The children’s ignorance of their own culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies show that asking children to do house _____, such as taking out the trash or doing the dishes, helps them grow into responsible adults.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes, people pick foreign names for their children because those names are unusual and will thus make their children more 39 and distinctive.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The amazing adventures of Superman, Peter Pan, and Harry Potter have charmed many people, children and adults alike.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "they awake, all of the women of child-bearing age have become pregnant.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, my grandfather was one of ten children in his family, but I am the only child.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.” 41.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It allows children to 23 their shoes’ size as their feet grow.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, later children are often less ambitious and may be uncomfortable making decisions for others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They may break the child’s teeth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following activities was NOT planned by the father for his children’s summer education? (A) Going to church.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Later children may make good salespersons because persuasion may have been the only tool they had to deal with older siblings.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For a long time, 34 has also played an important role in naming children.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But does our society encourage children to break the rules?",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "He believes that, when language is first being programmed in young children, their brains may mix all languages into the same area.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He sets aside a part of his salary for a scholarship fund for children from needy families.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The women in the story __(23)__ birth to children that have the same appearance.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The children who do not love radishes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If neither of the parents has dimple genes, their children will not 35 the trait.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "their children when they behave well and punish them when they misbehave.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is children’s favorite food.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Children, (35) , can see the funny side of things more often and may laugh up to 400 times a day.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not exactly what a child eats that truly matters, but how much time it stays in his mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "their belief that the children all have “one mind.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The audience could not visualize the theme sung by the school children.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Given this powerful effect, parents who are trying to lose weight should be careful of how their dieting habits can influence a child’s perceptions about food and healthful eating.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children’s books.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Finally, specialists warn that frightening films can have a negative impact on children.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "By contrast, later children are more likely to be more relaxed and sociable because their parents are more relaxed.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In this story, the children are produced by some unexplained force from outer space.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The __(16)__ male child had to have certain qualities.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Understanding these differences is important in raising and educating children.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the problem common to the children who participated in the program? 2.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Then the child has to 22 with shoes that are too small.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many children were upset to hear about the __38__ death of these wonderful sea creatures and decided to help __39__ them.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To inform parents how they can help their children like varied foods. 54.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "小孩，通常指年齡在嬰兒到青少年之間的未成年人。",
+    "en_def": "A young human being below the age of puberty or below the legal age of majority.",
+    "example": "The child played happily in the park."
+  },
+  "sentences_removed": 7
+}

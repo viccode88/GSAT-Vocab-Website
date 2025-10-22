@@ -1,0 +1,54 @@
+{
+  "lemma": "forget",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But as the magic fades and daily life __(33)__, it happens that men, forgetting that men and women are supposed to be different, continue to expect women to think and react the way men do; women, __(34)__, expect men to feel and behave the way women do.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/forget_ex_0_33c4ac4f.mp3"
+      },
+      {
+        "text": "Dad certainly had the list 33 when he left for the market, but he would somehow forget it, and then would find it again only after he returned home.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/forget_ex_1_4926d080.mp3"
+      },
+      {
+        "text": "We forgot to take a can-opener along!",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/forget_ex_2_1041dd8f.mp3"
+      },
+      {
+        "text": "As she sang, Whitfield’s voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/forget_ex_3_6b6e3b90.mp3"
+      },
+      {
+        "text": "“I’ll never forget this speech,” said one graduate.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/forget_ex_4_b1cd6a85.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But there is one thing he would never forget: showing up for dinner on time.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“You forget a political leader, but you won’t forget a robot.” 41.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "忘記，無法記住或回憶起某事。",
+    "en_def": "To fail to remember something.",
+    "example": "I always forget where I put my keys."
+  },
+  "sentences_removed": 0
+}

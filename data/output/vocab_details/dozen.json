@@ -1,0 +1,33 @@
+{
+  "lemma": "dozen",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With their plan 12 by the rain, the two dozen participants squeezed into the living room.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/dozen_ex_0_26a6ccc1.mp3"
+      },
+      {
+        "text": "By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/dozen_ex_1_300896f7.mp3"
+      },
+      {
+        "text": "They can store dozens, sometimes hundreds, of images that can be printed easily at home or sent by e-mail.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/dozen_ex_2_a540f339.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "十二個的單位或數量。",
+    "en_def": "A group or set of twelve items.",
+    "example": "I bought a dozen eggs from the store."
+  },
+  "sentences_removed": 0
+}

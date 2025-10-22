@@ -1,0 +1,23 @@
+{
+  "lemma": "exaggerated",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A tall tale, in other words, is a story in which the truth has been exaggerated.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/exaggerated_ex_0_1a1c720d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "誇張的，過度的",
+    "en_def": "Represented as greater than is actually the case; overstated.",
+    "example": "His story about catching a fish was so exaggerated that no one believed him."
+  },
+  "sentences_removed": 0
+}

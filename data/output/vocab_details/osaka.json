@@ -1,0 +1,23 @@
+{
+  "lemma": "osaka",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The first capsule hotel, the Capsule Inn Osaka, opened in 1979.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/osaka_ex_0_b9da3445.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大阪，日本的一個主要城市，以其豐富的文化、美食和商業活動而聞名。",
+    "en_def": "Osaka, a major city in Japan known for its rich culture, cuisine, and commercial activities.",
+    "example": "Osaka is famous for its delicious street food, especially takoyaki and okonomiyaki."
+  },
+  "sentences_removed": 0
+}

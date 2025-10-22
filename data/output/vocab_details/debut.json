@@ -1,0 +1,23 @@
+{
+  "lemma": "debut",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was a member of the Refugee debut at Rio 2016.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/debut_ex_0_524aa9d7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "首次登場或發表，尤其是指藝術家或演員的首次公開表演。",
+    "en_def": "The first appearance or performance of someone, especially an artist or actor.",
+    "example": "The singer made her debut at the age of sixteen."
+  },
+  "sentences_removed": 0
+}

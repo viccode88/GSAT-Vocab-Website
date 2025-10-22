@@ -1,0 +1,23 @@
+{
+  "lemma": "distinction",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A redefinition of the term “olive oil” is also proposed to make a clear distinction between virgin olive oil and pure olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/distinction_ex_0_b12ef574.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "區別；差異",
+    "en_def": "A difference or contrast between similar things or people.",
+    "example": "There is a clear distinction between right and wrong."
+  },
+  "sentences_removed": 0
+}

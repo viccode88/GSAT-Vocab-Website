@@ -1,0 +1,33 @@
+{
+  "lemma": "pin",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although the pin was an inexpensive tool and was easily 32 , it would leave holes in the paper.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/pin_ex_0_22fc1e20.mp3"
+      },
+      {
+        "text": "On the front apron, there is often a kilt pin, topped with a small decorative family symbol.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pin_ex_1_0946eba7.mp3"
+      },
+      {
+        "text": "In the late 19th century, the most common way to hold papers together was by using a pin.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/pin_ex_2_9bde8349.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "針或別針，用於固定物品或作為裝飾。",
+    "en_def": "A small, pointed metal object used for fastening things together or as a decoration.",
+    "example": "She used a pin to attach the fabric to her dress."
+  },
+  "sentences_removed": 0
+}

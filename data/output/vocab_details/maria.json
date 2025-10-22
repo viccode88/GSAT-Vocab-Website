@@ -1,0 +1,33 @@
+{
+  "lemma": "maria",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Just tell him Maria Moskovik called.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/maria_ex_0_132ce735.mp3"
+      },
+      {
+        "text": "Maria didn’t want to deliver the bad news to David about his failing the job interview.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/maria_ex_1_d2f5de10.mp3"
+      },
+      {
+        "text": "Around 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o’clock.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/maria_ex_2_1eb0e20f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瑪麗亞，一個常見的女性名字。",
+    "en_def": "Maria, a common female given name.",
+    "example": "Maria loves to paint in her free time."
+  },
+  "sentences_removed": 0
+}

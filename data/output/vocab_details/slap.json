@@ -1,0 +1,23 @@
+{
+  "lemma": "slap",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The name comes from the sound the sandals make when they slap the walking feet.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/slap_ex_0_79612864.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用手掌或其他物體輕拍或打擊某物，通常發出聲音。",
+    "en_def": "To hit someone or something with the palm of the hand or a flat object, often making a sound.",
+    "example": "She gave him a playful slap on the arm."
+  },
+  "sentences_removed": 0
+}

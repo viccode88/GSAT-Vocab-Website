@@ -1,0 +1,23 @@
+{
+  "lemma": "samoan",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The author is a Samoan. (B)",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/samoan_ex_0_2149216c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "薩摩亞的；與薩摩亞有關的",
+    "en_def": "Relating to Samoa, its people, or its culture.",
+    "example": "She learned the Samoan language to connect with her heritage."
+  },
+  "sentences_removed": 0
+}

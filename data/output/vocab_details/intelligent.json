@@ -1,0 +1,23 @@
+{
+  "lemma": "intelligent",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Very few people, no matter how intelligent or experienced, can 28 all the possibilities or outcomes of a policy or a course of action within just a short period of time.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/intelligent_ex_0_6674cdf2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有智慧的，能夠理解和學習的。",
+    "en_def": "Having the ability to think, understand, and learn quickly and effectively.",
+    "example": "She is an intelligent student who always excels in her studies."
+  },
+  "sentences_removed": 1
+}

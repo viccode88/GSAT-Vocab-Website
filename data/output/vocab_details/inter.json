@@ -1,0 +1,23 @@
+{
+  "lemma": "inter",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/inter_ex_0_3470d2c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埋葬，通常指將屍體放入墓中或其他安葬方式。",
+    "en_def": "To place (a dead body) in a grave or tomb; to bury.",
+    "example": "They decided to inter their beloved pet in the backyard."
+  },
+  "sentences_removed": 0
+}

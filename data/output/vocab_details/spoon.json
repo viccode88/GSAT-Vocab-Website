@@ -1,0 +1,23 @@
+{
+  "lemma": "spoon",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spoon_ex_0_b0da7f1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於舀取或攪拌食物的器具，通常有圓形的凹面和長柄。",
+    "en_def": "A utensil used for scooping or stirring food, typically having a rounded bowl and a long handle.",
+    "example": "She used a spoon to stir the soup."
+  },
+  "sentences_removed": 0
+}

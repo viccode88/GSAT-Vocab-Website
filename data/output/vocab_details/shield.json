@@ -1,0 +1,33 @@
+{
+  "lemma": "shield",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A Maasai warrior is rarely seen without his spear and shield.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shield_ex_0_0cdf1612.mp3"
+      },
+      {
+        "text": "For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shield_ex_1_83a60616.mp3"
+      },
+      {
+        "text": "In what order did the following protective hats appear? a. fiberglass hats b. hats with see-through shields c. hats with canvas and leather d. hats with tar over them (A)",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shield_ex_2_3cb115a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "盾牌；保護物",
+    "en_def": "A broad piece of metal or other material used as a protective barrier.",
+    "example": "The knight raised his shield to block the incoming arrows."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "mistreat",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you mistreat your body by keeping bad habits, 33 symptoms of illness, and ignoring common health rules, even the best medicine can be of little use.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/mistreat_ex_0_1878acf1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "虐待；不當對待",
+    "en_def": "To treat someone or something badly or cruelly.",
+    "example": "It is wrong to mistreat animals in any way."
+  },
+  "sentences_removed": 0
+}

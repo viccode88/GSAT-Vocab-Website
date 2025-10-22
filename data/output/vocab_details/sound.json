@@ -1,0 +1,136 @@
+{
+  "lemma": "sound",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 13,
+    "VERB": 9,
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sound_ex_0_3716709a.mp3"
+      },
+      {
+        "text": "Hirsch thinks that mothers teach a baby to speak by using different methods such as touch, sound, and sight.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/sound_ex_1_3a2574ca.mp3"
+      },
+      {
+        "text": "Finally, some people just pick a name the sound of which they like, 40 of its meaning, its origins, or its popularity.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/sound_ex_2_81360a63.mp3"
+      },
+      {
+        "text": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sound_ex_3_c8f5003b.mp3"
+      },
+      {
+        "text": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones which stayed in front of their chairs, only a few inches from their mouths, thus giving excellent sound quality.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sound_ex_4_8d504a3e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements is true about how the glass armonica works? (A) Water has to be poured into the glass hemispheres. (B) Colored paint makes it sound better and last longer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "But due to their poor acoustic quality, all of the bells were replaced in 2013—except for Emmanuel, which 25 its renowned, excellent sound.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "any of them even if they may sound stupid.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "A combination of sound and visual devices attracts more deer to the tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The sounds of Notre-Dame bells once again filled the air in Paris, and will be heard for generations to come.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Concert reviews from the period mourned the fact that the armonica sounded wonderful—only when it could be heard.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Franklin was charmed by the music, but felt that there was a better way to create the same sound.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The room’s thin plastic walls easily transmit the sound of snoring made by neighboring guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Girls were __(28)__ more sensitive to sounds and more skillful at fine motor performance than boys.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The name comes from the sound the sandals make when they slap the walking feet.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This story may sound highly credible, but there seems to be no solid evidence that it inspired the creation of the 35 we know of today as fortune cookies.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Folk healers choose different herbs to cure diseases without any sound basis.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Indeed the guitar does sound like a little orchestra!",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "RTRI officials explain that deer have a habit of repeatedly snorting short, shrill sounds to alert other deer when they perceive danger.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the concept may sound risky to some people.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Simply removing the jingle of telephones and replacing them with the pleasant sounds of birds has had a remarkable effect on everyone.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "聲音；聲響",
+    "en_def": "A vibration that travels through the air or another medium and can be heard when it reaches a person's or animal's ear.",
+    "example": "The sound of the waves was soothing."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "albert",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A 54-page manuscript written by Albert Einstein recently was sold for $398,500 at Christie’s in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/albert_ex_0_8b363132.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿爾伯特（Albert）是一個常見的男性名字，源於德語，意為“高貴的光”或“高貴的”。",
+    "en_def": "Albert is a common male name of German origin, meaning 'noble' and 'bright'.",
+    "example": "Albert is known for his contributions to science."
+  },
+  "sentences_removed": 0
+}

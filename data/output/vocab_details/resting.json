@@ -1,0 +1,23 @@
+{
+  "lemma": "resting",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "33 Paper lanterns and offerings are sent floating down rivers to accompany the ancestors back to their resting place.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/resting_ex_0_73e82265.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "休息，放鬆或暫時停止活動的狀態。",
+    "en_def": "The state of being inactive or at ease, typically to recover energy.",
+    "example": "After a long day at work, she enjoyed resting on the couch."
+  },
+  "sentences_removed": 0
+}

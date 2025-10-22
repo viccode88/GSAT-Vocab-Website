@@ -1,0 +1,23 @@
+{
+  "lemma": "irritation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was bothered by a small irritation every Sunday as he sang in the church choir.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/irritation_ex_0_59c89d5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "刺激，惱怒或不快的感覺。",
+    "en_def": "A feeling of annoyance or discomfort.",
+    "example": "The constant noise from the construction site caused irritation to the residents."
+  },
+  "sentences_removed": 0
+}

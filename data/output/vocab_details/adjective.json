@@ -1,0 +1,28 @@
+{
+  "lemma": "adjective",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/adjective_ex_0_d602ba35.mp3"
+      },
+      {
+        "text": "What adjectives do women use more often than men? 4.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/adjective_ex_1_3a240518.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "形容詞是一種用來描述名詞或代名詞的詞類，通常用來表達性質、狀態或數量。",
+    "en_def": "An adjective is a word that describes a noun or pronoun, typically expressing qualities, states, or quantities.",
+    "example": "The tall building is visible from miles away."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "rent",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Jack: No, we rented some at the nearby village.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rent_ex_0_2aa57185.mp3"
+      },
+      {
+        "text": "After the 1960s, and especially since the 1980s, the high school prom in many areas has become a serious exercise in excessive consumption, with boys renting expensive tuxedos and girls wearing designer gowns.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rent_ex_1_a869f73c.mp3"
+      },
+      {
+        "text": "After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rent_ex_2_c9abbf7e.mp3"
+      },
+      {
+        "text": "The name of this hotel is the Capsule Inn; its rooms rent for eleven dollars a night.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rent_ex_3_dbc49b43.mp3"
+      },
+      {
+        "text": "I like everything about the apartment the rent.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rent_ex_4_14058c85.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "租金；租用某物的行為或過程。",
+    "en_def": "The payment made periodically by a tenant to a landlord for the use of land or property.",
+    "example": "I need to pay my rent by the end of the month."
+  },
+  "sentences_removed": 0
+}

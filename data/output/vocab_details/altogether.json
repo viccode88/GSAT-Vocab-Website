@@ -1,0 +1,23 @@
+{
+  "lemma": "altogether",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Altogether he printed nearly 80 books, many being his own translations from the French. 37.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/altogether_ex_0_33ec2037.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "總共；完全地",
+    "en_def": "Completely; in total.",
+    "example": "Altogether, we spent three hours on the project."
+  },
+  "sentences_removed": 0
+}

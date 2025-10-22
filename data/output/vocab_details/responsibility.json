@@ -1,0 +1,23 @@
+{
+  "lemma": "responsibility",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Given the harm caused by the burning of medical waste, physicians and nurses have the responsibility to take a lead in reducing the use of plastics in the hospitals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/responsibility_ex_0_52fa4b8c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "責任，指對某事的義務或負擔。",
+    "en_def": "A duty or obligation to deal with something or take care of someone.",
+    "example": "It is my responsibility to ensure the project is completed on time."
+  },
+  "sentences_removed": 1
+}

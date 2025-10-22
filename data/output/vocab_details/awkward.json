@@ -1,0 +1,28 @@
+{
+  "lemma": "awkward",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Prom night can be a dreadful experience for socially awkward teens or for those who do not secure dates.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/awkward_ex_0_28533472.mp3"
+      },
+      {
+        "text": "The French were also slow to accept forks, for using them was thought to be awkward.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/awkward_ex_1_2a79c4d4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "笨拙的；不自然的；令人尷尬的",
+    "en_def": "Causing or feeling embarrassment or inconvenience; lacking grace or skill.",
+    "example": "He felt awkward during the conversation with someone he had just met."
+  },
+  "sentences_removed": 0
+}

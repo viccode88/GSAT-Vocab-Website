@@ -1,0 +1,23 @@
+{
+  "lemma": "timeliness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/timeliness_ex_0_0c74da77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "準時性；及時性",
+    "en_def": "The quality of being on time or punctual.",
+    "example": "The timeliness of her report impressed the entire team."
+  },
+  "sentences_removed": 0
+}

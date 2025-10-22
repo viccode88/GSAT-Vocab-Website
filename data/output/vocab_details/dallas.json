@@ -1,0 +1,38 @@
+{
+  "lemma": "dallas",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dallas_ex_0_de658433.mp3"
+      },
+      {
+        "text": "What did Dallas County do to fight off West Nile?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dallas_ex_1_e4b991ab.mp3"
+      },
+      {
+        "text": "Which of the following is a reason why Dallas was hit most seriously in the U.S. in 2012? (A)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dallas_ex_2_2cfa95f6.mp3"
+      },
+      {
+        "text": "Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dallas_ex_3_dbcdf1b4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "達拉斯：美國德克薩斯州的一個城市，以其商業、文化和體育活動而聞名。",
+    "en_def": "Dallas: A city in Texas, USA, known for its business, culture, and sports.",
+    "example": "Dallas is famous for its vibrant arts scene and diverse cuisine."
+  },
+  "sentences_removed": 0
+}

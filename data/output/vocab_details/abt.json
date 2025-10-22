@@ -1,0 +1,43 @@
+{
+  "lemma": "abt",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For 11 of the 27 energy drinks, the ABT did detect the presence of alcohol if the test was given within one minute after the drink was taken.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/abt_ex_0_e133d30e.mp3"
+      },
+      {
+        "text": "They asked test subjects to drink a full can or bottle of an energy drink and then gave each subject an ABT one minute and 15 minutes after the drink was finished.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/abt_ex_1_b68420da.mp3"
+      },
+      {
+        "text": "The scientists then investigated the possibility that these small levels of alcohol could be detected by an ABT.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/abt_ex_2_b29a9b21.mp3"
+      },
+      {
+        "text": "What is the most important factor that affects the ABT test result for energy drink consumers? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/abt_ex_3_75f8d256.mp3"
+      },
+      {
+        "text": "To discover the relation between energy drinks and ABT test results.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/abt_ex_4_a1f8aca8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "關於；有關",
+    "en_def": "About; concerning.",
+    "example": "We talked about the project during the meeting."
+  },
+  "sentences_removed": 2
+}

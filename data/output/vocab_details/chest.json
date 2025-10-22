@@ -1,0 +1,28 @@
+{
+  "lemma": "chest",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mummies have also been found with onions and onion flowers 39 their pelvis, chest, ears, eyes, and feet.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/chest_ex_0_4c45415c.mp3"
+      },
+      {
+        "text": "their arms across their chests as if to protect themselves.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/chest_ex_1_556492f0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "胸部；箱子，特別是用來存放物品的箱子。",
+    "en_def": "The front part of the body between the neck and the abdomen; a large strong container used for storage.",
+    "example": "She placed the old clothes in the wooden chest."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "spoil",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/spoil_ex_0_1e63c479.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "損壞或破壞某物的品質或價值。",
+    "en_def": "To damage or ruin the quality or value of something.",
+    "example": "If you leave the milk out too long, it will spoil."
+  },
+  "sentences_removed": 0
+}

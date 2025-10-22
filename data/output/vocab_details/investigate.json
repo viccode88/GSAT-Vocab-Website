@@ -1,0 +1,23 @@
+{
+  "lemma": "investigate",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The scientists then investigated the possibility that these small levels of alcohol could be detected by an ABT.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/investigate_ex_0_b29a9b21.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "調查；研究",
+    "en_def": "To carry out a systematic or formal inquiry to discover and examine the facts.",
+    "example": "The police will investigate the crime scene for evidence."
+  },
+  "sentences_removed": 1
+}

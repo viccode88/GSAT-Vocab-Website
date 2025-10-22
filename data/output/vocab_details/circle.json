@@ -1,0 +1,33 @@
+{
+  "lemma": "circle",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/circle_ex_0_75f66c0b.mp3"
+      },
+      {
+        "text": "The circle-within-a-circle structure of an onion, for them, 34 the eternity of existence.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/circle_ex_1_49bc0164.mp3"
+      },
+      {
+        "text": "The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/circle_ex_2_db8d7fa0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圓形的平面圖形，所有點到中心的距離相等。",
+    "en_def": "A round plane figure whose boundary consists of points equidistant from a fixed center.",
+    "example": "The children drew a large circle on the ground with chalk."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "meet",
+  "count": 16,
+  "pos_dist": {
+    "VERB": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They usually do not meet the standard of exercise recommended by WHO.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/meet_ex_0_eb3635bb.mp3"
+      },
+      {
+        "text": "Instead of punishing Willig, the city treated him as a hero who attempted the impossible and met the challenge. 34.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/meet_ex_1_11a834ef.mp3"
+      },
+      {
+        "text": "The next day she met another traveler who was hungry.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/meet_ex_2_532302be.mp3"
+      },
+      {
+        "text": "The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/meet_ex_3_db8d7fa0.mp3"
+      },
+      {
+        "text": "I meet all kinds of people and talk to everyone.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/meet_ex_4_6b014a82.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Since the 1990s, alternative proms have been organized in some areas to meet the needs of particular students.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Ruth is attracted… C.…when I met an old friend of mine.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It suddenly me that I had to get to the airport to meet a friend.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is true about fixing your eyes on a person when you first meet him/her? (A)",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Peter plans to hike in a _____ part of Africa, where he might not meet another human being for days.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "遇見，會面，見面",
+    "en_def": "To come into the presence or company of someone; to encounter.",
+    "example": "I will meet you at the coffee shop at 3 PM."
+  },
+  "sentences_removed": 4
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "examination",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/examination_ex_0_1f5c7dc9.mp3"
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/examination_ex_1_7f6ec1a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "考試；檢查，審查",
+    "en_def": "A formal test of a person's knowledge or proficiency in a subject or skill.",
+    "example": "She studied hard for her final examination."
+  },
+  "sentences_removed": 0
+}

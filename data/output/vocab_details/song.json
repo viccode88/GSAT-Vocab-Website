@@ -1,0 +1,105 @@
+{
+  "lemma": "song",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 22,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Only a third of people are disturbed by the song in their heads.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/song_ex_0_62473258.mp3"
+      },
+      {
+        "text": "A culture’s folk tales, fables, songs, and proverbs are an important part of its literature.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/song_ex_1_4dc44cbc.mp3"
+      },
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/song_ex_2_e0b31df6.mp3"
+      },
+      {
+        "text": "The rain plays a little sleep-song on our roof at night－ And I love the rain.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/song_ex_3_74d5cfcb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The singers usually sing popular folk songs.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which word in the poem is closest in meaning to sleep-song? 3.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent or repeated exposure to a song or even a small part of a song can also trigger earworms, as can word associations, such as a phrase similar to the lyrics of a song.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.” 53.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly “earworm.”",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "歌曲；由音樂和歌詞組成的藝術作品。",
+    "en_def": "A musical composition typically consisting of lyrics and melody.",
+    "example": "She sang her favorite song at the concert."
+  },
+  "sentences_removed": 3
+}

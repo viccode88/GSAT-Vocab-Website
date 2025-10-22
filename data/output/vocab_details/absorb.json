@@ -1,0 +1,28 @@
+{
+  "lemma": "absorb",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/absorb_ex_0_98f0e032.mp3"
+      },
+      {
+        "text": "The hair and fur are made into mats and brooms and sent to 24 waters to absorb the oil.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/absorb_ex_1_96939244.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "吸收，接受或吸引某物進入自身。",
+    "en_def": "To take in or soak up a substance, or to fully understand or assimilate information.",
+    "example": "Plants absorb sunlight to produce energy."
+  },
+  "sentences_removed": 1
+}

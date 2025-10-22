@@ -1,0 +1,38 @@
+{
+  "lemma": "procedure",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/procedure_ex_0_4402e9bb.mp3"
+      },
+      {
+        "text": "The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/procedure_ex_1_4e4fc371.mp3"
+      },
+      {
+        "text": "The procedure for evaluating a dog’s intellect on Dognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/procedure_ex_2_46d179d5.mp3"
+      },
+      {
+        "text": "What does “this pioneering procedure” in the second paragraph refer to? (A) 100% Fish’s mission.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/procedure_ex_3_67e49664.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "程序；一系列步驟或行動的過程。",
+    "en_def": "A series of actions or steps taken to achieve a particular end.",
+    "example": "The procedure for applying for a visa can be quite complicated."
+  },
+  "sentences_removed": 1
+}

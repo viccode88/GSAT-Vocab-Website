@@ -1,0 +1,23 @@
+{
+  "lemma": "rancher",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Matter of Trust is helping organize the collection of this 25 hair and fur through thousands of salons, pet groomers, and ranchers.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rancher_ex_0_1ed4bf41.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "牧場主；經營牧場的人",
+    "en_def": "A person who owns or manages a ranch, especially one that raises livestock.",
+    "example": "The rancher worked hard to ensure the cattle were well-fed and healthy."
+  },
+  "sentences_removed": 0
+}

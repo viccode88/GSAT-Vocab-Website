@@ -1,0 +1,33 @@
+{
+  "lemma": "topic",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By contrast, men are much more likely to interrupt (about three times as often in some studies), to argue about what has been said, to ignore or respond poorly to what has been said, to introduce more new topics into the conversation, and to make more assertions.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/topic_ex_0_71b0e6e7.mp3"
+      },
+      {
+        "text": "You can find books on any topic you are interested in.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/topic_ex_1_7170827b.mp3"
+      },
+      {
+        "text": "Mr. Bakaleinikoff’s experience with his topic included the fact that he had created Robot Redford and had provided the voice for the robot’s words to the graduates.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/topic_ex_2_bb04bf64.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "主題；話題；討論的內容或焦點。",
+    "en_def": "A subject or theme that is discussed or written about.",
+    "example": "The topic of the meeting was the new marketing strategy."
+  },
+  "sentences_removed": 0
+}

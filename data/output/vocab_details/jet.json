@@ -1,0 +1,39 @@
+{
+  "lemma": "jet",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If one travels across three time zones, he needs about __________ hours to get over his jet lag problem.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/jet_ex_0_75e37116.mp3"
+      },
+      {
+        "text": "A traveler who suffers from jet lag has problems in ___________.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/jet_ex_1_e92801a8.mp3"
+      },
+      {
+        "text": "Generally speaking, our biological clock is slightly disturbed if we just move into the next time zone, but jet lag becomes a problem once we have passed through three or four time zones.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/jet_ex_2_df5733d0.mp3"
+      },
+      {
+        "text": "A person may suffer the most serious case of jet lag when he takes a __________ journey.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/jet_ex_3_c3d04f5c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "噴射機；噴流",
+    "en_def": "A jet is a fast-moving stream of liquid or gas, or an aircraft powered by jet engines.",
+    "example": "The jet flew high above the clouds."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "margaret",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/margaret_ex_0_62da6c1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瑪格麗特，一個女性名字，源自希臘語，意為「珍珠」。",
+    "en_def": "Margaret is a female given name of Greek origin meaning 'pearl'.",
+    "example": "Margaret loves to read books in her free time."
+  },
+  "sentences_removed": 0
+}

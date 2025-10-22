@@ -1,0 +1,110 @@
+{
+  "lemma": "hope",
+  "count": 18,
+  "pos_dist": {
+    "VERB": 10,
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hope_ex_0_564e31bf.mp3"
+      },
+      {
+        "text": "I hope to live in a student dormitory when I am in college.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hope_ex_1_29cb6d1d.mp3"
+      },
+      {
+        "text": "Some regions prepare horses made of cucumbers and cows made of eggplants, hoping that the spirits will come back to Earth quickly, on a horse, and leave slowly, riding the cow.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hope_ex_2_ae4aa0fc.mp3"
+      },
+      {
+        "text": "His father, __(19)__ always hoped that he would get a PhD and become a professor, __(20)__ with a scoff: “What is all this nonsense?!”",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/hope_ex_3_03f01323.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Do the colleges allow you to participate in activities ___(29)___ will help you develop yourself intellectually and emotionally? I hope the ___(30)___",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "I ______ hope that you will come back very soon.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He hoped to sell 26 as material for tents or wagon covers.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "These nets are recognized by medical experts as the best hope for __(22)__ the spread of malaria－Cambodia’s most deadly disease.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "They hope to find the secret of his success.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "First of all, they look for clues that can help them deliver the mail; they open packages in the hope that something inside will show where the package came from or is going to.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The project in Mexico City has brought new hope to reducing the use of fossil fuels.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over 100,000 people with “gold fever” made this trip hoping to become millionaires.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Industry members of the IOC hope to promote the trade of olive oil by initiating these changes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He saw a hope in running and joined Santayehu Eshetu’s training program.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We hope that there will be no war in the world and that all people live in peace and _____ with each other.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With the imaginative assistance of Dooley, Peanuts discovers the healing power of hope and love.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "希望是一種對未來的積極期待或信念。",
+    "en_def": "Hope is a feeling of expectation and desire for a certain thing to happen.",
+    "example": "I have hope that things will get better soon."
+  },
+  "sentences_removed": 0
+}

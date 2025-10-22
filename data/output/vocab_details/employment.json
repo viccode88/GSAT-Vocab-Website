@@ -1,0 +1,23 @@
+{
+  "lemma": "employment",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many African Americans were not given equal opportunities in education or employment.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/employment_ex_0_71211c32.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "就業；工作狀態或職位。",
+    "en_def": "The state of having paid work.",
+    "example": "She found employment at a local bookstore."
+  },
+  "sentences_removed": 0
+}

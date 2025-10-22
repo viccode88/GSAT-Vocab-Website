@@ -1,0 +1,33 @@
+{
+  "lemma": "statue",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the war, a giant paperclip statue was erected in Oslo to 40 Vaaler—even though his design was never actually manufactured.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/statue_ex_0_ee9986a0.mp3"
+      },
+      {
+        "text": "These devices made it possible for doors to open by themselves and wine to flow magically out of statues’ mouths.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/statue_ex_1_a9834f3b.mp3"
+      },
+      {
+        "text": "They made the statues in the temples drink wine as they wished.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/statue_ex_2_d31dd0c9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雕像是一種用於表現人物、動物或物體的三維藝術作品，通常由石頭、金屬或其他材料製成。",
+    "en_def": "A statue is a three-dimensional artwork representing a person, animal, or object, typically made from materials like stone, metal, or other substances.",
+    "example": "The statue in the park is a tribute to the city's founder."
+  },
+  "sentences_removed": 0
+}

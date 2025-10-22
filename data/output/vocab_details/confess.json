@@ -1,0 +1,23 @@
+{
+  "lemma": "confess",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I asked how she dealt with the realization that she’d never walk again, and she confessed that initially she didn’t want to face it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/confess_ex_0_5adb754f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "承認或坦白某事，尤其是錯誤或罪行。",
+    "en_def": "To admit or acknowledge something, especially a wrongdoing or crime.",
+    "example": "He decided to confess his mistake to his teacher."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "stanford",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/stanford_ex_0_603c75c4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "史丹佛：位於美國加利福尼亞州的一所著名大學，以其學術卓越和創新研究而聞名。",
+    "en_def": "Stanford: A prestigious university located in California, known for its academic excellence and innovative research.",
+    "example": "She decided to apply to Stanford for her graduate studies."
+  },
+  "sentences_removed": 0
+}

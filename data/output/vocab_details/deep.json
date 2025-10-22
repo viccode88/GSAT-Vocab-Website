@@ -1,0 +1,70 @@
+{
+  "lemma": "deep",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 8,
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/deep_ex_0_8700ccfa.mp3"
+      },
+      {
+        "text": "Such deep and extensive burns can be fatal.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/deep_ex_1_a4f61c19.mp3"
+      },
+      {
+        "text": "The rooms are small plastic capsules, and each capsule is about five feet high, by five feet wide, and by seven feet deep.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/deep_ex_2_ec2d862c.mp3"
+      },
+      {
+        "text": "The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won’t reach.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/deep_ex_3_9470b47e.mp3"
+      },
+      {
+        "text": "Before John got on the stage to give the speech, he took a deep ________ to calm himself down.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/deep_ex_4_5c314c67.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "“Judo helped me a small boat that held 20 people and set sail into the by giving me serenity, discipline, commitment— deep waters of the Aegean Sea.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Waimea Canyon, called the \"Grand Canyon of the Pacific\" by Mark Twain, cuts a deep gash through the rugged central mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "29 , it is a way for you to put the deepest areas of your brain to good use while you’re sleeping.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot is needed to direct large ships into a port, where there are often deep water channels surrounded by shallower seabeds.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "深的，指距離或程度大，或在某一方面有很強的影響力或意義。",
+    "en_def": "Extending far down from the top or surface; profound in quality or intensity.",
+    "example": "The lake is very deep, making it difficult to see the bottom."
+  },
+  "sentences_removed": 0
+}

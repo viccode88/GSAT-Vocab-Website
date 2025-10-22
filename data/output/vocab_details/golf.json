@@ -1,0 +1,23 @@
+{
+  "lemma": "golf",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While one person enjoys playing seventy-two holes of golf a week, another would rather play three sweaty, competitive games of tennis.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/golf_ex_0_9833ff99.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高爾夫球，一種在草地上用球杆擊打小球進入一系列洞中的運動。",
+    "en_def": "A sport played on a large outdoor course, where players use clubs to hit a small ball into a series of holes in as few strokes as possible.",
+    "example": "He plays golf every Saturday with his friends."
+  },
+  "sentences_removed": 0
+}

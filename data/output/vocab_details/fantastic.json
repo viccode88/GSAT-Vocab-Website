@@ -1,0 +1,33 @@
+{
+  "lemma": "fantastic",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fantastic_ex_0_2b7eadc4.mp3"
+      },
+      {
+        "text": "We want to believe in fantastic creatures in imaginary lands.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fantastic_ex_1_08fdea43.mp3"
+      },
+      {
+        "text": "At the end of the class, you __(25)__ with you classmates the meals you have created, and you will leave with recipe handouts and , more importantly, the ability to cook two weeks of fantastic, low-cost meals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/fantastic_ex_2_47401af8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "極好的；奇妙的",
+    "en_def": "Extraordinarily good or attractive; remarkable.",
+    "example": "The view from the mountain was absolutely fantastic."
+  },
+  "sentences_removed": 0
+}

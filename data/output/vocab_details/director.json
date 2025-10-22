@@ -1,0 +1,38 @@
+{
+  "lemma": "director",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The movie director adapted this year’s bestseller into a hit and made a ______.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/director_ex_0_d0fad802.mp3"
+      },
+      {
+        "text": "The famous film director Ang Lee recalls his father’s disappointment with him when he was young.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/director_ex_1_33e582de.mp3"
+      },
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/director_ex_2_8703ca0a.mp3"
+      },
+      {
+        "text": "The first traffic signal originated from the idea of a traffic director.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/director_ex_3_776e32bc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "導演；負責電影、戲劇或其他表演藝術作品的創作和製作的人。",
+    "en_def": "A person who is in charge of the creative aspects of a film, play, or other performance.",
+    "example": "The director gave clear instructions to the actors during rehearsal."
+  },
+  "sentences_removed": 1
+}

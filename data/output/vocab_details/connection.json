@@ -1,0 +1,49 @@
+{
+  "lemma": "connection",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Girls develop an early connection between this area and the cerebral cortex, enabling them to talk about their feelings.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/connection_ex_0_34ee3382.mp3"
+      },
+      {
+        "text": "The first piece of space junk was created in 1964, when the American satellite Vanguard I stopped operating and lost its connection with the ground center.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/connection_ex_1_accd5834.mp3"
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/connection_ex_2_0467c519.mp3"
+      },
+      {
+        "text": "They appear to be attracted to electromagnetic fields and attack electrical insulation or wire connections.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/connection_ex_3_89cf79fe.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When Jason failed to pay his bill, the network company his Internet connection.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "連接，聯繫；關係或聯繫的狀態或方式。",
+    "en_def": "A relationship or link between two or more things.",
+    "example": "The internet provides a connection between people all over the world."
+  },
+  "sentences_removed": 0
+}

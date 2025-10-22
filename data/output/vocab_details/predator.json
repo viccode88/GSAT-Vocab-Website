@@ -1,0 +1,43 @@
+{
+  "lemma": "predator",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, if a predator (such as a ants can follow.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/predator_ex_0_4a5a83c8.mp3"
+      },
+      {
+        "text": "When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/predator_ex_1_b6e4a60b.mp3"
+      },
+      {
+        "text": "They are stony structures full of dark hideaways where fish and sea animals can lay their eggs and 31 from predators.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/predator_ex_2_d261fbc6.mp3"
+      },
+      {
+        "text": "And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/predator_ex_3_b8309269.mp3"
+      },
+      {
+        "text": "By working collectively, the each other while they flee from the predator.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/predator_ex_4_0d7d9362.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "捕食者；以其他生物為食的動物。",
+    "en_def": "An animal that hunts and feeds on other animals.",
+    "example": "The lion is a top predator in the African savanna."
+  },
+  "sentences_removed": 0
+}

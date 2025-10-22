@@ -1,0 +1,79 @@
+{
+  "lemma": "pose",
+  "count": 12,
+  "pos_dist": {
+    "VERB": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/pose_ex_0_4402e9bb.mp3"
+      },
+      {
+        "text": "They can use their sense of vision and smell to tell the difference between people who pose a threat and those who do not.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pose_ex_1_ac4d2fd3.mp3"
+      },
+      {
+        "text": "In addition to the shallower seabeds, tide and wind pose further challenges for bringing ships into a port.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/pose_ex_2_62a871da.mp3"
+      },
+      {
+        "text": "Called the diamond-water paradox, this is a classic problem posed to students of economics.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pose_ex_3_be98c397.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since rats love to hunt and eat wetas, the rat population on the island has its grown into a real problem for many of the native species that are unaccustomed to presence, and poses a serious threat to the native weta population.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This poses a serious problem when it comes to getting enough water to drink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A newly published study, however, revealed that rising temperatures are posing an 27 threat to the last tropical glaciers in Indonesia’s Papua region.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This poses special problems for childbearing women, who pass dioxin to an unborn baby or to a breastfeeding baby.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "姿勢；擺姿勢",
+    "en_def": "A position or attitude of the body or a way of presenting oneself.",
+    "example": "She struck a pose for the camera."
+  },
+  "sentences_removed": 0
+}

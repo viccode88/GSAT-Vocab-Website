@@ -1,0 +1,28 @@
+{
+  "lemma": "retreat",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They retreat to safe places.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/retreat_ex_0_045bf2a9.mp3"
+      },
+      {
+        "text": "As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/retreat_ex_1_0f672b5c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "撤退；退隱；隱居的地方",
+    "en_def": "To withdraw or move back, often for safety or to escape; a place of refuge or privacy.",
+    "example": "After a long week, she decided to retreat to the cabin in the woods for some peace and quiet."
+  },
+  "sentences_removed": 0
+}

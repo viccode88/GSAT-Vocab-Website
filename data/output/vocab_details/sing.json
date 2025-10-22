@@ -1,0 +1,119 @@
+{
+  "lemma": "sing",
+  "count": 22,
+  "pos_dist": {
+    "VERB": 22
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Let the rain sing you a lullaby.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sing_ex_0_e3460c67.mp3"
+      },
+      {
+        "text": "She was born in Philadelphia and sang in church choirs during her childhood.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sing_ex_1_a42eab53.mp3"
+      },
+      {
+        "text": "The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/sing_ex_2_c9170490.mp3"
+      },
+      {
+        "text": "In 1955, Anderson became the first black soloist to sing with the Metropolitan Opera of New York City.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sing_ex_3_9315ca3a.mp3"
+      },
+      {
+        "text": "Just like their cousins grasshoppers and crickets, wetas are able to “sing” by rubbing their leg parts together, or against their lower bodies.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sing_ex_4_470a79c1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As she sang, Whitfield’s voice was so powerful and soulful that everyone in the room forgot the wheelchair was even there.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The singers usually sing popular folk songs.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When it was arranged for her to sing at Constitution Hall in Washington, D.C., the Daughters of the American Revolution opposed it because of her color.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is true? (A) Scary lullabies better help babies fall asleep. (B) Mothers prefer to sing lullabies with a joyful melody.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She sang instead at the Lincoln Memorial for over 75,000 people.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.” 41.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The singers learn to sing from their parents.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She sang for religious activities.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The audience could not visualize the theme sung by the school children.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Now with the children performing the pieces, parents are beginning to ask, ‘Why do we not know how to sing these ballads?’",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He was bothered by a small irritation every Sunday as he sang in the church choir.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She sang at Town Hall in New York.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "唱歌，發出音樂聲音，通常伴隨著旋律和歌詞。",
+    "en_def": "To produce musical sounds with the voice, often with melody and lyrics.",
+    "example": "She loves to sing in the shower."
+  },
+  "sentences_removed": 2
+}

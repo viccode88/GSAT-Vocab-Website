@@ -1,0 +1,104 @@
+{
+  "lemma": "ground",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ground_ex_0_2500abb9.mp3"
+      },
+      {
+        "text": "Public dwellings lined its ground level; a marketplace and two mosques also fit comfortably inside.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/ground_ex_1_58362b71.mp3"
+      },
+      {
+        "text": "Ground stations have been built to monitor larger pieces of space trash to prevent them from crashing into working satellites or space shuttles.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/ground_ex_2_09378cf5.mp3"
+      },
+      {
+        "text": "Then, in about 30 minutes after the cutting began, the giant tree crashed down violently and shook the ground under our feet.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ground_ex_3_cb7f794b.mp3"
+      },
+      {
+        "text": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his and fell to the ground.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ground_ex_4_8093a390.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why couldn’t the researchers get the answer to their research questions? (A) Many cattle in their study were sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After darkness falls in some parts of North America, female fireflies gather on the ground.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The first piece of space junk was created in 1964, when the American satellite Vanguard I stopped operating and lost its connection with the ground center.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "We all fantasize about being able to fly and lift buildings off the ground.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Lisa _____ onto the ground and injured her ankle while she was playing basketball yesterday.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "It is surrounded by about 5,000 other islands, some of 17 are just rocks sticking out of the ground.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "地面；土地；基礎",
+    "en_def": "The solid surface of the earth or the bottom of a body of water.",
+    "example": "The children played on the ground in the park."
+  },
+  "sentences_removed": 0
+}

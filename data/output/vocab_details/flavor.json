@@ -1,0 +1,75 @@
+{
+  "lemma": "flavor",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 11,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It must be free from impurity, while exhibiting some fruitiness and creating a pleasant bitter flavor along with a peppery sensation in the mouth.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/flavor_ex_0_d47a7adf.mp3"
+      },
+      {
+        "text": "The organic food products are made of natural ingredients, with no ______ flavors added.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/flavor_ex_1_85d69285.mp3"
+      },
+      {
+        "text": "Green tea is dried but not fermented, and this shorter processing gives it a lighter flavor than black tea.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/flavor_ex_2_04c6dd76.mp3"
+      },
+      {
+        "text": "For example, the flavors people with taste-word synesthesia experience are usually childhood flavors, such as chocolate or strawberries.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/flavor_ex_3_c3040ba8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Making matters worse, the artificial butter substitute that generally 34 with microwavable popcorn contains a common food-flavoring substance.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For these reasons, storage onions are the best choice for spicy dishes that require longer cooking times or more flavor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is free from any bitter flavor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The flavor of olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The device, for instance, can be set to 30 one’s favorite flavor.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They also have an 25 flavor and a higher percentage of solids.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "味道；風味",
+    "en_def": "The distinctive taste of a food or drink.",
+    "example": "The ice cream has a rich chocolate flavor."
+  },
+  "sentences_removed": 0
+}

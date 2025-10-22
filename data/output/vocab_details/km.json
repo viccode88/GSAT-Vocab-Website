@@ -1,0 +1,28 @@
+{
+  "lemma": "km",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The island is about 7 km long and 0.5 km wide.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/km_ex_0_7a63e679.mp3"
+      },
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/km_ex_1_a3cc836b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "公里，長度單位，等於一千米。",
+    "en_def": "Kilometer, a unit of length equal to one thousand meters.",
+    "example": "The city is about 10 km away from the airport."
+  },
+  "sentences_removed": 0
+}

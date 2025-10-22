@@ -1,0 +1,39 @@
+{
+  "lemma": "struggle",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In forested areas with thick tree crowns, there is intense struggle for these resources.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/struggle_ex_0_4cfaeca4.mp3"
+      },
+      {
+        "text": "In her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/struggle_ex_1_0722118e.mp3"
+      },
+      {
+        "text": "It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/struggle_ex_2_bff544cd.mp3"
+      },
+      {
+        "text": "But it soon became a strong weapon in the life-or-death struggle against their oppressors.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/struggle_ex_3_13759610.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "掙扎；努力奮鬥",
+    "en_def": "To make a strenuous effort to overcome difficulties or achieve something.",
+    "example": "She had to struggle to finish her homework before the deadline."
+  },
+  "sentences_removed": 0
+}

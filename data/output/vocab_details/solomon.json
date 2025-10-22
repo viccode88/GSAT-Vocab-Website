@@ -1,0 +1,23 @@
+{
+  "lemma": "solomon",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/solomon_ex_0_d1f87f77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "所羅門，古代以色列的國王，以智慧和公正著稱，常被視為智慧的象徵。",
+    "en_def": "Solomon, a king of ancient Israel renowned for his wisdom and fairness, often regarded as a symbol of wisdom.",
+    "example": "King Solomon is famous for his wise judgment in the case of two women claiming to be the mother of the same baby."
+  },
+  "sentences_removed": 0
+}

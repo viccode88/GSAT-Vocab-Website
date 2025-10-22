@@ -1,0 +1,24 @@
+{
+  "lemma": "caring",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Trust develops when we respect each other’s needs and develop a history of common experience and caring.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/caring_ex_0_32e9bfbb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "關心他人、表現出同情或愛心的行為或態度。",
+    "en_def": "Showing kindness and concern for others.",
+    "example": "She is very caring and always helps her friends in need."
+  },
+  "sentences_removed": 1
+}

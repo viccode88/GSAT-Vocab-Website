@@ -1,0 +1,23 @@
+{
+  "lemma": "owe",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The young man owes his success to many people, his parents .",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/owe_ex_0_c6207ea8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "欠（某人）錢或某種義務",
+    "en_def": "To be under obligation to pay or repay money or a favor to someone.",
+    "example": "I owe you ten dollars for the book."
+  },
+  "sentences_removed": 0
+}

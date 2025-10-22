@@ -1,0 +1,111 @@
+{
+  "lemma": "paper",
+  "count": 22,
+  "pos_dist": {
+    "NOUN": 20,
+    "VERB": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Writing term papers and giving oral reports are typical course _____ for college students.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/paper_ex_0_e5609178.mp3"
+      },
+      {
+        "text": "If these letters were linked over and pressed on to paper, they would print the words.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/paper_ex_1_4b89015a.mp3"
+      },
+      {
+        "text": "In the late 19th century, the most common way to hold papers together was by using a pin.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/paper_ex_2_9bde8349.mp3"
+      },
+      {
+        "text": "When the paper-thin browned potatoes arrived, the diner was pleased.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/paper_ex_3_02f56ea2.mp3"
+      },
+      {
+        "text": "33 Paper lanterns and offerings are sent floating down rivers to accompany the ancestors back to their resting place.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/paper_ex_4_73e82265.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Although the pin was an inexpensive tool and was easily 32 , it would leave holes in the paper.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I remember just a blizzard of paper.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "That is, after he 16 his pages in the hymn book with small bits of paper, the small pieces would invariably fall out all over the floor.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although there are extra costs involved in going digital—the cost of memory cards for storage and the special paper for printing—many buyers have been willing to make the switch.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "All we hear is the scratching of pencil on paper, the sound of pigeons, and the delivery of inter-office correspondence by paper airplane. Wonderful!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "I’m working 18 my history paper.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Each cookie 37 a strip of paper inside with an inspirational Bible quotation on it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We have completely embraced paper technology.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The huge amount of paper poured over him.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He then coated the glue on a paper sample and found that it was not only a good bookmark, but it was great for writing notes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "23 the process of questioning, all the signals are recorded on a single strip of moving paper.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "紙：用於書寫、印刷或包裝的薄片狀材料，通常由植物纖維製成。",
+    "en_def": "A thin material made from plant fibers, used for writing, printing, or packaging.",
+    "example": "She wrote a letter on a piece of paper."
+  },
+  "sentences_removed": 3
+}

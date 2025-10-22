@@ -1,0 +1,54 @@
+{
+  "lemma": "creature",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/creature_ex_0_d320b05a.mp3"
+      },
+      {
+        "text": "Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/creature_ex_1_79c5faa6.mp3"
+      },
+      {
+        "text": "Most people probably don’t feel sympathy for these endangered creatures, but they do need protecting.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/creature_ex_2_128aa4f7.mp3"
+      },
+      {
+        "text": "We want to believe in fantastic creatures in imaginary lands.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/creature_ex_3_08fdea43.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following is true about an earworm? (A) It is a creature living inside our ears.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most people feel disgusted at the sight of these bulky, slow-moving creatures.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many children were upset to hear about the __38__ death of these wonderful sea creatures and decided to help __39__ them.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "生物；生物體，特別是指動物或神話中的生物。",
+    "en_def": "A living being, especially an animal or a mythical being.",
+    "example": "The forest is home to many strange and wonderful creatures."
+  },
+  "sentences_removed": 1
+}

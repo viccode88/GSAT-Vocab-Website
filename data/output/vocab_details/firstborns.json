@@ -1,0 +1,23 @@
+{
+  "lemma": "firstborns",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Firstborns, under normal circumstances, are usually the most strongly motivated toward achievement.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/firstborns_ex_0_81067cf9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第一個出生的孩子，通常指家庭中的長子或長女。",
+    "en_def": "The first child born to a set of parents, often referred to as the eldest son or daughter.",
+    "example": "As the firstborn, she felt a sense of responsibility to set a good example for her younger siblings."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "chu",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Chu’s speech on the new energy source attracted great _____ from the audience at the conference.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/chu_ex_0_d73ef9ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於表示動作或狀態的詞，通常指向某個方向或位置。",
+    "en_def": "A word used to indicate an action or state, often pointing to a direction or location.",
+    "example": "He decided to chu towards the exit."
+  },
+  "sentences_removed": 0
+}

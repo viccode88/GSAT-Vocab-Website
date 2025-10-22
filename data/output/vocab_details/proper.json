@@ -1,0 +1,43 @@
+{
+  "lemma": "proper",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the main idea of the third paragraph? (A) Proper social behavior must be observed by prom-goers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/proper_ex_0_a12e472b.mp3"
+      },
+      {
+        "text": "Therefore, proms have been held every year in high schools for students to learn proper social behavior.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/proper_ex_1_cb50c5c8.mp3"
+      },
+      {
+        "text": "In our proper relationship with others, we will be known and seen for who we are, and love will come out of the seeing and the knowing.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/proper_ex_2_8be5e79c.mp3"
+      },
+      {
+        "text": "What’s the proper way of wearing the kilt? (A) It should be worn with underwear underneath it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/proper_ex_3_ff4d3011.mp3"
+      },
+      {
+        "text": "You will also learn important information about __(24)__ for fresh and inexpensive foods, the use of herbs and spices, and the proper ways of storing different kinds of food.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/proper_ex_4_c64d79bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "適當的，合適的，符合規範的",
+    "en_def": "Suitable or appropriate; conforming to established standards or rules.",
+    "example": "It is important to wear proper attire for the formal event."
+  },
+  "sentences_removed": 0
+}

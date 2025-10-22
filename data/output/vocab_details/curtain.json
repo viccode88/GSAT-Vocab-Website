@@ -1,0 +1,29 @@
+{
+  "lemma": "curtain",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While the Iron Curtain was still in place under the communist government, Prague was ＿29＿ visited by foreigners.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/curtain_ex_0_de8ba48f.mp3"
+      },
+      {
+        "text": "As the applause __________, the curtain on the stage dropped slowly.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/curtain_ex_1_e2be623f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "窗簾；幕布，用於遮擋光線或隱私。",
+    "en_def": "A piece of fabric or material that hangs over a window or doorway to block light or provide privacy.",
+    "example": "She drew the curtain to let in the morning light."
+  },
+  "sentences_removed": 0
+}

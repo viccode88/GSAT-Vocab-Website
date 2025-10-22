@@ -1,0 +1,23 @@
+{
+  "lemma": "deception",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Actually, one of their main interests was the art of deception.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/deception_ex_0_a39c3d85.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "欺騙，故意誤導他人以隱瞞真相或達成某種目的的行為。",
+    "en_def": "The act of deceiving or misleading someone, often to conceal the truth or achieve a specific goal.",
+    "example": "His deception was uncovered when the truth finally came to light."
+  },
+  "sentences_removed": 0
+}

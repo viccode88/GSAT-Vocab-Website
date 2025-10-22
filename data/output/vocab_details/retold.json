@@ -1,0 +1,23 @@
+{
+  "lemma": "retold",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They changed, however, as they were told and retold.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/retold_ex_0_7be7c0e9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重新講述或重述某個故事或事件。",
+    "en_def": "To tell a story or event again, often in a different way.",
+    "example": "She retold the fairy tale with a modern twist."
+  },
+  "sentences_removed": 0
+}

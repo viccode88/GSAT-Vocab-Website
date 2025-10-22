@@ -1,0 +1,29 @@
+{
+  "lemma": "orbit",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, since it kept orbiting around the Earth without any consequences, scientists became increasingly comfortable abandoning things that no longer served any useful purpose in space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/orbit_ex_0_8d9676e2.mp3"
+      },
+      {
+        "text": "It is estimated that there are currently over 500,000 pieces of man-made trash orbiting the Earth at speeds of up to 17,500 miles per hour.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/orbit_ex_1_e45e249b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "天體圍繞另一天體運行的軌道。",
+    "en_def": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+    "example": "The Earth travels in an orbit around the Sun."
+  },
+  "sentences_removed": 1
+}

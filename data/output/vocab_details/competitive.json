@@ -1,0 +1,28 @@
+{
+  "lemma": "competitive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While one person enjoys playing seventy-two holes of golf a week, another would rather play three sweaty, competitive games of tennis.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/competitive_ex_0_9833ff99.mp3"
+      },
+      {
+        "text": "In this way, these secret shoppers may help a business gain a competitive edge.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/competitive_ex_1_f44cb680.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "具有競爭性的，能夠與他人競爭的。",
+    "en_def": "Having a strong desire to compete or succeed against others.",
+    "example": "She is very competitive and always strives to be the best in her class."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,65 @@
+{
+  "lemma": "respect",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 7,
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The need to respect nature to avoid being destroyed by it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/respect_ex_0_c6ef9ec0.mp3"
+      },
+      {
+        "text": "Trust develops when we respect each other’s needs and develop a history of common experience and caring.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/respect_ex_1_32e9bfbb.mp3"
+      },
+      {
+        "text": "__(39)__ men and women are able to respect and accept their differences, love has a chance to blossom.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/respect_ex_2_7c81475a.mp3"
+      },
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/respect_ex_3_c6d4ceb7.mp3"
+      },
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/respect_ex_4_25185a8f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Her frequent visits there gave her a passion and respect for the profession.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Jack is a person: he is polite, kind, and always shows respect for others.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Love is, __(40)__, magical, and it certainly can last if we remember our differences and respect each other.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "尊重，對他人或事物的重視和敬意。",
+    "en_def": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.",
+    "example": "It is important to show respect to everyone, regardless of their background."
+  },
+  "sentences_removed": 1
+}

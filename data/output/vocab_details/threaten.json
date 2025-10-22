@@ -1,0 +1,59 @@
+{
+  "lemma": "threaten",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A man learns their secret and threatens to sell the water to the highest bidder.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/threaten_ex_0_fb312c09.mp3"
+      },
+      {
+        "text": "Rising temperatures, an effect of global warming, 25 threaten the ecosystem of this mountain area.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/threaten_ex_1_88a8937d.mp3"
+      },
+      {
+        "text": "We need to learn more about them and work together to stop the activities that may threaten their existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/threaten_ex_2_bd1c4a79.mp3"
+      },
+      {
+        "text": "And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/threaten_ex_3_b8309269.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "35 , they cannot be detected by other animals that threaten them.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In Barcelona, however, the birds are now threatening to 17 the city’s historic center, pooping on monuments, buildings, and even tourists.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following titles best describes the main idea of this passage? (A) The Origin of Lullabies (B) The Functions of Lullabies (C) Threatening Lullabies (D) Sleep-Inducing Lullabies 54.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "威脅，對某人或某事造成危險或損害的行為。",
+    "en_def": "To express an intention to cause harm or danger to someone or something.",
+    "example": "He threatened to quit if his demands were not met."
+  },
+  "sentences_removed": 0
+}

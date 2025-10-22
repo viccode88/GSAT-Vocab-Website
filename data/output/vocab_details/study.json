@@ -1,0 +1,375 @@
+{
+  "lemma": "study",
+  "count": 79,
+  "pos_dist": {
+    "NOUN": 59,
+    "VERB": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A newly published study, however, revealed that rising temperatures are posing an 27 threat to the last tropical glaciers in Indonesia’s Papua region.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/study_ex_0_353ca403.mp3"
+      },
+      {
+        "text": "Just concentrate on your studies.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/study_ex_1_d261f4dd.mp3"
+      },
+      {
+        "text": "What field of study does the research mentioned in the passage most likely belong to? (A) Psychology.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/study_ex_2_e0527bb4.mp3"
+      },
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/study_ex_3_73b77ec7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Those college students work at the orphanage on a _____ basis, helping the children with their studies without receiving any pay.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From space, astronauts study the geography, pollution, and weather patterns on Earth.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some studies suggest that the act of shaping our mouths into a smile (creating a “physical smile”) can help us see the brighter, funnier side of things.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "She studied voice in Europe.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent study, almost three-quarters of American high school juniors said they felt stress at least once a week, some almost daily.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies on jackdaws and turtle ants may provide some insights into the issue.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But studies suggest that involving children in meal preparation is an important first step in getting them to try new foods.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He later created a standard of measuring children’s intelligence 28 the data he had collected from the French children he studied.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred from the study? (A) Sea snakes can easily survive long years of drought.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, one study found various differences __(27)__ boys and girls in sensory learning styles.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the study, the subjects were placed inside the MRI scanner to (A) observe the activities of the brains when they used languages.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, 34 health studies prove that exercise doesn’t have to hurt to be effective.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "I am studying so hard for the forthcoming entrance exam that I do not have the of a free weekend to rest.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the pulses of heat in the study?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Still others think that most aliens visit Earth to study us like our scientists study primitive natives and animals, and have no interest in helping us __(40)__.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major finding of Dr. Begall’s study? (A) Cattle point north-south.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why couldn’t the researchers get the answer to their research questions? (A) Many cattle in their study were sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies have proved that watching funny movies can reduce pain and promote healing.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "She studied at a music school.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers in this study worked with 10 volunteers, ages 24 to 46.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Then, when he was studying film in college, he would exhaust himself just for a performance tour.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent study, the part of your brain that reacts to severe pain is largely the same part that reacts to expectation of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent marketing study, young adults influence 88% of household clothing purchases.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Being 7 cigarette smoke hurt the athletes' lungs, and made them 8 more than athletes who did not have smokers close 9 , the study said.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies show that asking children to do house _____, such as taking out the trash or doing the dishes, helps them grow into responsible adults.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many students find it hard to focus on their studies when holidays are .",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "How did the elephants react to smell in the study?",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies reveal that negative emotions are seated in an area of the brain called the amygdala.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of the study described in this passage? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies like these have promoted the banning of smoking in 10 places.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In a study conducted by Levi Strauss and Company, 85 percent of employers said that they believe that casual dress improves employee morale.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "David felt disappointed when he found out that he could not choose his study partners, but would be ______ placed in a study group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO).",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another study looked at non-smoking 6 athletes who had smoking parents or friends.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The study warned that Papua’s glaciers are only the “first to go” if greenhouse gases are 30 and temperatures continue rising.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Ohio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1929, she went to Europe to study voice and spent several years performing there.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since it was a holiday, (A) … so he went abroad to study.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "How they should be studied in labs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Applying to college means sending in applications, writing study plans, and so on.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But new studies have found that smoke from cigarettes can be 3 to non-smokers too.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is one of the findings of the study? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "J.… better than studying alone at home.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A new study by the Department of Health in Taiwan shows that more than half of the adult population in Taiwan lacks an understanding of important health problems.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, recent studies have shown (70) interest in storytelling for adults is returning.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He used an instrument called an MRI (magnetic resonance imaging) to study the brains of two groups of bilingual people.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to some studies, how often do men interrupt as compared with women?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "I wonder why she turned up the radio when I was studying.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Jack says you'll not only find it handy in your studies, but a great argument-saver when playing Scrabble with your friends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The new study emphasizes that pain has both physical and psychological elements.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although Jeffery had to keep two part-time jobs to support his family, he never ______ his studies.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "By contrast, men are much more likely to interrupt (about three times as often in some studies), to argue about what has been said, to ignore or respond poorly to what has been said, to introduce more new topics into the conversation, and to make more assertions.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies show that the unbiased media are in fact often deeply influenced by political ideology.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists are studying the suicidal behavior of pilot whales.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "學習或研究某個主題或技能的過程。",
+    "en_def": "The process of learning about or investigating a subject or skill.",
+    "example": "I need to study for my math exam next week."
+  },
+  "sentences_removed": 6
+}

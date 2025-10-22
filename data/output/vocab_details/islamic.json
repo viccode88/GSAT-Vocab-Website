@@ -1,0 +1,23 @@
+{
+  "lemma": "islamic",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Later, in the medieval Islamic Caliphate, a form of passport was the bara’a, a receipt for taxes paid.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/islamic_ex_0_525b7be4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與伊斯蘭教有關的，或屬於伊斯蘭教的。",
+    "en_def": "Relating to Islam or its followers.",
+    "example": "The Islamic festival of Eid al-Fitr marks the end of Ramadan."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "cash",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What does the word “cash-strapped” in the second paragraph mean? (A) Making a lot of money.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cash_ex_0_9a6d918e.mp3"
+      },
+      {
+        "text": "This is certainly good news for cash-strapped students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cash_ex_1_9a7a0e73.mp3"
+      },
+      {
+        "text": "With the worsening of global economic conditions, it seems wiser and more _____ to keep cash in the bank rather than to invest in the stock market.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cash_ex_2_de2dd517.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "現金；可立即使用的貨幣。",
+    "en_def": "Money in the form of coins or banknotes, as opposed to checks, credit, or electronic payments.",
+    "example": "I prefer to pay in cash rather than using my credit card."
+  },
+  "sentences_removed": 0
+}

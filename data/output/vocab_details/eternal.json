@@ -1,0 +1,33 @@
+{
+  "lemma": "eternal",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Onions were considered to be 33 of eternal life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/eternal_ex_0_e520e314.mp3"
+      },
+      {
+        "text": "The Tuck family has discovered a spring whose water brings eternal life.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/eternal_ex_1_8fd14aa2.mp3"
+      },
+      {
+        "text": "It feels eternal as if love will last __(31)__.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/eternal_ex_2_cfd9ec12.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "永恆的；無窮的，無盡的。",
+    "en_def": "Lasting or existing forever; without end.",
+    "example": "The stars in the sky seem eternal."
+  },
+  "sentences_removed": 0
+}

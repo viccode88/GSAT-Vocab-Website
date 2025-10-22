@@ -1,0 +1,43 @@
+{
+  "lemma": "singer",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Unable to attend music school, she began her career as a singer for church gatherings.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/singer_ex_0_3e64a9d0.mp3"
+      },
+      {
+        "text": "Then she returned to the U.S. in 1935 and became a top concert singer after performing at Town Hall in New York City.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/singer_ex_1_09d9bb3f.mp3"
+      },
+      {
+        "text": "The singers usually sing popular folk songs.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/singer_ex_2_ecc677a7.mp3"
+      },
+      {
+        "text": "The singers learn to sing from their parents.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/singer_ex_3_b9b7587d.mp3"
+      },
+      {
+        "text": "Marian Anderson (1897-1993) was an African American woman who gained fame as a concert singer in this climate of racism.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/singer_ex_4_e97b9dfc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "歌手，指以演唱歌曲為職業或愛好的人。",
+    "en_def": "A person who sings, especially professionally.",
+    "example": "The singer captivated the audience with her powerful voice."
+  },
+  "sentences_removed": 1
+}

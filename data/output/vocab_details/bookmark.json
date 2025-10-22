@@ -1,0 +1,23 @@
+{
+  "lemma": "bookmark",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He then coated the glue on a paper sample and found that it was not only a good bookmark, but it was great for writing notes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/bookmark_ex_0_6e2da72d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "書籤；用於標記書本或文件中某一頁面的工具。",
+    "en_def": "A strip of material used to mark one's place in a book or document.",
+    "example": "I used a colorful bookmark to keep my place in the novel."
+  },
+  "sentences_removed": 0
+}

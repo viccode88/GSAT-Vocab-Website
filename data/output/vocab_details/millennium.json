@@ -1,0 +1,28 @@
+{
+  "lemma": "millennium",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/millennium_ex_0_c07b991e.mp3"
+      },
+      {
+        "text": "“If, in 1900, Paris was consecrated the ‘city of light’, it will become the ‘capital of light’ for the millennium,” Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/millennium_ex_1_bad05991.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "千年，特指一千年的時間段。",
+    "en_def": "A period of one thousand years.",
+    "example": "The year 2000 marked the beginning of a new millennium."
+  },
+  "sentences_removed": 1
+}

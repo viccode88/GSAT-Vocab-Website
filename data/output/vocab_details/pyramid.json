@@ -1,0 +1,43 @@
+{
+  "lemma": "pyramid",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was also known to have entertained the slaves who built the pyramids.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/pyramid_ex_0_cbc953e8.mp3"
+      },
+      {
+        "text": "The pyramid housed the pharaoh’s body together with priceless treasure, which would accompany him into the next world.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pyramid_ex_1_54dd4b40.mp3"
+      },
+      {
+        "text": "how the ancient Egyptians created such marvelous feats of engineering as the pyramids? (A) concluded (B) wondered (C) admitted (D) persuaded 5.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/pyramid_ex_2_20c456de.mp3"
+      },
+      {
+        "text": "Onions are depicted in many paintings 36 inside pyramids and tombs that span the history of ancient Egypt.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pyramid_ex_3_1394081a.mp3"
+      },
+      {
+        "text": "Egyptians also built pyramids as 20 for their kings, or pharaohs.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pyramid_ex_4_80af5d45.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "金字塔：一種多面體，通常有四個三角形的側面和一個底面，形狀像一個尖頂的結構。",
+    "en_def": "A pyramid is a solid geometric figure with a polygonal base and triangular faces that converge at a single point called the apex.",
+    "example": "The ancient Egyptians built massive pyramids as tombs for their pharaohs."
+  },
+  "sentences_removed": 1
+}

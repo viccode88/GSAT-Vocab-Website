@@ -1,0 +1,23 @@
+{
+  "lemma": "breath",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To take an alcohol breath test.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/breath_ex_0_ffd4ccc4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "呼吸，指吸入和呼出的空氣。",
+    "en_def": "The air taken into or expelled from the lungs.",
+    "example": "She took a deep breath before speaking."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "chang",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why is Howard Chang specifically mentioned in the passage? 4.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chang_ex_0_a2add8a6.mp3"
+      },
+      {
+        "text": "“My weight dropped to 48.3 from 54.4 kilograms, and my classmates won’t be able to call me ‘porker’ anymore,” Chang said happily.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chang_ex_1_dbd7018b.mp3"
+      },
+      {
+        "text": "The students lost an average of 2.34 kilograms during the past two months, and the student who lost the most, the nine-year-old Howard Chang, shed more than six kilograms.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chang_ex_2_ce65e3de.mp3"
+      },
+      {
+        "text": "Mr. Chang always tries to answer all questions from his students.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/chang_ex_3_078ddeeb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When asked what he most wanted to do following the accomplishment, Chang replied, “Eat at McDonald’s.”",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Because Mr. Chang has been busy these days, it's whether he will come to the party.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Or telephone Ms. (2) Have interest or experience in marketing Chang at 2945-0027 for an immediate interview.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "改變或變化的過程或結果。",
+    "en_def": "The process or result of making something different.",
+    "example": "The chang in weather surprised everyone."
+  },
+  "sentences_removed": 0
+}

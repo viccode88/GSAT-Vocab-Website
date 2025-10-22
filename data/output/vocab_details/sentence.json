@@ -1,0 +1,55 @@
+{
+  "lemma": "sentence",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 7,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.” Which paragraph is most suitable to have it as the final sentence?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sentence_ex_0_30c753da.mp3"
+      },
+      {
+        "text": "She often scores A in sentence-combining tests.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sentence_ex_1_7cb2d4c7.mp3"
+      },
+      {
+        "text": "What does erratic in the last sentence imply?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/sentence_ex_2_f10fede4.mp3"
+      },
+      {
+        "text": "Mrs. Tuck kills the man and is jailed and sentenced to be executed.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/sentence_ex_3_240e2fa5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Here is a sentence: “This design was adopted in later traffic light designs across the world.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The sentence written on the board is .",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which paragraph is most suitable to have it as the final sentence?",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "句子是由詞組成的語言單位，表達一個完整的思想或意義。",
+    "en_def": "A sentence is a set of words that conveys a complete thought or idea.",
+    "example": "She wrote a beautiful sentence in her poem."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "rewarding",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We have followed your high-school career with joy and pleasure and know that your four years at college will be even more rewarding.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rewarding_ex_0_37174d8f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "值得的；有回報的",
+    "en_def": "Providing satisfaction or a sense of achievement; beneficial.",
+    "example": "Volunteering can be a rewarding experience."
+  },
+  "sentences_removed": 0
+}

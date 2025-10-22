@@ -1,0 +1,29 @@
+{
+  "lemma": "puzzle",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/puzzle_ex_0_a73d0849.mp3"
+      },
+      {
+        "text": "During such breaks, the mind turns inward, 19 it can subconsciously puzzle over subtle meanings and connections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/puzzle_ex_1_55b8c9d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種需要解決的問題或難題，通常涉及邏輯或推理。",
+    "en_def": "A problem or game that tests a person's ingenuity or knowledge.",
+    "example": "She enjoys solving jigsaw puzzles on rainy days."
+  },
+  "sentences_removed": 0
+}

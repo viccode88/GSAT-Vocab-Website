@@ -1,0 +1,28 @@
+{
+  "lemma": "fertilize",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She sometimes helps fertilize the lawn outside the sauna.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fertilize_ex_0_d8f42c28.mp3"
+      },
+      {
+        "text": "As a side benefit, the birds also fertilize the lawn outside the new employee sauna.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fertilize_ex_1_1edc612a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "施肥，使土壤或植物更富含養分。",
+    "en_def": "To make soil or plants more fertile by adding nutrients.",
+    "example": "Farmers often fertilize their crops to improve yield."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "destruction",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientists are working hard to find out what leads to this destruction.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/destruction_ex_0_0ad0355c.mp3"
+      },
+      {
+        "text": "All of them successfully 28 the destruction of postwar redevelopment and remained unchanged.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/destruction_ex_1_45394c4e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "毀壞或破壞的行為或過程。",
+    "en_def": "The act or process of causing significant damage or ruin.",
+    "example": "The hurricane caused widespread destruction in the coastal towns."
+  },
+  "sentences_removed": 0
+}

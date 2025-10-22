@@ -1,0 +1,38 @@
+{
+  "lemma": "stove",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If you touch your finger to a hot stove, you know it’s going to hurt.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/stove_ex_0_58ad620f.mp3"
+      },
+      {
+        "text": "As soon as the popping slows down, 39 the pot from the stove.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/stove_ex_1_e6013738.mp3"
+      },
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/stove_ex_2_7485cb8d.mp3"
+      },
+      {
+        "text": "With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/stove_ex_3_3013d976.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於加熱或烹飪食物的設備，通常使用燃氣或電力。",
+    "en_def": "A device used for heating or cooking food, typically powered by gas or electricity.",
+    "example": "She cooked dinner on the stove."
+  },
+  "sentences_removed": 0
+}

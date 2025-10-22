@@ -1,0 +1,44 @@
+{
+  "lemma": "trace",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 6,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The problem of illegal drug use is very complex and cannot be traced to merely one _____ reason.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/trace_ex_0_3cd5baeb.mp3"
+      },
+      {
+        "text": "The association of particular patterns with individual families can be traced back hundreds of years.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trace_ex_1_878b96ab.mp3"
+      },
+      {
+        "text": "Despite their great 28 , however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/trace_ex_2_daf1ccd8.mp3"
+      },
+      {
+        "text": "Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trace_ex_3_ce9a44dc.mp3"
+      },
+      {
+        "text": "In order to draw her family tree, Mary tried to trace her back to their arrival in North America.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trace_ex_4_15c20180.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "追蹤；痕跡",
+    "en_def": "To follow the course or development of something; a mark or evidence left behind.",
+    "example": "The detective found a trace of the suspect's footprints in the mud."
+  },
+  "sentences_removed": 2
+}

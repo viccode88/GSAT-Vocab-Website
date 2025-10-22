@@ -1,0 +1,134 @@
+{
+  "lemma": "environment",
+  "count": 26,
+  "pos_dist": {
+    "NOUN": 26
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These meat substitutes are often advertised as beneficial for the environment.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/environment_ex_0_52bbb02f.mp3"
+      },
+      {
+        "text": "The temperature of the environment affects how quickly the piece must be completed to avoid the effects of melting.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/environment_ex_1_eb1e1d8e.mp3"
+      },
+      {
+        "text": "The more one is the English-speaking environment, the better he or she will learn the language.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/environment_ex_2_2463df9e.mp3"
+      },
+      {
+        "text": "Nevertheless, poor diet, stress, a bad working environment, and carelessness can 39 good health.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/environment_ex_3_205d98e6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A new approach to protect the environment. 45.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot is responsible for not only the safety of the ship but also the protection of the port and the marine environment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During the process of evolution, man has shown remarkable ability to to the environment.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The slow and clumsy wetas have been around on the island since the times of the dinosaurs, and have evolved and survived in an environment where they had no enemies until rats came to the island with European immigrants.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since many of our house plants are from humid jungle environments, they need _____ air to keep them green and healthy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "This eco-friendly leather has clear 24 for the environment, compared to real leather and synthetic leathers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Our feeling of pain is decided by our environment.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They have created a shopping environment where the needs of both mother and daughter are satisfied.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These increases put great stress on the islands’ resources and environment.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The carver must work fast in a cold environment to avoid catching cold.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not easy to find the right kind of ice and work environment.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If the sculpting does not take place in a cold environment, then the sculptor must work quickly to finish his piece.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Good work environment and great co-workers Good Knowledge of English.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "環境是指人類生活和活動的自然和社會條件，包括生態系統、氣候、地理和社會文化等因素。",
+    "en_def": "The environment refers to the natural and social conditions in which people live and operate, including ecosystems, climate, geography, and cultural factors.",
+    "example": "We must protect the environment to ensure a healthy planet for future generations."
+  },
+  "sentences_removed": 3
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "beloved",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Peanuts’ beloved grandfather has suffered a heart attack.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/beloved_ex_0_7766c687.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "深受喜愛的，受到愛戴的",
+    "en_def": "Dearly loved or cherished.",
+    "example": "She is a beloved member of our family."
+  },
+  "sentences_removed": 0
+}

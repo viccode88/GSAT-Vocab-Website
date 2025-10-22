@@ -1,0 +1,28 @@
+{
+  "lemma": "pvc",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dioxin is an unwanted byproduct that is created when PVC is burned.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/pvc_ex_0_55cafedb.mp3"
+      },
+      {
+        "text": "Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/pvc_ex_1_ad3380f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聚氯乙烯，一種廣泛使用的合成塑料，常用於建築和管道等應用。",
+    "en_def": "PVC, or polyvinyl chloride, is a widely used synthetic plastic commonly used in construction and piping applications.",
+    "example": "The plumber used PVC pipes to fix the leaking water line."
+  },
+  "sentences_removed": 0
+}

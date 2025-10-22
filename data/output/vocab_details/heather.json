@@ -1,0 +1,23 @@
+{
+  "lemma": "heather",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Flower and plant names like Heather, Rosemary, and Iris 36 this category.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/heather_ex_0_59f6de6c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種常見的低矮灌木，通常生長在貧瘠的土壤中，具有小而鐘形的花。",
+    "en_def": "A common low shrub that typically grows in poor soil, characterized by small, bell-shaped flowers.",
+    "example": "The hillside was covered in purple heather during the late summer."
+  },
+  "sentences_removed": 0
+}

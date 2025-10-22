@@ -1,0 +1,170 @@
+{
+  "lemma": "course",
+  "count": 33,
+  "pos_dist": {
+    "NOUN": 31,
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/course_ex_0_603c75c4.mp3"
+      },
+      {
+        "text": "Which course (direction) did the Vladimirs take to get to Penghu? (A) East.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/course_ex_1_f7600c37.mp3"
+      },
+      {
+        "text": "Over the course of the morning, the innovative discussion process 14 a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/course_ex_2_70017871.mp3"
+      },
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/course_ex_3_d88f836a.mp3"
+      },
+      {
+        "text": "Very few people, no matter how intelligent or experienced, can 28 all the possibilities or outcomes of a policy or a course of action within just a short period of time.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/course_ex_4_6674cdf2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The disappearance of traditional course materials. (B) The limited number of courses offered around the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This course will provide students with a solid ______ for research.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, 21 the probability of being struck seven different times.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Writing term papers and giving oral reports are typical course _____ for college students.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This, of course, is just one of the millions of trees that fall in the Amazon each year.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The cost of MOOC courses. 52.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For, of course, the microphones were not connected to the tape-recorder in the middle of the room at all but to another one, which was turning happily away in the kitchen.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They have set up “listening clinics” and courses to find out what is wrong—and what to do about it. 31.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Most courses address artificial intelligence.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "1. Visit the websites of these colleges and find out which college has departments ___(27)___ courses that interest you or will help you prepare for your future career.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I remember that on my cruise I was required to formally plot our course, using the tide table, even though our goal was an island I could see quite clearly across the water in the distance. 44.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is free to take the courses.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Alfred said his goal, of course, was to feel even better than his brother.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Of course, the 34 that he made were based mainly on his memory of the list.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Each year, over a quarter of a million students take courses this way.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "If your answer is “Yes!” to these questions, then you have good __(21)__ to take the course we have designed especially for people like you.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Next time, being thin will finally fulfill its promise of everlasting happiness, self-worth, and, of course, love.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many courses are offered by famous universities.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In this course, you will learn __(22)__ to cook two weeks of healthy, inexpensive meals in just one day.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Over 95 percent of all public television stations have tele-courses.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "These courses are accepted and supported by more than 1,800 colleges and universities throughout the US.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "課程；進程；航向",
+    "en_def": "A series of lessons or lectures on a particular subject.",
+    "example": "She is taking a course in biology this semester."
+  },
+  "sentences_removed": 2
+}

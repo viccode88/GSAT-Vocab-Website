@@ -1,0 +1,38 @@
+{
+  "lemma": "interviewer",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interviewer_ex_0_ef1e3866.mp3"
+      },
+      {
+        "text": "the interviewers that they were very capable and should be given the job.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interviewer_ex_1_9878b3c7.mp3"
+      },
+      {
+        "text": "Interviewer: You’re the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/interviewer_ex_2_040100b7.mp3"
+      },
+      {
+        "text": "However, this behavior is likely to make the interviewer feel very uncomfortable.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interviewer_ex_3_1fc28e21.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "面試官，負責面試應聘者的人。",
+    "en_def": "A person who conducts an interview, especially for a job or position.",
+    "example": "The interviewer asked several questions to assess my qualifications."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "vaaler",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, Vaaler’s clips were not the same as the paperclips currently in use.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vaaler_ex_0_17fd74ac.mp3"
+      },
+      {
+        "text": "After the war, a giant paperclip statue was erected in Oslo to 40 Vaaler—even though his design was never actually manufactured.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vaaler_ex_1_ee9986a0.mp3"
+      },
+      {
+        "text": "Because of Vaaler, the paperclip played an important 37 role in Norway.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vaaler_ex_2_42f1db17.mp3"
+      },
+      {
+        "text": "The name most frequently 34 the paperclip invention is Johan Vaaler, a Norwegian inventor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/vaaler_ex_3_102c7f9a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於測量或評估的工具或設備，通常用於物理或數學的應用。",
+    "en_def": "A tool or device used for measuring or assessing, often applied in physical or mathematical contexts.",
+    "example": "The engineer used a vaaler to ensure the accuracy of the measurements."
+  },
+  "sentences_removed": 0
+}

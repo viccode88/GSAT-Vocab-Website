@@ -1,0 +1,28 @@
+{
+  "lemma": "rarely",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some documents noted that Russians “indulge in excessive drinking whenever the occasion arises,” while others claimed that Russians “rarely drink wine.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/rarely_ex_0_0dbf2c5b.mp3"
+      },
+      {
+        "text": "A Maasai warrior is rarely seen without his spear and shield.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/rarely_ex_1_0cdf1612.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不常，偶爾",
+    "en_def": "Not often; infrequently.",
+    "example": "She rarely goes out on weekends."
+  },
+  "sentences_removed": 1
+}

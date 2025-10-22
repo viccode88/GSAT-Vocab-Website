@@ -1,0 +1,40 @@
+{
+  "lemma": "lucid",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 5,
+    "NOUN": 1
+  },
+  "sentences": [
+    {
+      "text": "In lucid dreams, however, we are completely immersed in the dream world.",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "When a person is having a lucid dream, the person’s body is 27 ; when a person daydreams, his/her body is awake.",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "The term “lucid” means clear; lucid dreamers know that they are dreaming and 26 they are dreaming of.",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "Yet, lucid dreaming is 28 just having a clear dream.",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "This kind of dream is called a “lucid dream.”",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "清晰的；明白的",
+    "en_def": "Clear and easy to understand; able to think clearly, especially during periods of confusion.",
+    "example": "Her explanation was so lucid that everyone understood the complex topic."
+  }
+}

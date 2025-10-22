@@ -1,0 +1,23 @@
+{
+  "lemma": "joyfully",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then, he stopped at Adam Joshua’s office, which happened to be unlocked, and walked away joyfully.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/joyfully_ex_0_f0ab9f1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "愉快地，快樂地",
+    "en_def": "In a manner that expresses or shows joy.",
+    "example": "She danced joyfully at the celebration."
+  },
+  "sentences_removed": 0
+}

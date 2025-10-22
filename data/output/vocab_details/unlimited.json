@@ -1,0 +1,23 @@
+{
+  "lemma": "unlimited",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Matter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable 22 : human hair, of which there is an unlimited supply.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unlimited_ex_0_f7c59827.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無限制的；不受限制的",
+    "en_def": "Not restricted in terms of number, quantity, or extent.",
+    "example": "The internet offers unlimited access to information."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "unnamed",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Medvedev Vladimir, 43, and his son, Maxsine, 14, sailed from an unnamed eastern Russian seaport on August 18, to begin an ambitious around-the-world cruise.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/unnamed_ex_0_cd2beacd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "未命名的；沒有名稱的",
+    "en_def": "Not having a name or title.",
+    "example": "The artist created an unnamed sculpture that captivated everyone."
+  },
+  "sentences_removed": 0
+}

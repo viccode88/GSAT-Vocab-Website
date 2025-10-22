@@ -1,0 +1,99 @@
+{
+  "lemma": "clothe",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today David wears casual clothes—khaki pants and a sports shirt—to the office.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/clothe_ex_0_710913a0.mp3"
+      },
+      {
+        "text": "He marketed his brand by giving clothes to famous MTV stars and featuring teen stars in his print ads.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/clothe_ex_1_884f9f37.mp3"
+      },
+      {
+        "text": "We human beings may live without clothes, but food and air are ______ to our life.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/clothe_ex_2_c3caa097.mp3"
+      },
+      {
+        "text": "Women often wear dots that match the color of their clothes.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/clothe_ex_3_4d390326.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Soon after that, adolescent girls around the world began wearing their underwear outside their clothes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Another reason is that people seem happier and more productive when they are wearing comfortable clothes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "David Smith refers to himself as having been “a clothes addict,” because _________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Why have so many companies started allowing their employees to wear casual clothes?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many workers want to wear casual clothes to impress people.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then, other companies have jumped on the bandwagon to promote everything from soft drinks to new clothes as a 27 .",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "so I could change if my clothes got wrinkled.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "David Smith wears casual clothes now, because _________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "“I was a clothes addict,” he jokes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "“For the same amount of money, you can buy a lot more casual clothes.” 51.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early 1990s, many companies allowed their employees to wear casual clothes on Friday (but only on Friday).",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "More and more companies are allowing their office workers to wear casual clothes to work.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "給予穿著的衣物或覆蓋物。",
+    "en_def": "To provide someone with clothes or to dress someone.",
+    "example": "She decided to clothe the children in warm jackets for the winter."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "assam",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant’s habitats and endangering their population.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/assam_ex_0_348c4c35.mp3"
+      },
+      {
+        "text": "Why are baby elephants easily injured in the Assam tea gardens according to the passage? (A)",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/assam_ex_1_bfce35ca.mp3"
+      },
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/assam_ex_2_6acbccb6.mp3"
+      },
+      {
+        "text": "Why do farmers in Assam dig trenches in tea gardens? (A) To protect tea trees.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/assam_ex_3_c6ce6d22.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "阿薩姆，一個位於印度東北部的州，以其茶葉和豐富的文化而聞名。",
+    "en_def": "Assam, a state in northeastern India known for its tea and rich culture.",
+    "example": "Assam is famous for producing some of the world's finest tea."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "camping",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hiking, camping, and scuba diving are excellent on the island.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/camping_ex_0_acd1dd1e.mp3"
+      },
+      {
+        "text": "He viewed the kidnapping as a wonderful camping trip.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/camping_ex_1_e56e969f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在戶外搭帳篷或露營車過夜的活動，通常與自然環境有關。",
+    "en_def": "The activity of staying in a tent or camper in the outdoors, often in nature.",
+    "example": "We went camping in the mountains last weekend."
+  },
+  "sentences_removed": 0
+}

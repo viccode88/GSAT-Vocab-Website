@@ -1,0 +1,125 @@
+{
+  "lemma": "point",
+  "count": 21,
+  "pos_dist": {
+    "NOUN": 12,
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/point_ex_0_5adbf5c5.mp3"
+      },
+      {
+        "text": "On the whole, documents were not required for travel to seaports, which were considered open trading points, but documents were required to travel inland from seaports.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/point_ex_1_5816b49e.mp3"
+      },
+      {
+        "text": "With 1:42 minutes left in the game, Deborah’s team led by one point.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/point_ex_2_09c1a211.mp3"
+      },
+      {
+        "text": "I just don’t see the point.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/point_ex_3_07656a3a.mp3"
+      },
+      {
+        "text": "At that point, it might be well past the best moment to take in fluid.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/point_ex_4_6a9f0319.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It is necessary for you to ________ this point.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "These and thousands of other features point to a blood relationship in the truest sense of the word.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The boss then laughingly pointed out that the same proposal had been made and 34 some minutes before.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Pointing to her head, she said, “Everything important is in here.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of this passage? (A) To point out the challenges of the modern lifestyle.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major finding of Dr. Begall’s study? (A) Cattle point north-south.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another’s company.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the author's main point in the passage above? (A) Large cars should be banned by the government.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "And there are plenty of models from which to choose: from simple $200 point-and-shoot snappers to $1,000 wonders with all the features that any advanced amateur could want.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Although 22. (A) points (B) says (C) walks (D) feels 23.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "By summarizing the main points.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "點；指向的地方或位置",
+    "en_def": "A specific location or position in space.",
+    "example": "She pointed to a specific point on the map."
+  },
+  "sentences_removed": 0
+}

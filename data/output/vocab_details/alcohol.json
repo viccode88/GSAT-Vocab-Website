@@ -1,0 +1,135 @@
+{
+  "lemma": "alcohol",
+  "count": 27,
+  "pos_dist": {
+    "NOUN": 26,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Russian state played a significant role in the spread of alcohol consumption in the country.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/alcohol_ex_0_d22983f4.mp3"
+      },
+      {
+        "text": "The rock videos young people watch over and over again feature alcohol, too.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/alcohol_ex_1_38fabd13.mp3"
+      },
+      {
+        "text": "However, alcohol could not be detected for any of the drinks if the test was given 15 minutes after the drink was consumed.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/alcohol_ex_2_f3e0df93.mp3"
+      },
+      {
+        "text": "The liquid was originally a grape alcohol introduced from France in the late 14th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/alcohol_ex_3_f9473dce.mp3"
+      },
+      {
+        "text": "In the United States, the legal blood alcohol limit is 0.08% for people aged 21 years or older, while people under 21 are not allowed to drive a car with any level of alcohol in their body.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/alcohol_ex_4_f1cd9e2f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To challenge the current legal alcohol limit for drivers in the United States. 51.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In nine of the 27 drinks, the alcohol level was at least 0.096%.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "There were many sayings about their desire for alcohol, such as “drunk as a German.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The scientists then investigated the possibility that these small levels of alcohol could be detected by an ABT.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To introduce a new method of calculating blood alcohol levels.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, only the government was permitted to produce the alcohol.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "All but one had an alcohol level greater than 0.005%.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "People only drank beverages with low alcohol content.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "For a person who just turned 20, what is the legal alcohol level allowed while driving in the US?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “This” in the fourth paragraph refer to? (A) The alcohol.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The sooner the test is conducted after the consumption of these drinks, the more likely a positive alcohol reading will be obtained. 49.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "For 11 of the 27 energy drinks, the ABT did detect the presence of alcohol if the test was given within one minute after the drink was taken.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "There is contradictory information about Russians’ inclination toward alcohol in the 15th and 16th centuries.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Meanwhile, a powerful anti-alcohol movement started in the 19th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "To take an alcohol breath test.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To warn about the dangers of drinking energy drinks mixed with alcohol.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種含有乙醇的液體，通常用於飲料或工業用途。",
+    "en_def": "A liquid containing ethanol, commonly used in beverages or for industrial purposes.",
+    "example": "She decided to have a glass of alcohol at the party."
+  },
+  "sentences_removed": 3
+}

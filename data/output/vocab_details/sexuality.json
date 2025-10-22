@@ -1,0 +1,23 @@
+{
+  "lemma": "sexuality",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While intimacy is often limited to the sexual bond, we can be intimate with many people without sexuality.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sexuality_ex_0_9b3b8913.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "性取向或性別認同的特徵和表現。",
+    "en_def": "The characteristics and expressions of sexual orientation or gender identity.",
+    "example": "Understanding one's sexuality can be an important part of personal identity."
+  },
+  "sentences_removed": 0
+}

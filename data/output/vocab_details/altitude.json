@@ -1,0 +1,28 @@
+{
+  "lemma": "altitude",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The problem is 18 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/altitude_ex_0_928d2bcc.mp3"
+      },
+      {
+        "text": "The town sits on the side of a volcano nearly 10,000 feet above sea level, making daily life a kind of high-altitude training.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/altitude_ex_1_f0e8256e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高度，特別是指地面或海平面以上的垂直距離。",
+    "en_def": "The height of an object or point in relation to sea level or ground level.",
+    "example": "The airplane reached an altitude of 30,000 feet."
+  },
+  "sentences_removed": 0
+}

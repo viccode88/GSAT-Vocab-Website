@@ -1,0 +1,38 @@
+{
+  "lemma": "russians",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is contradictory information about Russians’ inclination toward alcohol in the 15th and 16th centuries.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/russians_ex_0_b6c1348c.mp3"
+      },
+      {
+        "text": "To link Russians’ vodka consumption to their adoption of Christianity. 44.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/russians_ex_1_3381d3d9.mp3"
+      },
+      {
+        "text": "Some documents noted that Russians “indulge in excessive drinking whenever the occasion arises,” while others claimed that Russians “rarely drink wine.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/russians_ex_2_0dbf2c5b.mp3"
+      },
+      {
+        "text": "To highlight the French impact on Russians’ drinking habits.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/russians_ex_3_177c6e7d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "俄羅斯人，指來自俄羅斯的民族或國籍的人。",
+    "en_def": "Russians are people who are from Russia or have Russian nationality.",
+    "example": "Many Russians celebrate New Year with family and friends."
+  },
+  "sentences_removed": 0
+}

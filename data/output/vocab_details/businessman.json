@@ -1,0 +1,33 @@
+{
+  "lemma": "businessman",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If a British businessman wants to visit some trade partners in Taiwan for about three weeks, what should he do?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/businessman_ex_0_e86cc79d.mp3"
+      },
+      {
+        "text": "Carnegie became a very rich businessman and set aside money to honor heroes like William.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/businessman_ex_1_b74c8def.mp3"
+      },
+      {
+        "text": "Most businessmen are more interested in the ________ success of their products than their educational values.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/businessman_ex_2_de30ae4a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "從事商業活動的人，特別是經營企業或投資的人。",
+    "en_def": "A person who is involved in commercial activities, especially one who manages a business or invests.",
+    "example": "The businessman closed a deal that would expand his company's reach."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "electricity",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Our electricity bill went way down.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/electricity_ex_0_27ae149d.mp3"
+      },
+      {
+        "text": "The cactus’s thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/electricity_ex_1_e71c9f77.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "電力；電能，指能夠產生光、熱或動力的能量。",
+    "en_def": "A form of energy resulting from the existence of charged particles, which can produce light, heat, or power.",
+    "example": "The electricity in our home powers all of our appliances."
+  },
+  "sentences_removed": 0
+}

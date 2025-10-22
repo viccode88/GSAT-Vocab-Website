@@ -1,0 +1,43 @@
+{
+  "lemma": "neighboring",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/neighboring_ex_0_1ce5f24b.mp3"
+      },
+      {
+        "text": "The room’s thin plastic walls easily transmit the sound of snoring made by neighboring guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/neighboring_ex_1_6cc07ad0.mp3"
+      },
+      {
+        "text": "The kingdom began to after the death of its ruler, and was soon taken over by a neighboring country.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/neighboring_ex_2_810b34e4.mp3"
+      },
+      {
+        "text": "Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/neighboring_ex_3_3b8a0650.mp3"
+      },
+      {
+        "text": "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/neighboring_ex_4_a73d0849.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鄰近的；相鄰的",
+    "en_def": "Situated next to or very near another.",
+    "example": "The neighboring houses all have beautiful gardens."
+  },
+  "sentences_removed": 0
+}

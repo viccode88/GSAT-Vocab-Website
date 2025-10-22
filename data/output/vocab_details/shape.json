@@ -1,0 +1,85 @@
+{
+  "lemma": "shape",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is hard to control the size and shape of the ice.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/shape_ex_0_495b5e6e.mp3"
+      },
+      {
+        "text": "More than one-third are in such bad shape that they could die within ten years.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/shape_ex_1_1efc3277.mp3"
+      },
+      {
+        "text": "Greatly 37 by the result, Kareem planted more trees and his man-made forest began to take shape.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/shape_ex_2_acf12ab6.mp3"
+      },
+      {
+        "text": "Why were forks made into a curved shape?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/shape_ex_3_fd123829.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They can be round like the moon, long like a jackknife, or shaped like boxes, fans, or tops.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Meanwhile, environmental influences seem to shape a person’s synesthesia.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The island of Kauai is almost round in shape.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The feathers of peacocks are considered the most 25 part of the bird because the eye-shaped markings on them are associated with “evil eyes.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early days of aviation, plane windows 17 square in shape.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Some studies suggest that the act of shaping our mouths into a smile (creating a “physical smile”) can help us see the brighter, funnier side of things.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Circular shapes are also stronger and resist deformation, and therefore can 20 extreme differences in pressure inside and outside of an aircraft.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "形狀；外形",
+    "en_def": "The external form, appearance, or outline of someone or something.",
+    "example": "The artist used different shapes to create a beautiful painting."
+  },
+  "sentences_removed": 1
+}

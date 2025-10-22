@@ -1,0 +1,44 @@
+{
+  "lemma": "treasure",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 3,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 16th and 17th centuries, treasures from the Far East were carried along the road into the capital cities of Europe.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/treasure_ex_0_8e2485fa.mp3"
+      },
+      {
+        "text": "Amy treasured the gold bracelet Laura gave her.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/treasure_ex_1_74fbcc93.mp3"
+      },
+      {
+        "text": "Fifty years ago, teams of architects began restoring the historic treasures of the city.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/treasure_ex_2_a2967ded.mp3"
+      },
+      {
+        "text": "The pyramid housed the pharaoh’s body together with priceless treasure, which would accompany him into the next world.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/treasure_ex_3_54dd4b40.mp3"
+      },
+      {
+        "text": "(21) listening well is a rare talent that everyone should treasure.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/treasure_ex_4_92e6461a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "珍寶；貴重的物品或財富。",
+    "en_def": "Valuable items or wealth, often in the form of gold, silver, or precious gems.",
+    "example": "The pirates buried their treasure on a deserted island."
+  },
+  "sentences_removed": 0
+}

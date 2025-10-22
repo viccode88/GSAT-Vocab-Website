@@ -1,0 +1,23 @@
+{
+  "lemma": "breakfast",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The recipe for a breakfast food.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/breakfast_ex_0_02b33d1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "早餐，通常是一天中第一餐，通常在早上食用。",
+    "en_def": "The first meal of the day, typically eaten in the morning.",
+    "example": "I always eat breakfast before going to work."
+  },
+  "sentences_removed": 0
+}

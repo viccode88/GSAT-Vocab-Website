@@ -1,0 +1,23 @@
+{
+  "lemma": "samoa",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Samoa a woman is not considered attractive unless she weighs more than 200 pounds.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/samoa_ex_0_beda27be.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "薩摩亞，位於南太平洋的一個島國，由兩個主要島嶼和多個小島組成。",
+    "en_def": "Samoa is an island nation located in the South Pacific, consisting of two main islands and several smaller islets.",
+    "example": "Samoa is known for its beautiful beaches and rich cultural heritage."
+  },
+  "sentences_removed": 0
+}

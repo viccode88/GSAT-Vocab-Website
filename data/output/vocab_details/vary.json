@@ -1,0 +1,59 @@
+{
+  "lemma": "vary",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Maasai clothing varies with age, gender, and place.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/vary_ex_0_5fa5c2c1.mp3"
+      },
+      {
+        "text": "The 10 bells vary in size, each 23 a name.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/vary_ex_1_5180837d.mp3"
+      },
+      {
+        "text": "Today, all countries are involved in, and to varying degrees dependent on, trade with other countries.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/vary_ex_2_15cfc0ed.mp3"
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/vary_ex_3_3fc05fc0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Beauty standards vary with culture.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Though the figures on attendance for each vary with every new season, certain 26 remain the same.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Americans __(38)__ different racial and educational backgrounds may vary in their standards of living.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The style of the dances varies from region to region but is normally based on the rhythms of taiko drums.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "變化；不同；多樣化",
+    "en_def": "To change or alter in form, appearance, or nature.",
+    "example": "The weather can vary greatly from one season to another."
+  },
+  "sentences_removed": 0
+}

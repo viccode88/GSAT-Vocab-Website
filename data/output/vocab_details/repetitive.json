@@ -1,0 +1,23 @@
+{
+  "lemma": "repetitive",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Often those songs have a simple, upbeat melody and catchy, repetitive lyrics, such as popular commercial jingles and slightly annoying radio hits.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/repetitive_ex_0_e0b31df6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重複的，反覆的，常常發生的",
+    "en_def": "Characterized by the repetition of the same actions or events.",
+    "example": "The repetitive tasks made her feel bored at work."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "venture",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This is because many breakthroughs come up when people venture 20 their usual routines or areas of expertise.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/venture_ex_0_91db261b.mp3"
+      },
+      {
+        "text": "Which of the following is closest in meaning to the word “venture” in the second paragraph? (A) Creative measurement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/venture_ex_1_363ea396.mp3"
+      },
+      {
+        "text": "Dr. Hare, one of the venture’s co-founders, says a dog’s intelligence can’t be described with a single number.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/venture_ex_2_435245f2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "冒險，特別是指商業或投資上的風險行為。",
+    "en_def": "A risky or daring journey or undertaking, especially in business or investment.",
+    "example": "They decided to venture into the tech industry with their new startup."
+  },
+  "sentences_removed": 0
+}

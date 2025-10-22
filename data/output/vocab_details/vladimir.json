@@ -1,0 +1,23 @@
+{
+  "lemma": "vladimir",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Medvedev Vladimir, 43, and his son, Maxsine, 14, sailed from an unnamed eastern Russian seaport on August 18, to begin an ambitious around-the-world cruise.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/vladimir_ex_0_cd2beacd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "弗拉基米爾，一個常見的斯拉夫男性名字，源自於古斯拉夫語，意為「統治者」或「擴張者」。",
+    "en_def": "Vladimir is a common Slavic male name derived from Old Slavic, meaning 'ruler' or 'to rule with greatness'.",
+    "example": "Vladimir is known for his leadership skills and strong presence in the community."
+  },
+  "sentences_removed": 0
+}

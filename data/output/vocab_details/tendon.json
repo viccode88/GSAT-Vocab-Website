@@ -1,0 +1,23 @@
+{
+  "lemma": "tendon",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When he returned, he felt “pretty good.” 31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/tendon_ex_0_74d346d5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "腱：連接肌肉和骨骼的纖維組織。",
+    "en_def": "A tendon is a fibrous connective tissue that attaches muscle to bone.",
+    "example": "The athlete injured his tendon while running."
+  },
+  "sentences_removed": 0
+}

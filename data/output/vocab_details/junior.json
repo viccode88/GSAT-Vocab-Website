@@ -1,0 +1,23 @@
+{
+  "lemma": "junior",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to a recent study, almost three-quarters of American high school juniors said they felt stress at least once a week, some almost daily.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/junior_ex_0_2078aef6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "年輕的；初級的，較低級別的",
+    "en_def": "A person who is younger or of lower rank, especially in a professional or academic context.",
+    "example": "She is a junior at the university, studying biology."
+  },
+  "sentences_removed": 0
+}

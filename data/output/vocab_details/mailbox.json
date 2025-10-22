@@ -1,0 +1,23 @@
+{
+  "lemma": "mailbox",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When you reach the voice mailbox, C.…for the popularity of her novels. 19.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/mailbox_ex_0_1461a4c1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "郵箱；用於接收郵件的容器，通常放置在住宅或辦公室外部。",
+    "en_def": "A container used for receiving mail, typically located outside a residence or office.",
+    "example": "I checked the mailbox for any letters or packages."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,109 @@
+{
+  "lemma": "describe",
+  "count": 19,
+  "pos_dist": {
+    "VERB": 19
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The robot described itself as an extension of a person to help humans increase the workload.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/describe_ex_0_caff24e0.mp3"
+      },
+      {
+        "text": "He can still vividly describe his first day at school as a child.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/describe_ex_1_806ba968.mp3"
+      },
+      {
+        "text": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/describe_ex_2_2dde4d8d.mp3"
+      },
+      {
+        "text": "Dr. Hare, one of the venture’s co-founders, says a dog’s intelligence can’t be described with a single number.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/describe_ex_3_435245f2.mp3"
+      },
+      {
+        "text": "They use a range of terms to describe it—stuck-song syndrome, sticky music, cognitive itch, or most commonly “earworm.”",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/describe_ex_4_5fed6953.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following best describes the author’s attitude toward medical tests?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The passage is written mainly to describe __________.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes the author’s attitude toward the future of desalination? (A) Amazed.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, my life can be described as consisting of a series of “ups” and “downs.” 41.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of his photos described things that happen every day.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following describes the order of changes in the features of a blackspot angelfish during gender change? (A) Size  behavior  color  stripes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes Cartier-Bresson’s family background?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes the life the author is leading?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of the study described in this passage? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It describes a woman who is called by her long-dead mother to go “beyond the ridge.”",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following titles best describes the main idea of this passage? (A) The Origin of Lullabies (B) The Functions of Lullabies (C) Threatening Lullabies (D) Sleep-Inducing Lullabies 54.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "描述；描繪某事物的特徵或性質。",
+    "en_def": "To give an account of something by providing details about its characteristics or qualities.",
+    "example": "She used vivid language to describe the beautiful sunset."
+  },
+  "sentences_removed": 1
+}

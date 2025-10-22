@@ -1,0 +1,49 @@
+{
+  "lemma": "seek",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was discovered on the Chilkoot Pass, the famous trail used by the people seeking gold in Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/seek_ex_0_ded36575.mp3"
+      },
+      {
+        "text": "She refused to seek professional assistance to help her recover from her injuries.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/seek_ex_1_e02faec7.mp3"
+      },
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/seek_ex_2_fd1da88a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To seek help from the government to control the red ant.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "winning medals at the 2013 World Championships in Brazil, he decided to seek protection.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "尋找；探索",
+    "en_def": "To attempt to find or discover something.",
+    "example": "She decided to seek help from a professional."
+  },
+  "sentences_removed": 0
+}

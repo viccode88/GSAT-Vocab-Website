@@ -1,0 +1,33 @@
+{
+  "lemma": "efficiency",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/efficiency_ex_0_10ed9fcf.mp3"
+      },
+      {
+        "text": "26 , many people believe that bad weather can reduce productivity and efficiency.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/efficiency_ex_1_022dc1e2.mp3"
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/efficiency_ex_2_c21da94c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "效率，指在特定時間內完成工作的能力或效果。",
+    "en_def": "The ability to accomplish a task with the least amount of wasted time and resources.",
+    "example": "The new software improved the efficiency of our workflow."
+  },
+  "sentences_removed": 1
+}

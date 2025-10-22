@@ -1,0 +1,33 @@
+{
+  "lemma": "blank",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We are not blank hard drives waiting to be filled with data.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/blank_ex_0_4a997cc9.mp3"
+      },
+      {
+        "text": "Why did the architect send Jack a blank check? (A)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/blank_ex_1_4db7bcbc.mp3"
+      },
+      {
+        "text": "One oil company offered him $2000 for his help and an architect even sent him a blank check.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/blank_ex_2_5fa4e6af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "空白的；未填寫的；無內容的",
+    "en_def": "Empty or containing nothing; a space where something is missing.",
+    "example": "She handed me a blank piece of paper."
+  },
+  "sentences_removed": 0
+}

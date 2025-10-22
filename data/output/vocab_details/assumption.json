@@ -1,0 +1,23 @@
+{
+  "lemma": "assumption",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The author's statement about the highway fence's ability to retain a smaller and lighter car (A) is the author's assumption.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/assumption_ex_0_6414c909.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "假設；假定的事物",
+    "en_def": "A thing that is accepted as true or as certain to happen, without proof.",
+    "example": "Her assumption that everyone would agree was incorrect."
+  },
+  "sentences_removed": 0
+}

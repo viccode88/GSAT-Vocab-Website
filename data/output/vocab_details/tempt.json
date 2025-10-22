@@ -1,0 +1,28 @@
+{
+  "lemma": "tempt",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It’s tempting, when breathing the thin air of Bekoji, to focus on the special conditions of the place.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tempt_ex_0_88593de3.mp3"
+      },
+      {
+        "text": "It is believed that this would be to the best interest of all people, __(25)__ teens who might be tempted to start smoking.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/tempt_ex_1_47e76a4b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "引誘；誘惑",
+    "en_def": "To entice someone to do something, often something that is not good or advisable.",
+    "example": "She tried to tempt him with a delicious dessert."
+  },
+  "sentences_removed": 0
+}

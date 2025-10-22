@@ -1,0 +1,85 @@
+{
+  "lemma": "answer",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I’m afraid the answer is no.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/answer_ex_0_9c0a4daf.mp3"
+      },
+      {
+        "text": "The answer has to do with supply and demand.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/answer_ex_1_fa2bd0d2.mp3"
+      },
+      {
+        "text": "Over the years, researchers have given different answers to this question.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/answer_ex_2_9ea96b53.mp3"
+      },
+      {
+        "text": "When asked what color is evoked by a letter or number, synesthetic people would persistently give the same answer even if tested months or years apart.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/answer_ex_3_cba57e97.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "If your answer is “Yes!” to these questions, then you have good __(21)__ to take the course we have designed especially for people like you.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Why couldn’t the researchers get the answer to their research questions? (A) Many cattle in their study were sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What question does the passage answer? (A) How was the word “hula-hooping” derived? (B)",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.”",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Mr. Chang always tries to answer all questions from his students.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "16 , the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The answer is: not very thoroughly, 27 they are executives, specialized experts, or ordinary people in the street.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But frowning, the man answered, “I’m from Argos and there the people are unfriendly, 20 , and vicious.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "回答或解答問題的行為或過程。",
+    "en_def": "The act or process of responding to a question or providing a solution.",
+    "example": "She gave a thoughtful answer to the difficult question."
+  },
+  "sentences_removed": 0
+}

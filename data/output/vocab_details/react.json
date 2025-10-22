@@ -1,0 +1,80 @@
+{
+  "lemma": "react",
+  "count": 13,
+  "pos_dist": {
+    "VERB": 12,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "How did his friends react when the author told them what he had done? (A)",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/react_ex_0_b325f5f0.mp3"
+      },
+      {
+        "text": "We react strongly—and suspiciously—to fast talk.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/react_ex_1_df958732.mp3"
+      },
+      {
+        "text": "Also, the wind can significantly alter the direction of the ship and how it reacts, adding to the difficulty of anchoring the ship.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/react_ex_2_c70960f1.mp3"
+      },
+      {
+        "text": "According to a recent study, the part of your brain that reacts to severe pain is largely the same part that reacts to expectation of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/react_ex_3_486e37aa.mp3"
+      },
+      {
+        "text": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/react_ex_4_ed99dbae.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But as the magic fades and daily life __(33)__, it happens that men, forgetting that men and women are supposed to be different, continue to expect women to think and react the way men do; women, __(34)__, expect men to feel and behave the way women do.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The instrument is used to measure 21 a person’s body reacts to questions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the same study, when the elephants saw red clothing not worn before, they reacted angrily, as red is typically worn by Maasai men.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How did the elephants react to smell in the study?",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As 19.(A) who (B) while (C) that (D) when 20.(A) relieved (B) relaxed (C) relied (D) reacted European politicians are trying to get the UK Government to make cigarette companies print photos on the packets.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "How do bedbugs react to foggers?",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "反應；回應",
+    "en_def": "To respond or behave in a particular way when something happens.",
+    "example": "She didn't react to the news as I expected."
+  },
+  "sentences_removed": 0
+}

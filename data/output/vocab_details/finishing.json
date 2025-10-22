@@ -1,0 +1,17 @@
+{
+  "lemma": "finishing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "完成某項工作或任務的過程或行為。",
+    "en_def": "The process or act of completing a task or work.",
+    "example": "She is finishing her homework before dinner."
+  },
+  "sentences_removed": 1
+}

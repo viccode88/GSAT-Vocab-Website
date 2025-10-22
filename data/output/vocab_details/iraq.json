@@ -1,0 +1,23 @@
+{
+  "lemma": "iraq",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why is “Iraq” mentioned in the second paragraph? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/iraq_ex_0_f5977878.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伊拉克，位於中東的國家，擁有豐富的石油資源和悠久的歷史。",
+    "en_def": "Iraq, a country in the Middle East known for its rich oil resources and ancient history.",
+    "example": "Iraq has a diverse culture influenced by its long history."
+  },
+  "sentences_removed": 1
+}

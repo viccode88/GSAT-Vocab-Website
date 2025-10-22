@@ -1,0 +1,23 @@
+{
+  "lemma": "hseu",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hseu_ex_0_af560fe9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無法識別的詞彙，可能是拼寫錯誤或不常見的詞。",
+    "en_def": "An unrecognized term, possibly a misspelling or an uncommon word.",
+    "example": "The word 'hseu' does not appear to have a standard meaning in English."
+  },
+  "sentences_removed": 0
+}

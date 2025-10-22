@@ -1,0 +1,38 @@
+{
+  "lemma": "grieve",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/grieve_ex_0_8700ccfa.mp3"
+      },
+      {
+        "text": "The idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/grieve_ex_1_261ab2fc.mp3"
+      },
+      {
+        "text": "Grieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/grieve_ex_2_1c2edb9b.mp3"
+      },
+      {
+        "text": "And thousands more were left homeless, hungry, and grieving.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/grieve_ex_3_fcda8e86.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到悲傷或哀痛，尤其是因為失去某人或某事。",
+    "en_def": "To feel deep sorrow or distress, especially due to the loss of someone or something.",
+    "example": "She had to grieve for her beloved pet that passed away."
+  },
+  "sentences_removed": 0
+}

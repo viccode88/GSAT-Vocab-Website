@@ -1,0 +1,23 @@
+{
+  "lemma": "exception",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/exception_ex_0_18d54191.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "例外，異常情況",
+    "en_def": "A case or situation that does not conform to the general rule or pattern.",
+    "example": "The teacher made an exception for the student who was sick."
+  },
+  "sentences_removed": 0
+}

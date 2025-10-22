@@ -1,0 +1,45 @@
+{
+  "lemma": "literature",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 3
+  },
+  "sentences": [
+    {
+      "text": "This article about fantasy literature is intended to __________.",
+      "source": "2002_91_91學測_english",
+      "audio_file": ""
+    },
+    {
+      "text": "The history of the Nobel Prize in Literature. 42.",
+      "source": "2014_103_02-103學測英文-定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "No African American woman ever received a Nobel Prize in Literature before her. - 4 - 第 5 頁 103年學測 共 7 頁 英文考科 第 45 至 48 題為題組 Below is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.",
+      "source": "2014_103_02-103學測英文-定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "A culture’s folk tales, fables, songs, and proverbs are an important part of its literature.",
+      "source": "2002_91_91學測補考_english",
+      "audio_file": ""
+    },
+    {
+      "text": "Educated in Paris, Cartier-Bresson developed an early love for literature and the arts.",
+      "source": "2015_104_02-104學測英文定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "In 1993, Morrison received the Nobel Prize in Literature.",
+      "source": "2014_103_02-103學測英文-定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "文學：以語言為媒介，表達思想、情感和經驗的藝術形式，包括小說、詩歌、戲劇等。",
+    "en_def": "Literature: The art of written or spoken works that express ideas, emotions, and experiences, including novels, poetry, and drama.",
+    "example": "She loves reading classic literature in her free time."
+  }
+}

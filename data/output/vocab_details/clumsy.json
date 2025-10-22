@@ -1,0 +1,23 @@
+{
+  "lemma": "clumsy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The slow and clumsy wetas have been around on the island since the times of the dinosaurs, and have evolved and survived in an environment where they had no enemies until rats came to the island with European immigrants.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clumsy_ex_0_14ffc1bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "笨拙的，缺乏靈活性或技巧的。",
+    "en_def": "Awkward in movement or action; lacking grace or coordination.",
+    "example": "He was so clumsy that he tripped over his own feet."
+  },
+  "sentences_removed": 0
+}

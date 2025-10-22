@@ -1,0 +1,23 @@
+{
+  "lemma": "extinct",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This extinct volcano is considered the wettest spot on earth, with almost 500 inches of rainfall each year.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/extinct_ex_0_d5aafbb5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指某種生物或物種已經完全消失，不再存在。",
+    "en_def": "No longer in existence; having no living representatives.",
+    "example": "The dodo bird is an example of an extinct species."
+  },
+  "sentences_removed": 0
+}

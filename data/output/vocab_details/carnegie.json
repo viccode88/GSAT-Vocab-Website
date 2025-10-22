@@ -1,0 +1,64 @@
+{
+  "lemma": "carnegie",
+  "count": 9,
+  "pos_dist": {
+    "PROPN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Carnegie became a very rich businessman and set aside money to honor heroes like William.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/carnegie_ex_0_b74c8def.mp3"
+      },
+      {
+        "text": "Over 6,000 people have received the Carnegie Medal.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/carnegie_ex_1_32da8053.mp3"
+      },
+      {
+        "text": "The medal was named after Andrew Carnegie.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/carnegie_ex_2_c09c151b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The Carnegie Medal is given to those who are (A) sick and poor.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "One such reward is the Carnegie Medal.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1886, Carnegie heard about a young man by the name of William Hunter who lost his life trying to save two other boys from drowning.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If so, they receive money as well as the Carnegie Medal.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of the passage? (A) William Hunter was a very brave boy. (B) Hunter saved Carnegie from drowning.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is NOT true? (A) Carnegie knew Hunter in person.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "卡內基（Andrew Carnegie）是美國的鋼鐵大亨和慈善家，以其在鋼鐵產業的成功和對教育及公共事業的貢獻而聞名。",
+    "en_def": "Carnegie refers to Andrew Carnegie, a Scottish-American industrialist who led the expansion of the American steel industry in the late 19th century and is known for his philanthropic efforts.",
+    "example": "Andrew Carnegie donated millions to libraries and educational institutions across the United States."
+  },
+  "sentences_removed": 0
+}

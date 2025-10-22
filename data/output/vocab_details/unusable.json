@@ -1,0 +1,23 @@
+{
+  "lemma": "unusable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Across these countries, violence has made 8,500 schools unusable.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/unusable_ex_0_b890f8aa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無法使用的，不能被使用或利用的。",
+    "en_def": "Not able to be used; not functional or suitable for use.",
+    "example": "The equipment was damaged and now it is completely unusable."
+  },
+  "sentences_removed": 0
+}

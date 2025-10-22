@@ -1,0 +1,43 @@
+{
+  "lemma": "specifically",
+  "count": 5,
+  "pos_dist": {
+    "ADV": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why is Howard Chang specifically mentioned in the passage? 4.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/specifically_ex_0_a2add8a6.mp3"
+      },
+      {
+        "text": "Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/specifically_ex_1_949e617f.mp3"
+      },
+      {
+        "text": "Specifically, you will learn to prepare __(23)__ delicious items as roasted chicken, chili, turkey loaf, turkey loaf, meatballs, pasta, among others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/specifically_ex_2_f98299d2.mp3"
+      },
+      {
+        "text": "Specifically, they did not have the interior loop we see today.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/specifically_ex_3_4569538a.mp3"
+      },
+      {
+        "text": "Ice sculptors also use razor-sharp chisels that are specifically designed for cutting ice.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/specifically_ex_4_9e225812.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "特別地，明確地，具體地",
+    "en_def": "In a clear and detailed manner; explicitly.",
+    "example": "She specifically asked for the report by Friday."
+  },
+  "sentences_removed": 0
+}

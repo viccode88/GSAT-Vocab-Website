@@ -1,0 +1,23 @@
+{
+  "lemma": "miniature",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Legend tells us he finally called the guitar a miniature orchestra.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/miniature_ex_0_b8ae344f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "微型的；小型的",
+    "en_def": "A very small version of something.",
+    "example": "She collected miniature models of famous buildings."
+  },
+  "sentences_removed": 0
+}

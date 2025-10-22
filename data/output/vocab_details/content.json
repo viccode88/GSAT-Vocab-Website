@@ -1,0 +1,75 @@
+{
+  "lemma": "content",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 11,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In view of all these strengths, in the 1930s the United States and Canada undertook a research project in which they managed to breed an especially nutritious soybean with a high oil content.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/content_ex_0_0eb924d8.mp3"
+      },
+      {
+        "text": "The content of the cargo.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/content_ex_1_d9606792.mp3"
+      },
+      {
+        "text": "Because they have a higher water content, they are typically sweeter and milder tasting than storage onions.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/content_ex_2_c4125ce8.mp3"
+      },
+      {
+        "text": "The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/content_ex_3_1faee1b8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "30 , baseball fans are more content to concentrate on the game’s finer details and spend the breaks between innings filling out their own private scorecards.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "To discuss the content of alcoholic drinks in ancient Europe.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The soybean’s high fiber content is beneficial in preventing digestive disorders.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Then, what is the function of the content?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This higher water content also makes 23 easier for them to bruise.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People only drank beverages with low alcohol content.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Do you have a finer one? (A) content (B) display (C) extent (D) texture 11.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "內容；滿足感",
+    "en_def": "The information or material contained within something; a state of satisfaction.",
+    "example": "The content of the book was both informative and engaging."
+  },
+  "sentences_removed": 1
+}

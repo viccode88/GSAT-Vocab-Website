@@ -1,0 +1,23 @@
+{
+  "lemma": "gymnasium",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For many older Americans, the prom was a modest, home-grown affair in the school gymnasium.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/gymnasium_ex_0_d38b04c6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "體育館；健身房",
+    "en_def": "A large room or building equipped for physical exercise, sports, or other physical activities.",
+    "example": "She goes to the gymnasium every evening to work out."
+  },
+  "sentences_removed": 0
+}

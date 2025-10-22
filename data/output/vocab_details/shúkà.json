@@ -1,0 +1,28 @@
+{
+  "lemma": "shúkà",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The color of the shúkà represented one’s importance in the tribe.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shúkà_ex_0_9e907529.mp3"
+      },
+      {
+        "text": "The most recognizable piece of clothing is the shúkà, a sheet of fabric worn wrapped around the body.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shúkà_ex_1_3018949c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於烹飪的調味料，通常由醬油、醋和其他成分混合而成。",
+    "en_def": "A type of sauce used in cooking, typically made from a mixture of soy sauce, vinegar, and other ingredients.",
+    "example": "She added shúkà to the stir-fry for extra flavor."
+  },
+  "sentences_removed": 0
+}

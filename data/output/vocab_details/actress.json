@@ -1,0 +1,23 @@
+{
+  "lemma": "actress",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People may choose a name because they are strongly 38 a character in a book or a television series; they may also adopt names of famous people or their favorite actors and actresses.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/actress_ex_0_98f0cb55.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "女演員，指在戲劇、電影或電視劇中表演的女性。",
+    "en_def": "A female performer in plays, movies, or television shows.",
+    "example": "The actress received an award for her outstanding performance in the film."
+  },
+  "sentences_removed": 0
+}

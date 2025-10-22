@@ -1,0 +1,28 @@
+{
+  "lemma": "tub",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We supply everything, 18 waist-high tubs, shampoo, and towels.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/tub_ex_0_14918563.mp3"
+      },
+      {
+        "text": "Here all the dogs are given a bath using professional shampoo and conditioners in a massaging tub.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/tub_ex_1_c207b3ba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種大型容器，通常用於洗澡或儲存液體。",
+    "en_def": "A large container, typically used for bathing or holding liquids.",
+    "example": "She filled the tub with warm water for a relaxing bath."
+  },
+  "sentences_removed": 0
+}

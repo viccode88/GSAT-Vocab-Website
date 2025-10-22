@@ -1,0 +1,23 @@
+{
+  "lemma": "inspect",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Let’s send it back to the _____ to have it inspected and repaired. (A) lecturer (B) publisher (C) researcher (D) manufacturer 4.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/inspect_ex_0_baf555c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "檢查；仔細觀察",
+    "en_def": "To look at something closely in order to learn more about its components or condition.",
+    "example": "The mechanic will inspect the car for any issues before the trip."
+  },
+  "sentences_removed": 0
+}

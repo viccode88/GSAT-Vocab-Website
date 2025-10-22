@@ -1,0 +1,23 @@
+{
+  "lemma": "redefinition",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A redefinition of the term “olive oil” is also proposed to make a clear distinction between virgin olive oil and pure olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/redefinition_ex_0_b12ef574.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重新定義，對某個詞語、概念或事物的定義進行修改或更新。",
+    "en_def": "The act of defining something again or differently, often to clarify or change its meaning.",
+    "example": "The redefinition of the term has led to new interpretations in the field."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "transfiguration",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The jewel of the architecture is the 22-domed Transfiguration Church, built in the early 1700s.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/transfiguration_ex_0_5f23402c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "變形，特別是外觀或性質的改變。",
+    "en_def": "The act of changing in form, appearance, or nature, especially in a magical or dramatic way.",
+    "example": "The wizard performed a transfiguration spell to turn the frog into a prince."
+  },
+  "sentences_removed": 0
+}

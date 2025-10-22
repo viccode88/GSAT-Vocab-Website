@@ -1,0 +1,23 @@
+{
+  "lemma": "linguistic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Linguistic research can be a very expensive business.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/linguistic_ex_0_fddebec5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "語言的；與語言學有關的",
+    "en_def": "Relating to language or linguistics.",
+    "example": "Her linguistic skills helped her learn several languages quickly."
+  },
+  "sentences_removed": 0
+}

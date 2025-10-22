@@ -1,0 +1,28 @@
+{
+  "lemma": "recognition",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This international recognition highlights the importance of this area, not just to the United States and Canada, but to the entire world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/recognition_ex_0_50e68557.mp3"
+      },
+      {
+        "text": "His pictures of the Union troops won international recognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/recognition_ex_1_70c6856a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "識別；認可；承認",
+    "en_def": "The action of recognizing or being recognized, especially in terms of acknowledging someone's achievements or status.",
+    "example": "Her hard work finally received recognition from her peers."
+  },
+  "sentences_removed": 0
+}

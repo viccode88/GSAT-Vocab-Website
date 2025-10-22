@@ -1,0 +1,23 @@
+{
+  "lemma": "schubert",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Haydn, Schubert, and others wrote guitar music.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/schubert_ex_0_da42332e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "舒伯特（Franz Schubert）是一位奧地利作曲家，以其歌曲、交響曲和室內樂作品而聞名。",
+    "en_def": "Schubert refers to Franz Schubert, an Austrian composer known for his lieder, symphonies, and chamber music.",
+    "example": "Schubert's 'Ave Maria' is one of his most famous compositions."
+  },
+  "sentences_removed": 0
+}

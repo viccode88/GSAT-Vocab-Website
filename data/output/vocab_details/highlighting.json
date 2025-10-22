@@ -1,0 +1,17 @@
+{
+  "lemma": "highlighting",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "突出或強調某事物的行為或過程。",
+    "en_def": "The act or process of making something stand out or emphasizing it.",
+    "example": "The teacher used a marker for highlighting important points in the text."
+  },
+  "sentences_removed": 1
+}

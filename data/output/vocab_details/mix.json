@@ -1,0 +1,51 @@
+{
+  "lemma": "mix",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 4,
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He believes that, when language is first being programmed in young children, their brains may mix all languages into the same area.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/mix_ex_0_4b4e1aa1.mp3"
+      },
+      {
+        "text": "To warn about the dangers of drinking energy drinks mixed with alcohol.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/mix_ex_1_d4399d88.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Mixing salt with water is not as easy as removing salt from seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mix_ex_2_f9920152.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Tom Mix and Yakima Canutt were among the most famous.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They can drink seawater when it mixes with rainwater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "混合，將兩種或多種物質或元素結合在一起。",
+    "en_def": "To combine two or more substances or elements together.",
+    "example": "She decided to mix the blue and yellow paint to create green."
+  },
+  "sentences_removed": 0
+}

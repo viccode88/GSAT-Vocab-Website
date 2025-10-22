@@ -1,0 +1,23 @@
+{
+  "lemma": "morally",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "None of them wanted to—though for some years afterwards I was left in no doubt that I was morally obliged to them, in the sense that it always seemed to be my round when it came to the buying of drinks.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/morally_ex_0_18465505.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "道德上，符合道德標準或原則。",
+    "en_def": "In a manner that is concerned with principles of right and wrong behavior.",
+    "example": "She chose to act morally, even when it was difficult."
+  },
+  "sentences_removed": 0
+}

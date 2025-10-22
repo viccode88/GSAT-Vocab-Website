@@ -1,0 +1,23 @@
+{
+  "lemma": "petur",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Petur Oddsson was an important member of the Icelandic project.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/petur_ex_0_b5a1571b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種小型的寵物，通常指的是狗或貓等可愛的動物。",
+    "en_def": "A small domesticated animal kept for companionship or pleasure.",
+    "example": "She decided to adopt a petur from the local animal shelter."
+  },
+  "sentences_removed": 0
+}

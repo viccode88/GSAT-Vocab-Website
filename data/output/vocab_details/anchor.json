@@ -1,0 +1,34 @@
+{
+  "lemma": "anchor",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The task of bringing the ship into the harbor and anchoring it is taken up by a different captain.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/anchor_ex_0_aef49274.mp3"
+      },
+      {
+        "text": "People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/anchor_ex_1_431ca077.mp3"
+      },
+      {
+        "text": "Also, the wind can significantly alter the direction of the ship and how it reacts, adding to the difficulty of anchoring the ship.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/anchor_ex_2_c70960f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "錨：用於固定船隻或其他物體的重物，通常由金屬製成，能夠在水底抓住地面。",
+    "en_def": "A heavy object used to moor a vessel to the sea bottom, typically made of metal and designed to grip the seabed.",
+    "example": "The sailor dropped the anchor to keep the boat from drifting away."
+  },
+  "sentences_removed": 0
+}

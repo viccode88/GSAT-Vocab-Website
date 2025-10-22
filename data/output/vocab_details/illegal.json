@@ -1,0 +1,33 @@
+{
+  "lemma": "illegal",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The problem of illegal drug use is very complex and cannot be traced to merely one _____ reason.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/illegal_ex_0_3cd5baeb.mp3"
+      },
+      {
+        "text": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/illegal_ex_1_844f9b1b.mp3"
+      },
+      {
+        "text": "At first, Capoeira was considered illegal in Brazil.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/illegal_ex_2_863386bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "違法的，不合法的。",
+    "en_def": "Not allowed by law; unlawful.",
+    "example": "The police arrested him for his illegal activities."
+  },
+  "sentences_removed": 0
+}

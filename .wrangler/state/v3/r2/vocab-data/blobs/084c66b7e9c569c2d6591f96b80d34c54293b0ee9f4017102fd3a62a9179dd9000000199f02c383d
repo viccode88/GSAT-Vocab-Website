@@ -1,0 +1,19 @@
+{
+  "lemma": "abdul",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": [
+    {
+      "text": "Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods.",
+      "source": "2016_105_02-105學測英文科_定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "阿卜杜勒，一個常見的阿拉伯男性名字。",
+    "en_def": "Abdul, a common Arabic male name.",
+    "example": "Abdul is a talented musician."
+  }
+}

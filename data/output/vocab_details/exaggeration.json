@@ -1,0 +1,23 @@
+{
+  "lemma": "exaggeration",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/exaggeration_ex_0_51c632f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "誇張，指對事物的描述超出實際情況的程度。",
+    "en_def": "A statement that represents something as better or worse than it really is; an overstatement.",
+    "example": "His claim that he ran a marathon in under two hours was an exaggeration."
+  },
+  "sentences_removed": 0
+}

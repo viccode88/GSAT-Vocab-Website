@@ -1,0 +1,23 @@
+{
+  "lemma": "antelope",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cartier-Bresson traveled to Africa in 1931 to hunt antelope and boar.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/antelope_ex_0_137c43e0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種生活在草原和開放地區的有蹄類動物，通常具有長腿和優雅的身體，屬於羚羊科。",
+    "en_def": "A swift, hoofed mammal found in open grasslands and savannas, typically characterized by long legs and a slender body, belonging to the family Bovidae.",
+    "example": "The antelope gracefully leaped across the plains."
+  },
+  "sentences_removed": 0
+}

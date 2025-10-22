@@ -1,0 +1,50 @@
+{
+  "lemma": "cultural",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 6,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These two countries are trying to ________ trade and cultural exchanges between them.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/cultural_ex_0_a6410a2a.mp3"
+      },
+      {
+        "text": "Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cultural_ex_1_67629c34.mp3"
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cultural_ex_2_cff0c385.mp3"
+      },
+      {
+        "text": "In her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cultural_ex_3_0722118e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is one of the most popular tourist 16 in Russia and a United Nations Educational, Scientific, and Cultural Organization (UNESCO)",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Aboriginal carvers continue to carve totems as symbols of their cultural pride and clan kinship.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "文化的；與文化有關的",
+    "en_def": "Relating to the ideas, customs, and social behavior of a society.",
+    "example": "The festival celebrates the cultural heritage of the community."
+  },
+  "sentences_removed": 1
+}

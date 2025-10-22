@@ -1,0 +1,43 @@
+{
+  "lemma": "sasaki",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sasaki_ex_0_8700ccfa.mp3"
+      },
+      {
+        "text": "Sasaki stated in an interview: “Because my thoughts couldn’t be 26 through a regular phone line, I wanted them to be carried on the wind.”",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sasaki_ex_1_298dc7c8.mp3"
+      },
+      {
+        "text": "Sasaki opened his wind phone to the public in 2011, after the devastating tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sasaki_ex_2_0b7fab97.mp3"
+      },
+      {
+        "text": "The idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sasaki_ex_3_261ab2fc.mp3"
+      },
+      {
+        "text": "Feeling that he needed a private space to help him navigate through the 24 , Sasaki positioned a booth where he could “speak” to the dead relative.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sasaki_ex_4_10d978a9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "佐佐木，常見的日本姓氏。",
+    "en_def": "Sasaki is a common Japanese surname.",
+    "example": "Mr. Sasaki is my neighbor."
+  },
+  "sentences_removed": 0
+}

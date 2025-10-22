@@ -1,0 +1,28 @@
+{
+  "lemma": "feather",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The feathers of peacocks are considered the most 25 part of the bird because the eye-shaped markings on them are associated with “evil eyes.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/feather_ex_0_df2dbe00.mp3"
+      },
+      {
+        "text": "In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to 23 evil.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/feather_ex_1_a25ba773.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "羽毛，鳥類的外部覆蓋物，通常輕盈且柔軟。",
+    "en_def": "A feather is a lightweight, soft structure that covers the body of birds.",
+    "example": "The bird spread its colorful feathers to attract a mate."
+  },
+  "sentences_removed": 0
+}

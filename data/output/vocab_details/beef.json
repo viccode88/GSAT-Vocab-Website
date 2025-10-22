@@ -1,0 +1,23 @@
+{
+  "lemma": "beef",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I’m trying to eat less beef.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/beef_ex_0_e6c07a36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "牛肉，指來自牛的肉。",
+    "en_def": "The flesh of a cow, bull, or ox, used as food.",
+    "example": "I ordered a steak for dinner, which is made from beef."
+  },
+  "sentences_removed": 0
+}

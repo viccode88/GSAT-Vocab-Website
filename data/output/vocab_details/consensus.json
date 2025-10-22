@@ -1,0 +1,28 @@
+{
+  "lemma": "consensus",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/consensus_ex_0_fc43e971.mp3"
+      },
+      {
+        "text": "15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/consensus_ex_1_c3915b02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "共識；一致意見",
+    "en_def": "A general agreement among a group of people.",
+    "example": "The committee reached a consensus on the new policy."
+  },
+  "sentences_removed": 0
+}

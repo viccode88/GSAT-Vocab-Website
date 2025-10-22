@@ -1,0 +1,23 @@
+{
+  "lemma": "starvation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Unprepared for such a dangerous journey, many died of starvation and exposure to the cold weather.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/starvation_ex_0_be7e2318.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "飢餓，缺乏食物導致的極端飢餓狀態。",
+    "en_def": "The state of suffering or death caused by a lack of food.",
+    "example": "The organization works to alleviate starvation in impoverished regions."
+  },
+  "sentences_removed": 0
+}

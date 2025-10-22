@@ -1,0 +1,59 @@
+{
+  "lemma": "apart",
+  "count": 8,
+  "pos_dist": {
+    "ADV": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/apart_ex_0_0456b133.mp3"
+      },
+      {
+        "text": ": 27 Jack: Well, apart from that, we did everything we wanted to—hiking, fishing and swimming.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/apart_ex_1_217d2ac9.mp3"
+      },
+      {
+        "text": "When asked what color is evoked by a letter or number, synesthetic people would persistently give the same answer even if tested months or years apart.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/apart_ex_2_cba57e97.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted to find a way to measure the ability to think and reason, apart from education in any particular field.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "When the printing was finished, the letters could be taken apart and rearranged to print something else.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result of (B) Apart from (C)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is difficult to comment conclusively on these theories in general, apart from saying that any and all of them might be possible.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "分開的，隔離的",
+    "en_def": "Separated by a distance or by a barrier.",
+    "example": "The two friends sat apart during the meeting."
+  },
+  "sentences_removed": 0
+}

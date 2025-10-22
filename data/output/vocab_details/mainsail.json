@@ -1,0 +1,23 @@
+{
+  "lemma": "mainsail",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mainsail_ex_0_10c9d4fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "主帆，帆船上最大的帆，通常位於船的主桅上。",
+    "en_def": "The largest sail on a sailing vessel, typically located on the main mast.",
+    "example": "The sailor adjusted the mainsail to catch the wind more effectively."
+  },
+  "sentences_removed": 0
+}

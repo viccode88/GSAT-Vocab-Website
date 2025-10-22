@@ -1,0 +1,49 @@
+{
+  "lemma": "heal",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Now it is healing and prospering and greets visitors with open arms. 26.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/heal_ex_0_3fb67dcf.mp3"
+      },
+      {
+        "text": "Most styes heal on their own within a few days.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/heal_ex_1_a2fe3359.mp3"
+      },
+      {
+        "text": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/heal_ex_2_564e31bf.mp3"
+      },
+      {
+        "text": "Sometimes this may be as simple as touching the holy man and being immediately healed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/heal_ex_3_ac9fc9e6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Above all, they possess some amazing “self-healing” power.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "治癒，恢復健康或正常狀態。",
+    "en_def": "To make someone or something healthy again; to restore to a normal condition.",
+    "example": "The doctor was able to heal the patient's wounds quickly."
+  },
+  "sentences_removed": 1
+}

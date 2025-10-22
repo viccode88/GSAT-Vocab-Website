@@ -1,0 +1,28 @@
+{
+  "lemma": "swearing",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/swearing_ex_0_102c7b54.mp3"
+      },
+      {
+        "text": "Joining in the swearing-in ceremony.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/swearing_ex_1_09efd3db.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使用粗俗或冒犯性的語言，通常表達憤怒或不滿。",
+    "en_def": "The act of using offensive or vulgar language, often to express anger or frustration.",
+    "example": "He was swearing loudly after stubbing his toe."
+  },
+  "sentences_removed": 0
+}

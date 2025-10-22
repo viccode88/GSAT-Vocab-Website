@@ -1,0 +1,23 @@
+{
+  "lemma": "assurance",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 they have self-assurance, they do not need constant praise and encouragement from others to feel 25 about themselves.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/assurance_ex_0_c3eb341f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "保證，確信，信心。",
+    "en_def": "A positive declaration intended to give confidence; a promise.",
+    "example": "She gave him her assurance that everything would be fine."
+  },
+  "sentences_removed": 0
+}

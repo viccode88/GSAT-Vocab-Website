@@ -1,0 +1,28 @@
+{
+  "lemma": "diaper",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Diapers are _(23)_ used by astronauts when they are outside the space shuttle, wearing a spacesuit.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/diaper_ex_0_9ae98b26.mp3"
+      },
+      {
+        "text": "_(22)_ problem urged NASA to develop the first space toilet, a modified diaper.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/diaper_ex_1_904de43b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用於包裹嬰兒或幼兒的尿布，通常是一次性或可重複使用的。",
+    "en_def": "A piece of absorbent material wrapped around a baby's bottom to absorb urine and feces.",
+    "example": "She changed the baby's diaper before putting him to bed."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,49 @@
+{
+  "lemma": "vegetable",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "All that is 37 is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vegetable_ex_0_db312f34.mp3"
+      },
+      {
+        "text": "They’re highly processed and contain no vegetables.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/vegetable_ex_1_492633d3.mp3"
+      },
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/vegetable_ex_2_73b77ec7.mp3"
+      },
+      {
+        "text": "According to certain documents, ancient Egyptians also used onions for medicinal purposes, but they likely would have viewed the 35 power of the vegetable as magical, rather than medical.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vegetable_ex_3_32f24e60.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Therefore, __(30)__ animals’ body parts, many fruits and vegetables can be harvested over and over again without dying. 26.(A) although (B) because (C) when (D) so that 27.(A)",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "To advocate the importance of vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "植物的一部分，通常是可食用的，如根、葉、莖或果實。",
+    "en_def": "A part of a plant that is typically edible, such as roots, leaves, stems, or fruits.",
+    "example": "I like to eat a variety of vegetables in my salad."
+  },
+  "sentences_removed": 0
+}

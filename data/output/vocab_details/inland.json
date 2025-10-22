@@ -1,0 +1,23 @@
+{
+  "lemma": "inland",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On the whole, documents were not required for travel to seaports, which were considered open trading points, but documents were required to travel inland from seaports.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/inland_ex_0_5816b49e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "內陸的，遠離海岸的地區或地方。",
+    "en_def": "Located away from the coast; in the interior of a country.",
+    "example": "The city is located inland, far from the nearest beach."
+  },
+  "sentences_removed": 0
+}

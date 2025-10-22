@@ -1,0 +1,39 @@
+{
+  "lemma": "iq",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "So, an 8-year-old who passes the 10-year-old’s test would have an IQ of 10/8 times 100, or 125.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/iq_ex_0_aa155c0c.mp3"
+      },
+      {
+        "text": "From Binet’s work, the phrase “intelligence quotient” (“IQ”) entered the English vocabulary.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/iq_ex_1_de0b80af.mp3"
+      },
+      {
+        "text": "The IQ is the ratio of “mental age” to chronological age times 100, with 100 30 the average.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/iq_ex_2_e468236c.mp3"
+      },
+      {
+        "text": "But don’t expect it to measure your pet’s IQ.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/iq_ex_3_30880d01.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "智商，智力商數的縮寫，用來測量一個人的智力水平。",
+    "en_def": "IQ, short for Intelligence Quotient, is a measure of a person's intellectual abilities in relation to others.",
+    "example": "She scored high on her IQ test, indicating strong problem-solving skills."
+  },
+  "sentences_removed": 0
+}

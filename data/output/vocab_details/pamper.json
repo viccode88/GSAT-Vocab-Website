@@ -1,0 +1,23 @@
+{
+  "lemma": "pamper",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After a spa treatment at Happy Puppy, dogs come home 16 pampered and relaxed.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/pamper_ex_0_4f250bb5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "過度寵愛或照顧，使某人變得過於依賴或嬌慣。",
+    "en_def": "To indulge with every attention, comfort, and kindness; to spoil.",
+    "example": "She likes to pamper herself with a spa day every month."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "mouth",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These devices made it possible for doors to open by themselves and wine to flow magically out of statues’ mouths.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mouth_ex_0_a9834f3b.mp3"
+      },
+      {
+        "text": "It must be free from impurity, while exhibiting some fruitiness and creating a pleasant bitter flavor along with a peppery sensation in the mouth.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/mouth_ex_1_d47a7adf.mp3"
+      },
+      {
+        "text": "Most families in Bekoji live from hand to mouth, and distance running offers the younger generation a way out.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mouth_ex_2_266f3852.mp3"
+      },
+      {
+        "text": "Some studies suggest that the act of shaping our mouths into a smile (creating a “physical smile”) can help us see the brighter, funnier side of things.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/mouth_ex_3_272585d4.mp3"
+      },
+      {
+        "text": "The participants, having seen the visible tape-recorder turned off, paid no more attention to the microphones which stayed in front of their chairs, only a few inches from their mouths, thus giving excellent sound quality.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mouth_ex_4_8d504a3e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is not exactly what a child eats that truly matters, but how much time it stays in his mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "They help to get rid of some bacteria in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "They stay in the mouth for a long time.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The longer the food stays in the mouth, the more likely cavities will develop.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides, chocolate contains tannins, which help to kill some of the bacteria in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "According to pediatric dentist Dr. Kaneta Lott, the most damaging stuff is something that is sticky or very hard and thus stays in the mouth for a long time.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Unlike hard candies, chocolate dissolves quickly in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "This is because we all have bacteria in our mouths.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "As the wearer brings the food toward their mouth, the camera captures an image of the food.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "口腔的開口，通常用於進食、說話和呼吸。",
+    "en_def": "The opening in the face used for eating, speaking, and breathing.",
+    "example": "She smiled and opened her mouth to speak."
+  },
+  "sentences_removed": 1
+}

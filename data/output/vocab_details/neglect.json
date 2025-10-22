@@ -1,0 +1,33 @@
+{
+  "lemma": "neglect",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Accused of neglecting this part of our education, my father still instituted a summer school for my brother and me.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/neglect_ex_0_cf012e98.mp3"
+      },
+      {
+        "text": "As a result, health concerns have been neglected.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/neglect_ex_1_0c069140.mp3"
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/neglect_ex_2_7f6ec1a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "忽視；不重視或不照顧某事物或某人。",
+    "en_def": "To fail to care for or pay attention to someone or something.",
+    "example": "She decided to neglect her studies and focus on her hobbies instead."
+  },
+  "sentences_removed": 0
+}

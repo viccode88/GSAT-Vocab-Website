@@ -1,0 +1,23 @@
+{
+  "lemma": "suppress",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/suppress_ex_0_14624ced.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "壓制；抑制",
+    "en_def": "To put an end to the activities of a person or group, often by force.",
+    "example": "The government decided to suppress the protests to maintain order."
+  },
+  "sentences_removed": 0
+}

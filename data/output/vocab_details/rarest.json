@@ -1,0 +1,23 @@
+{
+  "lemma": "rarest",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rare (C) Rarest (D) The rarer 22.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/rarest_ex_0_b2275780.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "最稀有的，極少見的。",
+    "en_def": "The least common or most uncommon; existing in very small numbers.",
+    "example": "The rarest species of bird was spotted in the forest."
+  },
+  "sentences_removed": 0
+}

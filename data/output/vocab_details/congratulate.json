@@ -1,0 +1,23 @@
+{
+  "lemma": "congratulate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To congratulate Tom on his wonderful achievement.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/congratulate_ex_0_bb4533a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "祝賀，表示對他人成功或成就的欣賞或慶祝。",
+    "en_def": "To express joy or praise for someone's achievement or good fortune.",
+    "example": "I want to congratulate you on your promotion!"
+  },
+  "sentences_removed": 0
+}

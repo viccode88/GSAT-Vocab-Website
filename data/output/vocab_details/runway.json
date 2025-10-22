@@ -1,0 +1,23 @@
+{
+  "lemma": "runway",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/runway_ex_0_940acf73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "飛機起降的跑道或時裝秀的走道。",
+    "en_def": "A strip of land or a platform where aircraft take off and land, or a stage for models to walk during a fashion show.",
+    "example": "The airplane taxied down the runway before taking off."
+  },
+  "sentences_removed": 1
+}

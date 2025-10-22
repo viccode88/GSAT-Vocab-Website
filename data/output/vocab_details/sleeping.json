@@ -1,0 +1,28 @@
+{
+  "lemma": "sleeping",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Everyone dreams about 20 percent of their sleeping time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sleeping_ex_0_ab8f3b98.mp3"
+      },
+      {
+        "text": "24 these “non-dreamers” do their sleeping in a laboratory 25 researchers can wake them up and ask them whether they were having dreams the moment before, it 26 that they dream as much as others.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sleeping_ex_1_0780d6aa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "睡眠；一種自然的生理狀態，通常伴隨著意識的喪失和身體的放鬆。",
+    "en_def": "The state of rest in which the body is inactive and the mind is unconscious.",
+    "example": "After a long day at work, I look forward to sleeping early."
+  },
+  "sentences_removed": 0
+}

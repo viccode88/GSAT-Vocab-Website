@@ -1,0 +1,17 @@
+{
+  "lemma": "equator",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "赤道：地球上與南北極平行的虛擬線，將地球分為南半球和北半球。",
+    "en_def": "Equator: An imaginary line around the middle of the Earth, equidistant from the poles, dividing it into the Northern and Southern Hemispheres.",
+    "example": "The equator is located at 0 degrees latitude."
+  },
+  "sentences_removed": 1
+}

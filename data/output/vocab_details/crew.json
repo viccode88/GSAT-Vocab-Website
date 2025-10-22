@@ -1,0 +1,23 @@
+{
+  "lemma": "crew",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There were, however, no 23 crew members to perform impressive stunts at that time.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/crew_ex_0_9abd8063.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一組在船、飛機或其他交通工具上工作的成員，負責操作和管理。",
+    "en_def": "A group of people working together on a ship, aircraft, or other vehicle, responsible for its operation and management.",
+    "example": "The crew worked tirelessly to ensure the flight was safe and on time."
+  },
+  "sentences_removed": 1
+}

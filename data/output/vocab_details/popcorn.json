@@ -1,0 +1,50 @@
+{
+  "lemma": "popcorn",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 7,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For an easy and 36 alternative, nutritionists suggest that we pop our own popcorn.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/popcorn_ex_0_f7cb3280.mp3"
+      },
+      {
+        "text": "Then pour the popcorn into a bowl and season with a small 40 of real butter or olive oil and natural salt.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/popcorn_ex_1_9b5aeb6c.mp3"
+      },
+      {
+        "text": "Researchers found that commercial popcorn companies often coat their microwave popcorn bags with a 33 called perfluorooctanoic acid (PFOA) which has been found to cause both cancer and lung disease in laboratory animals.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/popcorn_ex_2_8e193387.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Making matters worse, the artificial butter substitute that generally 34 with microwavable popcorn contains a common food-flavoring substance.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All that is 37 is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Research by the U.S. government now reports that microwave popcorn may contain substances that can cause health 32 .",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種用玉米粒加熱後膨脹而成的零食，通常在電影或聚會時食用。",
+    "en_def": "A snack made from corn kernels that puff up when heated, commonly eaten at movies or gatherings.",
+    "example": "I love to eat popcorn while watching a movie."
+  },
+  "sentences_removed": 1
+}

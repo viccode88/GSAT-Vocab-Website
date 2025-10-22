@@ -1,0 +1,23 @@
+{
+  "lemma": "amplification",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Music was moving out of the relatively small halls of Mozart’s day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn’t be heard.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/amplification_ex_0_9be5d012.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擴大，增強或加強某事物的過程或結果。",
+    "en_def": "The process or result of increasing the strength, volume, or significance of something.",
+    "example": "The amplification of sound made the music more enjoyable."
+  },
+  "sentences_removed": 0
+}

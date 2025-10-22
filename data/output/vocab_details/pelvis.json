@@ -1,0 +1,23 @@
+{
+  "lemma": "pelvis",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mummies have also been found with onions and onion flowers 39 their pelvis, chest, ears, eyes, and feet.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pelvis_ex_0_4c45415c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "骨盆：位於脊椎底部，連接脊椎和下肢的骨骼結構。",
+    "en_def": "Pelvis: The bony structure located at the base of the spine, connecting the spine to the lower limbs.",
+    "example": "The doctor examined the patient's pelvis for any signs of injury."
+  },
+  "sentences_removed": 0
+}

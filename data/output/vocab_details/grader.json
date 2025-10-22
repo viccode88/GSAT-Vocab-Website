@@ -1,0 +1,23 @@
+{
+  "lemma": "grader",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Fewer than half of Japanese and Taiwanese eleventh graders reported feeling stress that often.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/grader_ex_0_45c28b5f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "評分者；評分機器或工具",
+    "en_def": "A person or tool that evaluates or assigns grades to students' work.",
+    "example": "The teacher is the grader for all the exams in the class."
+  },
+  "sentences_removed": 0
+}

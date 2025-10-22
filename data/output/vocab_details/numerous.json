@@ -1,0 +1,33 @@
+{
+  "lemma": "numerous",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Earworms can run around our heads for several minutes to numerous hours.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/numerous_ex_0_cc2cb07c.mp3"
+      },
+      {
+        "text": "But that idea led to strong protests from numerous animal rights groups.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/numerous_ex_1_3a7d0dfc.mp3"
+      },
+      {
+        "text": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/numerous_ex_2_d0b2f04b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "許多的；大量的",
+    "en_def": "Consisting of a large number; many.",
+    "example": "There are numerous stars in the night sky."
+  },
+  "sentences_removed": 0
+}

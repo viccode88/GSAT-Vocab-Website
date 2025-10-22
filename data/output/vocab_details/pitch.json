@@ -1,0 +1,23 @@
+{
+  "lemma": "pitch",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/pitch_ex_0_e53b652f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "推銷，提議或展示某種想法或產品的行為或過程。",
+    "en_def": "The act of presenting or promoting an idea, product, or proposal.",
+    "example": "He gave an impressive pitch to the investors."
+  },
+  "sentences_removed": 0
+}

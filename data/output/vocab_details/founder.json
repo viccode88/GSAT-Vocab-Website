@@ -1,0 +1,33 @@
+{
+  "lemma": "founder",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/founder_ex_0_d3df25e8.mp3"
+      },
+      {
+        "text": "Recalling the group’s first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/founder_ex_1_19c89de3.mp3"
+      },
+      {
+        "text": "Dr. Hare, one of the venture’s co-founders, says a dog’s intelligence can’t be described with a single number.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/founder_ex_2_435245f2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "創始人；創建者",
+    "en_def": "A person who establishes an institution, organization, or business.",
+    "example": "She is the founder of a successful tech startup."
+  },
+  "sentences_removed": 0
+}

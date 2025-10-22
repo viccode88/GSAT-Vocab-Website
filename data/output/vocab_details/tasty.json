@@ -1,0 +1,23 @@
+{
+  "lemma": "tasty",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From there, the tasty fruit 24 throughout other parts of civilization.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tasty_ex_0_25ad9e44.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美味的；可口的",
+    "en_def": "Having a pleasant flavor; delicious.",
+    "example": "The cake was so tasty that everyone wanted a second piece."
+  },
+  "sentences_removed": 0
+}

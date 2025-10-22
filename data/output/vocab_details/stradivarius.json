@@ -1,0 +1,28 @@
+{
+  "lemma": "stradivarius",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What musical instrument was Stradivarius most famous for making? 3.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/stradivarius_ex_0_9e75766a.mp3"
+      },
+      {
+        "text": "Stradivarius, the undeniable king of violin makers, could not resist creating a variety of guitars.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/stradivarius_ex_1_e17326ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "斯特拉迪瓦里斯：意大利著名小提琴製造商安東尼奧·斯特拉迪瓦里的小提琴，因其卓越的音質和工藝而聞名於世。",
+    "en_def": "Stradivarius: A violin made by the Italian luthier Antonio Stradivari, renowned for its exceptional sound quality and craftsmanship.",
+    "example": "The musician played a beautiful melody on her Stradivarius."
+  },
+  "sentences_removed": 0
+}

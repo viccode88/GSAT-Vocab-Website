@@ -1,0 +1,43 @@
+{
+  "lemma": "trend",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trend_ex_0_3c744766.mp3"
+      },
+      {
+        "text": "That is why mothers who want to keep abreast of trends usually 18 the experts－their daughters.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trend_ex_1_1eb6b3e1.mp3"
+      },
+      {
+        "text": "The beginning of a new trend.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/trend_ex_2_ca54912a.mp3"
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/trend_ex_3_65b9ef5d.mp3"
+      },
+      {
+        "text": "There isn’t a brand or a trend that these young people are not aware of.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trend_ex_4_b1196b62.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "趨勢；潮流",
+    "en_def": "A general direction in which something is developing or changing.",
+    "example": "The trend in fashion this year is towards more sustainable materials."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "nathaniel",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/nathaniel_ex_0_5dfba093.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "納撒尼爾，一個男性名字，源自希伯來語，意為「上帝的禮物」。",
+    "en_def": "Nathaniel is a male given name of Hebrew origin meaning 'gift of God'.",
+    "example": "Nathaniel decided to pursue a career in medicine to help others."
+  },
+  "sentences_removed": 0
+}

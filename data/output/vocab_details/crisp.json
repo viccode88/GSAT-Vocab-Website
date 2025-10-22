@@ -1,0 +1,28 @@
+{
+  "lemma": "crisp",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then they would be so crisp that the diner wouldn’t be able to use his fork to eat them.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/crisp_ex_0_835af7e0.mp3"
+      },
+      {
+        "text": "These were thickly cut potatoes, fried until golden brown and crisp on the outside.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/crisp_ex_1_e8eafc0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "脆的；清脆的；新鮮的",
+    "en_def": "Firm, dry, and brittle; having a sharp sound.",
+    "example": "The apple was crisp and refreshing."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "envision",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/envision_ex_0_ec6dc0c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "想像；預想",
+    "en_def": "To imagine or visualize something that is not present or has not yet happened.",
+    "example": "She can easily envision her future career as a doctor."
+  },
+  "sentences_removed": 0
+}

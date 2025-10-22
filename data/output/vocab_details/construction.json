@@ -1,0 +1,74 @@
+{
+  "lemma": "construction",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The construction of the Going-to-the-Sun Road was a huge task.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/construction_ex_0_d1b73f73.mp3"
+      },
+      {
+        "text": "Construction began when the first cornerstone was laid in October of 1792.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/construction_ex_1_e758f4d7.mp3"
+      },
+      {
+        "text": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/construction_ex_2_e5854f81.mp3"
+      },
+      {
+        "text": "The non-profit organization has _____ $1 million over five years to finance the construction of the medical center.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/construction_ex_3_56a387ec.mp3"
+      },
+      {
+        "text": "Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/construction_ex_4_6f656728.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In fact, there is documented 22 to the ringing of bells even before the cathedral’s construction was completed, dating as far back as the 12th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The construction of the road has changed the way visitors experience the Glacier National Park.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “an engineering feat” mean? (A) A big success in construction.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Who initiated the construction of the White House? (A) John Adams.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although President Washington oversaw the construction of the house, he never lived in it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "建築；建設的過程或行為。",
+    "en_def": "The process or act of building something, typically structures such as buildings or roads.",
+    "example": "The construction of the new bridge will take two years to complete."
+  },
+  "sentences_removed": 0
+}

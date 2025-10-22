@@ -1,0 +1,23 @@
+{
+  "lemma": "ringing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In fact, there is documented 22 to the ringing of bells even before the cathedral’s construction was completed, dating as far back as the 12th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/ringing_ex_0_6a87e08d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發出鈴聲或類似聲音的行為或狀態。",
+    "en_def": "The act or state of producing a sound like a bell.",
+    "example": "The phone kept ringing until I answered it."
+  },
+  "sentences_removed": 0
+}

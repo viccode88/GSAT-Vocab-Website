@@ -1,0 +1,49 @@
+{
+  "lemma": "mud",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One reason the earthquake caused such damage was that Bam's buildings were made mostly from baked mud.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/mud_ex_0_e4b67354.mp3"
+      },
+      {
+        "text": "Bam was a city of mud-brick houses, old monuments and an ancient castle.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/mud_ex_1_dc410af9.mp3"
+      },
+      {
+        "text": "When mothers try to dig their babies out, both may be trapped and smothered by thick mud.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mud_ex_2_831f85de.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Bam was best known for its 2,000-year-old castle built out of mud, straw, and the trunks of palm trees.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The use of baked mud for buildings explains ____________.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "An old mud and straw castle.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "泥土，通常由水和土壤混合而成，具有黏性和可塑性。",
+    "en_def": "Soft, wet earth that is made by mixing water with soil.",
+    "example": "The children played in the mud after the rain."
+  },
+  "sentences_removed": 0
+}

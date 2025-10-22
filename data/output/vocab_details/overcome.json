@@ -1,0 +1,33 @@
+{
+  "lemma": "overcome",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But Dumas overcame poverty, the lack of formal education, and the hardship of racism to become one of the world’s most popular writers.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/overcome_ex_0_ba0a7385.mp3"
+      },
+      {
+        "text": "We want to believe in magic powers, good friends, and the power of good to overcome evil.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/overcome_ex_1_7d4156ba.mp3"
+      },
+      {
+        "text": "In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot 16 Earth’s pull in order to land humans on the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/overcome_ex_2_b69018f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "克服，戰勝（困難、挑戰等）",
+    "en_def": "To succeed in dealing with a problem or difficulty.",
+    "example": "She was able to overcome her fears and speak in public."
+  },
+  "sentences_removed": 0
+}

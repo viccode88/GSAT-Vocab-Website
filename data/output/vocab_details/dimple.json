@@ -1,0 +1,80 @@
+{
+  "lemma": "dimple",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 10,
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dimple_ex_0_16a582aa.mp3"
+      },
+      {
+        "text": "When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dimple_ex_1_389d042a.mp3"
+      },
+      {
+        "text": "Such dimples tend to occur in families, and are assumed to be an inherited feature.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dimple_ex_2_0f72fc95.mp3"
+      },
+      {
+        "text": "Not all dimples are formed by a genetic defect, though; some may appear due to the 36 of excessive fat on the face.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dimple_ex_3_15371eee.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Though often associated with beauty, most dimples are actually a genetic 33 caused by shortened facial muscles.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, some researchers believe that the 34 of dimples from parents to children takes only one gene.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Such dimples are not a permanent trait, for they vanish when the excessive fat goes away.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As they grow older and lose their baby fat, the dimples may 38 with time.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some cultures are found to show preference for dimples on one’s cheeks, as the feature is claimed to be a sign of 32 .",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If neither of the parents has dimple genes, their children will not 35 the trait.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many babies, for example, have dimples on their 37 cheeks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For those people who were born without 39 dimples, various methods can be applied to successfully create them.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "面部或皮膚上的小凹陷，通常出現在微笑或說話時。",
+    "en_def": "A small natural indentation in the flesh, typically found on the cheeks or chin, often appearing when a person smiles.",
+    "example": "She has a cute dimple on her left cheek when she smiles."
+  },
+  "sentences_removed": 0
+}

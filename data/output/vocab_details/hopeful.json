@@ -1,0 +1,17 @@
+{
+  "lemma": "hopeful",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "充滿希望的，對未來持樂觀態度的。",
+    "en_def": "Feeling or inspiring optimism about a future event.",
+    "example": "She remained hopeful that she would get the job."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "precisely",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new analysis of satellite-based data has given precisely the rate 21 which the country is losing size as it pushes northward against the Himalayas.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/precisely_ex_0_949df404.mp3"
+      },
+      {
+        "text": "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/precisely_ex_1_a73d0849.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "準確地；精確地",
+    "en_def": "In a way that is exact and accurate.",
+    "example": "She measured the ingredients precisely to ensure the recipe turned out perfectly."
+  },
+  "sentences_removed": 0
+}

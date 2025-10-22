@@ -1,0 +1,23 @@
+{
+  "lemma": "ones",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/ones_ex_0_9c50012a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指一個或一個以上的事物或人，通常用於表示數量或特定的個體。",
+    "en_def": "Refers to one or more items or individuals, typically used to indicate quantity or a specific entity.",
+    "example": "She has two ones and a five-dollar bill in her wallet."
+  },
+  "sentences_removed": 1
+}

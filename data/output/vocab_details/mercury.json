@@ -1,0 +1,28 @@
+{
+  "lemma": "mercury",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This is a report about John Glenn after he (A) successfully accomplished his 1962 Mercury flight.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mercury_ex_0_179d7042.mp3"
+      },
+      {
+        "text": "Glenn’s first ticker-tape parade on March 1, 1962, after his Mercury flight, is considered the largest ever in New York.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mercury_ex_1_6650edb0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "水銀，一種化學元素，符號為Hg，常用於溫度計和其他儀器中。",
+    "en_def": "Mercury, a chemical element with the symbol Hg, commonly used in thermometers and other instruments.",
+    "example": "The thermometer contains mercury to measure temperature accurately."
+  },
+  "sentences_removed": 0
+}

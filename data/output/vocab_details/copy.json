@@ -1,0 +1,50 @@
+{
+  "lemma": "copy",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 5,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Cloning is the genetic process of producing copies of an individual.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/copy_ex_0_6371858c.mp3"
+      },
+      {
+        "text": "Only by working hard C.…more than a copy of the other. 19.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/copy_ex_1_3f795283.mp3"
+      },
+      {
+        "text": "So, grab a copy and start learning how you can reduce stress in your life. 41.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/copy_ex_2_042b6ef1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Will the genetic copies of a human really have “one mind” as __(28)__ in this story?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1905 he developed a test in which he 27 children do tasks such as follow commands, copy patterns, name objects, and put things in order or arrange them properly.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "複製；抄寫",
+    "en_def": "To make a duplicate of something.",
+    "example": "Please copy the document before submitting it."
+  },
+  "sentences_removed": 0
+}

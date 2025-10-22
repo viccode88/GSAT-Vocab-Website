@@ -1,0 +1,17 @@
+{
+  "lemma": "haven",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "避風港；安全的地方或庇護所。",
+    "en_def": "A place of safety or refuge.",
+    "example": "After a long journey, they finally found a haven to rest."
+  },
+  "sentences_removed": 1
+}

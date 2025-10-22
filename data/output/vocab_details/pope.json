@@ -1,0 +1,23 @@
+{
+  "lemma": "pope",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1582, Pope Gregory XIII ordered a new calendar, which called for New Year’s Day to be celebrated on January 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pope_ex_0_8435c049.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "教宗，天主教會的最高領袖，負責指導信徒和教會事務。",
+    "en_def": "The bishop of Rome and the leader of the worldwide Catholic Church.",
+    "example": "The pope addressed the congregation during the Sunday service."
+  },
+  "sentences_removed": 0
+}

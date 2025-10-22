@@ -1,0 +1,65 @@
+{
+  "lemma": "fortune",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After making a fortune by writing novels, he built a mansion outside Paris and kept it open to starving artists, friends, and even strangers.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fortune_ex_0_69011ca3.mp3"
+      },
+      {
+        "text": "There are several 31 stories about the origin of the fortune cookie.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fortune_ex_1_bfa08dd6.mp3"
+      },
+      {
+        "text": "According to Hindu beliefs, the color red is believed to bring good fortune to the married couple.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/fortune_ex_2_ca356925.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This story may sound highly credible, but there seems to be no solid evidence that it inspired the creation of the 35 we know of today as fortune cookies.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another 36 claims that David Jung, a Chinese immigrant living in Los Angeles, created the fortune cookie in 1918.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the more generally accepted story is that the fortune cookie first 38 in either 1907 or 1914 in San Francisco, created by a Japanese immigrant, Makoto Hagiwara.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 .",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Cartier-Bresson’s family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents’ frugal ways, it often seemed as though his family was poor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "運氣；財富；命運",
+    "en_def": "Chance or luck in determining the outcome of events; wealth or riches.",
+    "example": "She believed that her fortune would change for the better."
+  },
+  "sentences_removed": 2
+}

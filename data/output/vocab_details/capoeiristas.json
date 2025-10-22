@@ -1,0 +1,23 @@
+{
+  "lemma": "capoeiristas",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/capoeiristas_ex_0_7e5a97a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巴西的一種武術和舞蹈，結合了音樂和體育，參與者稱為「卡波耶拉者」。",
+    "en_def": "Practitioners of capoeira, a Brazilian martial art that combines elements of dance, acrobatics, and music.",
+    "example": "The capoeiristas performed an impressive display of agility and rhythm during the festival."
+  },
+  "sentences_removed": 0
+}

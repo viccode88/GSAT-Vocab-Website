@@ -1,0 +1,23 @@
+{
+  "lemma": "bravely",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is given to people who act bravely and face danger to save the lives of others.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/bravely_ex_0_aec6ddea.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "勇敢地；無畏地",
+    "en_def": "In a courageous manner; showing bravery.",
+    "example": "She bravely faced her fears and spoke in front of the crowd."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "angle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/angle_ex_0_8703ca0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "角度；角的大小或形狀。",
+    "en_def": "The space between two intersecting lines or surfaces measured in degrees.",
+    "example": "The angle between the two walls is 90 degrees."
+  },
+  "sentences_removed": 0
+}

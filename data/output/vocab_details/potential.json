@@ -1,0 +1,55 @@
+{
+  "lemma": "potential",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 5,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Before a match is made, potential swappers tend to discuss a lot.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/potential_ex_0_5d90e4d2.mp3"
+      },
+      {
+        "text": "Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/potential_ex_1_9401f49b.mp3"
+      },
+      {
+        "text": "Which of the following is NOT a potential benefit of driverless cars?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/potential_ex_2_0075f093.mp3"
+      },
+      {
+        "text": "Smelling a potential danger means that a threat is nearby and the best thing to do is run away and hide.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/potential_ex_3_cf10b347.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Seeing a potential threat without its smell means that risk is low.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Stricter measures have been taken to potential dangers concerning cigarette-smoking.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "潛在的能力或可能性。",
+    "en_def": "Having or showing the capacity to develop into something in the future.",
+    "example": "She has the potential to become a great leader."
+  },
+  "sentences_removed": 0
+}

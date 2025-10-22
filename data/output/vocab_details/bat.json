@@ -1,0 +1,23 @@
+{
+  "lemma": "bat",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Meanwhile, fans across the U.S. are flocking to sports shows to have their heroes sign anything from a bat to a box of cereal.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/bat_ex_0_59f5d471.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蝙蝠，一種夜行性飛行哺乳動物，通常以昆蟲為食。",
+    "en_def": "A bat is a nocturnal flying mammal that typically feeds on insects.",
+    "example": "The bat flew out of the cave at dusk."
+  },
+  "sentences_removed": 0
+}

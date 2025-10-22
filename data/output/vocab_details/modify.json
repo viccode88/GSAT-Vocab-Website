@@ -1,0 +1,23 @@
+{
+  "lemma": "modify",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "_(22)_ problem urged NASA to develop the first space toilet, a modified diaper.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/modify_ex_0_904de43b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "改變或調整某物以改善或適應新的情況。",
+    "en_def": "To change or adjust something to improve it or to make it suitable for a new situation.",
+    "example": "She decided to modify her essay after receiving feedback from her teacher."
+  },
+  "sentences_removed": 0
+}

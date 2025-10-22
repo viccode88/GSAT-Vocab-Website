@@ -1,0 +1,64 @@
+{
+  "lemma": "conversation",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/conversation_ex_0_8700ccfa.mp3"
+      },
+      {
+        "text": "How did the author have the conversation recorded?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/conversation_ex_1_49c9b608.mp3"
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/conversation_ex_2_755d4981.mp3"
+      },
+      {
+        "text": "By contrast, men are much more likely to interrupt (about three times as often in some studies), to argue about what has been said, to ignore or respond poorly to what has been said, to introduce more new topics into the conversation, and to make more assertions.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/conversation_ex_3_71b0e6e7.mp3"
+      },
+      {
+        "text": "And my lengthy absence meant that I was able to obtain as natural a piece of conversation as it would be possible to find.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/conversation_ex_4_4ed833c8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He wanted the others to have a conversation without him.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "This in turn enriched subsequent rounds of conversation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "對話，指兩人或多人之間的交流或討論。",
+    "en_def": "A dialogue or discussion between two or more people.",
+    "example": "They had a deep conversation about their future plans."
+  },
+  "sentences_removed": 2
+}

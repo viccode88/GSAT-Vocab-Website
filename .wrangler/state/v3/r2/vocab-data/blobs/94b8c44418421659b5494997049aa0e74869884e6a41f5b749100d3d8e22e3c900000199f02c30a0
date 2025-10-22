@@ -1,0 +1,30 @@
+{
+  "lemma": "ab",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 2,
+    "NOUN": 1
+  },
+  "sentences": [
+    {
+      "text": "In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”",
+      "source": "2016_105_02-105學測英文科_定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish.",
+      "source": "2016_105_02-105學測英文科_定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "According to the examples mentioned in the passage, which blood type can we infer is the LEAST favored in Japan? (A) Type A. (B) Type B. (C) Type O. (D) Type AB. 43.",
+      "source": "2016_105_02-105學測英文科_定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "表示從某個地方或狀態中分離或離開的前綴，通常用於表示反義或相對的概念。",
+    "en_def": "A prefix meaning 'away from' or 'not', often used to indicate opposition or negation.",
+    "example": "The word 'abnormal' means not normal."
+  }
+}

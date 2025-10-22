@@ -1,0 +1,23 @@
+{
+  "lemma": "treetop",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/treetop_ex_0_7600ec79.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "樹梢，樹木的最上部分。",
+    "en_def": "The uppermost part of a tree, where the branches and leaves are located.",
+    "example": "The birds built their nest high in the treetop."
+  },
+  "sentences_removed": 0
+}

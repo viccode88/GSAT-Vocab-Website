@@ -1,0 +1,49 @@
+{
+  "lemma": "unfortunately",
+  "count": 6,
+  "pos_dist": {
+    "ADV": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/unfortunately_ex_0_755d4981.mp3"
+      },
+      {
+        "text": "Unfortunately, sometimes you may find it difficult to smile.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/unfortunately_ex_1_21cad89b.mp3"
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/unfortunately_ex_2_2ffca69b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Unfortunately, the items were usually different from Mom’s 35 .",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Unfortunately, shoes are not always readily available for people living in poverty, 21 shoes that are the right size.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Unfortunately, they __35__ catch many dolphins at the same time.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "不幸地，遺憾地",
+    "en_def": "Used to express regret or disappointment about an unfavorable situation.",
+    "example": "Unfortunately, we missed the last train home."
+  },
+  "sentences_removed": 0
+}

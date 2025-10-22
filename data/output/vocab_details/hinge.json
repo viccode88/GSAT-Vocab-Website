@@ -1,0 +1,28 @@
+{
+  "lemma": "hinge",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/hinge_ex_0_d0feee5c.mp3"
+      },
+      {
+        "text": "When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/hinge_ex_1_456b446e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "合頁；一種連接兩個物體的機械裝置，允許它們相對於彼此轉動。",
+    "en_def": "A mechanical device that connects two objects, allowing them to pivot relative to each other.",
+    "example": "The door creaked as the hinge rusted over time."
+  },
+  "sentences_removed": 0
+}

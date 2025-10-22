@@ -1,0 +1,23 @@
+{
+  "lemma": "yuan",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/yuan_ex_0_f81d97bb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "元：中國的貨幣單位，通常用於表示金錢的數量。",
+    "en_def": "Yuan: The basic unit of currency in China, often used to denote amounts of money.",
+    "example": "I exchanged my dollars for yuan before my trip to China."
+  },
+  "sentences_removed": 0
+}

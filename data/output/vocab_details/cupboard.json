@@ -1,0 +1,23 @@
+{
+  "lemma": "cupboard",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In an airtight glass bottle in a kitchen cupboard. (D) In an airproof bottle next to a well-lighted window. 52.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cupboard_ex_0_4d8fa543.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "櫥櫃，通常用於儲存食物、器具或衣物的家具。",
+    "en_def": "A piece of furniture with shelves and doors, used for storing dishes, food, or other items.",
+    "example": "She placed the dishes back in the cupboard after washing them."
+  },
+  "sentences_removed": 0
+}

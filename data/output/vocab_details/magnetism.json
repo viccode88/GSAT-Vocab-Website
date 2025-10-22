@@ -1,0 +1,23 @@
+{
+  "lemma": "magnetism",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Small animals such as mole rats living underground are known for the use of magnetism to navigate.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/magnetism_ex_0_543c1803.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "磁性是物質吸引或排斥其他物質的能力，通常與磁場有關。",
+    "en_def": "Magnetism is the property of materials that allows them to attract or repel other materials, typically associated with magnetic fields.",
+    "example": "The magnetism of the Earth helps to guide compasses."
+  },
+  "sentences_removed": 0
+}

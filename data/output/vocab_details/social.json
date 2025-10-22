@@ -1,0 +1,109 @@
+{
+  "lemma": "social",
+  "count": 20,
+  "pos_dist": {
+    "ADJ": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some critics worry that online students will miss out on the social aspects of college.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/social_ex_0_a2a09a9c.mp3"
+      },
+      {
+        "text": "Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/social_ex_1_575857e8.mp3"
+      },
+      {
+        "text": "However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/social_ex_2_fc2d4902.mp3"
+      },
+      {
+        "text": "In the United States, parents and educators have come to regard the prom as an important lesson in social skills.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/social_ex_3_274cd422.mp3"
+      },
+      {
+        "text": "Less social and flexible because they become accustomed in the very early years to acting alone, they may have difficulty making close friends.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/social_ex_4_12aaf70b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Therefore, proms have been held every year in high schools for students to learn proper social behavior.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some scientists believe that the color difference between the young and the old indicates their different social positions.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the 1890s, high school proms were all-night social events for some American families.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What kinds of problems can the red ant cause? (A) Health, social, and agricultural.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "They have evolved social birds and often travel in large flocks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In what aspect can smiling help a person in his social life? 4. Give one example of “hard times” mentioned in the passage.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The lack of social interaction among students and professors.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are important events for teenagers to learn social skills.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of the third paragraph? (A) Proper social behavior must be observed by prom-goers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Much of your success, both in your work and social life, 39 how you listen.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To indicate their social rank.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "None of them had any idea they were about to create a social innovation that 11 rapidly around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "社會的；社交的；與人際關係有關的",
+    "en_def": "Relating to society or its organization; involving interaction with others.",
+    "example": "She enjoys social gatherings and meeting new people."
+  },
+  "sentences_removed": 2
+}

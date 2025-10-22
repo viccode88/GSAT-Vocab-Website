@@ -1,0 +1,126 @@
+{
+  "lemma": "short",
+  "count": 22,
+  "pos_dist": {
+    "ADJ": 19,
+    "ADV": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Remembering one's way home involves short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/short_ex_0_d23ed970.mp3"
+      },
+      {
+        "text": "Within a short period of time, she has developed a good command of Chinese and Japanese.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/short_ex_1_89e87396.mp3"
+      },
+      {
+        "text": "This created a convenient, sturdy platform for any person too short to reach the sink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/short_ex_2_9f4835b5.mp3"
+      },
+      {
+        "text": "The new structure will be 200 meters high, 100 meters shorter than the cast-iron Eiffel Tower built 100 years ago.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/short_ex_3_b6fa7f95.mp3"
+      },
+      {
+        "text": "But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/short_ex_4_a89020da.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The left hemisphere deals with rules, lists of information, and short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For instance, the employees are given much shorter deadlines for the same tasks than before.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "take pride in (B) fall short of (C) get out of (D) keep up with 18.(A)",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "They can cause electrical shorts, fires, and other damage to electrical equipment.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since we are short of manpower in the factory, it is very ______",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Java developed tea cultivation earlier than India. (C) Tea plants can grow for only a short period of time.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Knight’s traffic signal was installed near London’s Westminster Bridge in December 1868, but the system was short-lived.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "They have a short lifespan for insects.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Very few people, no matter how intelligent or experienced, can 28 all the possibilities or outcomes of a policy or a course of action within just a short period of time.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By exhaling air from the lungs in short (36) of laughter, breathing is quickened and heartbeats increased, which achieves (37) good as ten minutes on an exercise bike.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The road has allowed people to see more of the park in a shorter period of time.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When a person smiles, the shorter-than-normal muscle pulls up the facial skin, which in turn creates a small indentation—or dimple—in the skin.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Keep in mind that even short periods of low-impact exercise serve as a powerful 39 to improve your health.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "RTRI officials explain that deer have a habit of repeatedly snorting short, shrill sounds to alert other deer when they perceive danger.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Green tea is dried but not fermented, and this shorter processing gives it a lighter flavor than black tea.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "短的，少的，或時間不長的。",
+    "en_def": "Having little length; not long in duration or extent.",
+    "example": "She wore a short dress to the party."
+  },
+  "sentences_removed": 1
+}

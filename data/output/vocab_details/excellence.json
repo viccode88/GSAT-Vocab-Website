@@ -1,0 +1,23 @@
+{
+  "lemma": "excellence",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is NOT mentioned as a factor for the excellence of distance runners in Ethiopia? .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/excellence_ex_0_966cfb7b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "卓越，優秀的品質或狀態。",
+    "en_def": "The quality of being outstanding or extremely good.",
+    "example": "Her excellence in mathematics earned her a scholarship."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "rival",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He revealed his rival’s blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/rival_ex_0_8fd2a561.mp3"
+      },
+      {
+        "text": "One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/rival_ex_1_89a0a8e1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "競爭者；對手",
+    "en_def": "A person or entity competing with another for the same objective or goal.",
+    "example": "She has always been a strong rival in the tennis tournaments."
+  },
+  "sentences_removed": 1
+}

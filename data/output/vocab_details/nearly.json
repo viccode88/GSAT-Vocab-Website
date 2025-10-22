@@ -1,0 +1,99 @@
+{
+  "lemma": "nearly",
+  "count": 17,
+  "pos_dist": {
+    "ADV": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But nearly everything crumbled in the disaster.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/nearly_ex_0_7e175284.mp3"
+      },
+      {
+        "text": "They had rowed nearly 5,500 miles when their boat was hit by a fishing ship on September 17, 2001.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/nearly_ex_1_02f5c6d5.mp3"
+      },
+      {
+        "text": "He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/nearly_ex_2_b6249808.mp3"
+      },
+      {
+        "text": "In fact, it is nearly impossible to release captive-bred animals.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/nearly_ex_3_c868115c.mp3"
+      },
+      {
+        "text": "At least 25,000 people died in the quake—nearly a third of the city's population.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/nearly_ex_4_5817ab11.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "26 some six hundred years of architecture nearly untouched by natural disaster or war, the city retains much of its medieval appearance.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rising more than 5,000 feet, Mt. Waialeale stands at the center of the nearly round island.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Altogether he printed nearly 80 books, many being his own translations from the French. 37.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "During the 1990s, international trade grew by nearly 8.6% each year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The town sits on the side of a volcano nearly 10,000 feet above sea level, making daily life a kind of high-altitude training.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It has also been a rite of passage for young Americans for nearly a century.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank. 43.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In one study, nearly 600 children from kindergarten to sixth grade took part in a nutrition curriculum intended to get them to eat more vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "幾乎，差不多",
+    "en_def": "Almost; not quite.",
+    "example": "She nearly missed the bus this morning."
+  },
+  "sentences_removed": 1
+}

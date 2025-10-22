@@ -1,0 +1,23 @@
+{
+  "lemma": "utilization",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/utilization_ex_0_11a510ad.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "利用，使用某物以達到特定目的或效果。",
+    "en_def": "The act of using something effectively for a particular purpose.",
+    "example": "The utilization of renewable energy sources is essential for sustainable development."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "diver",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Divers who walk on reefs can also do serious damage.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/diver_ex_0_7ca26f9e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "潛水員；從事潛水活動的人。",
+    "en_def": "A person who swims underwater, often using special equipment.",
+    "example": "The diver explored the colorful coral reef."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,259 @@
+{
+  "lemma": "student",
+  "count": 52,
+  "pos_dist": {
+    "NOUN": 52
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/student_ex_0_603c75c4.mp3"
+      },
+      {
+        "text": "I hope to live in a student dormitory when I am in college.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/student_ex_1_29cb6d1d.mp3"
+      },
+      {
+        "text": "A team of scientists, teachers, and students, the AmazonQuest team, recently explored some of the wonders of the Amazon Rainforest.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/student_ex_2_bdea3e2e.mp3"
+      },
+      {
+        "text": "Called the diamond-water paradox, this is a classic problem posed to students of economics.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/student_ex_3_be98c397.mp3"
+      },
+      {
+        "text": "Each year, over a quarter of a million students take courses this way.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/student_ex_4_b213d580.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If teachers know whether their students are left-brained or right-brained, they can help them learn better. 47.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The moment the students felt the earthquake, they ran ______ out of the classroom to an open area outside.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nowadays students can information from a variety of sources, such as computers, television, and compact discs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the 1990s, alternative proms have been organized in some areas to meet the needs of particular students.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This course will provide students with a solid ______ for research.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Some critics worry that online students will miss out on the social aspects of college.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, proms have been held every year in high schools for students to learn proper social behavior.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The students lost an average of 2.34 kilograms during the past two months, and the student who lost the most, the nine-year-old Howard Chang, shed more than six kilograms.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Mr. Chang always tries to answer all questions from his students.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Those college students work at the orphanage on a _____ basis, helping the children with their studies without receiving any pay.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Writing term papers and giving oral reports are typical course _____ for college students.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some students thought it was insensitive and degrading to use a robot.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If student enrollment continues to drop, some programs at the university may be to reduce the operation costs.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It’s a long _____, and it makes students nervous.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many students find it hard to focus on their studies when holidays are .",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "I understand that college students like to 17 parties, movies, and lots of activities, but you also have to learn how to do without certain things.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The lack of social interaction among students and professors.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It won’t magically transport a student to school on time every day, but it just might make __25__ a little easier.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many ordinary clocks are hard to read early in the morning, deceiving students of the correct time, __22__ causing them to be late for school.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Mr. Johnson was disappointed at his students for having a passive learning ______.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "After hiking all day without drinking any water, the students sat down by the stream to quench their .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The following is one of the items. __21__ a student who is never on time, there is the new Projection Alarm Clock.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "All the new students were given one minute to _____ introduce themselves to the whole class.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Students were asked to _____ or rewrite their compositions based on the teacher’s comments.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The high school student showed ______ courage when she helped the old man escape from the fire.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "They should (A) encourage students to memorize rules.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "There were also “couple-free” proms to which all students are welcome.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The teacher loved to teach young students, ________ those who were smart.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what gave rise to alternative proms? (A) Not all students behaved well at the proms.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The students in Professor Smith’s classical Chinese class are required to _____",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Every Taiwanese student should know what ‘M.I.T.’ stands for.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "During the discussion, all the students presented their ideas ______.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "the use of the laboratory equipment before she lets her students use it on their own.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This is certainly good news for cash-strapped students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "學生：在學校或其他教育機構中學習的人。",
+    "en_def": "A student is a person who is studying at a school or other educational institution.",
+    "example": "The student studied hard for the final exam."
+  },
+  "sentences_removed": 1
+}

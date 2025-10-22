@@ -1,0 +1,90 @@
+{
+  "lemma": "rich",
+  "count": 14,
+  "pos_dist": {
+    "ADJ": 13,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rich_ex_0_c79be496.mp3"
+      },
+      {
+        "text": "Since it is cheap to produce and rich in protein, and has many uses, the soybean could provide food to the world’s growing population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/rich_ex_1_ef77650b.mp3"
+      },
+      {
+        "text": "In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/rich_ex_2_237f8d30.mp3"
+      },
+      {
+        "text": "Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/rich_ex_3_134c0a18.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Carnegie became a very rich businessman and set aside money to honor heroes like William.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Soon, she realizes that her poor family is rich in things that matter in life.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "As she points out they are not sitting at a table where rich people would sit, her parents calculate the value of the desert hills, the blooming cactus, the calls of eagles, and one another’s company.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "His family was rich but was very economical.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People drink tea to become rich and healthy.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "She concludes that this is indeed a table where rich people sit.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The Table Where Rich People Sit.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The government project was started due to its rich natural resources.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Tofu is a rich protein source.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "富有的，擁有大量財富或資源的。",
+    "en_def": "Having a great deal of money or assets; wealthy.",
+    "example": "She became rich after starting her own successful business."
+  },
+  "sentences_removed": 0
+}

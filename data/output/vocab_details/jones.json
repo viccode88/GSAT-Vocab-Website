@@ -1,0 +1,23 @@
+{
+  "lemma": "jones",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“What started out as an extra one-day-a-week benefit for employees has really become an everyday thing,” said business consultant Maisly Jones.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/jones_ex_0_a84c8f80.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "喬恩斯（Jones）是一個常見的英語姓氏，通常指代某個人或家庭。",
+    "en_def": "Jones is a common English surname, often referring to a person or family.",
+    "example": "I met a man named Jones at the conference."
+  },
+  "sentences_removed": 0
+}

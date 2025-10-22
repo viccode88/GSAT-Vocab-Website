@@ -1,0 +1,17 @@
+{
+  "lemma": "folklore",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "民間傳說，指一個文化或社群中流傳的故事、信仰、習俗和傳統。",
+    "en_def": "The traditional beliefs, customs, and stories of a community, passed through the generations.",
+    "example": "The book is filled with fascinating folklore from various cultures around the world."
+  },
+  "sentences_removed": 1
+}

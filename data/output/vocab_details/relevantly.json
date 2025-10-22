@@ -1,0 +1,17 @@
+{
+  "lemma": "relevantly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相關地；切題地",
+    "en_def": "In a way that is closely connected or appropriate to the matter at hand.",
+    "example": "The speaker addressed the audience relevantly, focusing on their interests."
+  },
+  "sentences_removed": 1
+}

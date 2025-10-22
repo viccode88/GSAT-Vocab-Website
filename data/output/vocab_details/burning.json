@@ -1,0 +1,23 @@
+{
+  "lemma": "burning",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Given the harm caused by the burning of medical waste, physicians and nurses have the responsibility to take a lead in reducing the use of plastics in the hospitals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/burning_ex_0_52fa4b8c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "燃燒的，發熱的，或正在燃燒的狀態。",
+    "en_def": "The act of consuming something by fire or the state of being on fire.",
+    "example": "The burning candle lit up the dark room."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "charge",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then they wanted to put him in jail and charged him with violation of law for climbing the building without a permit.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/charge_ex_0_1f12358f.mp3"
+      },
+      {
+        "text": "The restaurant has a _____ charge of NT$250 per person.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/charge_ex_1_511bc33a.mp3"
+      },
+      {
+        "text": "Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/charge_ex_2_3b8a0650.mp3"
+      },
+      {
+        "text": "Since Michael was the best candidate, the committee voted for him to take charge of the company’s sales department.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/charge_ex_3_ae550734.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指控或責任，也可指電荷或費用。",
+    "en_def": "To demand a price or fee for a service or to accuse someone of a crime.",
+    "example": "The store will charge you for the bag if you forget to bring your own."
+  },
+  "sentences_removed": 0
+}

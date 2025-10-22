@@ -1,0 +1,29 @@
+{
+  "lemma": "continent",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The heart of this continent is the Amazon Rainforest, a vast paradise watered by one of the world’s greatest rivers.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/continent_ex_0_89907cac.mp3"
+      },
+      {
+        "text": "About 200 million years ago this super-continent broke up into two continents: Laurasia and Gondwana.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/continent_ex_1_f0a0aa7f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大陸；地球上最大的陸地區域，通常被海洋分隔。",
+    "en_def": "A continent is one of the Earth's main continuous expanses of land, typically separated by oceans.",
+    "example": "Africa is the second-largest continent in the world."
+  },
+  "sentences_removed": 0
+}

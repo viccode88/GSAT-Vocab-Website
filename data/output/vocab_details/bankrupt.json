@@ -1,0 +1,28 @@
+{
+  "lemma": "bankrupt",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His wealthy family went bankrupt and became poor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/bankrupt_ex_0_619ea499.mp3"
+      },
+      {
+        "text": "(F) … she had gone bankrupt.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/bankrupt_ex_1_9a275879.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "破產的，無法償還債務的。",
+    "en_def": "Unable to pay debts; declared legally insolvent.",
+    "example": "After several poor business decisions, the company went bankrupt."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "strap",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 6,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It consists of a piece of rubber, plastic, leather, or woven material in the outline of a foot, with a strap holding the sandal to a wearer’s toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/strap_ex_0_87975ccf.mp3"
+      },
+      {
+        "text": "This is certainly good news for cash-strapped students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/strap_ex_1_9a7a0e73.mp3"
+      },
+      {
+        "text": "The straps on the heel and toe control the length of the shoe, 25 the two on either side allow for different widths.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/strap_ex_2_f24eaf7a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What does the word “cash-strapped” in the second paragraph mean? (A) Making a lot of money.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the Greek version, the toe strap ran between the first and second toes, while Roman sandals had the strap between the second and third toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Mesopotamians wore the strap between the third and fourth toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "帶子；繩子，通常用於固定或攜帶物品。",
+    "en_def": "A strip of material used to fasten, secure, or carry something.",
+    "example": "She used a strap to hold her bag tightly."
+  },
+  "sentences_removed": 0
+}

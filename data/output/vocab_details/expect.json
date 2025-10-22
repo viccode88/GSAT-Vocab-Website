@@ -1,0 +1,104 @@
+{
+  "lemma": "expect",
+  "count": 19,
+  "pos_dist": {
+    "VERB": 19
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“You expect us to play seven days a week for 40 five rupees!”",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/expect_ex_0_c5fd9423.mp3"
+      },
+      {
+        "text": "When do you expect him back?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/expect_ex_1_691bd303.mp3"
+      },
+      {
+        "text": "Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/expect_ex_2_a5fc4098.mp3"
+      },
+      {
+        "text": "The EPA estimates that the average levels of dioxin in all Americans are so high that we can expect to see a variety of health effects, including cancer.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/expect_ex_3_cd6c8e82.mp3"
+      },
+      {
+        "text": "Salesmen expect digital cameras to be popular gifts this holiday season.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/expect_ex_4_04368577.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "How did the volunteers learn to expect different levels of heat?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But as the magic fades and daily life __(33)__, it happens that men, forgetting that men and women are supposed to be different, continue to expect women to think and react the way men do; women, __(34)__, expect men to feel and behave the way women do.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "We shall expect you at eight o’clock; , it’s an informal dinner.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "But don’t expect it to measure your pet’s IQ.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The researchers found that the parts of the brain involved in learning, memory, emotion, and touch became more active as the volunteers expected higher levels of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Business, however, was not 27 he had expected.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "An ______ person is usually pleasant and easy to get along with, but don’t expect that he or she will always say “yes” to everything.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "If you expect to have quick ________ of the goods, it is better to have them airmailed.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025. 39.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Interestingly, when the volunteers expected only mild or moderate pain but experienced severe pain, they reported feeling 28 percent less pain than when they expected severe pain and actually got it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "期待，預期某事會發生或某人會做某事。",
+    "en_def": "To regard something as likely to happen or to anticipate a certain outcome.",
+    "example": "I expect to receive my package by tomorrow."
+  },
+  "sentences_removed": 0
+}

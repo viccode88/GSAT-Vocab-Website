@@ -1,0 +1,23 @@
+{
+  "lemma": "brick",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bam was a city of mud-brick houses, old monuments and an ancient castle.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/brick_ex_0_dc410af9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於建築的硬質矩形材料，通常由粘土燒製而成。",
+    "en_def": "A hard rectangular building material typically made from fired clay.",
+    "example": "The wall was built using red bricks."
+  },
+  "sentences_removed": 0
+}

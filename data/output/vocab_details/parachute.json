@@ -1,0 +1,29 @@
+{
+  "lemma": "parachute",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A parachute needs to be opened because it can (A) slow down the shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/parachute_ex_0_3c18c4f1.mp3"
+      },
+      {
+        "text": "When the shuttle touches the land, a drag parachute opens to steady the aircraft, get the speed right, and help the brakes on the landing-gear wheels to bring it to a complete stop. 49.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/parachute_ex_1_0f55e8a7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "降落傘：一種用於減緩下降速度的裝置，通常由布料製成，當從高處跳下時展開以減少衝擊。",
+    "en_def": "A parachute is a device used to slow down a person's or object's descent from the air, typically made of fabric, which opens up to create drag.",
+    "example": "The skydiver deployed his parachute at 3,000 feet."
+  },
+  "sentences_removed": 0
+}

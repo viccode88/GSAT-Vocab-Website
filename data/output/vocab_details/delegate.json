@@ -1,0 +1,23 @@
+{
+  "lemma": "delegate",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was a U.S. delegate to the United Nations in 1958 and won the UN peace prize in 1977.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/delegate_ex_0_4e06b115.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "委託，將權力或責任轉交給他人。",
+    "en_def": "To assign responsibility or authority to another person.",
+    "example": "The manager decided to delegate some tasks to her team members."
+  },
+  "sentences_removed": 0
+}

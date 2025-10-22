@@ -1,0 +1,23 @@
+{
+  "lemma": "truthful",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Once the questions are finished, the examiner analyzes the results to determine if the person tested 24 truthful.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/truthful_ex_0_04396fd8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "誠實的；真實的",
+    "en_def": "Being honest and telling the truth.",
+    "example": "She is always truthful about her feelings."
+  },
+  "sentences_removed": 0
+}

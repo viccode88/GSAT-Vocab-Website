@@ -1,0 +1,23 @@
+{
+  "lemma": "influential",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/influential_ex_0_eece5146.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有影響力的，能夠改變或影響他人的事物或人。",
+    "en_def": "Having the power to cause changes or affect people or events.",
+    "example": "She is an influential leader in the community."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "adams",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/adams_ex_0_7cb33191.mp3"
+      },
+      {
+        "text": "Who initiated the construction of the White House? (A) John Adams.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/adams_ex_1_6e0cb95a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "亞當斯，通常指一個姓氏或特定的個人名，特別是在歷史或政治背景中。",
+    "en_def": "Adams, typically a surname or a specific personal name, especially in historical or political contexts.",
+    "example": "John Adams was the second President of the United States."
+  },
+  "sentences_removed": 0
+}

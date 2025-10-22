@@ -1,0 +1,23 @@
+{
+  "lemma": "penniless",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The general died young, leaving Alexander penniless.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/penniless_ex_0_40c6e151.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一文不名的，沒有錢的",
+    "en_def": "Having no money; broke.",
+    "example": "After losing his job, he found himself penniless and struggling to make ends meet."
+  },
+  "sentences_removed": 0
+}

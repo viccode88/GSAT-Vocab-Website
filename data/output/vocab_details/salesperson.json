@@ -1,0 +1,28 @@
+{
+  "lemma": "salesperson",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They may also pretend to be 14 customers, arguing with a salesperson without a good reason.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/salesperson_ex_0_de79cc1b.mp3"
+      },
+      {
+        "text": "Later children may make good salespersons because persuasion may have been the only tool they had to deal with older siblings.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/salesperson_ex_1_9e7c0fcc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "銷售人員，負責推銷產品或服務並與顧客互動的人。",
+    "en_def": "A person whose job is to sell products or services and interact with customers.",
+    "example": "The salesperson helped me find the perfect laptop for my needs."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "jackdaw",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/jackdaw_ex_0_9c50012a.mp3"
+      },
+      {
+        "text": "Jackdaws are birds in the crow family often Turtle ants often live in the cavities of dead found in the English countryside.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/jackdaw_ex_1_360d0a47.mp3"
+      },
+      {
+        "text": "Studies on jackdaws and turtle ants may provide some insights into the issue.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/jackdaw_ex_2_7d72011b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種中等大小的黑色鳥類，屬於烏鴉科，通常有灰色的頸部和胸部，常見於歐亞大陸。",
+    "en_def": "A medium-sized black bird belonging to the crow family, typically with a gray neck and chest, commonly found in Eurasia.",
+    "example": "The jackdaw perched on the fence, cawing loudly to attract attention."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "chief",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 4,
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/chief_ex_0_9e31f671.mp3"
+      },
+      {
+        "text": "Showing great talent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief illustrator by age 34.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/chief_ex_1_09e0b3a9.mp3"
+      },
+      {
+        "text": "Seeing this, Brahma, the chief god, decided to take their divinity away from them and hide it 22 it could never be found.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/chief_ex_2_ede4cf23.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Inside the homes of high-ranking chiefs is where house poles were found.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The company is _____ and making great profits under the wise leadership of the chief executive officer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They were erected in memory of a deceased chief or a high-ranking clan member.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "首領；主要的，最重要的",
+    "en_def": "The leader or head of a group; most important.",
+    "example": "The chief of the tribe made an important announcement."
+  },
+  "sentences_removed": 0
+}

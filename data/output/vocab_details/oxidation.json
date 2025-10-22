@@ -1,0 +1,23 @@
+{
+  "lemma": "oxidation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moisture and oxygen promote oxidation and therefore limit its shelf life.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/oxidation_ex_0_b5af70fc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "氧化是指物質與氧反應，導致其失去電子的過程。",
+    "en_def": "Oxidation is the process in which a substance reacts with oxygen, resulting in the loss of electrons.",
+    "example": "The oxidation of iron leads to the formation of rust."
+  },
+  "sentences_removed": 0
+}

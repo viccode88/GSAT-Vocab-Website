@@ -1,0 +1,23 @@
+{
+  "lemma": "nottingham",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most people credit the first traffic light to Nottingham engineer John Peake Knight.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/nottingham_ex_0_abd19300.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "英國英格蘭中部的一個城市，以其歷史和文化著稱。",
+    "en_def": "A city in central England known for its history and culture.",
+    "example": "Nottingham is famous for its association with the legend of Robin Hood."
+  },
+  "sentences_removed": 0
+}

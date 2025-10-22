@@ -1,0 +1,29 @@
+{
+  "lemma": "pharaoh",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pyramid housed the pharaoh’s body together with priceless treasure, which would accompany him into the next world.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pharaoh_ex_0_54dd4b40.mp3"
+      },
+      {
+        "text": "A magician named Dedi of Dedsnefu was reported to have performed for the pharaoh, or the king.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/pharaoh_ex_1_6afcc243.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "法老：古埃及的君主，通常被視為神的化身，擁有至高無上的權力。",
+    "en_def": "Pharaoh: The title of the ancient Egyptian monarch, often regarded as a god on earth with supreme power.",
+    "example": "The pharaoh built magnificent pyramids as tombs for himself."
+  },
+  "sentences_removed": 0
+}

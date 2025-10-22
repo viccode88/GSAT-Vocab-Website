@@ -1,0 +1,55 @@
+{
+  "lemma": "crash",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 6,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In this line of work, the person is paid to do daring actions that are deemed too 21 for the regular actor to perform, including jumping from heights, crashing cars, or fighting with weapons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/crash_ex_0_b53d8b2c.mp3"
+      },
+      {
+        "text": "People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/crash_ex_1_431ca077.mp3"
+      },
+      {
+        "text": "Ground stations have been built to monitor larger pieces of space trash to prevent them from crashing into working satellites or space shuttles.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/crash_ex_2_09378cf5.mp3"
+      },
+      {
+        "text": "Then, in about 30 minutes after the cutting began, the giant tree crashed down violently and shook the ground under our feet.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/crash_ex_3_cb7f794b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "More and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "By doing so, the they have to work together to explore alternative flock members are able to keep a safe distance routes many times before they finally settle on the between themselves, and thus avoid crashing into most efficient one.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "碰撞；崩潰；失敗",
+    "en_def": "A sudden collision or failure.",
+    "example": "The car crash caused a major traffic jam."
+  },
+  "sentences_removed": 0
+}

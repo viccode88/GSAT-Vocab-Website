@@ -1,0 +1,23 @@
+{
+  "lemma": "clarity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Its ideal material is pure, clean water with high clarity.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/clarity_ex_0_6c88d9e3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "清晰度；明確性",
+    "en_def": "The quality of being clear and easy to understand.",
+    "example": "The clarity of her explanation helped everyone understand the complex topic."
+  },
+  "sentences_removed": 0
+}

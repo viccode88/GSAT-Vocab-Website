@@ -1,0 +1,74 @@
+{
+  "lemma": "athlete",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, the Paralympics are sports events for athletes from six different disability groups.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/athlete_ex_0_b873490e.mp3"
+      },
+      {
+        "text": "Many athletes and VIPs demand payment for their signatures, and many people are willing to pay.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/athlete_ex_1_b01c2711.mp3"
+      },
+      {
+        "text": "Refugee athletes have been invited to compete in the Olympic Games since 2016.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/athlete_ex_2_80a88310.mp3"
+      },
+      {
+        "text": "While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/athlete_ex_3_405593e5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Another study looked at non-smoking 6 athletes who had smoking parents or friends.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The number of athletes 28 in the Summer Paralympic Games has increased from 400 athletes from 23 countries in 1960 to 3,806 athletes from 136 countries in 2004.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the closing ceremony of the Olympic Games, all the athletes ________ good-bye to the audience.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the past, the signatures of athletes and VIPs __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Being 7 cigarette smoke hurt the athletes' lungs, and made them 8 more than athletes who did not have smokers close 9 , the study said.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, many people now collect athletes’ and VIPs’ signatures __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Here are two refugee athletes and their stories.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "運動員：專門從事體育運動的人，通常參加比賽或訓練以提高體能和技能。",
+    "en_def": "Athlete: A person who is trained or skilled in sports, games, or exercises requiring physical strength, agility, or stamina.",
+    "example": "The athlete won a gold medal in the Olympics."
+  },
+  "sentences_removed": 0
+}

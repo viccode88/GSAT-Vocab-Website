@@ -1,0 +1,23 @@
+{
+  "lemma": "playwright",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is said that the playwright once sent Churchill two tickets for the opening night of one of his plays, together with a card, which said, “Bring a friend (if you have one).”",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/playwright_ex_0_262caf8a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "劇作家，專門創作戲劇的人。",
+    "en_def": "A person who writes plays.",
+    "example": "The playwright received an award for her latest production."
+  },
+  "sentences_removed": 0
+}

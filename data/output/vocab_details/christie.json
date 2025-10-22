@@ -1,0 +1,23 @@
+{
+  "lemma": "christie",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A 54-page manuscript written by Albert Einstein recently was sold for $398,500 at Christie’s in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/christie_ex_0_8b363132.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "克里斯蒂（Christie）是一個常見的英語姓氏，通常與著名的英國作家阿嘉莎·克里斯蒂（Agatha Christie）相關聯。",
+    "en_def": "Christie is a common English surname, often associated with the famous British author Agatha Christie.",
+    "example": "Agatha Christie is known for her detective novels."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "objective",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“You think she’s getting the best care in the world, but after a while you start to wonder: What is the objective?”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/objective_ex_0_303ead69.mp3"
+      },
+      {
+        "text": "The objective is to promote peace all over the world, and to 26 barriers between every nationality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/objective_ex_1_48709d89.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "目標；目的；客觀的",
+    "en_def": "A goal or aim; something that one strives to achieve; not influenced by personal feelings or opinions.",
+    "example": "Her objective is to complete the project by the end of the month."
+  },
+  "sentences_removed": 0
+}

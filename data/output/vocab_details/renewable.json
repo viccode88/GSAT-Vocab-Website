@@ -1,0 +1,28 @@
+{
+  "lemma": "renewable",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Matter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable 22 : human hair, of which there is an unlimited supply.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/renewable_ex_0_f7c59827.mp3"
+      },
+      {
+        "text": "Now scientists have come up with a new use for the bright green plant: producing renewable energy.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/renewable_ex_1_0cbf56d5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可再生的，指能夠自然補充或持續產生的資源，特別是能源。",
+    "en_def": "Capable of being renewed or replenished, especially referring to energy sources that are naturally replenished.",
+    "example": "Solar and wind energy are examples of renewable resources."
+  },
+  "sentences_removed": 0
+}

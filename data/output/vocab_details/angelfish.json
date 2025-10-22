@@ -1,0 +1,66 @@
+{
+  "lemma": "angelfish",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The birth of young angelfish.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/angelfish_ex_0_550966fd.mp3"
+      },
+      {
+        "text": "Angelfish live in groups, and each group has one male fish, which is blue in color, and four female fish, which are yellow.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/angelfish_ex_1_0782865c.mp3"
+      },
+      {
+        "text": "One particular kind of angelfish, the blackspot angelfish, has a special capability that allows it to change gender from female to male.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/angelfish_ex_2_ac01b84c.mp3"
+      },
+      {
+        "text": "What is the job of an angelfish in the sea? (A) Being a cleaner for other fish.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/angelfish_ex_3_31a74707.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following describes the order of changes in the features of a blackspot angelfish during gender change? (A) Size  behavior  color  stripes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the color of angelfish? (A) Female angelfish are blue in color.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The male angelfish is the strongest and largest member of the group.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another interesting fact about angelfish is that they have an occupation in the fish world.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what triggers the gender change in the blackspot angelfish? (A) Dangers to the group.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種色彩鮮豔的熱帶魚，通常生活在珊瑚礁中，屬於鯛科。",
+    "en_def": "A brightly colored tropical fish that typically inhabits coral reefs, belonging to the family Pomacanthidae.",
+    "example": "The angelfish swam gracefully among the coral, showcasing its vibrant colors."
+  },
+  "sentences_removed": 1
+}

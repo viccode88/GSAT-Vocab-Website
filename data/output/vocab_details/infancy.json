@@ -1,0 +1,23 @@
+{
+  "lemma": "infancy",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/infancy_ex_0_7194d5a5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "嬰兒期；幼年期，通常指從出生到一歲的時期。",
+    "en_def": "The period of early childhood, typically from birth to one year of age.",
+    "example": "During infancy, a baby develops crucial motor and sensory skills."
+  },
+  "sentences_removed": 0
+}

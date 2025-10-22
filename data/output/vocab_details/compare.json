@@ -1,0 +1,43 @@
+{
+  "lemma": "compare",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/compare_ex_0_676933e2.mp3"
+      },
+      {
+        "text": "A west-to-east journey, on the other hand, makes us late compared to the local time.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/compare_ex_1_f5657ff8.mp3"
+      },
+      {
+        "text": "According to some studies, how often do men interrupt as compared with women?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/compare_ex_2_c6d33809.mp3"
+      },
+      {
+        "text": "This eco-friendly leather has clear 24 for the environment, compared to real leather and synthetic leathers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/compare_ex_3_5ce551eb.mp3"
+      },
+      {
+        "text": "This can be clearly demonstrated by comparing the genes of chimpanzees and those of humans: the difference between them is just about 2 percent. .",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/compare_ex_4_68fab1e0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "比較；對比",
+    "en_def": "To examine the similarities and differences between two or more items.",
+    "example": "We need to compare the prices of these two products before making a decision."
+  },
+  "sentences_removed": 0
+}

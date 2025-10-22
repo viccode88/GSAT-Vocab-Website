@@ -1,0 +1,28 @@
+{
+  "lemma": "breaking",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/breaking_ex_0_1d805e1e.mp3"
+      },
+      {
+        "text": "With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/breaking_ex_1_5adbf5c5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "破壞或分開的行為或過程。",
+    "en_def": "The act or process of causing something to separate into pieces or to be damaged.",
+    "example": "The breaking of the glass made a loud noise."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "strike",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 10,
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "No one can possibly know _________ when an earthquake will strike.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/strike_ex_0_5c578d02.mp3"
+      },
+      {
+        "text": "They also struck them with sticks to roll them down the road.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/strike_ex_1_0a0b1b27.mp3"
+      },
+      {
+        "text": "An iron rod is used to strike the thicker glass hemispheres.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/strike_ex_2_652bd709.mp3"
+      },
+      {
+        "text": "Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/strike_ex_3_ff56ffcb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "But after strike four, Sullivan became 23 death and took precautions during lightning strikes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, 21 the probability of being struck seven different times.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over his 36-year career, Sullivan was struck by lightning seven times—and 22 each shock!",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "A storm cloud “chased” him until he was struck.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Strike five occurred in 1973 when Sullivan was on patrol.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Strikes one, two, and three were pure bad luck, he thought.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "罷工；打擊；撞擊",
+    "en_def": "To hit or impact forcefully; to stop work as a form of protest.",
+    "example": "The workers decided to strike for better wages."
+  },
+  "sentences_removed": 1
+}

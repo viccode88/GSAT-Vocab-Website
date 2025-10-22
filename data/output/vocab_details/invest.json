@@ -1,0 +1,28 @@
+{
+  "lemma": "invest",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With the worsening of global economic conditions, it seems wiser and more _____ to keep cash in the bank rather than to invest in the stock market.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/invest_ex_0_de2dd517.mp3"
+      },
+      {
+        "text": "In order for a new product to sell well, manufacturers often invest a large sum of money on its .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/invest_ex_1_1132fe36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "投資，將資金或資源投入某項事業以期獲得回報。",
+    "en_def": "To allocate money or resources into something with the expectation of generating a profit or achieving a return.",
+    "example": "She decided to invest in the stock market to grow her savings."
+  },
+  "sentences_removed": 0
+}

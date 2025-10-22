@@ -1,0 +1,43 @@
+{
+  "lemma": "contribute",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "No doubt his ability to listen contributed (28) his capacity to write.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/contribute_ex_0_22fffc30.mp3"
+      },
+      {
+        "text": "It contributes to global warming.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/contribute_ex_1_4c0ce26c.mp3"
+      },
+      {
+        "text": "Each and every dollar you contribute will go __(21)__",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/contribute_ex_2_604e6e31.mp3"
+      },
+      {
+        "text": "The last factor contributing to the 39 of coral reefs is people.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/contribute_ex_3_819c90f8.mp3"
+      },
+      {
+        "text": "After all, they can’t be treating cancer on the inside of hospitals and contributing to it on the outside. 52.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/contribute_ex_4_20a60e15.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "貢獻；捐助；提供幫助或資源。",
+    "en_def": "To give or supply something, typically for a common purpose or benefit.",
+    "example": "She decided to contribute her time to the local charity."
+  },
+  "sentences_removed": 1
+}

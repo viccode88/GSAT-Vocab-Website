@@ -1,0 +1,38 @@
+{
+  "lemma": "puppy",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "19 Happy Puppy is a relatively new service, we benefit from more than 20 years of experience in breeding and caring for dogs.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/puppy_ex_0_94415bee.mp3"
+      },
+      {
+        "text": "After a spa treatment at Happy Puppy, dogs come home 16 pampered and relaxed.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/puppy_ex_1_4f250bb5.mp3"
+      },
+      {
+        "text": "You can also bring your dog to Happy Puppy and wash it yourself.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/puppy_ex_2_1e6667f1.mp3"
+      },
+      {
+        "text": "At Happy Puppy, your dog can enjoy a half day of care and then be taken to the salon at naptime.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/puppy_ex_3_aa8e39d1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小狗，通常指年幼的狗。",
+    "en_def": "A young dog, especially one that is not yet fully grown.",
+    "example": "The puppy played happily in the garden."
+  },
+  "sentences_removed": 0
+}

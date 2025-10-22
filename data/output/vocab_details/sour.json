@@ -1,0 +1,17 @@
+{
+  "lemma": "sour",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "酸的，具有酸味的。",
+    "en_def": "Having a sharp taste or smell; acidic.",
+    "example": "The lemon is very sour."
+  },
+  "sentences_removed": 1
+}

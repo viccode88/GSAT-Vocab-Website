@@ -1,0 +1,38 @@
+{
+  "lemma": "landscape",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/landscape_ex_0_7e647dc2.mp3"
+      },
+      {
+        "text": "There was plenty of landscape for him to paint in America, much different from his hometown.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/landscape_ex_1_9aa42c9c.mp3"
+      },
+      {
+        "text": "For two weeks he filled his sketchbook with the landscape’s most stunning sights.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/landscape_ex_2_4fba6a7b.mp3"
+      },
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/landscape_ex_3_1b0ce33e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "風景；地形，特別是自然環境的外觀或特徵。",
+    "en_def": "The visible features of an area of land, often considered in terms of their aesthetic appeal.",
+    "example": "The landscape was breathtaking, with rolling hills and vibrant wildflowers."
+  },
+  "sentences_removed": 0
+}

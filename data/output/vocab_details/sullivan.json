@@ -1,0 +1,49 @@
+{
+  "lemma": "sullivan",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sullivan_ex_0_68c7fc4a.mp3"
+      },
+      {
+        "text": "Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sullivan_ex_1_ff56ffcb.mp3"
+      },
+      {
+        "text": "Strike five occurred in 1973 when Sullivan was on patrol.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/sullivan_ex_2_0d9f73d1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But after strike four, Sullivan became 23 death and took precautions during lightning strikes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Sullivan, while surveying a campground, felt that a cloud was 24 him, and tried all he could to run— but it got him anyway.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Over his 36-year career, Sullivan was struck by lightning seven times—and 22 each shock!",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "薩利文（Sullivan）是一個常見的姓氏，通常用於指代某個特定的人或家族。",
+    "en_def": "Sullivan is a common surname, often used to refer to a specific person or family.",
+    "example": "Sullivan is known for his contributions to the community."
+  },
+  "sentences_removed": 0
+}

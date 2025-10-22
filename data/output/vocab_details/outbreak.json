@@ -1,0 +1,28 @@
+{
+  "lemma": "outbreak",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The government issued a travel _____ for Taiwanese in response to the outbreak of civil war in Syria.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/outbreak_ex_0_30bd7230.mp3"
+      },
+      {
+        "text": "That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/outbreak_ex_1_203f0ccc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "突發，尤其是疾病或戰爭的突然發生。",
+    "en_def": "A sudden occurrence of something, typically a disease or conflict.",
+    "example": "The outbreak of the virus led to widespread health concerns."
+  },
+  "sentences_removed": 0
+}

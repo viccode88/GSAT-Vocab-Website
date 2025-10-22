@@ -1,0 +1,23 @@
+{
+  "lemma": "chili",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Specifically, you will learn to prepare __(23)__ delicious items as roasted chicken, chili, turkey loaf, turkey loaf, meatballs, pasta, among others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/chili_ex_0_f98299d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "辣椒，一種常用於烹飪的辛辣植物，通常用於調味或製作醬料。",
+    "en_def": "A chili is a spicy fruit of plants from the Capsicum genus, commonly used in cooking for flavoring or making sauces.",
+    "example": "I added some chili to the dish to give it an extra kick."
+  },
+  "sentences_removed": 0
+}

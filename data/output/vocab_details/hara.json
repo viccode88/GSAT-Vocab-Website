@@ -1,0 +1,23 @@
+{
+  "lemma": "hara",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In fact, this seems so common that the Japanese now have a term for it: bura- hara, meaning blood-type harassment.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/hara_ex_0_f89c7b08.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "腹部，特別是指身體的下部或腹腔。",
+    "en_def": "The abdomen, especially referring to the lower part of the body or the belly.",
+    "example": "He felt a sharp pain in his hara after eating too much."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,139 @@
+{
+  "lemma": "major",
+  "count": 24,
+  "pos_dist": {
+    "ADJ": 24
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the health food stores of major cities, it is now possible to buy tofu burgers and even tofu hot dogs.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/major_ex_0_4cae9267.mp3"
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/major_ex_1_b5139e33.mp3"
+      },
+      {
+        "text": "A major breakthrough was the yellow light invented by a Detroit police officer William Potts.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/major_ex_2_216db7c4.mp3"
+      },
+      {
+        "text": "These tropical glaciers serve as a major source of water supply to one-sixth of the world’s population.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/major_ex_3_932add02.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They were trying to settle details of an important new plant site for a major client.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The major chemical characteristics of seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "A number of major industries and more than twenty leading colleges 40 .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "First, scarcity is a major determinant.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "I’m not sure exactly how much scholarship you’ll receive, but it will _____ cover your major expenses.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Exciting or challenging events __(39)__ the birth of a child, completion of a major project at work, or moving to a new city generate __(40)__ much stress as does tragedy or disaster.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major finding of Dr. Begall’s study? (A) Cattle point north-south.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One major advantage of the soybean as a food source is that __________.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major message the author is trying to convey to readers? (A) All people, especially those working in the hospitals, should reduce the use of plastics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rubber thus replaced rice straw as the major material for the flip-flop.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An international company requires a A major US corporation in the health and nutritional Service Technician industry has announced the opening of its direct selling To service and maintain electronic medical equipment division in Taiwan.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What reason do the major museums provide for not handing back the ancient objects?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The ancient civilizations would not be so deeply admired today if these ancient artifacts were not so widely available to an international public in major museums throughout Europe and America.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The major problem with the space trash is that it may hit working satellites and damage traveling spacecraft.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "主要的，重要的，或大規模的",
+    "en_def": "Significant in size, extent, or importance.",
+    "example": "She decided to major in biology at university."
+  },
+  "sentences_removed": 0
+}

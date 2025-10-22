@@ -1,0 +1,23 @@
+{
+  "lemma": "inboard",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The father-and-son team started the inboard engine.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/inboard_ex_0_369a4db3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在船內或飛機內部的，通常指設備或設施。",
+    "en_def": "Located within the interior of a vehicle, such as a ship or aircraft, often referring to equipment or facilities.",
+    "example": "The inboard engine provides better stability for the boat."
+  },
+  "sentences_removed": 0
+}

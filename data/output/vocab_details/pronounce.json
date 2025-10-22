@@ -1,0 +1,28 @@
+{
+  "lemma": "pronounce",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Early this past summer the three whales were pronounced fit enough to be returned to the Atlantic Ocean.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pronounce_ex_0_03362a1d.mp3"
+      },
+      {
+        "text": "He wanted to record how they pronounced numbers.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pronounce_ex_1_cae00b60.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發音；用聲音表達語言或詞語的方式。",
+    "en_def": "To articulate or produce the sounds of speech; to say a word or phrase aloud.",
+    "example": "Can you pronounce this word for me?"
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "fate",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/fate_ex_0_4d050342.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "命運；宿命",
+    "en_def": "The development of events beyond a person's control, regarded as determined by a supernatural power.",
+    "example": "She believed that it was fate that brought them together."
+  },
+  "sentences_removed": 0
+}

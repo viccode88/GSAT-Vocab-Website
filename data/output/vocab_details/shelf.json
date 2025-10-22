@@ -1,0 +1,38 @@
+{
+  "lemma": "shelf",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his and fell to the ground.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/shelf_ex_0_8093a390.mp3"
+      },
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shelf_ex_1_d15fcfb3.mp3"
+      },
+      {
+        "text": "Moisture and oxygen promote oxidation and therefore limit its shelf life.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/shelf_ex_2_b5af70fc.mp3"
+      },
+      {
+        "text": "Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/shelf_ex_3_8ade67d3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "架子，通常用來放置物品的平面結構。",
+    "en_def": "A flat, horizontal surface used for storing or displaying items.",
+    "example": "She placed the books on the shelf."
+  },
+  "sentences_removed": 0
+}

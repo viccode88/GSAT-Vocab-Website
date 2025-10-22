@@ -1,0 +1,23 @@
+{
+  "lemma": "ace",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Your dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ace_ex_0_98f1cee9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種撲克牌中的牌，通常代表數字1，或在某些遊戲中代表最高點數的牌。",
+    "en_def": "A playing card with a single symbol, typically representing the number one or the highest value in some games.",
+    "example": "She played an ace to win the round."
+  },
+  "sentences_removed": 0
+}

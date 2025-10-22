@@ -1,0 +1,23 @@
+{
+  "lemma": "greening",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The greening of airports is just one of these attempts.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/greening_ex_0_9ea66b90.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使變綠，特別是通過植樹或其他環保措施來改善環境。",
+    "en_def": "The process of making something greener, especially through planting trees or implementing environmentally friendly practices.",
+    "example": "The city is focusing on greening its urban areas by adding more parks and green spaces."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "aboard",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, when he was cruelly abused for not They saved everyone aboard.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/aboard_ex_0_7bc17c87.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在船上或飛機上",
+    "en_def": "On or in a vehicle, especially a ship or aircraft.",
+    "example": "We boarded the plane and settled into our seats."
+  },
+  "sentences_removed": 0
+}

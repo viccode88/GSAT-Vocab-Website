@@ -1,0 +1,23 @@
+{
+  "lemma": "valentine",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/valentine_ex_0_6428e6e2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "情人，特別是指情人節時的愛人或伴侶。",
+    "en_def": "A person with whom one has a romantic relationship, especially on Valentine's Day.",
+    "example": "She received a beautiful gift from her valentine on February 14th."
+  },
+  "sentences_removed": 0
+}

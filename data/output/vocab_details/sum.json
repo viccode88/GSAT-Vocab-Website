@@ -1,0 +1,34 @@
+{
+  "lemma": "sum",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I am curious about how John came by such a large sum of money.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sum_ex_0_8e79b41b.mp3"
+      },
+      {
+        "text": "I like the anonymous verse which sums it all up:",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sum_ex_1_1247ce32.mp3"
+      },
+      {
+        "text": "In order for a new product to sell well, manufacturers often invest a large sum of money on its .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sum_ex_2_1132fe36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "總和；合計",
+    "en_def": "The total amount resulting from the addition of two or more numbers.",
+    "example": "The sum of 5 and 7 is 12."
+  },
+  "sentences_removed": 0
+}

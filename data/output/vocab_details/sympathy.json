@@ -1,0 +1,23 @@
+{
+  "lemma": "sympathy",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most people probably don’t feel sympathy for these endangered creatures, but they do need protecting.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sympathy_ex_0_128aa4f7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "同情；對他人感受的理解和關心。",
+    "en_def": "A feeling of pity or sorrow for someone else's misfortune.",
+    "example": "She expressed her sympathy for the victims of the disaster."
+  },
+  "sentences_removed": 0
+}

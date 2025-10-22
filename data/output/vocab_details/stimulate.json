@@ -1,0 +1,33 @@
+{
+  "lemma": "stimulate",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Tea is enjoyed worldwide as a refreshing and stimulating drink.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/stimulate_ex_0_462780d1.mp3"
+      },
+      {
+        "text": "Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water 25 .",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/stimulate_ex_1_d36a63e3.mp3"
+      },
+      {
+        "text": "It is believed that taking breaks from a problem can help 17 a moment of insight or stimulate new ideas.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/stimulate_ex_2_17ca55f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "刺激，促進，激發",
+    "en_def": "To encourage or provoke a response or activity.",
+    "example": "The teacher used games to stimulate the students' interest in learning."
+  },
+  "sentences_removed": 0
+}

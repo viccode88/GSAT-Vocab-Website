@@ -1,0 +1,23 @@
+{
+  "lemma": "mating",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is the best title for the article? (A) Mating of Flashlight Fish and Fireflies.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/mating_ex_0_87acf125.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "交配；動物或植物繁殖的過程。",
+    "en_def": "The process of pairing for reproduction, typically involving the union of male and female organisms.",
+    "example": "The birds are mating in the spring to raise their young."
+  },
+  "sentences_removed": 0
+}

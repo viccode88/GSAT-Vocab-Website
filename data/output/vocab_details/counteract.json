@@ -1,0 +1,23 @@
+{
+  "lemma": "counteract",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Overall, most people simply aren’t exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/counteract_ex_0_c7c07edc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "抵消；對抗",
+    "en_def": "To act against something in order to reduce its force or neutralize it.",
+    "example": "The medication was designed to counteract the effects of the poison."
+  },
+  "sentences_removed": 0
+}

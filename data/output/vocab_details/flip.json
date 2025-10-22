@@ -1,0 +1,64 @@
+{
+  "lemma": "flip",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Rubber thus replaced rice straw as the major material for the flip-flop.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/flip_ex_0_5f7b29e7.mp3"
+      },
+      {
+        "text": "The earliest record of people wearing the flip-flop comes from Egypt, but many ancient cultures had their own variants of the footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/flip_ex_1_fdd92686.mp3"
+      },
+      {
+        "text": "In the 1950s, flip-flops became popular in the United States as soldiers returning from occupied Japan brought zōris home.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/flip_ex_2_2283fc39.mp3"
+      },
+      {
+        "text": "Modern flip-flops derive from Japanese zōris, which were often worn with socks dividing the big toe from the rest, and were typically made of rice straw.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/flip_ex_3_2fe2a257.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following is true about the modern development of the flip-flop? (A) Modern flip-flops originated from Indian toe knob sandals.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a concern of wearing the flip-flop?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Despite their popularity, flip-flops provoke some questions.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why is the footwear discussed in the passage called “flip-flop”?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The sandals American soldiers brought home from Japan later became modern flip-flops.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "翻轉；翻動",
+    "en_def": "To turn over or cause to turn over quickly.",
+    "example": "She decided to flip the pancake to cook the other side."
+  },
+  "sentences_removed": 1
+}

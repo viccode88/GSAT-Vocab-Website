@@ -1,0 +1,28 @@
+{
+  "lemma": "seville",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The tower is built to celebrate the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/seville_ex_0_0c248dc5.mp3"
+      },
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/seville_ex_1_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "西班牙南部的一座城市，以其橙樹和歷史悠久的建築而聞名。",
+    "en_def": "A city in southern Spain known for its orange trees and historic architecture.",
+    "example": "Seville is famous for its beautiful architecture and vibrant culture."
+  },
+  "sentences_removed": 0
+}

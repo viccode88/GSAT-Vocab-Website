@@ -1,0 +1,23 @@
+{
+  "lemma": "welfare",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I was taking a walk in the park… E.…have carried out many welfare programs.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/welfare_ex_0_d0f64d00.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "福利，指政府或社會提供的幫助和支持，以改善人們的生活條件。",
+    "en_def": "Welfare refers to the assistance and support provided by the government or society to improve people's living conditions.",
+    "example": "The government increased welfare benefits to help families in need."
+  },
+  "sentences_removed": 0
+}

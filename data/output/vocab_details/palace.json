@@ -1,0 +1,23 @@
+{
+  "lemma": "palace",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At various times in history, the White House has been known as the “President’s Palace,” the “President’s House,” and the “Executive Mansion.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/palace_ex_0_d14f5bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "宮殿，通常是君主或高級官員的居住地，具有豪華的建築和裝飾。",
+    "en_def": "A large and impressive building, typically the official residence of a sovereign, bishop, or other high-ranking person.",
+    "example": "The king invited his guests to a grand feast in the palace."
+  },
+  "sentences_removed": 0
+}

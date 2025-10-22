@@ -1,0 +1,59 @@
+{
+  "lemma": "dollar",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, 23 a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/dollar_ex_0_2966432b.mp3"
+      },
+      {
+        "text": "The name of this hotel is the Capsule Inn; its rooms rent for eleven dollars a night.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dollar_ex_1_dbc49b43.mp3"
+      },
+      {
+        "text": "Each and every dollar you contribute will go __(21)__",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/dollar_ex_2_604e6e31.mp3"
+      },
+      {
+        "text": "Today, apples are 30 eaten the world over and form the basis for multi-million dollar industries.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/dollar_ex_3_e044657c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Furthermore, the city also planned to sue him for a quarter of a million dollars.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "She also won millions of dollars in the races.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "美元，一種貨幣單位，通常用於美國及其他一些國家。",
+    "en_def": "A dollar is a unit of currency used in the United States and other countries.",
+    "example": "I need to exchange my euros for dollars before my trip to the U.S."
+  },
+  "sentences_removed": 0
+}

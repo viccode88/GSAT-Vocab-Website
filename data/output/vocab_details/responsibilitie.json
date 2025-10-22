@@ -1,0 +1,23 @@
+{
+  "lemma": "responsibilitie",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They may fill out an agreement spelling out who shoulders which responsibilities if a problem arises.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/responsibilitie_ex_0_60b3fbd6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "責任，指應該承擔的義務或負擔。",
+    "en_def": "Duties or obligations that one is responsible for.",
+    "example": "It is my responsibility to complete the project on time."
+  },
+  "sentences_removed": 0
+}

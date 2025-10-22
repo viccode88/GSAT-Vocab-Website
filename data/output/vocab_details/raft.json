@@ -1,0 +1,23 @@
+{
+  "lemma": "raft",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Visitors can go rafting down the Rogue River 32 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/raft_ex_0_a484e77d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於水上漂浮的簡易船隻，通常由木材或其他浮力材料製成。",
+    "en_def": "A simple boat made of logs or other buoyant materials, used for floating on water.",
+    "example": "We built a raft to cross the river."
+  },
+  "sentences_removed": 0
+}

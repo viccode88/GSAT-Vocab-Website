@@ -1,0 +1,44 @@
+{
+  "lemma": "address",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most courses address artificial intelligence.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/address_ex_0_a4371d6e.mp3"
+      },
+      {
+        "text": "Perhaps there is an inadequate or illegible address and there is no return address.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/address_ex_1_8756c1fb.mp3"
+      },
+      {
+        "text": "The speaker was Robot Redford, a robot who delivered the commencement address at a community college in suburban Maryland.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/address_ex_2_e5d8f014.mp3"
+      },
+      {
+        "text": "Despite his busy schedule, the President ______ the school’s graduation ceremony with his presence and a heartwarming speech. (A) praised (B) graced (C) addressed (D) credited 10.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/address_ex_3_4726b23c.mp3"
+      },
+      {
+        "text": "It was not until Grover Cleveland’s first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/address_ex_4_48f81fce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地址；演講；處理（問題或情況）",
+    "en_def": "A location where someone lives or an organization is situated; to speak to a group or to deal with a matter.",
+    "example": "Please send the package to my new address."
+  },
+  "sentences_removed": 1
+}

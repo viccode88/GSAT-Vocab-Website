@@ -1,0 +1,28 @@
+{
+  "lemma": "satisfaction",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It does not matter if the agreement would hold up in court, but it does give the exchangers a little satisfaction.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/satisfaction_ex_0_96d60d74.mp3"
+      },
+      {
+        "text": "Both 36 know their own drawbacks and limitations very well; therefore, they jointly decide to have one last race—not to decide who the winner or loser is, but just for their own pleasure and satisfaction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/satisfaction_ex_1_537e22ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滿足感；對某事的滿意或愉悅的感覺。",
+    "en_def": "The feeling of pleasure or contentment that comes from achieving something or having one's needs met.",
+    "example": "She felt a deep sense of satisfaction after completing the project."
+  },
+  "sentences_removed": 1
+}

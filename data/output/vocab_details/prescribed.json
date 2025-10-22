@@ -1,0 +1,23 @@
+{
+  "lemma": "prescribed",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What does the word rescued in the second paragraph mean? (A) recovered (B) prescribed (C) examined (D) discovered 45.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/prescribed_ex_0_3e104f4d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "規定的，指定的；醫生開處方的",
+    "en_def": "Ordered or recommended by a doctor or authority.",
+    "example": "The doctor prescribed medication to help with her symptoms."
+  },
+  "sentences_removed": 0
+}

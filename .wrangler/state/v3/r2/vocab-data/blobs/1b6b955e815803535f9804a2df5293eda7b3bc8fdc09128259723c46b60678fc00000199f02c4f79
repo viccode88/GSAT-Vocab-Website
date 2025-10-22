@@ -1,0 +1,35 @@
+{
+  "lemma": "abuse",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": [
+    {
+      "text": "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.” (A) verbally (B) dominantly (C) legitimately (D)",
+      "source": "2025_114_02-114學測英文試題",
+      "audio_file": ""
+    },
+    {
+      "text": "all the newspaper and television attention, the problem of child abuse has become well-known.",
+      "source": "1997_86_86年學測英文科",
+      "audio_file": ""
+    },
+    {
+      "text": "Finally, when he was cruelly abused for not They saved everyone aboard.",
+      "source": "2022_111_02-111學測英文試卷",
+      "audio_file": ""
+    },
+    {
+      "text": "However, they often took their divinity for granted and 21 abused it.",
+      "source": "2012_101_02-101學測英文試卷定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "虐待；濫用",
+    "en_def": "To treat someone or something with cruelty or violence, often regularly; to misuse something.",
+    "example": "The organization works to prevent child abuse in the community."
+  }
+}

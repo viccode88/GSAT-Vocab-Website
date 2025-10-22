@@ -1,0 +1,28 @@
+{
+  "lemma": "scribner",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Showing great talent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief illustrator by age 34.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/scribner_ex_0_09e0b3a9.mp3"
+      },
+      {
+        "text": "What can be inferred from the passage? (A) Scribner’s Monthly was a magazine promoting national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/scribner_ex_1_15fab31d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種出版商，專門出版文學作品和學術書籍。",
+    "en_def": "A publisher known for publishing literary works and scholarly books.",
+    "example": "Scribner has published many classic novels over the years."
+  },
+  "sentences_removed": 0
+}

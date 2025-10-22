@@ -1,0 +1,23 @@
+{
+  "lemma": "gaelic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The kilt can also be worn with a sporran, which is the Gaelic word for pouch or purse.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/gaelic_ex_0_c1035013.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "蓋爾語，主要在蘇格蘭和愛爾蘭使用的語言，屬於凱爾特語系。",
+    "en_def": "A Celtic language primarily spoken in Scotland and Ireland.",
+    "example": "She learned Gaelic to connect with her heritage."
+  },
+  "sentences_removed": 0
+}

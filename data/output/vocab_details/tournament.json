@@ -1,0 +1,23 @@
+{
+  "lemma": "tournament",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the keen competition of this international tennis tournament, she ________ won the championship.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/tournament_ex_0_01d95b5f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "比賽，通常是多個參賽者或團隊之間進行的競賽，通常有獎勵或榮譽。",
+    "en_def": "A competition involving multiple participants or teams, often with prizes or honors awarded.",
+    "example": "The chess tournament attracted players from all over the country."
+  },
+  "sentences_removed": 0
+}

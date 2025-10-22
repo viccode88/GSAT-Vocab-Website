@@ -1,0 +1,80 @@
+{
+  "lemma": "dognition",
+  "count": 12,
+  "pos_dist": {
+    "PROPN": 8,
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dognition helps people understand their dogs in ways that they have never been able to do.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dognition_ex_0_3c73ec8a.mp3"
+      },
+      {
+        "text": "For US $60, a recently-founded company called Dognition will help you learn more about your dog’s cognitive traits.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dognition_ex_1_88ce6b4b.mp3"
+      },
+      {
+        "text": "After you plunk your money down, Dognition’s website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dognition_ex_2_1618b96e.mp3"
+      },
+      {
+        "text": "Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dognition_ex_3_cf3b420b.mp3"
+      },
+      {
+        "text": "Dognition’s test measures a dog’s intellect in several aspects—from empathy to memory to reasoning skills.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dognition_ex_4_87b6343f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The theory behind the questionnaire used in the Dognition test.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of Dognition’s testing is to control a dog’s behavior.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The characteristics of the activities Dognition offers.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A dog’s intelligence can be ranked based on the score of a Dognition’s test.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The procedure for evaluating a dog’s intellect on Dognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The products one can get by paying a fee to Dognition.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That can give you something to brag about on Dognition’s Facebook page.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "對狗的行為和智力進行研究和理解的過程。",
+    "en_def": "The process of studying and understanding the behavior and intelligence of dogs.",
+    "example": "Dognition helps dog owners understand their pets' unique personalities."
+  },
+  "sentences_removed": 0
+}

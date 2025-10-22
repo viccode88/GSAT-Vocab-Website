@@ -1,0 +1,23 @@
+{
+  "lemma": "khaki",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today David wears casual clothes—khaki pants and a sports shirt—to the office.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/khaki_ex_0_710913a0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "卡其色，一種淡褐色，常用於軍服和休閒服裝。",
+    "en_def": "A light brown color, often used in military uniforms and casual clothing.",
+    "example": "He wore a khaki jacket to the outdoor event."
+  },
+  "sentences_removed": 0
+}

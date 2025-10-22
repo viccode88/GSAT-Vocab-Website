@@ -1,0 +1,28 @@
+{
+  "lemma": "hearing",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Doctors have repeatedly warned people of the serious effect of noise on their hearing.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hearing_ex_0_a0797f0d.mp3"
+      },
+      {
+        "text": "For example, girls are born with more sensitive hearing than boys, and the difference increases as kids grow up.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/hearing_ex_1_0b4f0eee.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聽覺；聽的能力或過程。",
+    "en_def": "The ability or process of perceiving sound.",
+    "example": "Her hearing is excellent, allowing her to detect even the faintest sounds."
+  },
+  "sentences_removed": 0
+}

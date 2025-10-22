@@ -1,0 +1,23 @@
+{
+  "lemma": "settler",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD).",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/settler_ex_0_ac3feafe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "移民；定居者，指在新地區定居的人，通常是為了開發或居住。",
+    "en_def": "A person who settles in a new region or colony, often for the purpose of developing or inhabiting it.",
+    "example": "The settlers established a new community in the fertile valley."
+  },
+  "sentences_removed": 0
+}

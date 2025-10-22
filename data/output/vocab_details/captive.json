@@ -1,0 +1,28 @@
+{
+  "lemma": "captive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their young captive 17 to be a mischievous boy.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/captive_ex_0_3bf8e8d6.mp3"
+      },
+      {
+        "text": "In fact, it is nearly impossible to release captive-bred animals.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/captive_ex_1_c868115c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "被囚禁的人或動物",
+    "en_def": "A person or animal that is confined or imprisoned.",
+    "example": "The zoo has a new captive that was rescued from the wild."
+  },
+  "sentences_removed": 0
+}

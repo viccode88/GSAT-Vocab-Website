@@ -1,0 +1,23 @@
+{
+  "lemma": "twinkle",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Continuous as the stars that shine And twinkle on the Milky Way, They stretched in never-ending line Along the margin of a bay:",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/twinkle_ex_0_e56bf8b9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "閃爍，發出微弱的光芒或閃光。",
+    "en_def": "To shine with a flickering or wavering light.",
+    "example": "The stars twinkle in the night sky."
+  },
+  "sentences_removed": 0
+}

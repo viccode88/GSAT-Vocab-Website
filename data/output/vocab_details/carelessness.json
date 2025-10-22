@@ -1,0 +1,23 @@
+{
+  "lemma": "carelessness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nevertheless, poor diet, stress, a bad working environment, and carelessness can 39 good health.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/carelessness_ex_0_205d98e6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不小心，疏忽大意的行為或狀態。",
+    "en_def": "The quality of being careless; lack of attention or concern.",
+    "example": "His carelessness led to several mistakes in the report."
+  },
+  "sentences_removed": 0
+}

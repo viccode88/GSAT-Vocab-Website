@@ -1,0 +1,24 @@
+{
+  "lemma": "helmet",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/helmet_ex_0_35a4c04b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "頭盔；用於保護頭部的裝備，通常在騎自行車、摩托車或進行某些運動時佩戴。",
+    "en_def": "A protective headgear worn to prevent injuries, commonly used in activities like cycling, motorcycling, or certain sports.",
+    "example": "He wore a helmet while riding his bicycle for safety."
+  },
+  "sentences_removed": 2
+}

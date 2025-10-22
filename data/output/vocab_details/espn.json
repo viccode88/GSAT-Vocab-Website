@@ -1,0 +1,23 @@
+{
+  "lemma": "espn",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is not ESPN, the all-sports cable network, or even MTV, which is famous for its music videos.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/espn_ex_0_b62b3ad9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美國一家專注於體育新聞、賽事轉播和體育相關內容的媒體公司。",
+    "en_def": "An American media company that focuses on sports news, event broadcasting, and sports-related content.",
+    "example": "I always watch ESPN to catch up on the latest sports highlights."
+  },
+  "sentences_removed": 0
+}

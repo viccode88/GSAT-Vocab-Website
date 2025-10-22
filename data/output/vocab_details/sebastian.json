@@ -1,0 +1,23 @@
+{
+  "lemma": "sebastian",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/sebastian_ex_0_603c75c4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "塞巴斯蒂安，一個常見的男性名字，源自希臘語，意為“受尊敬的”。",
+    "en_def": "Sebastian is a common male given name of Greek origin meaning 'venerable' or 'revered'.",
+    "example": "Sebastian is planning to travel to Europe next summer."
+  },
+  "sentences_removed": 0
+}

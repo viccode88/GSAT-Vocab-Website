@@ -1,0 +1,50 @@
+{
+  "lemma": "genetic",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 6,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But this story written 40 years ago __(27)__ predicted the arrival of a recent method of genetic engineering—cloning.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/genetic_ex_0_2d7c03a1.mp3"
+      },
+      {
+        "text": "Scientists agree that synesthesia has a genetic basis, because it frequently runs in families.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/genetic_ex_1_ea97f0ab.mp3"
+      },
+      {
+        "text": "Not all dimples are formed by a genetic defect, though; some may appear due to the 36 of excessive fat on the face.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/genetic_ex_2_15371eee.mp3"
+      },
+      {
+        "text": "Will the genetic copies of a human really have “one mind” as __(28)__ in this story?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/genetic_ex_3_f8ff8243.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Though often associated with beauty, most dimples are actually a genetic 33 caused by shortened facial muscles.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Cloning is the genetic process of producing copies of an individual.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "遺傳的；基因的",
+    "en_def": "Relating to genes or heredity.",
+    "example": "Genetic research has advanced our understanding of many diseases."
+  },
+  "sentences_removed": 1
+}

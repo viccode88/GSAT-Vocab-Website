@@ -1,0 +1,100 @@
+{
+  "lemma": "typhoon",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 14,
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One week after the typhoon, some bridges were finally opened and bus service _____ in the country’s most severely damaged areas.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/typhoon_ex_0_824c6169.mp3"
+      },
+      {
+        "text": "At the very beginning, only 33 names were used because at that time typhoons were named after girlfriends or wives of the experts on the committee.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/typhoon_ex_1_c10bcd75.mp3"
+      },
+      {
+        "text": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/typhoon_ex_2_bec3978e.mp3"
+      },
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/typhoon_ex_3_d15fcfb3.mp3"
+      },
+      {
+        "text": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural _____ in Taiwan in recent decades.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/typhoon_ex_4_8822a40b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What did Camake realize after the incident of Typhoon Morakot? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, the 14th typhoon in 2003 can be labeled either as Typhoon 0314 or Typhoon 200314.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the _____ rainfall of the season in the area.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Following the number-based convention, typhoons are coded with 31 types of numbers such as a 4-digit or a 6-digit code.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The list-based convention, on the other hand, is based on the list of typhoon names compiled in advance by a committee, and is more widely used.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In Asia, Western names were used until 2000 when the committee decided to use Asian names to 35 Asians’ awareness of typhoons.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a member country suffers great damage from a certain typhoon, it can 39 that the name of the typhoon be deleted from the list at the annual committee meeting.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The deletion of both names was due to the severe damage caused by the typhoons bearing the names.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The landslide after the typhoon signals that environmental protection our attention.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the typhoon, the basement has been filled with water.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "颱風：一種強烈的熱帶氣旋，通常在西北太平洋地區形成，伴隨著強風和暴雨。",
+    "en_def": "Typhoon: A powerful tropical cyclone that forms in the northwest Pacific Ocean, characterized by strong winds and heavy rain.",
+    "example": "The typhoon caused widespread damage across the coastal cities."
+  },
+  "sentences_removed": 1
+}

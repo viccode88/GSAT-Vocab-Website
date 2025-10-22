@@ -1,0 +1,28 @@
+{
+  "lemma": "persist",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "28 , the idea of Blue Monday persists.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/persist_ex_0_a2960621.mp3"
+      },
+      {
+        "text": "But eye contact which persists longer than that can make us nervous.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/persist_ex_1_8d72bffe.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "持續存在或繼續進行，尤其是在困難或挑戰中。",
+    "en_def": "To continue firmly or obstinately in a course of action despite difficulty or opposition.",
+    "example": "She decided to persist in her studies despite the challenges she faced."
+  },
+  "sentences_removed": 0
+}

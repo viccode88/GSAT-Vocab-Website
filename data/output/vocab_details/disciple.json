@@ -1,0 +1,44 @@
+{
+  "lemma": "disciple",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 3,
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Before the disciple could recover from the 39 of hearing the little pig speak in a human voice, it continued, “Don’t kill me.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disciple_ex_0_4b752a86.mp3"
+      },
+      {
+        "text": "The disciple said he would do whatever his guru asked him to do.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disciple_ex_1_bd400bdf.mp3"
+      },
+      {
+        "text": "The disciple felt sad to hear this, but he agreed to do as he was told.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disciple_ex_2_5d5bddab.mp3"
+      },
+      {
+        "text": "Then he called his favorite disciple and asked him, “What would you do to thank me for all you have received from me?”",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disciple_ex_3_54a7b93e.mp3"
+      },
+      {
+        "text": "Then the disciple 37 his knife and picked out the little pig with a mark on its brow.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disciple_ex_4_2da36e0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "弟子；追隨者，尤其是宗教或哲學的信徒。",
+    "en_def": "A person who follows the teachings of another, especially a religious or philosophical leader.",
+    "example": "She was a devoted disciple of the great philosopher."
+  },
+  "sentences_removed": 0
+}

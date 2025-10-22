@@ -1,0 +1,23 @@
+{
+  "lemma": "lasting",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Accordingly, anyone who wishes to love and be loved will want to establish lasting relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lasting_ex_0_19eedc8b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "持久的，持續的",
+    "en_def": "Continuing for a long time; enduring.",
+    "example": "Her lasting friendship with him was a source of comfort."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "online",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 7,
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/online_ex_0_dae48a76.mp3"
+      },
+      {
+        "text": "It offers an online test telling you about the brain behind the bark.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/online_ex_1_d5c2db0b.mp3"
+      },
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/online_ex_2_faad0f0d.mp3"
+      },
+      {
+        "text": "When Jeffery doesn’t feel like cooking, he often orders pizza online and has it ______ to his house.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/online_ex_3_05d98b18.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The online support groups. 48.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But trading online is gaining popularity these days, with several sites in bills operation, including HomeExchanges.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some critics worry that online students will miss out on the social aspects of college.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "在線的；互聯網上的",
+    "en_def": "Connected to or available through the internet.",
+    "example": "I prefer to shop online for convenience."
+  },
+  "sentences_removed": 2
+}

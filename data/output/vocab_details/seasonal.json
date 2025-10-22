@@ -1,0 +1,23 @@
+{
+  "lemma": "seasonal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/seasonal_ex_0_4a43bc2a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "季節性的，與季節有關的",
+    "en_def": "Relating to or occurring in a particular season.",
+    "example": "Many fruits are seasonal and only available at certain times of the year."
+  },
+  "sentences_removed": 0
+}

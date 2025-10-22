@@ -1,0 +1,23 @@
+{
+  "lemma": "review",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Concert reviews from the period mourned the fact that the armonica sounded wonderful—only when it could be heard.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/review_ex_0_e1807f97.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "檢查或評估某事物的過程，通常是為了提供意見或改進。",
+    "en_def": "The process of examining or evaluating something, often to provide feedback or improvement.",
+    "example": "I need to review my notes before the exam."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "nap",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Depending on your pet’s mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you’ve awakened it from a nap.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nap_ex_0_1afc690a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小睡；短暫的睡眠",
+    "en_def": "A short sleep, especially during the day.",
+    "example": "I like to take a nap after lunch."
+  },
+  "sentences_removed": 0
+}

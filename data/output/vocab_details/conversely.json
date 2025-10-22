@@ -1,0 +1,34 @@
+{
+  "lemma": "conversely",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nevertheless (B) Conversely (C) Consequently (D) Moreover 30.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/conversely_ex_0_d63e317e.mp3"
+      },
+      {
+        "text": "Conversely, worry can give a person an ulcer, high blood pressure, or even a heart attack.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/conversely_ex_1_8d68ab39.mp3"
+      },
+      {
+        "text": "Conversely, boys who appear to be inattentive in class may just be sitting too far away to hear the teacher.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/conversely_ex_2_38ae6c75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "相反地；反之",
+    "en_def": "In an opposite manner; on the other hand.",
+    "example": "She loves summer; conversely, her brother prefers winter."
+  },
+  "sentences_removed": 0
+}

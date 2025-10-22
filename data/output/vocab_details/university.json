@@ -1,0 +1,90 @@
+{
+  "lemma": "university",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 11,
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers at Vanderbilt University are particularly interested in zebrafish retina regeneration.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/university_ex_0_9c8945e6.mp3"
+      },
+      {
+        "text": "These courses are accepted and supported by more than 1,800 colleges and universities throughout the US.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/university_ex_1_3474715c.mp3"
+      },
+      {
+        "text": "Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/university_ex_2_ec6dc0c3.mp3"
+      },
+      {
+        "text": "The 70-year-old professor sued the university for age _____, because his teaching contract had not been renewed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/university_ex_3_53ba0de7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "MOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many courses are offered by famous universities.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Ohio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers at Purdue University recently concluded that a compound in green tea 17 the growth of cancer cells.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they’re free.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If student enrollment continues to drop, some programs at the university may be to reduce the operation costs.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today there are also setts for States and Provinces, schools and universities, and general patterns that anybody can wear.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The overreliance on professors from prestigious universities.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "高等教育機構，提供學位和專業課程的地方。",
+    "en_def": "An institution of higher education that offers degrees and professional courses.",
+    "example": "She plans to attend university to study biology."
+  },
+  "sentences_removed": 2
+}

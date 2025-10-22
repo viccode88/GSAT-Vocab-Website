@@ -1,0 +1,23 @@
+{
+  "lemma": "provoke",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Despite their popularity, flip-flops provoke some questions.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/provoke_ex_0_3e75d17f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "挑釁；激起",
+    "en_def": "To stimulate or incite someone to take action or feel a strong emotion.",
+    "example": "His comments were meant to provoke a reaction from the audience."
+  },
+  "sentences_removed": 0
+}

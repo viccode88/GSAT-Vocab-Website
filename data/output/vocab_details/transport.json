@@ -1,0 +1,35 @@
+{
+  "lemma": "transport",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 1,
+    "PROPN": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It won’t magically transport a student to school on time every day, but it just might make __25__ a little easier.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/transport_ex_0_d8c0893f.mp3"
+      },
+      {
+        "text": "not only good service but also convenient public transport.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/transport_ex_1_9ffee937.mp3"
+      },
+      {
+        "text": "According to Japan’s transport ministry, there were 613 cases of train services suspended or delayed for at least 30 minutes resulting from collisions with deer and other wild animals in 2016-17.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/transport_ex_2_ad23bcba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "運輸；運送",
+    "en_def": "The act of moving goods or people from one place to another.",
+    "example": "The company specializes in the transport of heavy machinery."
+  },
+  "sentences_removed": 0
+}

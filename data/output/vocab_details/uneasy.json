@@ -1,0 +1,23 @@
+{
+  "lemma": "uneasy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most people feel uneasy to have eye contact for over a few seconds.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/uneasy_ex_0_437da3a9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不安的；心神不寧的",
+    "en_def": "Feeling anxious or uncomfortable.",
+    "example": "She felt uneasy about the upcoming exam."
+  },
+  "sentences_removed": 0
+}

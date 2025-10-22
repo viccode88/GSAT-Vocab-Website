@@ -1,0 +1,17 @@
+{
+  "lemma": "seoul",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "首爾是韓國的首都和最大城市，位於韓國西北部，擁有豐富的歷史和文化。",
+    "en_def": "Seoul is the capital and largest city of South Korea, located in the northwest part of the country, known for its rich history and culture.",
+    "example": "Seoul is famous for its vibrant street food scene."
+  },
+  "sentences_removed": 1
+}

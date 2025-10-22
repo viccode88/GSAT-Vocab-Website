@@ -1,0 +1,49 @@
+{
+  "lemma": "disaster",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, Superman always arrives in the nick of time to prevent a disaster from happening, Peter Pan can fly at will to tease the bad guy Captain Hook, and Harry Potter has his magic power to take revenge on his uncle, aunt and cousin, who always ill-treat him. 44.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/disaster_ex_0_bee79606.mp3"
+      },
+      {
+        "text": "Exciting or challenging events __(39)__ the birth of a child, completion of a major project at work, or moving to a new city generate __(40)__ much stress as does tragedy or disaster.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/disaster_ex_1_3e2327cf.mp3"
+      },
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/disaster_ex_2_aa8f9bb4.mp3"
+      },
+      {
+        "text": "26 some six hundred years of architecture nearly untouched by natural disaster or war, the city retains much of its medieval appearance.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disaster_ex_3_9cca3c1c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But nearly everything crumbled in the disaster.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "A great disaster for the travelers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "災難；災害",
+    "en_def": "A sudden event that causes great damage or loss.",
+    "example": "The earthquake was a disaster that affected thousands of people."
+  },
+  "sentences_removed": 0
+}

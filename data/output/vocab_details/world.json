@@ -1,0 +1,635 @@
+{
+  "lemma": "world",
+  "count": 136,
+  "pos_dist": {
+    "NOUN": 118,
+    "PROPN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although nowadays it is successful, in the ancient world this approach probably did not cure many patients.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/world_ex_0_64ab47b2.mp3"
+      },
+      {
+        "text": "The pyramid housed the pharaoh’s body together with priceless treasure, which would accompany him into the next world.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/world_ex_1_54dd4b40.mp3"
+      },
+      {
+        "text": "Sometimes the real world can be a confusing place.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/world_ex_2_45af8ed0.mp3"
+      },
+      {
+        "text": "John: Yes, she travels all over the world.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/world_ex_3_db5fa145.mp3"
+      },
+      {
+        "text": "In March 1872, lawmakers officially made Yellowstone a national park, the world’s first.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/world_ex_4_465b0233.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The disappearance of traditional course materials. (B) The limited number of courses offered around the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "This international recognition highlights the importance of this area, not just to the United States and Canada, but to the entire world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is the first park funded by the whole world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Fireflies, small beetles that live in many warmer parts of the world, use light to attract a mate.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "There is no death; only a change of worlds—the author delivers these reassurances to readers in this book, based on the customs of the Plains Indians in America.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Almost a whole generation of children throughout the world is familiar with Sesame Street and the characters of The Muppet Show.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The heart of this continent is the Amazon Rainforest, a vast paradise watered by one of the world’s greatest rivers.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Magic is now entertainment for families all over the world.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since the 1970s, book towns like Hay- on-Wye 12 up all over the world.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Another interesting fact about angelfish is that they have an occupation in the fish world.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They have become one of the most dangerous places in the world.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They were named as a World Heritage Site in 1995.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Soon after that, adolescent girls around the world began wearing their underwear outside their clothes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Following increasing calls for the return of artistic objects that were removed decades or centuries ago, some of the world’s leading museums have signed a declaration that they will not hand back the ancient artifacts to their countries of origin.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There are thousands of reefs in the world; 33 , however, they are now in serious danger.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "(I) … I admired her most in the world.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This tells the retailers of the world that if you want to get into a mother’s 19 , you’ve got to win her daughter over first.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That is why, every once in a while, we like to escape into the world of fantasy—a place where things always go our way and there is always a happy ending.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Everything that happens in the world happens through relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Now, scientists from all over the world come to visit his 40 .",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "winning medals at the 2013 World Championships in Brazil, he decided to seek protection.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It is about 37 m tall, 20 it one of the tallest log structures in the world.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "All of us here think The International Institute of Not Doing Much is the best organization in the world.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War II, Japan seized much of Southeast Asia’s rubber.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "They gradually spread all over the world, and have remained popular ever since. 41.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since it is cheap to produce and rich in protein, and has many uses, the soybean could provide food to the world’s growing population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "18 , the practice spread throughout Europe and the rest of the world.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "This TV program will young viewers' understanding of the changing world.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The soybean provides food for the world’s growing population.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not immediately known whether the “Kawasaki” can be repaired on the fishing island of Penghu, or when the Vladimirs will be able to set off again and continue their around-the-world voyage.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "“There is nothing in this world that does not have a decisive moment,” he said.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The World Café was 15 created.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Now they will be famous for one more thing: the world’s first green airport.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "More than 30 million people all over the world have fallen in love with the characters, the story and the music.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Here is a sentence: “This design was adopted in later traffic light designs across the world.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The animals there no longer had __(29)__ with animals from other parts of the world.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To observe the outside world more clearly.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of following is the most popular tea around the world? (A) Green tea (B) Black tea (C) Oolong tea (D) European tea 47.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the peacock receives only scorn from the rest of the world.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At that time, China was the main supplier of tea to the world.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "It was carried on sailing ships around the world because it was found to help prevent scurvy, a disease that often 25 sailors on long voyages.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "George Willig reached the top of the World Trade Center in New York at (A) six thirty in the morning of May 26, 1977.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "How national parks around the world were established.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There is evidence of onions being used for culinary and medicinal purposes all over the ancient world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Only in the leading museums can the objects be fully appreciated by the world.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Yet, it has consistently yielded many of the world’s best distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then, World Hello Day—November 21st of every year— 27 observed by people in 180 countries.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People enter the world of fantasy for the following reasons EXCEPT that __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So in many parts of the world dolphins and fishermen are in __32__ for tuna.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, their demand is high because many people buy them to tell the world that they have money, 28 as conspicuous consumption in economics.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the Second World War, a great number of American soldiers were stationed in Europe.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Phones resembling the wind phone have since been built around the world.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 41.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, about 95 % of Australia’s mammals and 94 % of its frogs are found __(30)__ else in the world.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "First, I think we got this striving from our mother to make the world a better place.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War II, Norway was occupied by the Nazis.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We hope that there will be no war in the world and that all people live in peace and _____ with each other.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “the world” mean in “show the world to the world”? (A)",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "When we change our attitudes toward ourselves, the whole world changes.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "To support refugees and people facing crises around the world, the International Olympic Committee created the Refugee Olympic Team.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These tropical glaciers serve as a major source of water supply to one-sixth of the world’s population.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Members can access thousands of listings for apartments, villas, suburban homes and farms around the world.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When a person died, his or her soul was thought to travel to an underworld, where it 17 a series of judgments before it could progress to a better life in the next world.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But Dumas overcame poverty, the lack of formal education, and the hardship of racism to become one of the world’s most popular writers.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They need those well-known ancient objects to attract people from all over the world.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Nevertheless, passports were not generally required for international travel until the First World War.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In 2011, they were voted as one of the world’s top five performance groups by audiences of Japan Broadcasting Corporation’s Amazing Voice program.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "So he has little difficulty in adjusting himself to his role in family life and in the business world, and to his duties as a citizen.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, apples are 30 eaten the world over and form the basis for multi-million dollar industries.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO).",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "None of them had any idea they were about to create a social innovation that 11 rapidly around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The objective is to promote peace all over the world, and to 26 barriers between every nationality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Medvedev Vladimir, 43, and his son, Maxsine, 14, sailed from an unnamed eastern Russian seaport on August 18, to begin an ambitious around-the-world cruise.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "And in the real world there are not always happy endings.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War I. (C)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The world’s first ultra-accessible family fun park, Morgan’s Wonderland opened in the spring of 2010.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In the face of this tragedy, food and other supplies from around the world landed in the provincial capital of Kerman on Sunday.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The parrot was (21) , there was no other bird like him in the whole world.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then Australia __(28)__ from the rest of the world by vast oceans.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "It 16 that people in different parts of the world invented umbrellas at different times.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The soybean is healthful and has become popular in the western world.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Perhaps that is why in rural areas around the world the guitar has been a source of music for millions to enjoy.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To go around the world.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The apple is one of the world’s most cultivated fruit trees, 27 over 7,000 different kinds in existence.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The main reason is that these stories offer us chances to get away from this real, frustrating world and allow us to find some magical solutions to our problems.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Founded in 1992, with some 28,000 listings, this company itself as the world’s largest home exchange club, reporting that membership has increased 30% this year.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1932, the United States and Canadian governments renamed the parks the Waterton-Glacier International Peace Park, the world’s first.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The U.S. has one of the world’s highest standards of living.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming _____ in the 2008 Olympics.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In lucid dreams, however, we are completely immersed in the dream world.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Because so many people continue to drink the many varieties of tea, it will probably continue as the world’s most popular drink.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War II, he documented the everyday life of the Indian people.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "His photos told the world who was guilty of assassinating Gandhi. 52.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“You think she’s getting the best care in the world, but after a while you start to wonder: What is the objective?”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to 18 all sorts of relaxing activities, such as playing pinball and wandering about the campus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The “Cups and Balls” trick which he was particularly good at is still performed by magicians all over the world today.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Where will the world’s first green airport be built? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Though it was once known to the world for the 1994 tribal conflict that resulted in about one million deaths, Rwanda has 30 the mass killing.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "世界；地球及其上所有的生命和文化。",
+    "en_def": "The earth and all its inhabitants, societies, and cultures.",
+    "example": "She traveled around the world to experience different cultures."
+  },
+  "sentences_removed": 9
+}

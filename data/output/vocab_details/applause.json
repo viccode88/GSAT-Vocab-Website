@@ -1,0 +1,23 @@
+{
+  "lemma": "applause",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As the applause __________, the curtain on the stage dropped slowly.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/applause_ex_0_e2be623f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對表演或演講表示讚賞的掌聲或喝彩。",
+    "en_def": "The clapping of hands to show approval or praise, typically after a performance or speech.",
+    "example": "The audience erupted in applause after the stunning performance."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "mentally",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Judo helped Popole Misenga to be strong both physically and mentally, and gave him the courage to escape from the (B) of his coaches.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mentally_ex_0_051e8e2d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "心理上，精神上",
+    "en_def": "In a way that relates to the mind or mental processes.",
+    "example": "She is mentally prepared for the challenges ahead."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "street",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 14,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Almost a whole generation of children throughout the world is familiar with Sesame Street and the characters of The Muppet Show.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/street_ex_0_d9379152.mp3"
+      },
+      {
+        "text": "keep in mind the direction of the street.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/street_ex_1_ab8f6a5b.mp3"
+      },
+      {
+        "text": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/street_ex_2_cfff768e.mp3"
+      },
+      {
+        "text": "The answer is: not very thoroughly, 27 they are executives, specialized experts, or ordinary people in the street.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/street_ex_3_46b11874.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They stormed away and never played on the street again.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Another issue is the suitability of exposing feet on the street and places other than the beach.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Lost and scared, the little dog ______ along the streets, looking for its master.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "He would therefore give them 25 rupees each week to play in the street at night.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Concerned about the poor people he saw wandering near his shop, he made cookies and passed them out free on the streets.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "38 , I ran to the corner of the street but there was no sign of them.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "街道；供行人和車輛通行的公共道路。",
+    "en_def": "A public road in a city or town, typically with buildings on one or both sides.",
+    "example": "The children played soccer in the street."
+  },
+  "sentences_removed": 3
+}

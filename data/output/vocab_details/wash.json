@@ -1,0 +1,23 @@
+{
+  "lemma": "wash",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You can also bring your dog to Happy Puppy and wash it yourself.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/wash_ex_0_1e6667f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "洗，清潔物體或表面，通常使用水和肥皂或清潔劑。",
+    "en_def": "To clean something, typically with water and soap or detergent.",
+    "example": "I need to wash my hands before dinner."
+  },
+  "sentences_removed": 1
+}

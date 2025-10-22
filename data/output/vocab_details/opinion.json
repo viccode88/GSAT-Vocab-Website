@@ -1,0 +1,49 @@
+{
+  "lemma": "opinion",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/opinion_ex_0_e830ef29.mp3"
+      },
+      {
+        "text": "When people encounter a complex issue and form an opinion, how thoroughly have they 26 all the important factors involved before they make their decisions?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/opinion_ex_1_6ecaea80.mp3"
+      },
+      {
+        "text": "And 30 an opinion is formed, most of their thinking then is simply trying to find support for it.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/opinion_ex_2_67e80619.mp3"
+      },
+      {
+        "text": "What is the author’s opinion of an item that someone doesn’t need any longer? (A)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/opinion_ex_3_b91915b6.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is an opinion, but NOT a fact? (A) Humans and zebrafish have 70 percent of genes in common. (B) Zebrafish can quickly recover vision after damage to the retina.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/opinion_ex_4_7556ea91.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the author, the second example is intended to (A) express opinions about seashells.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "意見；看法",
+    "en_def": "A belief or judgment about something.",
+    "example": "Everyone is entitled to their own opinion."
+  },
+  "sentences_removed": 0
+}

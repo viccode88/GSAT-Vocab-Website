@@ -1,0 +1,65 @@
+{
+  "lemma": "tool",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some sculptures can be completed in as little as ten minutes if power tools are used.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tool_ex_0_636dad7e.mp3"
+      },
+      {
+        "text": "Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tool_ex_1_6f656728.mp3"
+      },
+      {
+        "text": "Then you’ll be well on your way to using physical activity as a tool to make you feel better every day.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/tool_ex_2_e07eac0f.mp3"
+      },
+      {
+        "text": "Understanding how pain works in the mind and brain could eventually give doctors tools for helping people cope with painful medical treatments.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/tool_ex_3_ad8c6cd8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Later children may make good salespersons because persuasion may have been the only tool they had to deal with older siblings.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Although the pin was an inexpensive tool and was easily 32 , it would leave holes in the paper.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The tools used for sculpting also affect when the task can be accomplished.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The appropriate tools are only available in some countries.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "用於執行特定任務的器具或設備。",
+    "en_def": "An instrument or device used to carry out a specific task.",
+    "example": "He used a tool to fix the broken chair."
+  },
+  "sentences_removed": 1
+}

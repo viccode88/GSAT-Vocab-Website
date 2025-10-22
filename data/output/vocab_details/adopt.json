@@ -1,0 +1,64 @@
+{
+  "lemma": "adopt",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 11th century, a Byzantine wife brought forks to Italy; however, they were not widely adopted there until the 16th century.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/adopt_ex_0_02c2b41c.mp3"
+      },
+      {
+        "text": "Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/adopt_ex_1_6d27f350.mp3"
+      },
+      {
+        "text": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m. (A) relative (B) severe (C) primitive (D) flexible 2.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/adopt_ex_2_4d86e1d9.mp3"
+      },
+      {
+        "text": "People may choose a name because they are strongly 38 a character in a book or a television series; they may also adopt names of famous people or their favorite actors and actresses.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/adopt_ex_3_98f0cb55.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Here is a sentence: “This design was adopted in later traffic light designs across the world.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee’s blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He can easily adopt an elegant for a camera shoot.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "採用；收養",
+    "en_def": "To take up and practice or use something; to take someone else's child into one's family and raise them as one's own.",
+    "example": "They decided to adopt a puppy from the shelter."
+  },
+  "sentences_removed": 1
+}

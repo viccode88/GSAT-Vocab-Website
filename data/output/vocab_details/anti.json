@@ -1,0 +1,28 @@
+{
+  "lemma": "anti",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Meanwhile, a powerful anti-alcohol movement started in the 19th century.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/anti_ex_0_23b0a903.mp3"
+      },
+      {
+        "text": "The secret power of green tea is its richness in a powerful anti-oxidant.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/anti_ex_1_9d1cb462.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "反對的；對抗的",
+    "en_def": "Opposed to or against something.",
+    "example": "She is anti-smoking and campaigns for healthier lifestyles."
+  },
+  "sentences_removed": 0
+}

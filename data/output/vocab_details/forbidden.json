@@ -1,0 +1,23 @@
+{
+  "lemma": "forbidden",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/forbidden_ex_0_7e5a97a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "被禁止的，不允許的。",
+    "en_def": "Not allowed; prohibited.",
+    "example": "The sign clearly stated that swimming is forbidden in this area."
+  },
+  "sentences_removed": 0
+}

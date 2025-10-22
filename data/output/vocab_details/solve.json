@@ -1,0 +1,49 @@
+{
+  "lemma": "solve",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To encourage classroom _____, the teacher divided the class into groups and asked them to solve a problem together with their partners.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/solve_ex_0_9c5711d9.mp3"
+      },
+      {
+        "text": "Although scientists have not been able to solve all the mysteries of this amazing organ, they have made some progress.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/solve_ex_1_4d57fb70.mp3"
+      },
+      {
+        "text": "Tell me all the truth, (D) I could not help you solve the problem.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/solve_ex_2_067002c9.mp3"
+      },
+      {
+        "text": "The speaker, carefully programmed, arrived on the stage under its own power and proceeded to tell the audience of 658 graduates, their families, and friends that they would have to learn to work with robots and technology to solve society’s problems.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/solve_ex_3_3d01548a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What device has NOT been used to solve the railway problem in Japan? (A) Flashing lights.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "解決問題或困難的過程或行為。",
+    "en_def": "To find an answer or solution to a problem or difficulty.",
+    "example": "We need to solve this issue before the deadline."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "medium",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Studies show that the unbiased media are in fact often deeply influenced by political ideology.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/medium_ex_0_b06e73a8.mp3"
+      },
+      {
+        "text": "Another factor that has had a great 37 on the choice of names is the spread of culture through the media.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/medium_ex_1_892d57a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "媒介；中間物；適中的",
+    "en_def": "A means of doing something; an intermediate or middle state.",
+    "example": "The artist used a variety of mediums to create her masterpiece."
+  },
+  "sentences_removed": 0
+}

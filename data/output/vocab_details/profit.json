@@ -1,0 +1,50 @@
+{
+  "lemma": "profit",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 4,
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The company is _____ and making great profits under the wise leadership of the chief executive officer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/profit_ex_0_c0fab664.mp3"
+      },
+      {
+        "text": "The profits of Prince Charles’s organic farm go to _____ to help the poor and the sick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/profit_ex_1_a04c43f3.mp3"
+      },
+      {
+        "text": "Rather it is PBS, Public Broadcasting System, a non-profit public broadcasting TV service.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/profit_ex_2_da4dada7.mp3"
+      },
+      {
+        "text": "They are shrinking in number because they make no profits.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/profit_ex_3_08d035e6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The non-profit organization has _____ $1 million over five years to finance the construction of the medical center.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Many teenagers make a lot of profits in the fashion market today.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "利潤，指收入超過成本的部分。",
+    "en_def": "The financial gain obtained when the revenue from sales exceeds the costs associated with producing and selling goods or services.",
+    "example": "The company reported a significant profit this quarter."
+  },
+  "sentences_removed": 0
+}

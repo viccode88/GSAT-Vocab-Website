@@ -1,0 +1,23 @@
+{
+  "lemma": "hidden",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But cattle may have another hidden talent in telling which way is north.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hidden_ex_0_160fe852.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "隱藏的，未被發現或看見的。",
+    "en_def": "Not visible or not easily noticed; concealed.",
+    "example": "The treasure was hidden beneath the old oak tree."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "sally",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On the basis of the letter, is the most likely relationship between Sally and Tom? (A) Mother and son.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sally_ex_0_fd6f0fa7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "撒莉，通常用作女性名字。",
+    "en_def": "A female given name.",
+    "example": "Sally loves to read books in her free time."
+  },
+  "sentences_removed": 1
+}

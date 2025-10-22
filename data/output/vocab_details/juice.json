@@ -1,0 +1,23 @@
+{
+  "lemma": "juice",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To make fresh lemonade, cut the lemon in half, _____ the juice into a bowl, and then add as much water and sugar as you like. (A) decrease (B) squeeze (C) freeze (D) cease 12.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/juice_ex_0_64b81f9f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "果汁；液體，通常由水果或蔬菜提取而成。",
+    "en_def": "A liquid extracted from fruits or vegetables.",
+    "example": "I like to drink orange juice for breakfast."
+  },
+  "sentences_removed": 0
+}

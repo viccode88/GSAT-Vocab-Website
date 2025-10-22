@@ -1,0 +1,39 @@
+{
+  "lemma": "asian",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": [
+    {
+      "text": "According to the passage, what materials have been used for making hoops? (A) reed, grapevine, bamboo, plastic (B) reed, grapevine, plastic, metal (C) reed, bamboo, plastic, animal skin (D) grapevine, plastic, metal, animal skin - 5 - 112年學測 請記得在答題卷簽名欄位以正楷簽全名 第 6 頁 英文考科 共 11 頁 第 39 至 42 題為題組 When you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.",
+      "source": "2023_112_02-112學測英文試卷",
+      "audio_file": ""
+    },
+    {
+      "text": "In Asia, Western names were used until 2000 when the committee decided to use Asian names to 35 Asians’ awareness of typhoons.",
+      "source": "2012_101_02-101學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "While adapting to western ways of living, many Asian immigrants in the US still try hard to _____",
+      "source": "2009_98_02-98學測英文試題定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "In the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant’s habitats and endangering their population.",
+      "source": "2023_112_02-112學測英文試卷",
+      "audio_file": ""
+    },
+    {
+      "text": "佔 3 2 分 ） 說明︰第41至56題，每題請分別根據各篇文章之文意選出最適當的一個選項，標示在 答案卡之「選擇題答案區」。每題答對得2分，答錯不倒扣。 41-44 為題組 Who is more stressed out—the Asian teenager or the American teenager?",
+      "source": "2006_95_95english",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "亞洲的；與亞洲有關的",
+    "en_def": "Relating to Asia or its peoples.",
+    "example": "She enjoys Asian cuisine, especially sushi and dim sum."
+  }
+}

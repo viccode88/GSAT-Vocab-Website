@@ -1,0 +1,39 @@
+{
+  "lemma": "characteristic",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What are the characteristics of Jeanie’s Kiddie Stool? (A) Permanent and foldable.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/characteristic_ex_0_8c637958.mp3"
+      },
+      {
+        "text": "The major chemical characteristics of seawater.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/characteristic_ex_1_c40e8f72.mp3"
+      },
+      {
+        "text": "The characteristics of the activities Dognition offers.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/characteristic_ex_2_915b5509.mp3"
+      },
+      {
+        "text": "Three main varieties of tea—Chinese, Assamese, and Cambodian—have distinct characteristics.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/characteristic_ex_3_05de4398.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "特徵；特性",
+    "en_def": "A distinguishing quality or feature of a person, thing, or group.",
+    "example": "Her kindness is one of her most admirable characteristics."
+  },
+  "sentences_removed": 1
+}

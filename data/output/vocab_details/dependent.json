@@ -1,0 +1,33 @@
+{
+  "lemma": "dependent",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Amazons are completely dependent on their slaves ____(29)___ their sharp jaws, so well suited for fighting, are useless in taking care of larvae or for digging.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/dependent_ex_0_228f259b.mp3"
+      },
+      {
+        "text": "Physically, Peter is well-built, yet , he is very weak and dependent.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dependent_ex_1_d4fc5a6f.mp3"
+      },
+      {
+        "text": "Today, all countries are involved in, and to varying degrees dependent on, trade with other countries.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/dependent_ex_2_15cfc0ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "依賴他人或事物的，無法獨立的。",
+    "en_def": "Relying on someone or something else; unable to exist or function independently.",
+    "example": "She is financially dependent on her parents while she finishes her studies."
+  },
+  "sentences_removed": 1
+}

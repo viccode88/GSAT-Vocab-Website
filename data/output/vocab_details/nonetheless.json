@@ -1,0 +1,23 @@
+{
+  "lemma": "nonetheless",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nonetheless, no culture 31 onions quite as much as the ancient Egyptians.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nonetheless_ex_0_2aa5bac7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "儘管如此，仍然",
+    "en_def": "In spite of that; nevertheless.",
+    "example": "It was raining; nonetheless, we decided to go for a hike."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,69 @@
+{
+  "lemma": "nowadays",
+  "count": 10,
+  "pos_dist": {
+    "ADV": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m. (A) relative (B) severe (C) primitive (D) flexible 2.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/nowadays_ex_0_4d86e1d9.mp3"
+      },
+      {
+        "text": "Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/nowadays_ex_1_270788ee.mp3"
+      },
+      {
+        "text": "Although nowadays it is successful, in the ancient world this approach probably did not cure many patients.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/nowadays_ex_2_64ab47b2.mp3"
+      },
+      {
+        "text": "However, the tradition of men wearing it has faded in recent times, so nowadays we see a lot more women than men wearing one.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/nowadays_ex_3_b790e90d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Nowadays, on April Fools’ Day, people often 19 to create elaborate hoaxes to fool others.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nowadays, it is performed in movies and music clips.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But nowadays, autographs (signatures) are big business.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Nowadays students can information from a variety of sources, such as computers, television, and compact discs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this article, digital cameras nowadays are used mainly by __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Nowadays health specialists 34 the idea of wellness for everybody.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "當今，現今，指當前的時代或時期。",
+    "en_def": "At the present time; in the current era.",
+    "example": "Nowadays, many people prefer to work from home."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,59 @@
+{
+  "lemma": "kitchen",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In an airtight glass bottle in a kitchen cupboard. (D) In an airproof bottle next to a well-lighted window. 52.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/kitchen_ex_0_4d8fa543.mp3"
+      },
+      {
+        "text": "With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/kitchen_ex_1_3013d976.mp3"
+      },
+      {
+        "text": "Around an old kitchen table, a young girl calls a family meeting to show her parents that they should earn more money so they can have nicer things.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/kitchen_ex_2_e95347a9.mp3"
+      },
+      {
+        "text": "One evening a guest in the dining hall felt that his potatoes were too thick and sent them back to the kitchen.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/kitchen_ex_3_34b701ad.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For, of course, the microphones were not connected to the tape-recorder in the middle of the room at all but to another one, which was turning happily away in the kitchen.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "First of all, you don’t have to send children out of the kitchen.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "廚房，通常用於烹飪和準備食物的房間或區域。",
+    "en_def": "A room or area where food is prepared and cooked.",
+    "example": "She loves to experiment with new recipes in her kitchen."
+  },
+  "sentences_removed": 2
+}

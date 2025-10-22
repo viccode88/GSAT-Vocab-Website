@@ -1,0 +1,23 @@
+{
+  "lemma": "realism",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, CGI has difficulties of its own, and there will always be a demand for the realism and thrilling 30 of an actual stunt.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/realism_ex_0_7115f989.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "現實主義；對現實的真實描繪或理解。",
+    "en_def": "A literary and artistic movement that aims to represent subjects as they are in everyday life, without idealization.",
+    "example": "The novel's realism allows readers to connect with the characters on a deeper level."
+  },
+  "sentences_removed": 0
+}

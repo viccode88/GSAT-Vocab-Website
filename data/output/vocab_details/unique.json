@@ -1,0 +1,64 @@
+{
+  "lemma": "unique",
+  "count": 13,
+  "pos_dist": {
+    "ADJ": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Carved from large, straight trees and painted vibrant colors, the totem poles are not just unique works of art.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unique_ex_0_dc9b5090.mp3"
+      },
+      {
+        "text": "But what is unique about this shoe is where it was found.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/unique_ex_1_3620d324.mp3"
+      },
+      {
+        "text": "Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/unique_ex_2_3716709a.mp3"
+      },
+      {
+        "text": "(F) They show behavior governed by a unique system of communication.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/unique_ex_3_9189d2d7.mp3"
+      },
+      {
+        "text": "Each country has its unique naming preferences.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unique_ex_4_17750f92.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "While offering budget-conscious travelers a unique option, capsule hotels may not be suitable for everyone.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Their unique style, as remarked by Karen Blixen, author of Out of Africa, “has grown from the inside, and is an expression of the race and its history.”",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "We need to feel the rhythm of the music, hear how it inspires us to move and learn our unique style of movement and expression.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Each of these towns shows unique features of its own.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "獨特的，無與倫比的。",
+    "en_def": "Being the only one of its kind; unlike anything else.",
+    "example": "Her painting has a unique style that captures everyone's attention."
+  },
+  "sentences_removed": 4
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "roar",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With a loud roar, the saw chewed into the 150-year old tree.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/roar_ex_0_2fc6cf38.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發出低沉而響亮的聲音，通常指獅子或其他大型動物的吼叫。",
+    "en_def": "To make a loud, deep sound, typically associated with lions or other large animals.",
+    "example": "The lion let out a powerful roar that echoed through the jungle."
+  },
+  "sentences_removed": 0
+}

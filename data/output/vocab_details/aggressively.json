@@ -1,0 +1,23 @@
+{
+  "lemma": "aggressively",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Rather than running away as they did with the smell, the elephants acted aggressively toward the red clothing.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/aggressively_ex_0_03277b1d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "以攻擊性或強烈的方式行動或表現。",
+    "en_def": "In a manner that is forceful, assertive, or hostile.",
+    "example": "She spoke aggressively during the debate to make her point clear."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,50 @@
+{
+  "lemma": "dig",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 5,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But Brahma thought 24 would do because he believed humans would dig into the earth and climb every mountain, and eventually find it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dig_ex_0_06a4c05d.mp3"
+      },
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dig_ex_1_6acbccb6.mp3"
+      },
+      {
+        "text": "Since that time humans have been going up and down the earth, digging, climbing, and exploring—searching for something already within themselves.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dig_ex_2_0efb8744.mp3"
+      },
+      {
+        "text": "When mothers try to dig their babies out, both may be trapped and smothered by thick mud.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dig_ex_3_831f85de.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Why do farmers in Assam dig trenches in tea gardens? (A) To protect tea trees.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The Amazons are completely dependent on their slaves ____(29)___ their sharp jaws, so well suited for fighting, are useless in taking care of larvae or for digging.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "挖掘，通常指用工具或手挖掘土壤或其他材料。",
+    "en_def": "To break up and move earth or other materials with a tool or machine.",
+    "example": "They decided to dig a hole for the new tree."
+  },
+  "sentences_removed": 0
+}

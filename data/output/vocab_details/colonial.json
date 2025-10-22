@@ -1,0 +1,28 @@
+{
+  "lemma": "colonial",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Despite the threats posed by cultural and political encroachment of colonial forces, the art of totem pole carving has survived.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/colonial_ex_0_67629c34.mp3"
+      },
+      {
+        "text": "Hoops spun their way through the cultures of pre-colonial America as well.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/colonial_ex_1_471c096e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與殖民地或殖民制度有關的；殖民的。",
+    "en_def": "Relating to a colony or colonies, especially in terms of the political and economic control of one nation over another.",
+    "example": "The colonial era had a significant impact on the culture and economy of the region."
+  },
+  "sentences_removed": 0
+}

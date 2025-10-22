@@ -1,0 +1,54 @@
+{
+  "lemma": "trunk",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It would take 10 people holding hands to surround the base of its trunk.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/trunk_ex_0_58ba3eaf.mp3"
+      },
+      {
+        "text": "Bam was best known for its 2,000-year-old castle built out of mud, straw, and the trunks of palm trees.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/trunk_ex_1_6dd72cd2.mp3"
+      },
+      {
+        "text": "I jumped out of the car, ran round to open the trunk and there inside 40 .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/trunk_ex_2_2c29c38b.mp3"
+      },
+      {
+        "text": "New trees are often produced from sprouts, little baby trees, which form at the base of the trunk.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/trunk_ex_3_cbf094ef.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They have heavy and straight tree trunks.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does a “fairy ring” in the last paragraph refer to? (A) Circled tree trunks.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The trunk of redwood trees is very stout and usually forms a single straight column.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "樹幹；行李箱；大塊的物體或容器",
+    "en_def": "The main stem of a tree or a large container for carrying items.",
+    "example": "The elephant's trunk is used for drinking and picking up objects."
+  },
+  "sentences_removed": 0
+}

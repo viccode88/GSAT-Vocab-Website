@@ -1,0 +1,131 @@
+{
+  "lemma": "head",
+  "count": 27,
+  "pos_dist": {
+    "NOUN": 24,
+    "VERB": 2,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In front of each easy chair there was a microphone at head height, with wires leading to a tape-recorder in the middle of the floor.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/head_ex_0_72d3ef98.mp3"
+      },
+      {
+        "text": "Only a third of people are disturbed by the song in their heads.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/head_ex_1_62473258.mp3"
+      },
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/head_ex_2_83e55e5a.mp3"
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/head_ex_3_c4705e52.mp3"
+      },
+      {
+        "text": "Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/head_ex_4_134c0a18.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They couldn’t tell a cow’s head from its tail in the satellite pictures.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Pointing to her head, she said, “Everything important is in here.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Let the rain beat upon your head with silver liquid drops.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "After working in front of my computer for the entire day, my neck and shoulders got so that I couldn’t even turn my head.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Ten thousand saw I at a glance, Tossing their heads in sprightly dance.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "But unfortunately, even the high resolution of Google Earth is not powerful enough to tell which end of the cow is its head, and which its tail.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Earworms can run around our heads for several minutes to numerous hours.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, with the absence of gravity in the outer space, our body fluids 18 , shifting toward the upper body and the head.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, 23 a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "It involves a variety of techniques that make use of the hands, feet, legs, arms, and head.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "頭部；首領或主要部分",
+    "en_def": "The upper part of the body or the leader of a group.",
+    "example": "She tilted her head to listen more closely."
+  },
+  "sentences_removed": 4
+}

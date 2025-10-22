@@ -1,0 +1,33 @@
+{
+  "lemma": "rough",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Wherever football is played, the players learn the rough-and-tumble lesson that only through the 34 of each member can the team win.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/rough_ex_0_12be8a89.mp3"
+      },
+      {
+        "text": "But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/rough_ex_1_bcec7b7c.mp3"
+      },
+      {
+        "text": "He saw a man with a hole in the leg of his trousers and 29 realized what Californians 30 for the rough work they were doing—good, strong trousers! 21.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rough_ex_2_041a15e1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "表面不平滑或不均勻的；粗糙的。",
+    "en_def": "Having an uneven or irregular surface; not smooth.",
+    "example": "The rough surface of the stone made it difficult to walk on."
+  },
+  "sentences_removed": 0
+}

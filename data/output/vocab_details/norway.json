@@ -1,0 +1,28 @@
+{
+  "lemma": "norway",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Because of Vaaler, the paperclip played an important 37 role in Norway.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/norway_ex_0_42f1db17.mp3"
+      },
+      {
+        "text": "During World War II, Norway was occupied by the Nazis.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/norway_ex_1_202ac054.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "挪威，位於北歐的國家，以其壯麗的自然風光和豐富的海洋資源著稱。",
+    "en_def": "Norway, a country in Northern Europe known for its stunning natural landscapes and rich marine resources.",
+    "example": "Norway is famous for its beautiful fjords and northern lights."
+  },
+  "sentences_removed": 0
+}

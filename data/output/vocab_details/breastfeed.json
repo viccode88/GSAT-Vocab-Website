@@ -1,0 +1,28 @@
+{
+  "lemma": "breastfeed",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This poses special problems for childbearing women, who pass dioxin to an unborn baby or to a breastfeeding baby.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/breastfeed_ex_0_7af37ac0.mp3"
+      },
+      {
+        "text": "We had better not breastfeed our babies, since babies are most likely to be poisoned by dioxin.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/breastfeed_ex_1_424988f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用母乳餵養嬰兒。",
+    "en_def": "To feed a baby with milk from a woman's breast.",
+    "example": "She decided to breastfeed her baby for the first six months."
+  },
+  "sentences_removed": 0
+}

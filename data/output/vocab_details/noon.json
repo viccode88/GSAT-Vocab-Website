@@ -1,0 +1,23 @@
+{
+  "lemma": "noon",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, which of the following is true about howler monkeys? (A) They howl most often at noon.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/noon_ex_0_8397cda2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "中午，通常指正午12點。",
+    "en_def": "The middle of the day; specifically, 12 o'clock in the daytime.",
+    "example": "We usually have lunch at noon."
+  },
+  "sentences_removed": 0
+}

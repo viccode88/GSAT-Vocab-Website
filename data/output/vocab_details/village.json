@@ -1,0 +1,80 @@
+{
+  "lemma": "village",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 14,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This morning, two men from the village of Roaboia led us into the forest.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/village_ex_0_b9abf78c.mp3"
+      },
+      {
+        "text": "Jack: No, we rented some at the nearby village.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/village_ex_1_2aa57185.mp3"
+      },
+      {
+        "text": "We even managed to visit an aboriginal village in the forest.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/village_ex_2_7959ba04.mp3"
+      },
+      {
+        "text": "Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/village_ex_3_6019fb2c.mp3"
+      },
+      {
+        "text": "It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/village_ex_4_ad079275.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Motivated by such signs of success, thousands of kids from the villages surrounding Bekoji have moved into town.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "__(24)__ the children grow, they run around the village in a pack, wearing identical clothing and hairstyles, staring at everyone impolitely.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "People in that remote village feed themselves by hunting and engaging in _____ forms of agriculture.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It seems not __(21)__ any afternoon in the village, but all of a sudden, people and animals lose consciousness.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "People in this village… A.…unlikely that he would succeed.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "村莊；一個小型的居住區，通常位於鄉村地區。",
+    "en_def": "A small community or group of houses in a rural area.",
+    "example": "She grew up in a quiet village surrounded by mountains."
+  },
+  "sentences_removed": 2
+}

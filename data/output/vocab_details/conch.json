@@ -1,0 +1,23 @@
+{
+  "lemma": "conch",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Besides, one of his hands should bear a mark like a conch-shell.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/conch_ex_0_af7ce62d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "海螺，一種大型的海洋貝類，通常有螺旋形的外殼。",
+    "en_def": "A conch is a large marine mollusk with a spiral shell, often found in warm waters.",
+    "example": "We found a beautiful conch on the beach during our vacation."
+  },
+  "sentences_removed": 0
+}

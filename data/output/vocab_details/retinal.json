@@ -1,0 +1,23 @@
+{
+  "lemma": "retinal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retinal_ex_0_02edc2c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "視網膜的，與視網膜有關的",
+    "en_def": "Relating to the retina, the light-sensitive layer at the back of the eye.",
+    "example": "The doctor examined the retinal images to check for any abnormalities."
+  },
+  "sentences_removed": 0
+}

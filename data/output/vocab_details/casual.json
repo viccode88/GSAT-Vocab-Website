@@ -1,0 +1,84 @@
+{
+  "lemma": "casual",
+  "count": 15,
+  "pos_dist": {
+    "ADJ": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Supporters of casual office wear also argue that a casual dress code helps them save money.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/casual_ex_0_66004ce5.mp3"
+      },
+      {
+        "text": "Today David wears casual clothes—khaki pants and a sports shirt—to the office.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/casual_ex_1_710913a0.mp3"
+      },
+      {
+        "text": "This became known as “dress-down Friday” or “casual Friday.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/casual_ex_2_6a381d35.mp3"
+      },
+      {
+        "text": "More and more companies are allowing their office workers to wear casual clothes to work.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/casual_ex_3_0263b106.mp3"
+      },
+      {
+        "text": "In a study conducted by Levi Strauss and Company, 85 percent of employers said that they believe that casual dress improves employee morale.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/casual_ex_4_02212d1c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Why have so many companies started allowing their employees to wear casual clothes?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many workers want to wear casual clothes to impress people.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In this passage, the following advantages of casual office wear are mentioned EXCEPT _________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "One reason is that it’s easier for a company to attract new employees if it has a casual dress code.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "David Smith wears casual clothes now, because _________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Only 4 percent of employers said that casual dress has a negative impact on productivity.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "“For the same amount of money, you can buy a lot more casual clothes.” 51.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early 1990s, many companies allowed their employees to wear casual clothes on Friday (but only on Friday).",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "隨意的；不正式的",
+    "en_def": "Relaxed and unconcerned; informal.",
+    "example": "She wore a casual outfit to the picnic."
+  },
+  "sentences_removed": 1
+}

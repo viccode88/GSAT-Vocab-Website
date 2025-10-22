@@ -1,0 +1,109 @@
+{
+  "lemma": "visitor",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It’s easy for all visitors to use the facilities.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/visitor_ex_0_cf4345f7.mp3"
+      },
+      {
+        "text": "The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/visitor_ex_1_a11b0bd7.mp3"
+      },
+      {
+        "text": "In addition, Jefferson welcomed visitors to annual receptions on New Year’s Day and on the Fourth of July.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/visitor_ex_2_22e8cd2a.mp3"
+      },
+      {
+        "text": "Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/visitor_ex_3_8095420d.mp3"
+      },
+      {
+        "text": "Some even run regular activities to attract visitors.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/visitor_ex_4_34dbd6d8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Ever since, thousands of visitors have come to admire them.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The visitors would be even more startled if they were fully aware of all the existing similarities between them and these animals.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Now it is healing and prospering and greets visitors with open arms. 26.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Waterproof chairs enable visitors to roam all over the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Visitors now can drive over sections of the park that previously took days of horseback riding to see.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Even today, visitors to the park marvel at how such a road could have been built.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The construction of the road has changed the way visitors experience the Glacier National Park.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The park was not sunny enough for visitors.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park? (A) The scenery along the road is too beautiful for visitors to drive carefully.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Visitors can go rafting down the Rogue River 32 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "訪客；來訪者",
+    "en_def": "A person who visits a place, especially for pleasure or to see someone.",
+    "example": "The museum welcomed many visitors during the summer."
+  },
+  "sentences_removed": 2
+}

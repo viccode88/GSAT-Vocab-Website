@@ -1,0 +1,23 @@
+{
+  "lemma": "droplet",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As they were moving, the energy of the droplets in motion would be released.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/droplet_ex_0_0d2cf809.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小水滴；液滴",
+    "en_def": "A small drop of liquid.",
+    "example": "A droplet of water fell from the leaf."
+  },
+  "sentences_removed": 0
+}

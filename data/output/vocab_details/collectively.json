@@ -1,0 +1,23 @@
+{
+  "lemma": "collectively",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By working collectively, the each other while they flee from the predator.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/collectively_ex_0_0d7d9362.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "集體地，作為一個整體地",
+    "en_def": "In a way that involves all members of a group acting together.",
+    "example": "The team collectively decided to work overtime to meet the deadline."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "violin",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Stradivarius, the undeniable king of violin makers, could not resist creating a variety of guitars.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/violin_ex_0_e17326ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小提琴，一種弦樂器，通常有四根弦，使用弓拉奏。",
+    "en_def": "A violin is a string instrument typically with four strings, played with a bow.",
+    "example": "She played a beautiful melody on her violin."
+  },
+  "sentences_removed": 0
+}

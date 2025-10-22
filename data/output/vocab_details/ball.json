@@ -1,0 +1,28 @@
+{
+  "lemma": "ball",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The goals of becoming an outstanding player and playing college ball were never far from Deborah’s mind.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ball_ex_0_2bca43c3.mp3"
+      },
+      {
+        "text": "A player of Mills had possession of the ball, and Deborah ran to guard against her.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/ball_ex_1_97c60a3b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "球體，通常用於運動或遊戲的圓形物體。",
+    "en_def": "A spherical object used in various sports or games.",
+    "example": "She kicked the ball across the field."
+  },
+  "sentences_removed": 0
+}

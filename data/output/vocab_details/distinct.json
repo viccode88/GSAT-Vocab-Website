@@ -1,0 +1,28 @@
+{
+  "lemma": "distinct",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But it later turned out that it was exactly his courage to “rebel” and to express his own ideas that marks his films with distinct creativity.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/distinct_ex_0_9ef6c2dd.mp3"
+      },
+      {
+        "text": "Three main varieties of tea—Chinese, Assamese, and Cambodian—have distinct characteristics.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/distinct_ex_1_05de4398.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "明顯不同的；獨特的",
+    "en_def": "Recognizably different in nature from something else of a similar type.",
+    "example": "Each painting in the gallery has a distinct style."
+  },
+  "sentences_removed": 0
+}

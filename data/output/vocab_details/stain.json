@@ -1,0 +1,23 @@
+{
+  "lemma": "stain",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Located at the heart of Paris, this medieval cathedral is 21 for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/stain_ex_0_9219cc54.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "污點；汙漬",
+    "en_def": "A mark or discoloration that spoils the appearance of something.",
+    "example": "She tried to remove the stain from her shirt."
+  },
+  "sentences_removed": 0
+}

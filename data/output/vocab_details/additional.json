@@ -1,0 +1,33 @@
+{
+  "lemma": "additional",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/additional_ex_0_b0da7f1b.mp3"
+      },
+      {
+        "text": "The user has to spend additional money for it.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/additional_ex_1_93e4b27b.mp3"
+      },
+      {
+        "text": "As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/additional_ex_2_53377bda.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "額外的；附加的",
+    "en_def": "Something that is added to what is already present or available.",
+    "example": "She requested additional time to complete the project."
+  },
+  "sentences_removed": 0
+}

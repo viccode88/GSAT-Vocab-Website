@@ -1,0 +1,55 @@
+{
+  "lemma": "cure",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 6,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the article, which of the following is TRUE about medicines for colds? (A) They can cure the common cold.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/cure_ex_0_277136ad.mp3"
+      },
+      {
+        "text": "A second kind of medicine is called “natural cures,” or “folk medicine,” in which less educated people try to cure sicknesses with various herbs.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cure_ex_1_d92bfd33.mp3"
+      },
+      {
+        "text": "Although nowadays it is successful, in the ancient world this approach probably did not cure many patients.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cure_ex_2_64ab47b2.mp3"
+      },
+      {
+        "text": "Other times, a magician may make you a magic charm, or say a spell, to cure you.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cure_ex_3_bccd95b8.mp3"
+      },
+      {
+        "text": "Recent research has found lots of evidence to the drug company’s claims about its “miracle” tablets for curing cancer.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cure_ex_4_69ff2994.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Folk healers choose different herbs to cure diseases without any sound basis.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Surprisingly, only 51 percent of the people surveyed understand that the common cold has no cure.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "治療，療法；使康復或痊癒的過程或方法。",
+    "en_def": "To relieve a person or animal of the symptoms of a disease or condition; to restore to health.",
+    "example": "The doctor was able to cure the patient of her illness."
+  },
+  "sentences_removed": 0
+}

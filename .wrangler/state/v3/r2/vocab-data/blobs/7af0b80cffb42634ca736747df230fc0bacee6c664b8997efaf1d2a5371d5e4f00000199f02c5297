@@ -1,0 +1,24 @@
+{
+  "lemma": "academic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": [
+    {
+      "text": "relevantly 二 、 綜 合 測 驗 （ 占 1 0 分 ） 說明︰第11題至第20題為單選題，每題1分。 第 11 至 15 題為題組 In 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California.",
+      "source": "2025_114_02-114學測英文試題",
+      "audio_file": ""
+    },
+    {
+      "text": "I will probably continue to be my academic self.",
+      "source": "2014_103_02-103學測英文-定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "學術的；與學習或教育相關的",
+    "en_def": "Relating to education, scholarship, or learning.",
+    "example": "She published an academic paper on the effects of climate change."
+  }
+}

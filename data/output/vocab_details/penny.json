@@ -1,0 +1,23 @@
+{
+  "lemma": "penny",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead, he would be fined a penny for each of the 110 floors he had climbed.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/penny_ex_0_a9bab3f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種美國和英國的硬幣，面值為一分。",
+    "en_def": "A coin in the United States and the United Kingdom worth one cent.",
+    "example": "I found a penny on the sidewalk."
+  },
+  "sentences_removed": 0
+}

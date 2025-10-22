@@ -1,0 +1,84 @@
+{
+  "lemma": "television",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 17
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the development of radio and television has not diminished the importance of printing.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/television_ex_0_4bab3a3d.mp3"
+      },
+      {
+        "text": "Secondly, the shows young people watch on television encourage them to drink.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/television_ex_1_48bb3312.mp3"
+      },
+      {
+        "text": "Each capsule is equipped with a comfortable mattress, a small light, and sometimes a television or other entertainment options.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/television_ex_2_3435ecbc.mp3"
+      },
+      {
+        "text": "Alice: There’s a very good movie on television at eight tonight.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/television_ex_3_427e9289.mp3"
+      },
+      {
+        "text": "People may choose a name because they are strongly 38 a character in a book or a television series; they may also adopt names of famous people or their favorite actors and actresses.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/television_ex_4_98f0cb55.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following is true about public television stations? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Nowadays students can information from a variety of sources, such as computers, television, and compact discs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "(67) , television, movies, and books have taken over the once personal and (68) activity of storytelling.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Over 95 percent of all public television stations have tele-courses.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "all the newspaper and television attention, the problem of child abuse has become well-known.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "PBS has 349 member television stations in the U.S. and some member stations by cable in Canada.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種電子設備，用於接收和顯示影像和聲音的媒體。",
+    "en_def": "An electronic device used for receiving and displaying visual and auditory content.",
+    "example": "I watch my favorite shows on television every evening."
+  },
+  "sentences_removed": 3
+}

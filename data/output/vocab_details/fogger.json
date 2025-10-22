@@ -1,0 +1,59 @@
+{
+  "lemma": "fogger",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Foggers, or bug bombs, should really be a measure of last resort.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fogger_ex_0_c1dc5a6a.mp3"
+      },
+      {
+        "text": "Many people who are troubled by skin rashes caused by bug bites use “foggers,” or “bug bombs,” to get rid of the annoying crawlers in their homes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fogger_ex_1_a6bd4e03.mp3"
+      },
+      {
+        "text": "After testing these brands on five different groups of live bedbugs for two hours, the scientists saw that the foggers had little—if any—effect on the insects.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fogger_ex_2_0ce072a1.mp3"
+      },
+      {
+        "text": "The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won’t reach.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fogger_ex_3_9470b47e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What does the author advise people to do with bedbug problems? (A) Choose the right fogger.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements about foggers is true? (A)",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Ohio State University researchers tested three commercially sold foggers in a study on the effect of foggers on bedbugs.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How do bedbugs react to foggers?",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "噴霧器，一種用於噴灑液體的設備，通常用於消毒或驅蟲。",
+    "en_def": "A device used to spray liquid, often for disinfection or pest control.",
+    "example": "The gardener used a fogger to evenly distribute the pesticide across the plants."
+  },
+  "sentences_removed": 0
+}

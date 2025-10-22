@@ -1,0 +1,23 @@
+{
+  "lemma": "attributable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Those unnecessary deaths are attributable in part to the woman's choice of a large automobile.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/attributable_ex_0_398d7935.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可歸因於某事的",
+    "en_def": "Able to be regarded as being caused by someone or something.",
+    "example": "The increase in sales is attributable to the new marketing strategy."
+  },
+  "sentences_removed": 0
+}

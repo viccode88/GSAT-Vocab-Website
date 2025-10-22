@@ -1,0 +1,33 @@
+{
+  "lemma": "section",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Visitors now can drive over sections of the park that previously took days of horseback riding to see.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/section_ex_0_45d91a2d.mp3"
+      },
+      {
+        "text": "After 11 years of work, the final section of the road was completed in 1932.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/section_ex_1_d08b3347.mp3"
+      },
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/section_ex_2_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "部分；區域；段落",
+    "en_def": "A distinct part or subdivision of something.",
+    "example": "Please read the first section of the report."
+  },
+  "sentences_removed": 1
+}

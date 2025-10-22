@@ -1,0 +1,28 @@
+{
+  "lemma": "naturalist",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He experimented with different ways and settled on being a naturalist.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/naturalist_ex_0_8d0e1039.mp3"
+      },
+      {
+        "text": "The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/naturalist_ex_1_ca14466e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自然主義者；研究自然界的人，特別是動植物。",
+    "en_def": "A person who studies or is an expert in natural history, especially a biologist or ecologist.",
+    "example": "The naturalist spent years observing the behavior of birds in their natural habitat."
+  },
+  "sentences_removed": 0
+}

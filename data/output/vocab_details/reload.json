@@ -1,0 +1,23 @@
+{
+  "lemma": "reload",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "How many times have you missed a picture because you failed to reload the film?” 51.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/reload_ex_0_913eb496.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重新加載或裝填某物，特別是指武器或設備。",
+    "en_def": "To load something again, especially referring to weapons or equipment.",
+    "example": "Please reload the page to see the latest updates."
+  },
+  "sentences_removed": 0
+}

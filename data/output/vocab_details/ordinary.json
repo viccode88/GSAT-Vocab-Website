@@ -1,0 +1,64 @@
+{
+  "lemma": "ordinary",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the most ordinary objects can present to us powerful images.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ordinary_ex_0_4d5c975d.mp3"
+      },
+      {
+        "text": "England was probably the first country in Europe 17 ordinary people used umbrellas 18 the rain.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ordinary_ex_1_469085a4.mp3"
+      },
+      {
+        "text": "Sometimes it is the ordinary nature of these objects that actually makes them so extraordinary.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ordinary_ex_2_d29d3188.mp3"
+      },
+      {
+        "text": "She was no ordinary orphan: she was an elephant.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ordinary_ex_3_6d7d94b9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "\"It’s become so everyday, so ordinary, nobody cares,\" he said.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The answer is: not very thoroughly, 27 they are executives, specialized experts, or ordinary people in the street.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many ordinary clocks are hard to read early in the morning, deceiving students of the correct time, __22__ causing them to be late for school.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The ordinary woman’s leather shoe is considered unusual because _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The umbrella is now a very ordinary 19 .",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "普通的，平常的，沒有特別之處的。",
+    "en_def": "Commonly encountered; not special or different.",
+    "example": "She wore an ordinary dress to the party."
+  },
+  "sentences_removed": 0
+}

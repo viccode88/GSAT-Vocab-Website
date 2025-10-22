@@ -1,0 +1,23 @@
+{
+  "lemma": "dakota",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dakota_ex_0_e49b0e08.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "達科他州，位於美國中北部的州，分為南達科他州和北達科他州。",
+    "en_def": "Dakota refers to a region in the United States, historically associated with the Dakota Sioux tribes, and is divided into North Dakota and South Dakota.",
+    "example": "The Dakota territories were important for the westward expansion of the United States."
+  },
+  "sentences_removed": 0
+}

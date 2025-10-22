@@ -1,0 +1,59 @@
+{
+  "lemma": "orphanage",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Daphne has been working with wild animals for some 60 years, and in 1977 she opened the elephant orphanage at her home in Nairobi.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/orphanage_ex_0_74d21fee.mp3"
+      },
+      {
+        "text": "As of 1997, the orphanage, which depends on private contributions, has saved more than 100 infants.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/orphanage_ex_1_fddc4326.mp3"
+      },
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/orphanage_ex_2_ec3f00db.mp3"
+      },
+      {
+        "text": "Those college students work at the orphanage on a _____ basis, helping the children with their studies without receiving any pay.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/orphanage_ex_3_6178a9b4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After a year in the orphanage with the constant companionship of her human family, Zoe was taken to a refuge at Tsavo National Park.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So she was trucked to a most unusual orphanage in Nairobi, run by a woman named Daphne Sheldrick.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The elephant orphanage is ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Zoe was trucked to an elephant orphanage because ________.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "孤兒院：收容無父母或無法照顧的兒童的機構。",
+    "en_def": "A facility that provides care and shelter for children who are orphaned or whose parents are unable to care for them.",
+    "example": "The children at the orphanage were excited to receive new toys for the holidays."
+  },
+  "sentences_removed": 0
+}

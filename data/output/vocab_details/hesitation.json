@@ -1,0 +1,28 @@
+{
+  "lemma": "hesitation",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The woman did 22 without hesitation.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hesitation_ex_0_3008db30.mp3"
+      },
+      {
+        "text": "The manager ______ without hesitation after he had been offered a better job in another company.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/hesitation_ex_1_1db0c0f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "猶豫，對某事或某行動的猶豫不決或不確定。",
+    "en_def": "A delay in decision or action due to uncertainty or indecision.",
+    "example": "Her hesitation to speak up in the meeting made her ideas go unheard."
+  },
+  "sentences_removed": 0
+}

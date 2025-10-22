@@ -1,0 +1,23 @@
+{
+  "lemma": "fellow",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In teaching young players to cooperate with their fellows on the practice 32 , the game shows them the necessity of teamwork in society.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fellow_ex_0_ae0e347f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "同伴；夥伴；同事",
+    "en_def": "A person who shares a common interest or activity with another.",
+    "example": "She invited her fellow students to the study group."
+  },
+  "sentences_removed": 0
+}

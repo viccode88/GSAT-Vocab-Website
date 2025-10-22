@@ -1,0 +1,34 @@
+{
+  "lemma": "norwegian",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Norwegians were prohibited from wearing any 38 of their national unity, such as buttons with the initials of their king.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/norwegian_ex_0_8acd513e.mp3"
+      },
+      {
+        "text": "The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/norwegian_ex_1_6f350793.mp3"
+      },
+      {
+        "text": "The name most frequently 34 the paperclip invention is Johan Vaaler, a Norwegian inventor.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/norwegian_ex_2_102c7f9a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "挪威的；挪威人或挪威語的。",
+    "en_def": "Relating to Norway, its people, or its language.",
+    "example": "She is learning Norwegian to communicate with her relatives in Norway."
+  },
+  "sentences_removed": 0
+}

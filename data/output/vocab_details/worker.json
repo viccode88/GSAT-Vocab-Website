@@ -1,0 +1,114 @@
+{
+  "lemma": "worker",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 19
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.”",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/worker_ex_0_e7c2124c.mp3"
+      },
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/worker_ex_1_35a4c04b.mp3"
+      },
+      {
+        "text": "More and more companies are allowing their office workers to wear casual clothes to work.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/worker_ex_2_0263b106.mp3"
+      },
+      {
+        "text": "It’s common to find a nest with over 25,000 workers.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/worker_ex_3_3653b2c5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day’s labor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to this passage, which of the following statements is TRUE? (A) Company workers started to dress down about twenty years ago.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many workers want to wear casual clothes to impress people.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It requires fewer chemicals, making it safer for the workers in factories.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus 30 their productivity.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Are you a worker, too? (C)",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "British workers thus relied on a human alarm clock known as a “knocker-up.”",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The power workers had to work _____ to repair the power lines since the whole city was in the dark.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Good work environment and great co-workers Good Knowledge of English.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "工作者；從事某種工作的個體或群體。",
+    "en_def": "A person who is employed to perform tasks or duties, typically in exchange for payment.",
+    "example": "The factory needs more workers to meet the production demands."
+  },
+  "sentences_removed": 0
+}

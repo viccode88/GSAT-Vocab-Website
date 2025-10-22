@@ -1,0 +1,23 @@
+{
+  "lemma": "lighten",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Learn to Lighten Up and Live Longer, the best seller of the month, has several good suggestions.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/lighten_ex_0_cae0bec0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使變輕或變明亮。",
+    "en_def": "To make something lighter in weight or brightness.",
+    "example": "She decided to lighten her hair color for the summer."
+  },
+  "sentences_removed": 0
+}

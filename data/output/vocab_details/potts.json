@@ -1,0 +1,28 @@
+{
+  "lemma": "potts",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Installed in Detroit in 1920, Potts’ three-color system allowed for the added signal “proceed with caution” to be displayed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/potts_ex_0_62222522.mp3"
+      },
+      {
+        "text": "A major breakthrough was the yellow light invented by a Detroit police officer William Potts.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/potts_ex_1_216db7c4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於烹飪的容器，通常有把手和蓋子，適合煮、燉或燒食物。",
+    "en_def": "A cooking vessel, typically with a handle and a lid, used for boiling, stewing, or simmering food.",
+    "example": "She put the vegetables in the pot to cook them for dinner."
+  },
+  "sentences_removed": 0
+}

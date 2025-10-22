@@ -1,0 +1,29 @@
+{
+  "lemma": "striking",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is NOT mentioned as a way of enjoying hula hoop fun? (A) Striking.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/striking_ex_0_12f9e82f.mp3"
+      },
+      {
+        "text": "Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they’re free.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/striking_ex_1_1a1e13ef.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "引人注目的；顯著的",
+    "en_def": "Attractive or impressive in a way that draws attention.",
+    "example": "The painting had a striking use of color that captivated everyone."
+  },
+  "sentences_removed": 0
+}

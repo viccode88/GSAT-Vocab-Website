@@ -1,0 +1,50 @@
+{
+  "lemma": "cool",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 4,
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He has been _____ to all his friends about how cool it looks and how fast it runs.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cool_ex_0_4ed931c0.mp3"
+      },
+      {
+        "text": "For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/cool_ex_1_83a60616.mp3"
+      },
+      {
+        "text": "Drinking, the message goes, is cool.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cool_ex_2_5d0dc558.mp3"
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cool_ex_3_940acf73.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The donkey jumped into the stream to cool ___(32)___.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "涼爽的；酷的；時髦的",
+    "en_def": "Of a moderately low temperature; fashionable or impressive.",
+    "example": "The weather is cool today, perfect for a picnic."
+  },
+  "sentences_removed": 1
+}

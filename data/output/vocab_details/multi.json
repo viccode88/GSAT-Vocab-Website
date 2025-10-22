@@ -1,0 +1,38 @@
+{
+  "lemma": "multi",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/multi_ex_0_9a26b85d.mp3"
+      },
+      {
+        "text": "Based on the passage, in order to break into computer codes, one needs (A) an elaborate and expensive multi-media computer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/multi_ex_1_38ef8a80.mp3"
+      },
+      {
+        "text": "Today, apples are 30 eaten the world over and form the basis for multi-million dollar industries.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/multi_ex_2_e044657c.mp3"
+      },
+      {
+        "text": "But its special multi-functional design later launched the knife as a global brand.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/multi_ex_3_7db9a9ab.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多個的；多樣的",
+    "en_def": "Consisting of many parts or elements.",
+    "example": "The project requires multi-disciplinary collaboration."
+  },
+  "sentences_removed": 0
+}

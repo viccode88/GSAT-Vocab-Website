@@ -1,0 +1,23 @@
+{
+  "lemma": "prettiest",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If he were here now, Amy knew he would pick one of the prettiest carnations and gave it to Mama.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/prettiest_ex_0_1315fc93.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "最美麗的，最吸引人的。",
+    "en_def": "The most attractive or beautiful.",
+    "example": "She wore the prettiest dress at the party."
+  },
+  "sentences_removed": 0
+}

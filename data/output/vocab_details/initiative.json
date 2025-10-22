@@ -1,0 +1,28 @@
+{
+  "lemma": "initiative",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Elephant Friendly Tea is an organization that takes the initiative to make it possible.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/initiative_ex_0_7c97bc9c.mp3"
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/initiative_ex_1_0467c519.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "主動性；倡議，行動的能力或意願。",
+    "en_def": "The ability or willingness to take the first step in a process or to take charge of a situation.",
+    "example": "She showed great initiative by starting the community project on her own."
+  },
+  "sentences_removed": 0
+}

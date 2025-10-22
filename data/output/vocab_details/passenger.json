@@ -1,0 +1,49 @@
+{
+  "lemma": "passenger",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/passenger_ex_0_d2603a2c.mp3"
+      },
+      {
+        "text": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/passenger_ex_1_82745a94.mp3"
+      },
+      {
+        "text": "The bus driver often complains about chewing gum found under passenger seats because it is and very hard to remove.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/passenger_ex_2_fdd73274.mp3"
+      },
+      {
+        "text": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/passenger_ex_3_2bc0c079.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Most men take off their hats in my car, and sometimes I have to tell passengers to put out their cigarettes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "乘客；搭乘交通工具的人。",
+    "en_def": "A person who travels in a vehicle but is not the driver.",
+    "example": "The passenger in the back seat asked the driver to take a different route."
+  },
+  "sentences_removed": 0
+}

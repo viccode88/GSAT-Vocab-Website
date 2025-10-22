@@ -1,0 +1,17 @@
+{
+  "lemma": "reluctantly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不情願地，勉強地",
+    "en_def": "In a manner that shows unwillingness or hesitation.",
+    "example": "She reluctantly agreed to help him with the project."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "imitation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although babies imitate the facial expressions they see, smiling isn’t just learned by imitation.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/imitation_ex_0_faa67d0f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "模仿；仿製品",
+    "en_def": "The act of copying or emulating someone or something.",
+    "example": "Her imitation of the famous singer was so good that many thought it was the original."
+  },
+  "sentences_removed": 0
+}

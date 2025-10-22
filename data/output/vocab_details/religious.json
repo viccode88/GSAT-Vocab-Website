@@ -1,0 +1,54 @@
+{
+  "lemma": "religious",
+  "count": 8,
+  "pos_dist": {
+    "ADJ": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/religious_ex_0_83e55e5a.mp3"
+      },
+      {
+        "text": "Some religious groups organize special healing shrines for the sick.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/religious_ex_1_fc5575a3.mp3"
+      },
+      {
+        "text": "Wearing a bindi has become more of a fashion statement than a religious custom.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/religious_ex_2_47d9ae26.mp3"
+      },
+      {
+        "text": "However, for people who are not necessarily religious but are fond of nature, names 35 things of beauty are often favored.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/religious_ex_3_3eab48b3.mp3"
+      },
+      {
+        "text": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/religious_ex_4_57c2440d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To show their religious belief.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "She sang for religious activities.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "宗教的；信仰宗教的",
+    "en_def": "Relating to or believing in a religion.",
+    "example": "She follows a religious tradition that has been passed down for generations."
+  },
+  "sentences_removed": 1
+}

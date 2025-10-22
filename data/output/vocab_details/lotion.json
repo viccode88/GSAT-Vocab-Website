@@ -1,0 +1,23 @@
+{
+  "lemma": "lotion",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/lotion_ex_0_c0a6266c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "乳液，一種用於皮膚的液體，通常用於保濕或護膚。",
+    "en_def": "A liquid preparation applied to the skin for moisturizing or therapeutic purposes.",
+    "example": "She applied lotion to her dry hands after washing them."
+  },
+  "sentences_removed": 0
+}

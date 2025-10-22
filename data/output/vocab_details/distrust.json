@@ -1,0 +1,17 @@
+{
+  "lemma": "distrust",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不信任；懷疑他人的誠信或能力。",
+    "en_def": "A lack of trust or confidence in someone or something.",
+    "example": "Her past experiences led her to distrust strangers."
+  },
+  "sentences_removed": 1
+}

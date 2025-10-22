@@ -1,0 +1,95 @@
+{
+  "lemma": "taste",
+  "count": 16,
+  "pos_dist": {
+    "VERB": 11,
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Or perhaps Mozart’s music tastes like an apple pie to you?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/taste_ex_0_49e5033b.mp3"
+      },
+      {
+        "text": "It tastes too much like actual meat.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/taste_ex_1_92985a1d.mp3"
+      },
+      {
+        "text": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/taste_ex_2_d2acc22c.mp3"
+      },
+      {
+        "text": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/taste_ex_3_d3f6844f.mp3"
+      },
+      {
+        "text": "(H) Alexander Well, they taste good if you add plenty of spices and sauces.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/taste_ex_4_a71d79cc.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To be qualified as “extra virgin,” the oil must also pass both an official test in a laboratory and a sensory evaluation by a trained tasting panel.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "With its delicate taste, the fresh onion is an ideal choice for salads and other lightly-cooked dishes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Beginning around 1910, audiences developed a taste for serial action movies, which 26 the use of dedicated stunt people to perform in dangerous scenes.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In fact, it tasted very strange...",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In others, words can trigger a real sensation of taste on their tongue. 31",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Because they have a higher water content, they are typically sweeter and milder tasting than storage onions.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.”",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, the flavors people with taste-word synesthesia experience are usually childhood flavors, such as chocolate or strawberries.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It didn’t taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "味道；品味；嘗試",
+    "en_def": "The sensation of flavor perceived in the mouth; the ability to discern and appreciate flavors.",
+    "example": "I love the taste of fresh strawberries."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "startle",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Every time we watch apes in their cages we are startled by their manlike behavior.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/startle_ex_0_454b3520.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使驚嚇；使驚訝",
+    "en_def": "To cause someone to feel sudden shock or surprise.",
+    "example": "The loud noise from the fireworks startled the dog."
+  },
+  "sentences_removed": 0
+}

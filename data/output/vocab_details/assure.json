@@ -1,0 +1,23 @@
+{
+  "lemma": "assure",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We are assured that we are destined to live happily ever after.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/assure_ex_0_e0f1dc6b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "保證；向某人保證某事的真實性或可靠性。",
+    "en_def": "To make someone confident about something; to guarantee or promise.",
+    "example": "I assure you that everything will be ready by tomorrow."
+  },
+  "sentences_removed": 0
+}

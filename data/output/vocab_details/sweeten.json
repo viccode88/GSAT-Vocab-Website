@@ -1,0 +1,23 @@
+{
+  "lemma": "sweeten",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The fortune cookie was based on a Japanese snack, but Hagiwara sweetened the recipe to appeal to American 39 .",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sweeten_ex_0_58ef2d10.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使變甜；增加甜味。",
+    "en_def": "To make something sweeter or to add sweetness.",
+    "example": "She decided to sweeten her tea with honey."
+  },
+  "sentences_removed": 0
+}

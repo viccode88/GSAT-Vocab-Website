@@ -1,0 +1,23 @@
+{
+  "lemma": "verbal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "People have an instinct for interpreting non-verbal communication.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/verbal_ex_0_40bbbb26.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "口頭的；言語的",
+    "en_def": "Relating to or in the form of words; spoken rather than written.",
+    "example": "The teacher gave a verbal explanation of the assignment."
+  },
+  "sentences_removed": 0
+}

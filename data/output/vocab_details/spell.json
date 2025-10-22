@@ -1,0 +1,29 @@
+{
+  "lemma": "spell",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Other times, a magician may make you a magic charm, or say a spell, to cure you.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/spell_ex_0_bccd95b8.mp3"
+      },
+      {
+        "text": "They may fill out an agreement spelling out who shoulders which responsibilities if a problem arises.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spell_ex_1_60b3fbd6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "拼寫，指用字母組成單詞的過程或行為。",
+    "en_def": "To write or name the letters that form a word in the correct sequence.",
+    "example": "Can you spell your name for me?"
+  },
+  "sentences_removed": 0
+}

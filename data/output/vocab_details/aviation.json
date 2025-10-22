@@ -1,0 +1,23 @@
+{
+  "lemma": "aviation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the early days of aviation, plane windows 17 square in shape.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/aviation_ex_0_986cfd12.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "航空，指飛行器的設計、製造和操作的科學與技術。",
+    "en_def": "The science and practice of designing, building, and operating aircraft.",
+    "example": "Aviation has greatly advanced over the last century, making air travel more accessible."
+  },
+  "sentences_removed": 0
+}

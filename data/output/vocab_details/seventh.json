@@ -1,0 +1,28 @@
+{
+  "lemma": "seventh",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/seventh_ex_0_ff56ffcb.mp3"
+      },
+      {
+        "text": "Around 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o’clock.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/seventh_ex_1_1eb0e20f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "第七的，表示順序中的第七個。",
+    "en_def": "The ordinal number following sixth, representing the position in a sequence.",
+    "example": "She finished in seventh place in the race."
+  },
+  "sentences_removed": 0
+}

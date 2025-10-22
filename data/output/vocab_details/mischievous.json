@@ -1,0 +1,28 @@
+{
+  "lemma": "mischievous",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mischievous_ex_0_ec3f00db.mp3"
+      },
+      {
+        "text": "Their young captive 17 to be a mischievous boy.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/mischievous_ex_1_3bf8e8d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "調皮的，愛惡作劇的",
+    "en_def": "Causing or showing a fondness for causing trouble in a playful way.",
+    "example": "The mischievous puppy stole my socks and ran around the house."
+  },
+  "sentences_removed": 0
+}

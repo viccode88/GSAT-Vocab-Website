@@ -1,0 +1,23 @@
+{
+  "lemma": "commencement",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The speaker was Robot Redford, a robot who delivered the commencement address at a community college in suburban Maryland.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/commencement_ex_0_e5d8f014.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "開始，特別是指正式的開始儀式，如畢業典禮。",
+    "en_def": "The beginning or start of something, especially a formal ceremony such as a graduation.",
+    "example": "The commencement ceremony will take place on Saturday."
+  },
+  "sentences_removed": 1
+}

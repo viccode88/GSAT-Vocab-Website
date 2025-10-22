@@ -1,0 +1,29 @@
+{
+  "lemma": "discard",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Its soft inner part is often discarded.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/discard_ex_0_f3c48f01.mp3"
+      },
+      {
+        "text": "But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discard_ex_1_b8827587.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "丟棄；拋棄",
+    "en_def": "To get rid of something that is no longer wanted or needed.",
+    "example": "She decided to discard the old clothes that she never wore."
+  },
+  "sentences_removed": 0
+}

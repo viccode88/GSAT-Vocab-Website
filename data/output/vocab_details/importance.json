@@ -1,0 +1,100 @@
+{
+  "lemma": "importance",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 16,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the development of radio and television has not diminished the importance of printing.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/importance_ex_0_4bab3a3d.mp3"
+      },
+      {
+        "text": "Scientists recognize the importance of both hemispheres in the learning of all sorts, including language learning.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/importance_ex_1_9b5f9eba.mp3"
+      },
+      {
+        "text": "The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/importance_ex_2_76b3d7fb.mp3"
+      },
+      {
+        "text": "Over time, researchers have come to realize the importance of exercising when injured.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/importance_ex_3_50971502.mp3"
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/importance_ex_4_0467c519.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The passage tries to highlight the importance of ____________.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The importance of passing on the traditional culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The importance of the White House.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This international recognition highlights the importance of this area, not just to the United States and Canada, but to the entire world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The most obvious one is the importance of 40 .",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To advocate the importance of vegetables and whole grains.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The color of the shúkà represented one’s importance in the tribe.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this passage? (A) The Importance of Marketing (B) The Power of Youth Culture (C) The Popularity of Hip-hop Fashion (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To emphasize the importance of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In the order of importance. (C) In the sequence of time.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "重要性；價值或意義。",
+    "en_def": "The state or quality of being important; significance.",
+    "example": "The importance of education cannot be overstated."
+  },
+  "sentences_removed": 1
+}

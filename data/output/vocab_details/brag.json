@@ -1,0 +1,23 @@
+{
+  "lemma": "brag",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "That can give you something to brag about on Dognition’s Facebook page.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/brag_ex_0_d3113721.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "自誇，吹噓，過分自信地談論自己的成就或優點。",
+    "en_def": "To boast or talk with pride about one's achievements or qualities.",
+    "example": "He likes to brag about his new car."
+  },
+  "sentences_removed": 0
+}

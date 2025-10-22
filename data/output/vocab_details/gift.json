@@ -1,0 +1,43 @@
+{
+  "lemma": "gift",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead of a gift, Tim’s grandmother always _____",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/gift_ex_0_1466fea7.mp3"
+      },
+      {
+        "text": "Out of and consideration, I always write a thank-you note when someone sends me a gift.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/gift_ex_1_e603e78c.mp3"
+      },
+      {
+        "text": "But __16__ that Christmas is just a few weeks away, __17__ is a gift idea.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/gift_ex_2_600d0860.mp3"
+      },
+      {
+        "text": "Salesmen expect digital cameras to be popular gifts this holiday season.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/gift_ex_3_04368577.mp3"
+      },
+      {
+        "text": "A word of congratulation just doesn't seem enough, so I am sending you a gift that I'm sure you will find.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/gift_ex_4_1f91816d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "贈送的物品，通常用於表達感謝、祝賀或愛意。",
+    "en_def": "A thing given willingly to someone without payment; a present.",
+    "example": "She received a beautiful gift for her birthday."
+  },
+  "sentences_removed": 0
+}

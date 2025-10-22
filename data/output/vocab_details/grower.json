@@ -1,0 +1,23 @@
+{
+  "lemma": "grower",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/grower_ex_0_6feafc23.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "種植者；農民",
+    "en_def": "A person or entity that cultivates plants or crops.",
+    "example": "The grower harvested the tomatoes just in time for the market."
+  },
+  "sentences_removed": 0
+}

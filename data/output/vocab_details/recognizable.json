@@ -1,0 +1,23 @@
+{
+  "lemma": "recognizable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The most recognizable piece of clothing is the shúkà, a sheet of fabric worn wrapped around the body.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/recognizable_ex_0_3018949c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "可辨認的，易於識別的",
+    "en_def": "Able to be identified or distinguished from others.",
+    "example": "The logo is easily recognizable around the world."
+  },
+  "sentences_removed": 0
+}

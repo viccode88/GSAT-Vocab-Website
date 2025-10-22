@@ -1,0 +1,33 @@
+{
+  "lemma": "vast",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There would only be a vast mountain range along the southern coast of China.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/vast_ex_0_79ee2120.mp3"
+      },
+      {
+        "text": "The heart of this continent is the Amazon Rainforest, a vast paradise watered by one of the world’s greatest rivers.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/vast_ex_1_89907cac.mp3"
+      },
+      {
+        "text": "Since then Australia __(28)__ from the rest of the world by vast oceans.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/vast_ex_2_9e778cbd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "廣闊的；巨大的",
+    "en_def": "Of great extent or size; immense.",
+    "example": "The ocean is vast and full of mysteries."
+  },
+  "sentences_removed": 0
+}

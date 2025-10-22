@@ -1,0 +1,28 @@
+{
+  "lemma": "baked",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One reason the earthquake caused such damage was that Bam's buildings were made mostly from baked mud.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/baked_ex_0_e4b67354.mp3"
+      },
+      {
+        "text": "The use of baked mud for buildings explains ____________.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/baked_ex_1_85c769c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "經過烘烤的，通常指食物在高溫下加熱以使其熟透或變脆。",
+    "en_def": "Cooked by dry heat in an oven.",
+    "example": "She baked a delicious chocolate cake for the party."
+  },
+  "sentences_removed": 0
+}

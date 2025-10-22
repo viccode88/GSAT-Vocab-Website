@@ -1,0 +1,23 @@
+{
+  "lemma": "zealanders",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "New Zealanders have given it the nickname , which is a native Maori word meaning “god of bad looks.”",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/zealanders_ex_0_65c8b84d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "新西蘭人，指來自新西蘭的居民或國民。",
+    "en_def": "People from New Zealand.",
+    "example": "The Zealanders are known for their friendly nature and beautiful landscapes."
+  },
+  "sentences_removed": 0
+}

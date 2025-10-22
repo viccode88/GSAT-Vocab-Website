@@ -1,0 +1,111 @@
+{
+  "lemma": "trade",
+  "count": 22,
+  "pos_dist": {
+    "NOUN": 18,
+    "PROPN": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/trade_ex_0_d41af6dd.mp3"
+      },
+      {
+        "text": "If a British businessman wants to visit some trade partners in Taiwan for about three weeks, what should he do?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/trade_ex_1_e86cc79d.mp3"
+      },
+      {
+        "text": "Bill? Bill: I'm in foreign trade.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/trade_ex_2_c41e67a5.mp3"
+      },
+      {
+        "text": "During the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trade_ex_3_874cff10.mp3"
+      },
+      {
+        "text": "From ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/trade_ex_4_1a7e8afb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "During the 1990s, international trade grew by nearly 8.6% each year.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Trade is certainly a main 30 force for globalization.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "These two countries are trying to ________ trade and cultural exchanges between them.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, all countries are involved in, and to varying degrees dependent on, trade with other countries.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The trade of olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the year 1990 alone, the growth in trade in services was as high as 19%.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Industry members of the IOC hope to promote the trade of olive oil by initiating these changes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was then introduced to Europe in the early 1600s, when trade began between Europe and the Far East.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "George Willig reached the top of the World Trade Center in New York at (A) six thirty in the morning of May 26, 1977.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "貿易；交易",
+    "en_def": "The action of buying, selling, or exchanging goods and services.",
+    "example": "Countries often engage in trade to obtain resources they lack."
+  },
+  "sentences_removed": 3
+}

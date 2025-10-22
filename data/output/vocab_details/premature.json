@@ -1,0 +1,23 @@
+{
+  "lemma": "premature",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Besides lung cancer, another _____ of smoking is wrinkles, a premature sign of aging.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/premature_ex_0_9db2ab02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "過早的，未成熟的",
+    "en_def": "Occurring or done before the usual or expected time.",
+    "example": "The baby was born premature and needed special care."
+  },
+  "sentences_removed": 0
+}

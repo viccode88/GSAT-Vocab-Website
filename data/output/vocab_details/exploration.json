@@ -1,0 +1,23 @@
+{
+  "lemma": "exploration",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "During the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/exploration_ex_0_874cff10.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "探索，尋找或調查未知的事物或地區。",
+    "en_def": "The act of searching for or investigating unknown things or areas.",
+    "example": "The exploration of Mars has revealed many fascinating geological features."
+  },
+  "sentences_removed": 0
+}

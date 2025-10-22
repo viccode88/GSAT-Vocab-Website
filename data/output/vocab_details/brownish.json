@@ -1,0 +1,23 @@
+{
+  "lemma": "brownish",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Probably the best known for the practice is the large brownish-red Amazon ant.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/brownish_ex_0_e51a82a6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "帶棕色的，略呈棕色的。",
+    "en_def": "Having a color that is somewhat brown.",
+    "example": "The leaves turned a brownish hue in the autumn."
+  },
+  "sentences_removed": 0
+}

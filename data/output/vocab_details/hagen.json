@@ -1,0 +1,28 @@
+{
+  "lemma": "hagen",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Receptionist: I (20) apologize, Mr. Hagen.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hagen_ex_0_8f6b316c.mp3"
+      },
+      {
+        "text": "Receptionist: I’m (18) terribly sorry, Mr. Hagen.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hagen_ex_1_29afa235.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "哈根（Hagen）是一個德國姓氏，常見於德國及其他德語國家，也可能指代某些地名或品牌。",
+    "en_def": "Hagen is a German surname commonly found in Germany and other German-speaking countries, and may also refer to certain places or brands.",
+    "example": "Hagen is known for its beautiful parks and vibrant culture."
+  },
+  "sentences_removed": 0
+}

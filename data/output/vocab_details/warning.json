@@ -1,0 +1,43 @@
+{
+  "lemma": "warning",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The government did not issue a warning about the disease in time.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/warning_ex_0_77a54e08.mp3"
+      },
+      {
+        "text": "At the moment EU tobacco manufacturers only have to put written health warnings on cigarette packets __(24)__",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/warning_ex_1_bf9e6c5d.mp3"
+      },
+      {
+        "text": "And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/warning_ex_2_4d050342.mp3"
+      },
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/warning_ex_3_d15fcfb3.mp3"
+      },
+      {
+        "text": "The barking of the hound, which drives deer to panic, strengthens the effect of the warning noise, according to the RTRI.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/warning_ex_4_8003e6d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "警告；提醒某人注意潛在的危險或問題。",
+    "en_def": "A statement or indication that something bad or dangerous may happen.",
+    "example": "The weather service issued a warning about the approaching storm."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "excitement",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There is a lot of excitement and fear surrounding MOOCs.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/excitement_ex_0_65f9f8ea.mp3"
+      },
+      {
+        "text": "In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/excitement_ex_1_2234894e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "興奮；激動的情緒或狀態",
+    "en_def": "A feeling of great enthusiasm and eagerness.",
+    "example": "The excitement in the crowd was palpable as the concert began."
+  },
+  "sentences_removed": 0
+}

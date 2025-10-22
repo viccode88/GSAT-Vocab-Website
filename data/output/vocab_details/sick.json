@@ -1,0 +1,70 @@
+{
+  "lemma": "sick",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 9,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They found that the sick plants could “sneeze” and 23 tiny water drops filled with leaf rust germs, spreading the disease to neighboring plants.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/sick_ex_0_1ce5f24b.mp3"
+      },
+      {
+        "text": "Some religious groups organize special healing shrines for the sick.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sick_ex_1_fc5575a3.mp3"
+      },
+      {
+        "text": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the that could make us sick.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/sick_ex_2_f6204e77.mp3"
+      },
+      {
+        "text": "You may also get sick from playing video games, or looking through a microscope.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/sick_ex_3_a69f70cd.mp3"
+      },
+      {
+        "text": "Feeling quite sick with fear, I sat on the driver’s seat, trying to stop trembling.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sick_ex_4_34496d2c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The Carnegie Medal is given to those who are (A) sick and poor.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what type of people are more likely to get well sooner when they get sick? 2.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The profits of Prince Charles’s organic farm go to _____ to help the poor and the sick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Your brain’s confused reaction makes you feel sick.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "生病的，感到不適的",
+    "en_def": "Affected by physical or mental illness.",
+    "example": "She stayed home from school because she was feeling sick."
+  },
+  "sentences_removed": 0
+}

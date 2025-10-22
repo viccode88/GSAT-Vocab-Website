@@ -1,0 +1,23 @@
+{
+  "lemma": "lott",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to pediatric dentist Dr. Kaneta Lott, the most damaging stuff is something that is sticky or very hard and thus stays in the mouth for a long time.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/lott_ex_0_b8cf12e0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於賭博的隨機抽籤或彩票，通常涉及金錢或獎品的贏取。",
+    "en_def": "A type of lottery or raffle where participants buy tickets for a chance to win money or prizes.",
+    "example": "He bought a ticket for the lott, hoping to win the grand prize."
+  },
+  "sentences_removed": 0
+}

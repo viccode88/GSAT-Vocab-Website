@@ -1,0 +1,23 @@
+{
+  "lemma": "fang",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fang_ex_0_af560fe9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "獠牙；尖牙，通常指肉食性動物的長牙。",
+    "en_def": "A long, pointed tooth, especially one used for biting or tearing, typically found in carnivorous animals.",
+    "example": "The wolf bared its fangs as a warning to intruders."
+  },
+  "sentences_removed": 0
+}

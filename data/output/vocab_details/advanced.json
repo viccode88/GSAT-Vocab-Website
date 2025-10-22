@@ -1,0 +1,28 @@
+{
+  "lemma": "advanced",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And there are plenty of models from which to choose: from simple $200 point-and-shoot snappers to $1,000 wonders with all the features that any advanced amateur could want.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/advanced_ex_0_8a842879.mp3"
+      },
+      {
+        "text": "The advanced technological devices in Morgan’s Wonderland.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/advanced_ex_1_59b4cafa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "先進的；高級的",
+    "en_def": "Having or showing a high level of knowledge or skill.",
+    "example": "She took an advanced course in mathematics to improve her skills."
+  },
+  "sentences_removed": 0
+}

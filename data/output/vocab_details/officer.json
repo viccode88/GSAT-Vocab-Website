@@ -1,0 +1,90 @@
+{
+  "lemma": "officer",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 11,
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "And in 1994, Microsoft CEO (chief executive officer) Bill Gates paid $30.8 million for a handwritten notebook penned by Leonardo da Vinci.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/officer_ex_0_9e31f671.mp3"
+      },
+      {
+        "text": "Regarding the first example, which of the following is FALSE? (A) Nelson was not a responsible person. (B) Adam and Nelson are military officers.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/officer_ex_1_db0b742f.mp3"
+      },
+      {
+        "text": "A police officer was stationed by the side to operate the system.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/officer_ex_2_7f4f3ef6.mp3"
+      },
+      {
+        "text": "A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/officer_ex_3_7218a3e6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The new design was not considered necessary for officers to own. 44.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The company is _____ and making great profits under the wise leadership of the chief executive officer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Interestingly, the Officer’s Knife was never given to those serving in the army.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Some of the police officers asked him for his autograph.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Why didn’t the Swiss army purchase the Swiss Officer’s Knife?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "A major breakthrough was the yellow light invented by a Detroit police officer William Potts.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The amount, the police department reported, would pay the costs of rushing special equipment and eighty police officers in order to save him.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The soldier was put on trial for to obey his commanding officer’s order.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "官員；軍官；警官",
+    "en_def": "A person holding a position of authority or command in an organization, especially in the military or police.",
+    "example": "The officer gave instructions to the team before the operation."
+  },
+  "sentences_removed": 0
+}

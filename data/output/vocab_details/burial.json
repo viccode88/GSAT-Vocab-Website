@@ -1,0 +1,28 @@
+{
+  "lemma": "burial",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Mortuary poles were also raised to honor the dead, but they differed from memorial poles, having a burial box placed at the top of the pole.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/burial_ex_0_c215c64d.mp3"
+      },
+      {
+        "text": "Inside the burial box were the remains of the deceased.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/burial_ex_1_cb8531d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "埋葬，指將遺體放入土中或其他地方以進行安葬的行為。",
+    "en_def": "The act of placing a dead body into the ground or another location for interment.",
+    "example": "The burial took place in the family plot at the local cemetery."
+  },
+  "sentences_removed": 0
+}

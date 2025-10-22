@@ -1,0 +1,23 @@
+{
+  "lemma": "digitally",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Instead of the traditional bare pod-sized style, new chains now feature interior design that appeals to digitally connected travelers from around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/digitally_ex_0_7fd64a8e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "以數位方式進行或表達的。",
+    "en_def": "In a manner that involves or relates to digital technology.",
+    "example": "She prefers to read books digitally on her tablet."
+  },
+  "sentences_removed": 0
+}

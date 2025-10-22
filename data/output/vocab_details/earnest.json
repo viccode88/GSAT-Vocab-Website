@@ -1,0 +1,23 @@
+{
+  "lemma": "earnest",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/earnest_ex_0_44d8f7f6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "認真且真誠的，通常指對某事的態度或行為。",
+    "en_def": "Serious and sincere in intention, purpose, or effort.",
+    "example": "She made an earnest attempt to improve her grades."
+  },
+  "sentences_removed": 0
+}

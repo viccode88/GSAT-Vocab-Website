@@ -1,0 +1,44 @@
+{
+  "lemma": "encounter",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following is NOT mentioned as a feature that would trigger earworms? (A) Tunes repeatedly encountered.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/encounter_ex_0_479234e5.mp3"
+      },
+      {
+        "text": "In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/encounter_ex_1_9feccc89.mp3"
+      },
+      {
+        "text": "When people encounter a complex issue and form an opinion, how thoroughly have they 26 all the important factors involved before they make their decisions?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/encounter_ex_2_6ecaea80.mp3"
+      },
+      {
+        "text": "Wildlife encounters are unforgettable experiences for children and adults alike.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/encounter_ex_3_d6c21054.mp3"
+      },
+      {
+        "text": "In fact, a visit to a major European city just would not be the same 16 encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/encounter_ex_4_23588dc8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "遇到，遭遇",
+    "en_def": "To come across or meet someone or something unexpectedly.",
+    "example": "I had an unexpected encounter with an old friend at the café."
+  },
+  "sentences_removed": 0
+}

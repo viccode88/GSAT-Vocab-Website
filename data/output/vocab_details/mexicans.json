@@ -1,0 +1,23 @@
+{
+  "lemma": "mexicans",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/mexicans_ex_0_b77b1e71.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "墨西哥人，指來自墨西哥或具有墨西哥國籍的人。",
+    "en_def": "Mexicans are people from Mexico or of Mexican descent.",
+    "example": "Many Mexicans celebrate their independence day with parades and festivals."
+  },
+  "sentences_removed": 0
+}

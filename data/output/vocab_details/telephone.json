@@ -1,0 +1,69 @@
+{
+  "lemma": "telephone",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "No more loud chatter on the telephones!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/telephone_ex_0_c0e5bfc6.mp3"
+      },
+      {
+        "text": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/telephone_ex_1_f5f9307c.mp3"
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/telephone_ex_2_755d4981.mp3"
+      },
+      {
+        "text": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/telephone_ex_3_652ff331.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Or telephone Ms. (2) Have interest or experience in marketing Chang at 2945-0027 for an immediate interview.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Simply removing the jingle of telephones and replacing them with the pleasant sounds of birds has had a remarkable effect on everyone.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides, birds are cheaper than telephone service.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "She ____ them by using them for taking telephone messages.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "First, we replaced all our telephones with carrier pigeons.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This morning I (16) at 6 o’clock by a telephone call that wasn’t for me.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種用於語音通訊的設備，通常通過電信網絡傳輸聲音。",
+    "en_def": "A device used for voice communication, typically transmitting sound over a telecommunications network.",
+    "example": "I called my friend on the telephone to discuss our plans."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,74 @@
+{
+  "lemma": "glenn",
+  "count": 13,
+  "pos_dist": {
+    "PROPN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Only John Glenn has received the ticker-tape parade more than once.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glenn_ex_0_ebe5fa64.mp3"
+      },
+      {
+        "text": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glenn_ex_1_4282e495.mp3"
+      },
+      {
+        "text": "Glenn’s first ticker-tape parade on March 1, 1962, after his Mercury flight, is considered the largest ever in New York.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glenn_ex_2_6650edb0.mp3"
+      },
+      {
+        "text": "Glenn began the day with decorating the Rockefeller Center Christmas tree.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glenn_ex_3_af80412c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Why does the report say that the figure of Glenn’s second parade was “inflated”?",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, how many space flights has Glenn taken? (A) One (B) Two (C) Three (D) Four 55.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "After that event, Glenn recalled the 1962 parade, saying, \"It was just so enormous.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What impressed Glenn most in the 1962 parade? (A)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Police and Glenn’s parade was attended by 500,000 -- a figure that appeared generously inflated.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "This is a report about John Glenn after he (A) successfully accomplished his 1962 Mercury flight.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The 1962 celebration \"was more enthusiastic -- a lot more people,\" said one spectator, who as a young newlywed attended Glenn’s first parade and came from her Brooklyn home again for Glenn’s second parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "格倫，一個常見的男性名字，通常用於英語國家。",
+    "en_def": "Glenn is a common male given name, often used in English-speaking countries.",
+    "example": "Glenn decided to take a road trip across the country."
+  },
+  "sentences_removed": 1
+}

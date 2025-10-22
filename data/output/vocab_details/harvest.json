@@ -1,0 +1,34 @@
+{
+  "lemma": "harvest",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Therefore, __(30)__ animals’ body parts, many fruits and vegetables can be harvested over and over again without dying. 26.(A) although (B) because (C) when (D) so that 27.(A)",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/harvest_ex_0_b142e3c2.mp3"
+      },
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/harvest_ex_1_d29f242a.mp3"
+      },
+      {
+        "text": "Much larger clear blocks are produced in Europe and Canada or harvested from a frozen river in Sweden.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/harvest_ex_2_e0ebf910.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "收穫，指農作物的收集或採摘。",
+    "en_def": "The process of gathering mature crops from the fields.",
+    "example": "Farmers work hard to harvest the wheat every summer."
+  },
+  "sentences_removed": 0
+}

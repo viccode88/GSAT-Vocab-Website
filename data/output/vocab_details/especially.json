@@ -1,0 +1,94 @@
+{
+  "lemma": "especially",
+  "count": 18,
+  "pos_dist": {
+    "ADV": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, “especially when everybody’s dancing, because I love to dance.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/especially_ex_0_b566d3ae.mp3"
+      },
+      {
+        "text": "If your answer is “Yes!” to these questions, then you have good __(21)__ to take the course we have designed especially for people like you.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/especially_ex_1_6866c0dd.mp3"
+      },
+      {
+        "text": "In view of all these strengths, in the 1930s the United States and Canada undertook a research project in which they managed to breed an especially nutritious soybean with a high oil content.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/especially_ex_2_0eb924d8.mp3"
+      },
+      {
+        "text": "Pod hotels are also seen in Europe and North America, especially in big cities like New York, London, and Paris.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/especially_ex_3_db4a5910.mp3"
+      },
+      {
+        "text": "Some—especially the elderly and those with weak immune systems—die.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/especially_ex_4_6af4254c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The mother’s fear of loss especially makes sense since the infant/toddler years of life are fragile ones.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the 1960s, and especially since the 1980s, the high school prom in many areas has become a serious exercise in excessive consumption, with boys renting expensive tuxedos and girls wearing designer gowns.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Air travel is especially criticized for exhausting natural resources and causing environmental damage.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major message the author is trying to convey to readers? (A) All people, especially those working in the hospitals, should reduce the use of plastics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "PBS is especially well known for the quality of its many educational TV programs.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Especially when a burger craving hits…a GreenBurger does the trick.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Depending on your pet’s mood, the picture will capture an interested, curious expression or possibly a look of annoyance, especially if you’ve awakened it from a nap.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why are hard candies especially bad for teeth?",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Ice sculptures are used as decorations in some cuisines, especially in Asia.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which word in the passage most likely means “to think about something seriously and carefully, especially before making an important decision”? 5.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "特別，尤其是",
+    "en_def": "Used to single out one person, thing, or situation over all others.",
+    "example": "I love all fruits, especially strawberries."
+  },
+  "sentences_removed": 3
+}

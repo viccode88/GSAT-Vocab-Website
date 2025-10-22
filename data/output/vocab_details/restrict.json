@@ -1,0 +1,23 @@
+{
+  "lemma": "restrict",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even if an animal is endangered, does that justify restricting its freedom?",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/restrict_ex_0_6e5c6de4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "限制，約束",
+    "en_def": "To limit or control something.",
+    "example": "The school decided to restrict the use of mobile phones during class."
+  },
+  "sentences_removed": 0
+}

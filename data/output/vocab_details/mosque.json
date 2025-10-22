@@ -1,0 +1,23 @@
+{
+  "lemma": "mosque",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Public dwellings lined its ground level; a marketplace and two mosques also fit comfortably inside.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/mosque_ex_0_58362b71.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "清真寺：穆斯林進行禮拜和宗教活動的場所。",
+    "en_def": "A mosque is a place of worship for Muslims.",
+    "example": "The community gathered at the mosque for Friday prayers."
+  },
+  "sentences_removed": 0
+}

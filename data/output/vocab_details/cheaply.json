@@ -1,0 +1,23 @@
+{
+  "lemma": "cheaply",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A country is said to have a comparative advantage over another when it can produce a commodity more cheaply.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/cheaply_ex_0_d79c2da4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "以低廉的價格，便宜地。",
+    "en_def": "In a manner that costs little; at a low price.",
+    "example": "She bought the dress cheaply during the sale."
+  },
+  "sentences_removed": 0
+}

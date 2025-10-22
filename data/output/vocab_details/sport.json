@@ -1,0 +1,89 @@
+{
+  "lemma": "sport",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He succeeded in his endeavor and transformed the martial art into Brazil’s national sport.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sport_ex_0_81d531a2.mp3"
+      },
+      {
+        "text": "Dr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sport_ex_1_cfd6bc96.mp3"
+      },
+      {
+        "text": "Today David wears casual clothes—khaki pants and a sports shirt—to the office.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sport_ex_2_710913a0.mp3"
+      },
+      {
+        "text": "To begin with, football is a quicker, more physical sport, and football fans enjoy the emotional involvement they feel while watching.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/sport_ex_3_afdf9791.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In Toronto in 1976, the idea of putting together different disability groups 26 sports competitions was born.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, the Paralympics are sports events for athletes from six different disability groups.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Glenn, who retires from the U.S. Senate next month, joins a list of individuals and sports teams honored with more than one ticker-tape parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not ESPN, the all-sports cable network, or even MTV, which is famous for its music videos.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Water sports are 31 the most popular tourist attraction.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "(E) Showing talent in sports after going to a foreign country.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Meanwhile, fans across the U.S. are flocking to sports shows to have their heroes sign anything from a bat to a box of cereal.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the author’s attitude toward Capoeira as a sport? (A) Admiring.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Beer companies often sponsor the sports events young people watch.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "體育運動，通常涉及競賽或體能活動。",
+    "en_def": "An activity involving physical exertion and skill, often competitive in nature.",
+    "example": "She enjoys playing various sports, especially soccer and basketball."
+  },
+  "sentences_removed": 1
+}

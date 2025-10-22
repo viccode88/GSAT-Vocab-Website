@@ -1,0 +1,69 @@
+{
+  "lemma": "pulse",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Each heat pulse lasted for 20 seconds.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pulse_ex_0_d52c7da4.mp3"
+      },
+      {
+        "text": "The sensors pick up signals from the person’s blood pressure, pulse, and perspiration.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/pulse_ex_1_00456af7.mp3"
+      },
+      {
+        "text": "Each volunteer wore a device that gave out 20-second-long pulses of heat to the right leg.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pulse_ex_2_0f93ad12.mp3"
+      },
+      {
+        "text": "During training, the volunteers would first hear a tone, followed by a period of silence, and then feel a heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pulse_ex_3_2679657b.mp3"
+      },
+      {
+        "text": "They then learned to associate the length of the silent pause with the intensity of the upcoming heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pulse_ex_4_7af6fbcc.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The longer the pause, the stronger the heat pulse would be, causing more severe pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To give the patient strong heat pulses beforehand.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The pulses were given to the arms of the volunteers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "From the length of the pause between a tone and the heat pulse. 56.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is true about the pulses of heat in the study?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "脈搏；心跳的節奏或頻率。",
+    "en_def": "A rhythmic throbbing of the arteries as blood is propelled through them, typically felt in the wrists or neck.",
+    "example": "The doctor checked her pulse to ensure her heart was beating normally."
+  },
+  "sentences_removed": 0
+}

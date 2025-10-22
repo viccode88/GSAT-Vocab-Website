@@ -1,0 +1,33 @@
+{
+  "lemma": "coastal",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They usually live near the coastal area where there is more fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/coastal_ex_0_763782ef.mp3"
+      },
+      {
+        "text": "The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coastal_ex_1_7fae8186.mp3"
+      },
+      {
+        "text": "It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/coastal_ex_2_ad079275.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "沿海的，與海岸有關的",
+    "en_def": "Relating to or located on the coast.",
+    "example": "The coastal town is famous for its beautiful beaches."
+  },
+  "sentences_removed": 0
+}

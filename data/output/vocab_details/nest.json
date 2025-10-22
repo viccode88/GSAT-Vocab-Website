@@ -1,0 +1,65 @@
+{
+  "lemma": "nest",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 8,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "they seize the pupae of the raided nest.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/nest_ex_0_0570f81c.mp3"
+      },
+      {
+        "text": "When the Amazons reach the nest of their intended victims, a fierce battle may take place.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/nest_ex_1_ecdf7603.mp3"
+      },
+      {
+        "text": "Each nest used to have but one queen, but now many mounds are often found with multiple queens.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/nest_ex_2_2a09bed8.mp3"
+      },
+      {
+        "text": "It’s common to find a nest with over 25,000 workers.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/nest_ex_3_3653b2c5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "A slave raid starts with an assembly of the Amazon warriors outside their own nest.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Each nest of the red ant has one queen.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "When was the first nest of the red ant found in the United States? (A) In 1930s.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "search strategies to link their food source to their Normally, the birds enjoy a smooth flight together nests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "巢，指鳥類或其他動物用來孵蛋或養育幼崽的地方，也可指一種結構或層次的安排。",
+    "en_def": "A structure or place made or chosen by animals for laying eggs or raising their young; can also refer to a layered arrangement.",
+    "example": "The bird built a nest in the tree to keep its eggs safe."
+  },
+  "sentences_removed": 0
+}

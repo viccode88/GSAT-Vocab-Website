@@ -1,0 +1,71 @@
+{
+  "lemma": "mark",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 6,
+    "VERB": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mark_ex_0_a5665c69.mp3"
+      },
+      {
+        "text": "Besides, one of his hands should bear a mark like a conch-shell.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/mark_ex_1_af7ce62d.mp3"
+      },
+      {
+        "text": "The mark of heroes is not necessarily the result of their action, but 24 they are willing to do for others and for their chosen cause.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/mark_ex_2_d4f1091b.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "You’ll 33 me by a mark on my brow.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But it later turned out that it was exactly his courage to “rebel” and to express his own ideas that marks his films with distinct creativity.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Waimea Canyon, called the \"Grand Canyon of the Pacific\" by Mark Twain, cuts a deep gash through the rugged central mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They have been used to mark the hours of the day, to call the 27 to prayer, and to signal emergency situations such as fires and invasions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Then the disciple 37 his knife and picked out the little pig with a mark on its brow.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After that sow gives birth, find the fourth piglet with a mark on its brow and, with one 34 of your knife, slaughter it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "標記；記號；痕跡",
+    "en_def": "A visible impression or sign made on a surface.",
+    "example": "She used a red pen to mark the important points in her notes."
+  },
+  "sentences_removed": 1
+}

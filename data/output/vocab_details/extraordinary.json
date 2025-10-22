@@ -1,0 +1,43 @@
+{
+  "lemma": "extraordinary",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is your chance to play around with the extraordinary abilities buried in unused parts of your brain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/extraordinary_ex_0_b8b34d01.mp3"
+      },
+      {
+        "text": "Heroes are selfless people who perform extraordinary acts.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/extraordinary_ex_1_01e8df94.mp3"
+      },
+      {
+        "text": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/extraordinary_ex_2_1b0ce33e.mp3"
+      },
+      {
+        "text": "It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/extraordinary_ex_3_ad079275.mp3"
+      },
+      {
+        "text": "Sometimes it is the ordinary nature of these objects that actually makes them so extraordinary.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/extraordinary_ex_4_d29d3188.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "非凡的，異常的，超出常規的。",
+    "en_def": "Very unusual or remarkable.",
+    "example": "Her extraordinary talent for music amazed everyone."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,17 @@
+{
+  "lemma": "caretaker",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "看護者；照顧者",
+    "en_def": "A person who takes care of someone or something.",
+    "example": "The caretaker of the park ensures that the grounds are clean and well-maintained."
+  },
+  "sentences_removed": 1
+}

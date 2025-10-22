@@ -1,0 +1,23 @@
+{
+  "lemma": "ny",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "__(23)__ the Health Ministry and the Malaria Center, The CAMBODIA DAILY will distribute the nets to the most__(24)__ areas of the country. __(25)__ to this campaign and save three lives for only $5, send your donation to: American Assistance for Cambodia, P.O. Box 2716, GPO, New York, NY 10116.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/ny_ex_0_c0d7b070.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "紐約州的簡稱，位於美國東北部，擁有繁華的城市和多樣的文化。",
+    "en_def": "Abbreviation for New York, a state in the northeastern United States known for its vibrant cities and diverse culture.",
+    "example": "I am planning a trip to NY to see the Statue of Liberty."
+  },
+  "sentences_removed": 0
+}

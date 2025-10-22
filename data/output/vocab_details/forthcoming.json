@@ -1,0 +1,23 @@
+{
+  "lemma": "forthcoming",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I am studying so hard for the forthcoming entrance exam that I do not have the of a free weekend to rest.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/forthcoming_ex_0_3aad5853.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "即將到來的；可預見的",
+    "en_def": "About to happen or appear; available when needed.",
+    "example": "The forthcoming event has generated a lot of excitement among the community."
+  },
+  "sentences_removed": 0
+}

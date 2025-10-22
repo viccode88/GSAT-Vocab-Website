@@ -1,0 +1,64 @@
+{
+  "lemma": "invite",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/invite_ex_0_c43366cc.mp3"
+      },
+      {
+        "text": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/invite_ex_1_9d9604dd.mp3"
+      },
+      {
+        "text": "As for our neighbors, they liked to invite my father to dinner so that they could tell him stories about their children, parents, friends, and pets.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/invite_ex_2_d6608993.mp3"
+      },
+      {
+        "text": "Refugee athletes have been invited to compete in the Olympic Games since 2016.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/invite_ex_3_80a88310.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "She was invited to enter an invention contest held by her school.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Every three months, the public is invited to the offices and bins containing items found in dead mail packages are sold to the highest bidder.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "To invite Tom to join a weekend family get-together.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Once I invited a group of friends round to my house, telling them that I was going to record their speech.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "邀請，請某人參加活動或聚會。",
+    "en_def": "To request the presence or participation of someone at an event.",
+    "example": "I would like to invite you to my birthday party."
+  },
+  "sentences_removed": 1
+}

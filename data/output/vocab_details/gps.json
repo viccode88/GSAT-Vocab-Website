@@ -1,0 +1,23 @@
+{
+  "lemma": "gps",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/gps_ex_0_8095420d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "全球定位系統，一種利用衛星信號來確定地球上物體位置的技術。",
+    "en_def": "Global Positioning System, a technology that uses satellite signals to determine the location of objects on Earth.",
+    "example": "I used my GPS to find the quickest route to the restaurant."
+  },
+  "sentences_removed": 0
+}

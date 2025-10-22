@@ -1,0 +1,34 @@
+{
+  "lemma": "spear",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A Maasai warrior is rarely seen without his spear and shield.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/spear_ex_0_0cdf1612.mp3"
+      },
+      {
+        "text": "Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spear_ex_1_a34ae090.mp3"
+      },
+      {
+        "text": "Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/spear_ex_2_053887a4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種長杆武器，通常有一個尖銳的頭部，用於刺擊或投擲。",
+    "en_def": "A long pole weapon with a sharp head, used for thrusting or throwing.",
+    "example": "The hunter skillfully threw the spear to catch the fish."
+  },
+  "sentences_removed": 0
+}

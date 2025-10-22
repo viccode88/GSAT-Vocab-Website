@@ -1,0 +1,38 @@
+{
+  "lemma": "newly",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Belize, where howler monkeys were newly reintroduced into a wildlife sanctuary, the howler monkeys were heard only a few times a week rather than every day.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/newly_ex_0_0aaebbbf.mp3"
+      },
+      {
+        "text": "Under the _____ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/newly_ex_1_a5fc4098.mp3"
+      },
+      {
+        "text": "A newly published study, however, revealed that rising temperatures are posing an 27 threat to the last tropical glaciers in Indonesia’s Papua region.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/newly_ex_2_353ca403.mp3"
+      },
+      {
+        "text": "The weta is a newly discovered insect species.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/newly_ex_3_e7f875ff.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "剛剛，最近，新的或新近的狀態或情況。",
+    "en_def": "Recently or for the first time; in a new manner.",
+    "example": "She has newly discovered a passion for painting."
+  },
+  "sentences_removed": 0
+}

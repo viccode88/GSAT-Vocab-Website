@@ -1,0 +1,17 @@
+{
+  "lemma": "heroes",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "英雄；在困難或危險中表現出勇氣和高尚品德的人。",
+    "en_def": "Individuals admired for their courage, outstanding achievements, or noble qualities.",
+    "example": "The firefighters are heroes for risking their lives to save others."
+  },
+  "sentences_removed": 1
+}

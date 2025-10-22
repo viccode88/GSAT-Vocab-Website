@@ -1,0 +1,23 @@
+{
+  "lemma": "aging",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Besides lung cancer, another _____ of smoking is wrinkles, a premature sign of aging.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/aging_ex_0_9db2ab02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "老化，指生物體隨著時間推移而發生的自然變化和衰退過程。",
+    "en_def": "The process of becoming older, which involves gradual changes and decline in physical and mental capabilities.",
+    "example": "Aging is a natural part of life that affects everyone."
+  },
+  "sentences_removed": 0
+}

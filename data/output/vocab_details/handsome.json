@@ -1,0 +1,23 @@
+{
+  "lemma": "handsome",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/handsome_ex_0_8d3eec89.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "英俊的；吸引人的外表。",
+    "en_def": "Attractive or good-looking, typically used to describe a man.",
+    "example": "He is considered one of the most handsome actors in Hollywood."
+  },
+  "sentences_removed": 0
+}

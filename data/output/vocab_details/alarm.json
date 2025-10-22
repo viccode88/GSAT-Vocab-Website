@@ -1,0 +1,75 @@
+{
+  "lemma": "alarm",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 11,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The benefits include an easier visibility of the time, and an alarm that gets increasingly louder __24__ turned off.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/alarm_ex_0_7b753ff3.mp3"
+      },
+      {
+        "text": "Guests may enjoy facilities such as free Wi-Fi, mobile charging, and even a soundless alarm system that raises the sleeping guests into a seated position while gradually brightening the lights.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/alarm_ex_1_7d271a40.mp3"
+      },
+      {
+        "text": "Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/alarm_ex_2_5e8db381.mp3"
+      },
+      {
+        "text": "The alarm rings even when it’s not set to go off.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/alarm_ex_3_3d209e50.mp3"
+      },
+      {
+        "text": "British workers thus relied on a human alarm clock known as a “knocker-up.”",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/alarm_ex_4_dd7ae148.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The following is one of the items. __21__ a student who is never on time, there is the new Projection Alarm Clock.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Through a projector, this attractive radio-alarm-clock is able to display the time onto a wall, ceiling, or anywhere __23__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But how did people get to work on time before alarm clocks were widely used?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "警報；鬧鐘",
+    "en_def": "A device that makes a loud sound or signal to warn of danger or to wake someone up.",
+    "example": "I set the alarm for 7 AM to wake up for work."
+  },
+  "sentences_removed": 0
+}

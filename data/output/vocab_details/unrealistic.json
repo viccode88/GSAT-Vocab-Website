@@ -1,0 +1,28 @@
+{
+  "lemma": "unrealistic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/unrealistic_ex_0_7aac2588.mp3"
+      },
+      {
+        "text": "mistake found in parenthood is that parents often set unrealistic goals for their children.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/unrealistic_ex_1_a6a682b1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不切實際的；不符合現實的",
+    "en_def": "Not realistic; not based on or reflecting the actual situation.",
+    "example": "Her expectations for the project were unrealistic given the limited budget."
+  },
+  "sentences_removed": 0
+}

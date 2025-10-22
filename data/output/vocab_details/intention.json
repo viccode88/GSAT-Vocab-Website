@@ -1,0 +1,28 @@
+{
+  "lemma": "intention",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Winning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/intention_ex_0_eaffa7d1.mp3"
+      },
+      {
+        "text": "We should not judge the intention of a person by his body language.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intention_ex_1_187ac25f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "意圖；目的",
+    "en_def": "A plan or aim that one intends to achieve.",
+    "example": "Her intention was to help the community by volunteering."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "sweater",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then she put on both her sweater and her coat so that she wouldn’t have to carry them.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sweater_ex_0_8b25b073.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用毛線或其他纖維編織而成的衣物，通常用來保暖。",
+    "en_def": "A knitted garment typically made of wool or other fibers, worn to keep warm.",
+    "example": "She wore a cozy sweater on the chilly evening."
+  },
+  "sentences_removed": 0
+}

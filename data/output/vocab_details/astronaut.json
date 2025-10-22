@@ -1,0 +1,99 @@
+{
+  "lemma": "astronaut",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Diapers are _(23)_ used by astronauts when they are outside the space shuttle, wearing a spacesuit.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/astronaut_ex_0_9ae98b26.mp3"
+      },
+      {
+        "text": "The astronauts need a space suit to survive in space.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/astronaut_ex_1_6afc2789.mp3"
+      },
+      {
+        "text": "Also, astronauts conduct experiments on the shuttle to learn how space conditions, such as microgravity, affect humans, animals, plants, and insects.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/astronaut_ex_2_2b039500.mp3"
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/astronaut_ex_3_3fc05fc0.mp3"
+      },
+      {
+        "text": "From space, astronauts study the geography, pollution, and weather patterns on Earth.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/astronaut_ex_4_58427a5c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The passage is mainly about (A) how astronauts fly the space shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "This “Charlie Brown effect” will be more 19 when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Astronauts sometimes go outside the shuttle to work.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Today, they are more interested in how reduced gravity affects the astronauts’ 17 condition.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The astronauts can hardly breathe in a space suit.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The astronauts keep themselves warm in a space suit.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The astronauts need a space suit to work outside the shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides working, regular exercise is essential to keep the astronauts healthy in microgravity.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "宇航員，指在太空中進行科學研究或探索的人。",
+    "en_def": "An astronaut is a person trained to travel and work in space.",
+    "example": "The astronaut floated gracefully in the zero-gravity environment of the space station."
+  },
+  "sentences_removed": 2
+}

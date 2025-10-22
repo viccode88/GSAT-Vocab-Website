@@ -1,0 +1,23 @@
+{
+  "lemma": "towel",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We supply everything, 18 waist-high tubs, shampoo, and towels.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/towel_ex_0_14918563.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用於擦乾身體或物品的布料，通常吸水性強。",
+    "en_def": "A piece of absorbent fabric used for drying the body or objects.",
+    "example": "I used a towel to dry my hair after the shower."
+  },
+  "sentences_removed": 0
+}

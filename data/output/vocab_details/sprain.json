@@ -1,0 +1,23 @@
+{
+  "lemma": "sprain",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When he returned, he felt “pretty good.” 31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/sprain_ex_0_74d346d5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "扭傷，指關節或肌肉因過度拉伸或撕裂而造成的傷害。",
+    "en_def": "A sprain is an injury to a ligament caused by overstretching or tearing.",
+    "example": "She twisted her ankle and ended up with a sprain."
+  },
+  "sentences_removed": 0
+}

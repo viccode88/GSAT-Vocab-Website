@@ -1,0 +1,49 @@
+{
+  "lemma": "strange",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The native greeted the travelers in a language which was strange to them.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/strange_ex_0_c3b41260.mp3"
+      },
+      {
+        "text": "The monkey house has a strange fascination.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/strange_ex_1_beb76919.mp3"
+      },
+      {
+        "text": "In fact, it tasted very strange...",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/strange_ex_2_9e0d982a.mp3"
+      },
+      {
+        "text": "Tom: Who do you ask in a strange town?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/strange_ex_3_a5dc7453.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This situation is so strange to us that we do not know what will __(29)__ of it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They all have blond hair and “strange eyes.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "奇怪的，不尋常的",
+    "en_def": "Unusual or surprising in a way that is unsettling or hard to understand.",
+    "example": "The strange noise coming from the attic made her feel uneasy."
+  },
+  "sentences_removed": 0
+}

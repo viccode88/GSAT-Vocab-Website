@@ -1,0 +1,49 @@
+{
+  "lemma": "consume",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Research shows that consuming a minimum of 25 grams of soy protein a day can lower blood cholesterol levels in people with high cholesterol problems.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/consume_ex_0_33e7fcaa.mp3"
+      },
+      {
+        "text": "However, alcohol could not be detected for any of the drinks if the test was given 15 minutes after the drink was consumed.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/consume_ex_1_f3e0df93.mp3"
+      },
+      {
+        "text": "Today, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/consume_ex_2_18d54191.mp3"
+      },
+      {
+        "text": "Hard candies take a long time to consume and are also a bad choice for Halloween treats.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/consume_ex_3_2d22e9c8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The building went through a complex and time-consuming process of 30 , and the famous monument was finally reopened on December 8, 2024.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Zoe was rather healthy when she was found, and once under the care of the orphanage she was very happy, consuming six gallons of vitamin-rich milk a day and earning a reputation as a confident, naughty and mischievous youngster.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "消耗，使用或攝取（食物、資源等）。",
+    "en_def": "To use up a resource or to eat or drink something.",
+    "example": "We need to consume less energy to protect the environment."
+  },
+  "sentences_removed": 1
+}

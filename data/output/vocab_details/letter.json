@@ -1,0 +1,109 @@
+{
+  "lemma": "letter",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By the way, if you can, please send this letter back to us.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/letter_ex_0_22d7692b.mp3"
+      },
+      {
+        "text": "Which advertisements are NOT placed by foreign companies? (Write down the letters representing such advertisements.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/letter_ex_1_d75fc299.mp3"
+      },
+      {
+        "text": "In this method of printing, individual letters were made from separate pieces of metal.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/letter_ex_2_e346b0dd.mp3"
+      },
+      {
+        "text": "When asked what color is evoked by a letter or number, synesthetic people would persistently give the same answer even if tested months or years apart.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/letter_ex_3_cba57e97.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The first printing was done from wood blocks one letter at a time by hand.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They wrote letters to the tuna companies and supermarkets asking them to find a way to spare dolphins.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Where is Eleanor’s letter sent to? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The King agreed and gave Nehemiah a letter “to the governors of the province beyond the river,” requesting safe passage for him as he travelled through their lands.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The first English book printed in movable type was (A) done from wood blocks one letter at a time.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Now that we all use pencils, doodling is on the increase, and the quality of pencilwomanship is impressive, as you can tell from my handwriting in this letter.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned in the passage as a form of passport? (A) A letter.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "When the printing was finished, the letters could be taken apart and rearranged to print something else.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Mary wrote a letter of to the manufacturer after her new car broke down three times in the same week.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a reason for writing the letter?",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If these letters were linked over and pressed on to paper, they would print the words.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "On the basis of the letter, is the most likely relationship between Sally and Tom? (A) Mother and son.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In some cases, people with synesthesia may experience colors when they hear, read, or even think of letters and numbers.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "字母或信件的書寫形式，通常用於交流或傳遞信息。",
+    "en_def": "A written or printed message addressed to a person or organization.",
+    "example": "She received a letter from her friend yesterday."
+  },
+  "sentences_removed": 0
+}

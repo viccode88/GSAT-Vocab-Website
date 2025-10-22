@@ -1,0 +1,23 @@
+{
+  "lemma": "opponent",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She injured her knee when she was trying to block her opponent.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/opponent_ex_0_a7f18db9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對手；競爭者",
+    "en_def": "A person or group that opposes or competes against another in a contest or conflict.",
+    "example": "She trained hard to prepare for her opponent in the championship match."
+  },
+  "sentences_removed": 0
+}

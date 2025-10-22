@@ -1,0 +1,38 @@
+{
+  "lemma": "educate",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A second kind of medicine is called “natural cures,” or “folk medicine,” in which less educated people try to cure sicknesses with various herbs.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/educate_ex_0_d92bfd33.mp3"
+      },
+      {
+        "text": "Educated in Paris, Cartier-Bresson developed an early love for literature and the arts.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/educate_ex_1_87fd0787.mp3"
+      },
+      {
+        "text": "After she graduates, Deborah plans to use her knowledge to educate people how to best take care of their bodies and cope with the feelings of hopelessness that she remembers so well.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/educate_ex_2_b74ee962.mp3"
+      },
+      {
+        "text": "Understanding these differences is important in raising and educating children.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/educate_ex_3_1190f545.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "教育；培養知識、技能或品德的過程。",
+    "en_def": "To provide knowledge, skills, or moral development to someone.",
+    "example": "Teachers work hard to educate their students."
+  },
+  "sentences_removed": 0
+}

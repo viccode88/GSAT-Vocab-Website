@@ -1,0 +1,28 @@
+{
+  "lemma": "parental",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Research also suggests that firstborn children generally become more conservative than other children because they receive most of the parental discipline.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/parental_ex_0_65079bd5.mp3"
+      },
+      {
+        "text": "This is mainly a result of parental expectations.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/parental_ex_1_1d7a4411.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "父母的；與父母有關的",
+    "en_def": "Relating to a parent or parents.",
+    "example": "Parental guidance is recommended for this movie."
+  },
+  "sentences_removed": 0
+}

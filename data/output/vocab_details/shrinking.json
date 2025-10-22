@@ -1,0 +1,23 @@
+{
+  "lemma": "shrinking",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "the shrinking continues, India will disappear in 200 million years.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/shrinking_ex_0_9e3454cd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "縮小，變小的過程或狀態。",
+    "en_def": "The process or state of becoming smaller in size.",
+    "example": "The sweater is shrinking after being washed in hot water."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "mukaebi",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Celebration often begins with mukaebi (welcoming fire), during which people make a small bonfire in front of their house to guide spirits upon their return back home.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mukaebi_ex_0_8b486eae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "日本傳統的火祭，通常在夏季舉行，以驅趕邪靈和迎接祖先的靈魂。",
+    "en_def": "A traditional Japanese fire festival, typically held in summer, to drive away evil spirits and welcome the souls of ancestors.",
+    "example": "During the mukaebi festival, people gather to light bonfires and celebrate with their families."
+  },
+  "sentences_removed": 0
+}

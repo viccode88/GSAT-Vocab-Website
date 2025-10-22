@@ -1,0 +1,33 @@
+{
+  "lemma": "examine",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What does the word rescued in the second paragraph mean? (A) recovered (B) prescribed (C) examined (D) discovered 45.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/examine_ex_0_3e104f4d.mp3"
+      },
+      {
+        "text": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/examine_ex_1_b1b536b7.mp3"
+      },
+      {
+        "text": "The report examines nine countries where a state of war has become the norm.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/examine_ex_2_cadc4bc8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "檢查；仔細觀察或分析某物以了解其狀況或性質。",
+    "en_def": "To inspect or scrutinize something carefully to understand its condition or nature.",
+    "example": "The teacher will examine the students' projects for accuracy."
+  },
+  "sentences_removed": 0
+}

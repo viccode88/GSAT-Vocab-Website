@@ -1,0 +1,28 @@
+{
+  "lemma": "declare",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/declare_ex_0_7d925647.mp3"
+      },
+      {
+        "text": "In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/declare_ex_1_cbd24410.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "宣告；聲明；正式宣布某事",
+    "en_def": "To make a formal statement or announcement.",
+    "example": "The government will declare a state of emergency."
+  },
+  "sentences_removed": 0
+}

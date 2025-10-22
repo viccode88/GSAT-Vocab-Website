@@ -1,0 +1,110 @@
+{
+  "lemma": "swiss",
+  "count": 20,
+  "pos_dist": {
+    "ADJ": 18,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was a lifesaver for Swiss knife makers, who were struggling to compete with cheaper German imports.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/swiss_ex_0_bff544cd.mp3"
+      },
+      {
+        "text": "Named “Velcro,” from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/swiss_ex_1_5002e6a1.mp3"
+      },
+      {
+        "text": "Swiss generals decided to issue each soldier a standard knife to serve both as a screwdriver and a can opener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/swiss_ex_2_657a27bc.mp3"
+      },
+      {
+        "text": "The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/swiss_ex_3_12f666cb.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To introduce the functions of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "However, it seems that “Schweizer Offizier Messer” was too difficult for them to say, so they just called it the Swiss army knife, and that is the name it is now known by all over the world. 41.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To emphasize the importance of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The Swiss army needed a knife for every soldier.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Every good Swiss citizen had a knife in his pocket.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "And as they could buy the Swiss army knife at shops on military bases, they bought huge quantities of them.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Why didn’t the Swiss army purchase the Swiss Officer’s Knife?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain the origin of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In Switzerland, there is a saying that every good Swiss citizen has one in his or her pocket.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "A few years after the soldier’s knife was issued, the “Schweizer Offizier Messer,” or Swiss Officer’s Knife, came on the market.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Who gave the name “the Swiss army knife” to the knife discussed in the passage? (A) Carl Elsener.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "瑞士的；瑞士人或瑞士語的",
+    "en_def": "Relating to Switzerland or its people or culture.",
+    "example": "She loves Swiss chocolate and often buys it as a gift."
+  },
+  "sentences_removed": 1
+}

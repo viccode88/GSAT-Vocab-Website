@@ -1,0 +1,23 @@
+{
+  "lemma": "pup",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Do fireworks scare your pup?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pup_ex_0_f89c153b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小狗，幼犬。",
+    "en_def": "A young dog.",
+    "example": "The pup wagged its tail happily."
+  },
+  "sentences_removed": 0
+}

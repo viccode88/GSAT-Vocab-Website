@@ -1,0 +1,28 @@
+{
+  "lemma": "infectious",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which word in the passage is closest in meaning to ‘infectious’?",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/infectious_ex_0_75203bab.mp3"
+      },
+      {
+        "text": "Someone else remarked that “a merry heart does good, like medicine”—and infectious laughter is often catching.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/infectious_ex_1_c44c6f81.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "傳染性的，能夠通過接觸或空氣傳播的疾病或病原體。",
+    "en_def": "Capable of being transmitted from one individual to another, often referring to diseases.",
+    "example": "The doctor confirmed that the flu is an infectious illness."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "thermoplastic",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Over the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/thermoplastic_ex_0_5e4546f8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "熱塑性材料是一種在加熱時變軟並可塑形的材料，冷卻後則變硬。",
+    "en_def": "A thermoplastic is a type of plastic that becomes soft when heated and hard when cooled, allowing it to be molded and remolded.",
+    "example": "The toy was made from a durable thermoplastic that could withstand rough play."
+  },
+  "sentences_removed": 0
+}

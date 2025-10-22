@@ -1,0 +1,23 @@
+{
+  "lemma": "severity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The severity of tropical diseases is also a matter of whether governments are capable—and willing— to defend their populations against infections.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/severity_ex_0_7384d139.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "嚴重性；嚴厲程度",
+    "en_def": "The quality or state of being severe; intensity or seriousness of a situation or condition.",
+    "example": "The severity of the storm caused widespread damage in the area."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "revolution",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is the only one of the whole group that 24 the French Revolution, while the rest were melted down for weapons.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/revolution_ex_0_bf5da5dc.mp3"
+      },
+      {
+        "text": "According to the legend, notes of 33 plans for a revolution to overthrow the Mongols were hidden in mooncakes that would ordinarily have been stuffed with sweet bean paste.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/revolution_ex_1_3f3bb42b.mp3"
+      },
+      {
+        "text": "When it was arranged for her to sing at Constitution Hall in Washington, D.C., the Daughters of the American Revolution opposed it because of her color.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/revolution_ex_2_3b35d9af.mp3"
+      },
+      {
+        "text": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/revolution_ex_3_cfff768e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He participated in three revolutions and fought with people when he was insulted.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the early 1600s, tea was introduced to Europe due to (A) revolution.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The revolution turned out to be 34 and eventually led to the formation of the Ming Dynasty.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "革命；徹底的變革或轉變。",
+    "en_def": "A forcible overthrow of a government or social order in favor of a new system.",
+    "example": "The revolution led to significant changes in the country's political landscape."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,115 @@
+{
+  "lemma": "cost",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 15,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Currently, health care costs account for __(37)__ twelve percent of the gross domestic product.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cost_ex_0_04dd57e4.mp3"
+      },
+      {
+        "text": "There are environmental costs of desalination as well.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cost_ex_1_0f77d0f4.mp3"
+      },
+      {
+        "text": "Trade is driven by different production costs in different countries, making 26 cheaper for some countries to import goods rather than make them.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/cost_ex_2_ed2286ac.mp3"
+      },
+      {
+        "text": "Although there are extra costs involved in going digital—the cost of memory cards for storage and the special paper for printing—many buyers have been willing to make the switch.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/cost_ex_3_b6df8381.mp3"
+      },
+      {
+        "text": "In other words (B) By no means (C) At any cost (D) On the contrary 30.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cost_ex_4_246467f5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Reducing these impacts is possible, but it adds to the costs.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The high cost of desalinating seawater. (B)",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Still, many animal rights activists believe the cost of confining animals outweighs the benefits.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The cost of MOOC courses. 52.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Participation costs the donor nothing and can make such a difference to others. 41.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If student enrollment continues to drop, some programs at the university may be to reduce the operation costs.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the end of the class, you __(25)__ with you classmates the meals you have created, and you will leave with recipe handouts and , more importantly, the ability to cook two weeks of fantastic, low-cost meals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "25 its low cost, this innovative material is already being used by many leading fashion companies to make their products.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The structure, to be erected in the redeveloped areas of the capital’s 13th district, will cost 250 million francs (US$42 million).",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Already in Britain people say that computer crimes are costing companies between 500 million pounds and 2.5 billion pounds a year.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "the purchase of family-sized insecticide-treated mosquito nets costing $5 each.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The amount, the police department reported, would pay the costs of rushing special equipment and eighty police officers in order to save him.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "成本；價格；花費",
+    "en_def": "The amount of money required to purchase something or the expense incurred in producing something.",
+    "example": "The cost of the new car was higher than I expected."
+  },
+  "sentences_removed": 0
+}

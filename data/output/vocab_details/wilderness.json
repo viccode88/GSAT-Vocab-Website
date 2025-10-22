@@ -1,0 +1,23 @@
+{
+  "lemma": "wilderness",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Few of them understood that on their way they would have to cross a harsh wilderness.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wilderness_ex_0_25459092.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "荒野；未開發的自然地區。",
+    "en_def": "An uncultivated, uninhabited, and inhospitable region.",
+    "example": "We went camping in the wilderness to escape the city."
+  },
+  "sentences_removed": 0
+}

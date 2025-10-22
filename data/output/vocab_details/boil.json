@@ -1,0 +1,23 @@
+{
+  "lemma": "boil",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With hot stoves, boiling water and sharp knives at hand, it is understandable that parents don’t want children in the kitchen when they’re making dinner.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/boil_ex_0_3013d976.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "煮沸；使液體達到沸點，產生氣泡並轉變為氣體。",
+    "en_def": "To heat a liquid until it reaches its boiling point and turns into vapor.",
+    "example": "I need to boil some water for the pasta."
+  },
+  "sentences_removed": 0
+}

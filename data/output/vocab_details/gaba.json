@@ -1,0 +1,44 @@
+{
+  "lemma": "gaba",
+  "count": 7,
+  "pos_dist": {
+    "PROPN": 5,
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which of the following statements is true regarding GABA in zebrafish? (A) Increasing GABA level facilitates neuron activities.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gaba_ex_0_750325b3.mp3"
+      },
+      {
+        "text": "They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gaba_ex_1_14624ced.mp3"
+      },
+      {
+        "text": "The team is beginning to test the GABA theory on mice.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gaba_ex_2_864126e3.mp3"
+      },
+      {
+        "text": "This suggested that GABA plays an important role in the fish’s ability to regain their sight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gaba_ex_3_cda4d208.mp3"
+      },
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/gaba_ex_4_81593f0b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種氨基酸，作為神經遞質在中樞神經系統中起到抑制作用。",
+    "en_def": "A type of amino acid that acts as an inhibitory neurotransmitter in the central nervous system.",
+    "example": "GABA is often used as a supplement to help reduce anxiety."
+  },
+  "sentences_removed": 0
+}

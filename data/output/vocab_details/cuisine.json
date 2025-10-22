@@ -1,0 +1,23 @@
+{
+  "lemma": "cuisine",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ice sculptures are used as decorations in some cuisines, especially in Asia.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cuisine_ex_0_88cc3aa0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "烹飪風格或特定地區的食物",
+    "en_def": "A style of cooking or a specific set of dishes characteristic of a particular region or culture.",
+    "example": "Italian cuisine is known for its use of fresh ingredients and bold flavors."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,115 @@
+{
+  "lemma": "fashion",
+  "count": 22,
+  "pos_dist": {
+    "NOUN": 19,
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/fashion_ex_0_97d1c356.mp3"
+      },
+      {
+        "text": "“It is great to see leaders in the fashion industry recognizing that the animals need their fur more than we do.” 49.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/fashion_ex_1_439f04f8.mp3"
+      },
+      {
+        "text": "He is a famous fashion designer.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/fashion_ex_2_bd8057e0.mp3"
+      },
+      {
+        "text": "Wearing a bindi has become more of a fashion statement than a religious custom.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/fashion_ex_3_47d9ae26.mp3"
+      },
+      {
+        "text": "Women’s fashions are changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/fashion_ex_4_2cec18bf.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He is an editor of Fashion Wire Daily.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The encouraging response to McCarroll’s show confirmed that change is happening in fashion.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is reported that hip-hop fashion alone generates $750 million to $1 billion annually.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many teenagers make a lot of profits in the fashion market today.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Anything but fur and leather,” he told Fashion Wire Daily.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Even though 65% of teens claim that they rely on themselves for their fashion ideas, it is estimated that less than 20% of the teen population is innovative enough to drive fashion trends, according to a recent study by a marketing firm.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for this passage? (A) The Importance of Marketing (B) The Power of Youth Culture (C) The Popularity of Hip-hop Fashion (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "25 its low cost, this innovative material is already being used by many leading fashion companies to make their products.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Fashion designer Tommy Hilfiger was fully aware of the power of youth culture.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The word “prom” was first used in the 1890s, referring to formal dances in which the guests of a party would display their fashions and dancing skills during the evening’s grand march.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "時尚；流行的風格或趨勢，特別是在服裝、配飾和生活方式方面。",
+    "en_def": "A popular trend, especially in styles of dress and ornament or manners of behavior.",
+    "example": "She always keeps up with the latest fashion trends."
+  },
+  "sentences_removed": 2
+}

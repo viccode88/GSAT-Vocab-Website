@@ -1,0 +1,23 @@
+{
+  "lemma": "diminish",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Even the development of radio and television has not diminished the importance of printing.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/diminish_ex_0_4bab3a3d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "減少，縮小",
+    "en_def": "To make or become less; to decrease.",
+    "example": "The medicine helped to diminish her pain."
+  },
+  "sentences_removed": 0
+}

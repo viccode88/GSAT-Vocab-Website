@@ -1,0 +1,54 @@
+{
+  "lemma": "unnecessary",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The English first ridiculed forks as being unnecessary.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unnecessary_ex_0_47a75252.mp3"
+      },
+      {
+        "text": "On the other hand, plants cannot move __(29)__ and do not need to learn to avoid certain things, so this sensation would be unnecessary.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/unnecessary_ex_1_508a40a2.mp3"
+      },
+      {
+        "text": "“So many people want to protect animals and live their lives without causing unnecessary cruelty.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/unnecessary_ex_2_d736d52a.mp3"
+      },
+      {
+        "text": "Those unnecessary deaths are attributable in part to the woman's choice of a large automobile.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/unnecessary_ex_3_398d7935.mp3"
+      },
+      {
+        "text": "Your desk is crowded with too many unnecessary things.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/unnecessary_ex_4_89e6c71d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "You know how to avoid unnecessary activities!",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "不必要的；多餘的",
+    "en_def": "Not needed or required; excessive.",
+    "example": "The extra decorations were unnecessary for the simple event."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "newlywed",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The 1962 celebration \"was more enthusiastic -- a lot more people,\" said one spectator, who as a young newlywed attended Glenn’s first parade and came from her Brooklyn home again for Glenn’s second parade.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/newlywed_ex_0_89e03752.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "新婚者，指剛結婚不久的夫妻。",
+    "en_def": "A person who has recently married.",
+    "example": "The newlyweds went on a romantic honeymoon to the beach."
+  },
+  "sentences_removed": 0
+}

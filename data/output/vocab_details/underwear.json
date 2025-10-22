@@ -1,0 +1,33 @@
+{
+  "lemma": "underwear",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Underwear may be worn as one prefers.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/underwear_ex_0_429ec4d9.mp3"
+      },
+      {
+        "text": "Soon after that, adolescent girls around the world began wearing their underwear outside their clothes.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/underwear_ex_1_c7b0469f.mp3"
+      },
+      {
+        "text": "What’s the proper way of wearing the kilt? (A) It should be worn with underwear underneath it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/underwear_ex_2_ff4d3011.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "內衣，通常穿在外衣下面的衣物。",
+    "en_def": "Clothing worn beneath outer clothes, typically next to the skin.",
+    "example": "She bought new underwear for the summer."
+  },
+  "sentences_removed": 0
+}

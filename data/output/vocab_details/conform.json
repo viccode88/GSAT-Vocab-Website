@@ -1,0 +1,23 @@
+{
+  "lemma": "conform",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His style faithfully conformed to the artistic traditions of his time.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/conform_ex_0_d7323310.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "遵從，符合，適應",
+    "en_def": "To comply with rules, standards, or laws; to behave according to socially accepted conventions.",
+    "example": "She decided to conform to the dress code at her new job."
+  },
+  "sentences_removed": 0
+}

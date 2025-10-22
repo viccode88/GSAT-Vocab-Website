@@ -1,0 +1,17 @@
+{
+  "lemma": "stair",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "樓梯，通常由一系列的台階組成，用於連接不同高度的地面。",
+    "en_def": "A set of steps leading from one floor to another.",
+    "example": "She walked up the stairs to reach her apartment."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "hartman",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The park was built by Gordon Hartman, a former real estate developer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/hartman_ex_0_ab35624e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "哈特曼，通常指一種特定的地名或姓氏，可能與某個人或地方有關。",
+    "en_def": "Hartman is often a surname or a reference to a specific place or individual.",
+    "example": "Mr. Hartman is known for his contributions to environmental science."
+  },
+  "sentences_removed": 1
+}

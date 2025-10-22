@@ -1,0 +1,33 @@
+{
+  "lemma": "thrive",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It immediately began to thrive in the new land and colonies spread quickly throughout the southeastern states.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/thrive_ex_0_f80a2bd3.mp3"
+      },
+      {
+        "text": "Kauai is not for people who thrive on crowds or nightlife.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/thrive_ex_1_2152cd26.mp3"
+      },
+      {
+        "text": "In this way, intimacy enables us to thrive and grow.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/thrive_ex_2_e0f046ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "繁榮；興旺；茁壯成長",
+    "en_def": "To grow or develop successfully; to prosper.",
+    "example": "The plants thrive in the warm sunlight."
+  },
+  "sentences_removed": 0
+}

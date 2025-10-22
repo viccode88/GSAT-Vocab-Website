@@ -1,0 +1,23 @@
+{
+  "lemma": "charging",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Guests may enjoy facilities such as free Wi-Fi, mobile charging, and even a soundless alarm system that raises the sleeping guests into a seated position while gradually brightening the lights.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/charging_ex_0_7d271a40.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "充電，為設備或電池提供電力以恢復其能量。",
+    "en_def": "The act of supplying power to a device or battery to restore its energy.",
+    "example": "I need to start charging my phone before it runs out of battery."
+  },
+  "sentences_removed": 0
+}

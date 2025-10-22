@@ -1,0 +1,23 @@
+{
+  "lemma": "provision",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His flight was supposed to last only 15 minutes, so there was no provision made for him to relieve himself in the capsule.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/provision_ex_0_d3a1f4bc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "供應或提供的物資或條件，特別是食物或其他必需品。",
+    "en_def": "The act of providing or supplying something, especially food or other necessities.",
+    "example": "The organization made a provision for the homeless during the winter months."
+  },
+  "sentences_removed": 1
+}

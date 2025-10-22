@@ -1,0 +1,23 @@
+{
+  "lemma": "solemnly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I turned on the tape-recorder and each in turn solemnly counted from one to twenty in their best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/solemnly_ex_0_7a1b8d10.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "莊嚴地，嚴肅地",
+    "en_def": "In a serious, earnest, or grave manner.",
+    "example": "He solemnly promised to always tell the truth."
+  },
+  "sentences_removed": 0
+}

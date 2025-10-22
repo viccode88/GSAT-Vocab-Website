@@ -1,0 +1,38 @@
+{
+  "lemma": "inner",
+  "count": 4,
+  "pos_dist": {
+    "ADJ": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Its soft inner part is often discarded.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/inner_ex_0_f3c48f01.mp3"
+      },
+      {
+        "text": "It represents a third, or inner eye.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/inner_ex_1_8fa8f14d.mp3"
+      },
+      {
+        "text": "For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/inner_ex_2_ea259e7a.mp3"
+      },
+      {
+        "text": "Over the years, only the edible soft inner flesh has been used.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/inner_ex_3_d4c0cbd7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "內部的，內心的，或與內部有關的。",
+    "en_def": "Situated inside; internal or relating to the inner part.",
+    "example": "She found peace in her inner thoughts."
+  },
+  "sentences_removed": 0
+}

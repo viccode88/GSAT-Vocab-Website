@@ -1,0 +1,79 @@
+{
+  "lemma": "door",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 16
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The car doors were still locked, the windows tightly shut, and on the back seat were their two jackets.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/door_ex_0_e78bdb3c.mp3"
+      },
+      {
+        "text": "Slowly, the door opened and the old man appeared.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/door_ex_1_ba5771b5.mp3"
+      },
+      {
+        "text": "The Kiddie Stool will swing out only when the cabinet door opens.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/door_ex_2_62317479.mp3"
+      },
+      {
+        "text": "Then I locked all the doors and left.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/door_ex_3_b25d2460.mp3"
+      },
+      {
+        "text": "The doors of these department stores slide open _____ when you approach them.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/door_ex_4_43afd26c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When he opened the door, he was (29) by what he saw.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "These devices made it possible for doors to open by themselves and wine to flow magically out of statues’ mouths.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The empty boxes and many other things fell all over them the minute he opened the door.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It swings from left to right to be attached to the cabinet door.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For your own , please don't open the door until the train fully stops.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "門，通常用於進出房間或建築物的開口。",
+    "en_def": "A movable barrier used to close off an entrance, typically consisting of a panel that swings on hinges or slides.",
+    "example": "She opened the door to let in some fresh air."
+  },
+  "sentences_removed": 3
+}

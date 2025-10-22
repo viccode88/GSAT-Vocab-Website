@@ -1,0 +1,79 @@
+{
+  "lemma": "factor",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/factor_ex_0_97d1c356.mp3"
+      },
+      {
+        "text": "One key factor to success is to have a definite goal first and then do your best to the goal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/factor_ex_1_bb62ccd8.mp3"
+      },
+      {
+        "text": "When people encounter a complex issue and form an opinion, how thoroughly have they 26 all the important factors involved before they make their decisions?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/factor_ex_2_6ecaea80.mp3"
+      },
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/factor_ex_3_8a194e44.mp3"
+      },
+      {
+        "text": "Another factor that has had a great 37 on the choice of names is the spread of culture through the media.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/factor_ex_4_892d57a1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The last factor contributing to the 39 of coral reefs is people.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Those who take pride in being decisive often try their best to consider all the factors beforehand.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following factors might affect Dr. Begall’s research result?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is NOT mentioned as a factor for the excellence of distance runners in Ethiopia? .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In addition to these two factors, you should also have ___(24)___ important information.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the most important factor that affects the ABT test result for energy drink consumers? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "因子；因素；成分",
+    "en_def": "A number or quantity that when multiplied with another produces a given number or expression.",
+    "example": "The teacher asked the students to find the factors of 12."
+  },
+  "sentences_removed": 1
+}

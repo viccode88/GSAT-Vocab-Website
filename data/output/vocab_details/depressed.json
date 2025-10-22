@@ -1,0 +1,28 @@
+{
+  "lemma": "depressed",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/depressed_ex_0_f9c0f273.mp3"
+      },
+      {
+        "text": "If you are feeling depressed or you have been working too hard, going to these places may be just the right thing to make you feel better. 48.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/depressed_ex_1_97425ec7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感到沮喪或情緒低落的狀態。",
+    "en_def": "A state of feeling sad, despondent, or in low spirits.",
+    "example": "She felt depressed after hearing the bad news."
+  },
+  "sentences_removed": 1
+}

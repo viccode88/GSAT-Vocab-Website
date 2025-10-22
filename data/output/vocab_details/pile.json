@@ -1,0 +1,23 @@
+{
+  "lemma": "pile",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When a lot of dead mail has piled up, the dead mail offices hold public auctions.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pile_ex_0_92dca8f2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一堆或一叠物品，通常是堆放在一起的。",
+    "en_def": "A heap or stack of items, typically arranged one on top of another.",
+    "example": "She placed the books in a neat pile on the table."
+  },
+  "sentences_removed": 0
+}

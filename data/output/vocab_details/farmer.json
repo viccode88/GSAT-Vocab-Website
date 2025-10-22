@@ -1,0 +1,49 @@
+{
+  "lemma": "farmer",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/farmer_ex_0_6acbccb6.mp3"
+      },
+      {
+        "text": "Since the orange trees suffered _____ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/farmer_ex_1_d29f242a.mp3"
+      },
+      {
+        "text": "Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/farmer_ex_2_a34ae090.mp3"
+      },
+      {
+        "text": "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/farmer_ex_3_4a43bc2a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Why do farmers in Assam dig trenches in tea gardens? (A) To protect tea trees.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The BBC once reported that Swiss farmers were experiencing a spaghetti crop and showed scenes of people harvesting noodles from trees.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "農民，從事農業生產的人，通常負責種植作物和飼養牲畜。",
+    "en_def": "A person who cultivates land or crops or raises animals for food.",
+    "example": "The farmer harvested the wheat in the summer."
+  },
+  "sentences_removed": 1
+}

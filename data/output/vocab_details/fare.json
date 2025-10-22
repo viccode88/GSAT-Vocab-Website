@@ -1,0 +1,23 @@
+{
+  "lemma": "fare",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Initially Velcro did not fare well.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/fare_ex_0_64bbdf7e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "票價；費用",
+    "en_def": "The price charged for a journey on public transportation.",
+    "example": "The bus fare increased by fifty cents this month."
+  },
+  "sentences_removed": 0
+}

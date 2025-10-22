@@ -1,0 +1,50 @@
+{
+  "lemma": "brave",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 5,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are brave enough to help in an emergency while others may stand by.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/brave_ex_0_9e74d28a.mp3"
+      },
+      {
+        "text": "Brave deeds can take many different forms.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/brave_ex_1_4c34fe9e.mp3"
+      },
+      {
+        "text": "What is the main idea of the passage? (A) William Hunter was a very brave boy. (B) Hunter saved Carnegie from drowning.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/brave_ex_2_8961e592.mp3"
+      },
+      {
+        "text": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/brave_ex_3_10b9f225.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Whoever dropped the shoe must have been a brave and determined woman.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Sometimes heroes are rewarded for their brave acts.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "勇敢的，無畏的，面對困難或危險時表現出的勇氣。",
+    "en_def": "Having or showing courage; ready to face and endure danger or pain.",
+    "example": "The brave firefighter rescued the cat from the burning building."
+  },
+  "sentences_removed": 0
+}

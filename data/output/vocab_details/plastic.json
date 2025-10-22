@@ -1,0 +1,105 @@
+{
+  "lemma": "plastic",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 17,
+    "ADJ": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Processing the plastic can lead to the release of harmful chemical substances into the water contained in the bottles.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/plastic_ex_0_ea530f6a.mp3"
+      },
+      {
+        "text": "The hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California’s Wham-O toy company.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/plastic_ex_1_a364aca4.mp3"
+      },
+      {
+        "text": "But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/plastic_ex_2_b8827587.mp3"
+      },
+      {
+        "text": "Linked to the dioxin issue is the use of PVC plastic, which is widely used in the production of blood bags, plastic tubing, and other products in hospitals and health clinics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/plastic_ex_3_ad3380f1.mp3"
+      },
+      {
+        "text": "However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/plastic_ex_4_1bfcae3e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "She did not think that plastic stools were tall enough for her.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Given the harm caused by the burning of medical waste, physicians and nurses have the responsibility to take a lead in reducing the use of plastics in the hospitals.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The rooms are small plastic capsules, and each capsule is about five feet high, by five feet wide, and by seven feet deep.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Plastics used to account for as little as 10% of medical waste in the late 1970s, before disposables began rapidly replacing reusables.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the major message the author is trying to convey to readers? (A) All people, especially those working in the hospitals, should reduce the use of plastics.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The room’s thin plastic walls easily transmit the sound of snoring made by neighboring guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Twenty-five million plastic hoops were sold in less than four months.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It consists of a piece of rubber, plastic, leather, or woven material in the outline of a foot, with a strap holding the sandal to a wearer’s toes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "An estimated 2.5 million tons of carbon dioxide were generated in 2006 by the production of plastic for bottled water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Bottled water is mostly sold in plastic bottles and that’s why it is potentially health 26 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "塑膠，一種合成材料，通常由聚合物製成，具有可塑性和耐用性。",
+    "en_def": "A synthetic material made from polymers, known for its flexibility and durability.",
+    "example": "The bottle is made of plastic."
+  },
+  "sentences_removed": 2
+}

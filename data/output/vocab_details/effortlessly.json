@@ -1,0 +1,23 @@
+{
+  "lemma": "effortlessly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These movements, forming an exercise system, 18 one to effortlessly experience the vital life force, or the Qi energy, in one’s body.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/effortlessly_ex_0_8c9bbbb3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "毫不費力地，輕鬆地",
+    "en_def": "In a manner that requires little or no effort; easily.",
+    "example": "She completed the puzzle effortlessly."
+  },
+  "sentences_removed": 0
+}

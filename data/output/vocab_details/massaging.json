@@ -1,0 +1,23 @@
+{
+  "lemma": "massaging",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Here all the dogs are given a bath using professional shampoo and conditioners in a massaging tub.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/massaging_ex_0_c207b3ba.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "按摩，指用手或工具對身體進行的壓力和揉捏，以放鬆肌肉和改善血液循環。",
+    "en_def": "The act of applying pressure and kneading to the body, typically to relieve tension and improve circulation.",
+    "example": "She enjoys massaging her shoulders after a long day at work."
+  },
+  "sentences_removed": 0
+}

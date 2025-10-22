@@ -1,0 +1,23 @@
+{
+  "lemma": "wag",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room _____.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/wag_ex_0_b13189cf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "搖擺，通常指狗的尾巴因高興而搖動。",
+    "en_def": "To move or sway back and forth, often used to describe a dog's tail moving in excitement.",
+    "example": "The dog began to wag its tail when it saw its owner."
+  },
+  "sentences_removed": 0
+}

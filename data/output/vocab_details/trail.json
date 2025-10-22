@@ -1,0 +1,43 @@
+{
+  "lemma": "trail",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/trail_ex_0_6255986e.mp3"
+      },
+      {
+        "text": "It was discovered on the Chilkoot Pass, the famous trail used by the people seeking gold in Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/trail_ex_1_ded36575.mp3"
+      },
+      {
+        "text": "They canoed down rivers, hiked along muddy trails, and climbed into the forest to explore and learn.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/trail_ex_2_6b436612.mp3"
+      },
+      {
+        "text": "However, since these to all the other members and following the group trails can easily be broken by wind or rain, the pattern, they now focus only on the birds within a ants have to find new paths to get around the fixed distance from them, based on information broken points and reestablish the network.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/trail_ex_3_da2d306e.mp3"
+      },
+      {
+        "text": "The trails connect the ants’ fox) is present, the pattern of their flight will colonies and sources of food, forming a sort of change immediately.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/trail_ex_4_63b0b366.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小徑；痕跡；追蹤的路徑",
+    "en_def": "A path or track made for walking or made by continual passage.",
+    "example": "We followed the trail through the forest to reach the waterfall."
+  },
+  "sentences_removed": 0
+}

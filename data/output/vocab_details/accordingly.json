@@ -1,0 +1,33 @@
+{
+  "lemma": "accordingly",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In contrast (C) Literally (D) Accordingly 27. (A) gap (B) link (C) clue (D) ratio 28. (A) out of (B) as well as (C) in case of (D) due to 29.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/accordingly_ex_0_2f7a36ea.mp3"
+      },
+      {
+        "text": "Accordingly, anyone who wishes to love and be loved will want to establish lasting relationships.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/accordingly_ex_1_19eedc8b.mp3"
+      },
+      {
+        "text": "Furthermore (D) Accordingly 17. (A) made believe (B) got along (C) turned out (D) felt like 18.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/accordingly_ex_2_4f2878a4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "因此；相應地",
+    "en_def": "In a manner that is appropriate or suitable to the circumstances.",
+    "example": "She studied hard for the exam, and accordingly, she passed with flying colors."
+  },
+  "sentences_removed": 0
+}

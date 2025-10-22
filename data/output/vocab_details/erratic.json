@@ -1,0 +1,28 @@
+{
+  "lemma": "erratic",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/erratic_ex_0_96b597ce.mp3"
+      },
+      {
+        "text": "What does erratic in the last sentence imply?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/erratic_ex_1_f10fede4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不穩定的，無規律的",
+    "en_def": "Not even or regular in pattern or movement; unpredictable.",
+    "example": "His erratic behavior made it difficult for his friends to understand him."
+  },
+  "sentences_removed": 0
+}

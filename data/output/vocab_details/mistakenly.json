@@ -1,0 +1,23 @@
+{
+  "lemma": "mistakenly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many weight-conscious people also mistakenly believe that changing our bodies will fix everything.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/mistakenly_ex_0_461f2b51.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "錯誤地；誤解地",
+    "en_def": "In a way that is incorrect or based on a misunderstanding.",
+    "example": "She mistakenly thought the meeting was at 3 PM."
+  },
+  "sentences_removed": 0
+}

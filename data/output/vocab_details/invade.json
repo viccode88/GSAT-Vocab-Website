@@ -1,0 +1,23 @@
+{
+  "lemma": "invade",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They construct their colonies on precious farmland, invading crops while searching for insects underground.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/invade_ex_0_57c0ac41.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "侵入，侵略，強行進入某地或某國。",
+    "en_def": "To enter a place or situation in large numbers, often with harmful intent.",
+    "example": "The army plans to invade the neighboring country next month."
+  },
+  "sentences_removed": 0
+}

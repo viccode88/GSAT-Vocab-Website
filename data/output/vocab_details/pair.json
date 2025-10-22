@@ -1,0 +1,33 @@
+{
+  "lemma": "pair",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, in a wedding banquet it is common to see a pair of ice-sculpted swans that represent the union of the new couple. 49.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pair_ex_0_017e7e03.mp3"
+      },
+      {
+        "text": "When night falls over the Red Sea, tiny flashlight fish rise to the surface for food, each with a pair of “headlamps,” one beneath each eye.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/pair_ex_1_721c10b5.mp3"
+      },
+      {
+        "text": "Interestingly, both of them 16 buying the same pair of jeans.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pair_ex_2_062532f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一對相互關聯或相互配合的物品或人。",
+    "en_def": "A set of two things that are used together or regarded as a unit.",
+    "example": "She bought a new pair of shoes for the party."
+  },
+  "sentences_removed": 0
+}

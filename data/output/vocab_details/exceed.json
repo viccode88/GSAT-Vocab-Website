@@ -1,0 +1,28 @@
+{
+  "lemma": "exceed",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sales of rap music and videos each exceed that amount.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/exceed_ex_0_26b1773d.mp3"
+      },
+      {
+        "text": "In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/exceed_ex_1_cbd24410.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "超過，超出（某個範圍、數量或限制）",
+    "en_def": "To go beyond a limit or surpass something.",
+    "example": "The athlete managed to exceed his previous record in the competition."
+  },
+  "sentences_removed": 0
+}

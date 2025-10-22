@@ -1,0 +1,43 @@
+{
+  "lemma": "wesla",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wesla_ex_0_58d3c320.mp3"
+      },
+      {
+        "text": "When Wesla is losing her mind.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wesla_ex_1_20e45065.mp3"
+      },
+      {
+        "text": "In which of the following places has Wesla Whitfield worked? (A) A college.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wesla_ex_2_04668cc4.mp3"
+      },
+      {
+        "text": "Which of the following statements is true about Wesla Whitfield’s physical disability?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wesla_ex_3_a8e48e1a.mp3"
+      },
+      {
+        "text": "What advice would Wesla most likely give other disabled people? (A) Ignore what you have lost and make the best use of what you have.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wesla_ex_4_da278e66.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於運輸或連接的裝置，通常指的是一種特定的工具或設備。",
+    "en_def": "A device used for transportation or connection, often referring to a specific tool or equipment.",
+    "example": "The wesla was essential for moving heavy loads across the construction site."
+  },
+  "sentences_removed": 1
+}

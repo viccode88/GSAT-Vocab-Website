@@ -1,0 +1,23 @@
+{
+  "lemma": "dramatically",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dramatically_ex_0_e4c8fab8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "戲劇性地，顯著地",
+    "en_def": "In a way that is striking or impressive; in a manner that evokes strong emotions.",
+    "example": "The weather changed dramatically from sunny to stormy within minutes."
+  },
+  "sentences_removed": 0
+}

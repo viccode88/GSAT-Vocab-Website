@@ -1,0 +1,28 @@
+{
+  "lemma": "harmless",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In his resignation speech, he blamed his failings on the fact that he was blood type B. The blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/harmless_ex_0_e8a6e45e.mp3"
+      },
+      {
+        "text": "19 a stye can look unpleasant at times, it is usually harmless and doesn’t cause vision problems.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/harmless_ex_1_0363f463.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無害的；不會造成傷害或危險的。",
+    "en_def": "Not causing or capable of causing harm; safe.",
+    "example": "The chemicals used in the experiment are harmless to humans."
+  },
+  "sentences_removed": 0
+}

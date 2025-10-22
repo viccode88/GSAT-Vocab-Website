@@ -1,0 +1,23 @@
+{
+  "lemma": "unfamiliar",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They needed time to relax when smelling something unfamiliar.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unfamiliar_ex_0_500feff1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不熟悉的；陌生的",
+    "en_def": "Not known or recognized; strange or foreign.",
+    "example": "The city felt unfamiliar to her after many years away."
+  },
+  "sentences_removed": 0
+}

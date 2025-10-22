@@ -1,0 +1,33 @@
+{
+  "lemma": "traditionally",
+  "count": 3,
+  "pos_dist": {
+    "ADV": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Traditionally, the dot carries no gender restriction: Men as well as women wear it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/traditionally_ex_0_31ee843a.mp3"
+      },
+      {
+        "text": "Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/traditionally_ex_1_6019fb2c.mp3"
+      },
+      {
+        "text": "Traditionally, shame poles were carved for a chief to embarrass and ridicule another who had done something wrong.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/traditionally_ex_2_dd160bb8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "傳統上，根據慣例或習俗地。",
+    "en_def": "In a manner that is consistent with tradition or established customs.",
+    "example": "Traditionally, families gather for a big meal during the holidays."
+  },
+  "sentences_removed": 0
+}

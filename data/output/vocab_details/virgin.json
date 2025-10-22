@@ -1,0 +1,45 @@
+{
+  "lemma": "virgin",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 3,
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To be qualified as “extra virgin,” the oil must also pass both an official test in a laboratory and a sensory evaluation by a trained tasting panel.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/virgin_ex_0_576023fa.mp3"
+      },
+      {
+        "text": "A redefinition of the term “olive oil” is also proposed to make a clear distinction between virgin olive oil and pure olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/virgin_ex_1_b12ef574.mp3"
+      },
+      {
+        "text": "Which of the following statements is true about extra virgin olive oil?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/virgin_ex_2_413404c3.mp3"
+      },
+      {
+        "text": "Extra virgin oil, the finest grade, is made from the first pressing of the olives and has a very low acidity rate (under 1%).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/virgin_ex_3_edb33bf9.mp3"
+      },
+      {
+        "text": "Second on the ranking is virgin olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/virgin_ex_4_170f1dab.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "未經過性行為的人，尤其是女性。",
+    "en_def": "A person who has not engaged in sexual intercourse, especially a female.",
+    "example": "She decided to wait until marriage to lose her virginity."
+  },
+  "sentences_removed": 0
+}

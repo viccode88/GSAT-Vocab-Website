@@ -1,0 +1,28 @@
+{
+  "lemma": "nicotine",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These people believe that if they smoke “light” cigarettes with less nicotine, they will not get cancer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/nicotine_ex_0_1faad42f.mp3"
+      },
+      {
+        "text": "More than two-thirds believe that it is only the nicotine in cigarettes rather than the other chemicals that cause cancer.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/nicotine_ex_1_fd2ddf28.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "尼古丁：一種存在於煙草中的生物鹼，具有成癮性，常用於吸煙和其他煙草產品。",
+    "en_def": "Nicotine: A highly addictive alkaloid found in tobacco, commonly used in smoking and other tobacco products.",
+    "example": "Many people struggle to quit smoking because of the addictive nature of nicotine."
+  },
+  "sentences_removed": 0
+}

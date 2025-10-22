@@ -1,0 +1,23 @@
+{
+  "lemma": "seashell",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the author, the second example is intended to (A) express opinions about seashells.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/seashell_ex_0_9129eedd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "海洋生物的外殼，通常由貝類或其他海洋生物所產生。",
+    "en_def": "The hard, protective outer case of marine animals, typically produced by mollusks.",
+    "example": "She collected a beautiful seashell from the beach."
+  },
+  "sentences_removed": 1
+}

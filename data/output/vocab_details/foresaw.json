@@ -1,0 +1,17 @@
+{
+  "lemma": "foresaw",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "預見，預測",
+    "en_def": "To predict or anticipate something in the future.",
+    "example": "She foresaw the challenges that would arise from the project."
+  },
+  "sentences_removed": 1
+}

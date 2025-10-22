@@ -1,0 +1,28 @@
+{
+  "lemma": "renew",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The 70-year-old professor sued the university for age _____, because his teaching contract had not been renewed.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/renew_ex_0_53ba0de7.mp3"
+      },
+      {
+        "text": "He believed in the ability of nature to renew itself without the 38 of humans.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/renew_ex_1_a20450c7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使恢復，重新開始或更新某物的狀態或效力。",
+    "en_def": "To make something new, fresh, or strong again; to restore or replace.",
+    "example": "She decided to renew her gym membership for another year."
+  },
+  "sentences_removed": 0
+}

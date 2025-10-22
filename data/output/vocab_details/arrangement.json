@@ -1,0 +1,28 @@
+{
+  "lemma": "arrangement",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "At least one group, Intervac, has been facilitating such an arrangement since 1953.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/arrangement_ex_0_c5f8af25.mp3"
+      },
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/arrangement_ex_1_57ff8abb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "安排；佈置；排列",
+    "en_def": "The act of organizing or putting things in a specific order.",
+    "example": "The arrangement of the flowers made the room look beautiful."
+  },
+  "sentences_removed": 0
+}

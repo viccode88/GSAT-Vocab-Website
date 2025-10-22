@@ -1,0 +1,23 @@
+{
+  "lemma": "vanderbilt",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers at Vanderbilt University are particularly interested in zebrafish retina regeneration.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/vanderbilt_ex_0_9c8945e6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "范德比爾特（Vanderbilt）是一個美國的姓氏，最著名的代表是科尼利厄斯·范德比爾特，他是19世紀的商人和慈善家，對美國的鐵路和航運業有重大影響。",
+    "en_def": "Vanderbilt is a surname of Dutch origin, most notably associated with Cornelius Vanderbilt, a 19th-century American businessman and philanthropist who significantly impacted the railroad and shipping industries.",
+    "example": "Cornelius Vanderbilt was known for his wealth and influence in the transportation industry."
+  },
+  "sentences_removed": 0
+}

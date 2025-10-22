@@ -1,0 +1,23 @@
+{
+  "lemma": "chilkoot",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was discovered on the Chilkoot Pass, the famous trail used by the people seeking gold in Alaska.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/chilkoot_ex_0_ded36575.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奇爾庫特，指的是一個位於美國阿拉斯加州的山脈，著名於其歷史上的淘金熱。",
+    "en_def": "Chilkoot refers to a mountain pass in Alaska, historically significant during the Klondike Gold Rush.",
+    "example": "The Chilkoot Pass was a challenging route for gold seekers in the late 1800s."
+  },
+  "sentences_removed": 0
+}

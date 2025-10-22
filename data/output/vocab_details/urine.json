@@ -1,0 +1,28 @@
+{
+  "lemma": "urine",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Also, drinking a lot of liquid in one go can cause more water to 29 the body quickly and come out as urine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/urine_ex_0_c0d39866.mp3"
+      },
+      {
+        "text": "To 23 things out, the body will get rid of water by producing urine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/urine_ex_1_8af1c485.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "尿液；由腎臟產生並通過尿道排出體外的液體廢物。",
+    "en_def": "A liquid waste product produced by the kidneys and excreted through the urinary tract.",
+    "example": "The doctor asked for a urine sample to test for any abnormalities."
+  },
+  "sentences_removed": 0
+}

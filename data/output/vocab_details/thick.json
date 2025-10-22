@@ -1,0 +1,64 @@
+{
+  "lemma": "thick",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which book is the thickest?",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/thick_ex_0_0ba5ae86.mp3"
+      },
+      {
+        "text": "In forested areas with thick tree crowns, there is intense struggle for these resources.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/thick_ex_1_4cfaeca4.mp3"
+      },
+      {
+        "text": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/thick_ex_2_64140f1a.mp3"
+      },
+      {
+        "text": "An iron rod is used to strike the thicker glass hemispheres.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/thick_ex_3_652bd709.mp3"
+      },
+      {
+        "text": "When mothers try to dig their babies out, both may be trapped and smothered by thick mud.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/thick_ex_4_831f85de.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The cactus’s thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "This bark can be pretty thick, well over two feet in the more mature trees.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One evening a guest in the dining hall felt that his potatoes were too thick and sent them back to the kitchen.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "形容物體的寬度或深度大，通常指比一般情況下的尺寸更大。",
+    "en_def": "Having a large distance between opposite sides; not thin.",
+    "example": "The book was so thick that it took me a week to read it."
+  },
+  "sentences_removed": 0
+}

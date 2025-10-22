@@ -1,0 +1,28 @@
+{
+  "lemma": "crime",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But how long will it be before criminal gangs, like the Mafia, start to use computer experts to help them in their crimes?",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/crime_ex_0_9b426a0a.mp3"
+      },
+      {
+        "text": "Already in Britain people say that computer crimes are costing companies between 500 million pounds and 2.5 billion pounds a year.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/crime_ex_1_053179d0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "犯罪，違反法律的行為。",
+    "en_def": "An act that violates the law.",
+    "example": "The police are investigating a serious crime in the neighborhood."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "infect",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/infect_ex_0_7c7f82a0.mp3"
+      },
+      {
+        "text": "It comes from direct human contact with birds infected with the virus.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/infect_ex_1_4a9a8261.mp3"
+      },
+      {
+        "text": "An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/infect_ex_2_ca4158cf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使感染；使受影響",
+    "en_def": "To cause a disease or illness to be transmitted to someone or something.",
+    "example": "The doctor warned that the virus could easily infect anyone who was not vaccinated."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "transportation",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The transportation on the road was so difficult that few people could really enjoy the trip.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/transportation_ex_0_80c4e5db.mp3"
+      },
+      {
+        "text": "Strong command of English language OPENINGS***************************** ﹪ Chinese speaking and reading ability a must TOUR GUIDES ﹪ a university degree Duties: To conduct escorted tours for foreign visitors; ﹪ Journalism education and/or experience a plus to assist with travel and transportation arrangements.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/transportation_ex_1_57ff8abb.mp3"
+      },
+      {
+        "text": "The development of modern transportation. 36.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/transportation_ex_2_31209c38.mp3"
+      },
+      {
+        "text": "The ease of transportation to the Pacific islands. 46.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/transportation_ex_3_48b704a1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "運輸，指人或貨物從一地移動到另一地的過程或方式。",
+    "en_def": "The act of moving people or goods from one place to another.",
+    "example": "Public transportation is essential for commuting in large cities."
+  },
+  "sentences_removed": 0
+}

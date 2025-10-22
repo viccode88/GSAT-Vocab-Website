@@ -1,0 +1,23 @@
+{
+  "lemma": "chase",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A storm cloud “chased” him until he was struck.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/chase_ex_0_d969ff18.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "追逐；追趕",
+    "en_def": "to run after someone or something in order to catch them",
+    "example": "The dog loves to chase the ball in the park."
+  },
+  "sentences_removed": 0
+}

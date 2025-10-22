@@ -1,0 +1,33 @@
+{
+  "lemma": "explorer",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/explorer_ex_0_62919665.mp3"
+      },
+      {
+        "text": "When the Spanish explorers went to Mexico, they saw the Aztec kings 15 umbrellas.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/explorer_ex_1_9e073a5c.mp3"
+      },
+      {
+        "text": "English explorers found out that Indian princes also carried umbrellas on the east coast of North America.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/explorer_ex_2_fbe6104f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "探索者；探險家",
+    "en_def": "A person who investigates unknown regions or seeks out new experiences.",
+    "example": "The explorer set out on a journey to discover uncharted territories."
+  },
+  "sentences_removed": 0
+}

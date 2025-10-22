@@ -1,0 +1,28 @@
+{
+  "lemma": "weed",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The aim of the campaign is to remind people of the damage the deadly weed does to their body.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/weed_ex_0_bf95d1a5.mp3"
+      },
+      {
+        "text": "For 20 minutes, we walked along a path past tall weeds, banana trees, and low brush.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/weed_ex_1_8e36603e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雜草；通常指不受歡迎的植物，特別是在農田或花園中。",
+    "en_def": "A plant considered undesirable, unattractive, or troublesome, especially one that grows in cultivated ground.",
+    "example": "I spent the afternoon pulling weeds from the garden."
+  },
+  "sentences_removed": 0
+}

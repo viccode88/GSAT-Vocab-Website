@@ -1,0 +1,43 @@
+{
+  "lemma": "pesticide",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pesticide_ex_0_7d925647.mp3"
+      },
+      {
+        "text": "Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pesticide_ex_1_cf6b3402.mp3"
+      },
+      {
+        "text": "Many people think these bug killers or pesticides will penetrate every place where the insects hide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pesticide_ex_2_ea5be46f.mp3"
+      },
+      {
+        "text": "They sprayed pesticide from the air.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pesticide_ex_3_abd9727a.mp3"
+      },
+      {
+        "text": "Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/pesticide_ex_4_d321609f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "農藥：用於消滅或控制害蟲、雜草或其他有害生物的化學物質。",
+    "en_def": "A pesticide is a chemical substance used to kill or control pests, weeds, or other harmful organisms.",
+    "example": "Farmers often use pesticide to protect their crops from insects."
+  },
+  "sentences_removed": 0
+}

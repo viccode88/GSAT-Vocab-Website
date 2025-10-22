@@ -1,0 +1,23 @@
+{
+  "lemma": "hellish",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hellish_ex_0_c86cdcb3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地獄般的；極其痛苦或困難的",
+    "en_def": "Extremely unpleasant or difficult; resembling hell.",
+    "example": "The conditions in the abandoned building were hellish."
+  },
+  "sentences_removed": 0
+}

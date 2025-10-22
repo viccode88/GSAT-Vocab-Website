@@ -1,0 +1,69 @@
+{
+  "lemma": "response",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mind and body work together to produce stress, which is a bodily response to a stimulus, a response that disturbs the body’s normal physiological balance.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/response_ex_0_865d9d84.mp3"
+      },
+      {
+        "text": "The encouraging response to McCarroll’s show confirmed that change is happening in fashion.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/response_ex_1_454c0453.mp3"
+      },
+      {
+        "text": "Those who have positive feelings about their stuck songs prefer to just “let them be,” while those with negative feelings turn to more behavioral responses, which include coping strategies such as singing, talking, or even praying. 49.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/response_ex_2_373d4295.mp3"
+      },
+      {
+        "text": "In response to rising demands, these hotels are embracing a wave of innovation.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/response_ex_3_3b9c3365.mp3"
+      },
+      {
+        "text": "Which of the following best summarizes Zeke Emanuel’s response to the last question?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/response_ex_4_187b1f8e.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They flash a false response when these males signal overhead, but eat them when they land. 48.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The government issued a travel _____ for Taiwanese in response to the outbreak of civil war in Syria.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It was in response to this situation that The Carpenters’ Shop was opened in the town of Walsall, Staffordshire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "However, in response to the 29 of this event, the concepts of fostering peace and harmony do not have to be confined to one day a year.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "回應；答覆",
+    "en_def": "A reply or answer to a question or request.",
+    "example": "She gave a quick response to the email."
+  },
+  "sentences_removed": 0
+}

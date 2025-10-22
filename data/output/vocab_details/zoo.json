@@ -1,0 +1,95 @@
+{
+  "lemma": "zoo",
+  "count": 20,
+  "pos_dist": {
+    "NOUN": 19,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/zoo_ex_0_d320b05a.mp3"
+      },
+      {
+        "text": "However, some people are against zoos because the animals 48 there will lose the freedom they enjoy in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/zoo_ex_1_3b411607.mp3"
+      },
+      {
+        "text": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/zoo_ex_2_f81d97bb.mp3"
+      },
+      {
+        "text": "Whether or not zoos benefit the animal community, they certainly do make money.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/zoo_ex_3_a274a401.mp3"
+      },
+      {
+        "text": "When photographing zoo animals, don’t get too close to the cages, and never tap on the glass or throw things between the bars of a cage.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/zoo_ex_4_51893da6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Like it or not, zoos will continue to exist as long as there is a demand for them.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Cats, dogs, and other pets top the list, followed by zoo animals.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "D. Daniel To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "E. Eddie My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "In what way is photographing zoo animals different from photographing pets?",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "H. Henry Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "F. Frank Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least! G. George Zoos have an educational aspect to it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "C. Cathy Zoos are a tradition, and a visit to a zoo is a wholesome family activity.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Taking pictures of zoo animals requires a little more patience.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In making a case for or against zoos, both sides argue that they’re saving animals.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "動物園：一個展示各種動物以供公眾觀賞的地方。",
+    "en_def": "A zoo is a facility where animals are kept for public exhibition.",
+    "example": "We visited the zoo to see the lions and elephants."
+  },
+  "sentences_removed": 3
+}

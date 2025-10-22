@@ -1,0 +1,23 @@
+{
+  "lemma": "interpersonal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/interpersonal_ex_0_a8f1c3c3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "人際的，涉及人與人之間的互動或關係。",
+    "en_def": "Relating to relationships or communication between people.",
+    "example": "Good interpersonal skills are essential for effective teamwork."
+  },
+  "sentences_removed": 0
+}

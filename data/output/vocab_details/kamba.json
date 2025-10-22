@@ -1,0 +1,49 @@
+{
+  "lemma": "kamba",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kamba_ex_0_8292379b.mp3"
+      },
+      {
+        "text": "Young Maasai men spear animals and thus pose a threat to elephants; Kamba men are mainly farmers and are not a danger to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kamba_ex_1_a34ae090.mp3"
+      },
+      {
+        "text": "Kamba people raise elephants for farming.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kamba_ex_2_660b834b.mp3"
+      },
+      {
+        "text": "In Kenya, researchers found that elephants react differently to clothing worn by men of the Maasai and Kamba ethnic groups.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/kamba_ex_3_a4777a14.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following statements is true about Kamba and Maasai people? (A) Maasai people are a threat to elephants.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the elephants detected the smell of clothing worn by a Maasai man, they moved away from the smell faster and took longer to relax than when they detected the smells of either clothing worn by Kamba men or clothing that had not been worn at all.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種非洲的民族，主要居住在肯尼亞和坦尚尼亞，擅長音樂和舞蹈。",
+    "en_def": "A Bantu ethnic group primarily found in Kenya and Tanzania, known for their music and dance.",
+    "example": "The Kamba people have a rich cultural heritage that includes vibrant traditional dances."
+  },
+  "sentences_removed": 0
+}

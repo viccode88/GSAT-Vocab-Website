@@ -1,0 +1,49 @@
+{
+  "lemma": "desalination",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The problem is that the desalination of water requires a lot of energy.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/desalination_ex_0_841423c9.mp3"
+      },
+      {
+        "text": "Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/desalination_ex_1_79c5faa6.mp3"
+      },
+      {
+        "text": "Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/desalination_ex_2_7f624ef0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The amount of energy produced in the desalination of seawater. 51.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There are environmental costs of desalination as well.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best describes the author’s attitude toward the future of desalination? (A) Amazed.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "海水淡化是將鹽水轉化為可飲用水的過程。",
+    "en_def": "Desalination is the process of removing salt and other impurities from seawater to produce fresh water.",
+    "example": "Desalination plants are essential in providing drinking water in arid regions."
+  },
+  "sentences_removed": 0
+}

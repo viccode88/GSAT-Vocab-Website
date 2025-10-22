@@ -1,0 +1,33 @@
+{
+  "lemma": "inaugural",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inaugural_ex_0_47eb7c04.mp3"
+      },
+      {
+        "text": "Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inaugural_ex_1_102c7b54.mp3"
+      },
+      {
+        "text": "What does “this practice” refer to in the second paragraph? (A) Holding an inaugural open house.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/inaugural_ex_2_bb8a4d74.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "首次的；開幕的",
+    "en_def": "Relating to the first occurrence of an event or the beginning of a series.",
+    "example": "The president delivered his inaugural speech at the ceremony."
+  },
+  "sentences_removed": 0
+}

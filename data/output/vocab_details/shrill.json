@@ -1,0 +1,23 @@
+{
+  "lemma": "shrill",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "RTRI officials explain that deer have a habit of repeatedly snorting short, shrill sounds to alert other deer when they perceive danger.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/shrill_ex_0_0281c3e6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "尖銳刺耳的聲音，通常令人不快。",
+    "en_def": "A high-pitched and piercing sound, often unpleasant.",
+    "example": "The shrill whistle of the train could be heard from miles away."
+  },
+  "sentences_removed": 0
+}

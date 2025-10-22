@@ -1,0 +1,64 @@
+{
+  "lemma": "bug",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many people who are troubled by skin rashes caused by bug bites use “foggers,” or “bug bombs,” to get rid of the annoying crawlers in their homes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bug_ex_0_a6bd4e03.mp3"
+      },
+      {
+        "text": "Moreover, bugs that do come in contact with the mist may be resistant to the pesticide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bug_ex_1_cf6b3402.mp3"
+      },
+      {
+        "text": "Many people think these bug killers or pesticides will penetrate every place where the insects hide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bug_ex_2_ea5be46f.mp3"
+      },
+      {
+        "text": "It’s easy to see why anyone would call this insect a bad-looking bug.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bug_ex_3_3c6212a3.mp3"
+      },
+      {
+        "text": "First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/bug_ex_4_eabcf368.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Foggers, or bug bombs, should really be a measure of last resort.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The ineffectiveness of bug bombs.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Second, once a bug bomb is used, every surface in your home will be covered with the toxic pesticide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "昆蟲；錯誤或缺陷",
+    "en_def": "An insect; a flaw or error in a system or program.",
+    "example": "I found a bug in the software that needs to be fixed."
+  },
+  "sentences_removed": 1
+}

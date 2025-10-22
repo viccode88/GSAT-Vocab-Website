@@ -1,0 +1,70 @@
+{
+  "lemma": "direction",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 10,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "keep in mind the direction of the street.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/direction_ex_0_ab8f6a5b.mp3"
+      },
+      {
+        "text": "Someone gave me directions and I got totally lost.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/direction_ex_1_4ae02c2d.mp3"
+      },
+      {
+        "text": "The researchers concluded that cattle do generally orient themselves in a north-south direction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/direction_ex_2_abee7595.mp3"
+      },
+      {
+        "text": "V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/direction_ex_3_77b61f58.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They are often given a checklist that provides directions on what to observe or look out for to ensure consistency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which course (direction) did the Vladimirs take to get to Penghu? (A) East.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "During different tides, currents may change from one direction to the other.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A Great Adventure (C) A Lifelong Punishment (D) A New Direction in Life 50.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The cattle constantly change directions to avoid wind chill.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, the wind can significantly alter the direction of the ship and how it reacts, adding to the difficulty of anchoring the ship.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "方向；指引或指導的過程或方式。",
+    "en_def": "A course along which someone or something moves; guidance or instruction.",
+    "example": "She asked for directions to the nearest gas station."
+  },
+  "sentences_removed": 1
+}

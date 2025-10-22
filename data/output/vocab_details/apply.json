@@ -1,0 +1,74 @@
+{
+  "lemma": "apply",
+  "count": 12,
+  "pos_dist": {
+    "VERB": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/apply_ex_0_c0a6266c.mp3"
+      },
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/apply_ex_1_9a26b85d.mp3"
+      },
+      {
+        "text": "When she applied for admission to a local music school in 1917, she was turned down because she was black.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/apply_ex_2_24d2ddf3.mp3"
+      },
+      {
+        "text": "Applying to college means sending in applications, writing study plans, and so on.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/apply_ex_3_d9dfe4f1.mp3"
+      },
+      {
+        "text": "Which of the four jobs should he apply for? 5.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/apply_ex_4_0b877f8f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They were behind schedule and had to apply for manpower to complete their project in time.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "to apply for a visa before leaving the U.S.A. (C) to make sure her passport was issued before May 1, 1995.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "For those people who were born without 39 dimples, various methods can be applied to successfully create them.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He just needs to apply for a non-visa entry when he arrives at the CKS airport.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "應用；申請",
+    "en_def": "To put something into operation or use; to make a formal request.",
+    "example": "She decided to apply for a scholarship to help pay for her studies."
+  },
+  "sentences_removed": 1
+}

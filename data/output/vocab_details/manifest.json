@@ -1,0 +1,23 @@
+{
+  "lemma": "manifest",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In his resignation speech, he blamed his failings on the fact that he was blood type B. The blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/manifest_ex_0_e8a6e45e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "顯示或表現出來的，通常指某種情感、特徵或狀態的明顯表現。",
+    "en_def": "To display or show something clearly, often referring to a feeling, characteristic, or state.",
+    "example": "Her happiness was manifest in her bright smile."
+  },
+  "sentences_removed": 0
+}

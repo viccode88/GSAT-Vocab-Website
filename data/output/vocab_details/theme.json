@@ -1,0 +1,59 @@
+{
+  "lemma": "theme",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The establishment and features of a special theme park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/theme_ex_0_c7deda63.mp3"
+      },
+      {
+        "text": "The right theme for ice sculpting is not easy to find.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/theme_ex_1_0ea15069.mp3"
+      },
+      {
+        "text": "For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/theme_ex_2_ae428fcb.mp3"
+      },
+      {
+        "text": "What is the theme of this passage? (A) Introduction to a foreign culture.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/theme_ex_3_9484487d.mp3"
+      },
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/theme_ex_4_f4630afa.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Others speak to more universal themes such as the primal relationship of humans to nature.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The audience could not visualize the theme sung by the school children.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, what is one of the themes in Morrison’s works? (A)",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "主題；題材",
+    "en_def": "The central topic or idea explored in a work of art, literature, or discussion.",
+    "example": "The theme of the novel revolves around the struggle for identity."
+  },
+  "sentences_removed": 1
+}

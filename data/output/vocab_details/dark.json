@@ -1,0 +1,65 @@
+{
+  "lemma": "dark",
+  "count": 11,
+  "pos_dist": {
+    "ADJ": 9,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dark_ex_0_96b146a9.mp3"
+      },
+      {
+        "text": "When it is dark, they flash their lights on and off to signal to others of their species, to lure prey toward them, or to escape from predators.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/dark_ex_1_b6e4a60b.mp3"
+      },
+      {
+        "text": "They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/dark_ex_2_cfff768e.mp3"
+      },
+      {
+        "text": "As is often observed, most of us tend to associate lower notes with darker colors and higher notes with brighter colors.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dark_ex_3_6dd40ff9.mp3"
+      },
+      {
+        "text": "Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/dark_ex_4_1e63c479.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "His dark brown jacket had holes in the elbows and had _____ to light brown, but he continued to wear it.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The laborers mostly wore dark and dirty uniforms.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The power workers had to work _____ to repair the power lines since the whole city was in the dark.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They are stony structures full of dark hideaways where fish and sea animals can lay their eggs and 31 from predators.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "缺乏光線或亮度的狀態。",
+    "en_def": "Having little or no light; not bright.",
+    "example": "The room was dark, making it hard to see anything."
+  },
+  "sentences_removed": 2
+}

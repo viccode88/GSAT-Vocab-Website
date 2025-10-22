@@ -1,0 +1,23 @@
+{
+  "lemma": "sender",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the material has been recovered, the disk is returned to the sender with a diagnosis and a prescription for avoiding the problem in the future.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sender_ex_0_74c15584.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發送者，指發送信息或物品的人或機構。",
+    "en_def": "A person or entity that sends a message or item.",
+    "example": "The sender of the package included a return address."
+  },
+  "sentences_removed": 0
+}

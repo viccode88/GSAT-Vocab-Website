@@ -1,0 +1,23 @@
+{
+  "lemma": "unity",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Norwegians were prohibited from wearing any 38 of their national unity, such as buttons with the initials of their king.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/unity_ex_0_8acd513e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "團結；一致性",
+    "en_def": "The state of being united or joined as a whole.",
+    "example": "The team worked in unity to achieve their common goal."
+  },
+  "sentences_removed": 1
+}

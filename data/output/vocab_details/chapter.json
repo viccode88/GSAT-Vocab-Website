@@ -1,0 +1,28 @@
+{
+  "lemma": "chapter",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What does “a new chapter” in line 2, paragraph 1 mean? (A) A new unit of a book.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/chapter_ex_0_11a9c7f2.mp3"
+      },
+      {
+        "text": "When I open a book, I look first at the table of to get a general idea of the book and to see which chapters I might be interested in reading.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/chapter_ex_1_ff066c6c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "書籍或文獻中的一部分，通常包含一個主題或故事的特定段落。",
+    "en_def": "A section of a book or document, typically dealing with a specific theme or part of a story.",
+    "example": "She read the first chapter of the novel before going to bed."
+  },
+  "sentences_removed": 1
+}

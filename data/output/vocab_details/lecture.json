@@ -1,0 +1,23 @@
+{
+  "lemma": "lecture",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The teacher showed ______ for the noise in the classroom and continued with his lecture as if he had not heard anything.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/lecture_ex_0_ae5e2fea.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "講座；演講",
+    "en_def": "A formal talk on a specific topic given to an audience, often in an educational setting.",
+    "example": "The professor gave a fascinating lecture on ancient history."
+  },
+  "sentences_removed": 0
+}

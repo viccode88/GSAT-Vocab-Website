@@ -1,0 +1,60 @@
+{
+  "lemma": "engineer",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 7,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "An enjoyable process for engineers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/engineer_ex_0_b39b4857.mp3"
+      },
+      {
+        "text": "The young engineer swore that he had never heard the proposal made and rejected.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/engineer_ex_1_1693ee61.mp3"
+      },
+      {
+        "text": "Suddenly one of the young engineers gave what he thought was a good solution 32 the problem.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/engineer_ex_2_ce201600.mp3"
+      },
+      {
+        "text": "The engineer was too young.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/engineer_ex_3_3030965d.mp3"
+      },
+      {
+        "text": "Most people credit the first traffic light to Nottingham engineer John Peake Knight.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/engineer_ex_4_abd19300.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After the project had been successfully finished, most of the engineers who had worked on it were 36 .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Five young engineers were sitting with their 31 .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, 11 , touches the neighboring tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "工程師：設計、建造或維護機械、結構或系統的專業人員。",
+    "en_def": "An engineer is a professional who designs, builds, or maintains machines, structures, or systems.",
+    "example": "The engineer developed a new software program to improve efficiency."
+  },
+  "sentences_removed": 1
+}

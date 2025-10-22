@@ -1,0 +1,105 @@
+{
+  "lemma": "face",
+  "count": 22,
+  "pos_dist": {
+    "NOUN": 13,
+    "VERB": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Almost everybody is a of many different \u0013Times New Roman ; we show different faces to different people.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/face_ex_0_8165f935.mp3"
+      },
+      {
+        "text": "In the face of this tragedy, food and other supplies from around the world landed in the provincial capital of Kerman on Sunday.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/face_ex_1_a65d4e8c.mp3"
+      },
+      {
+        "text": "For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/face_ex_2_83a60616.mp3"
+      },
+      {
+        "text": "Bindis are worn anywhere on the face now.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/face_ex_3_a0480333.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In contrast 28. (A) face (B) faced (C) facing (D) to face 29.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Surprised by the father and son’s “pale faces” and their battered vessel, the Penghu police and fishers in Paisha rescued them.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the past, flashing red lights and even lion faces have been unsuccessfully trialed in an attempt to keep deer off the tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I asked how she dealt with the realization that she’d never walk again, and she confessed that initially she didn’t want to face it.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is given to people who act bravely and face danger to save the lives of others.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "But I couldn’t (32) his face at all.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Reducing waste of fish catch has become a serious issue today, when many countries are faced with food crises.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To support refugees and people facing crises around the world, the International Olympic Committee created the Refugee Olympic Team.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Not all dimples are formed by a genetic defect, though; some may appear due to the 36 of excessive fat on the face.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Faced with this new situation, people have __(30)__ to find out how to deal with it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "臉；面孔；表面",
+    "en_def": "The front part of a person's head, including the forehead, eyes, nose, mouth, and chin.",
+    "example": "She smiled, and her face lit up with joy."
+  },
+  "sentences_removed": 3
+}

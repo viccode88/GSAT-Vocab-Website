@@ -1,0 +1,23 @@
+{
+  "lemma": "projector",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Through a projector, this attractive radio-alarm-clock is able to display the time onto a wall, ceiling, or anywhere __23__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/projector_ex_0_c1d86444.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "投影機，一種將影像或視頻投射到屏幕或牆面上的設備。",
+    "en_def": "A device that projects an image or video onto a screen or wall.",
+    "example": "We used a projector to display the presentation during the meeting."
+  },
+  "sentences_removed": 0
+}

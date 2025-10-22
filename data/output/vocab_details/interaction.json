@@ -1,0 +1,33 @@
+{
+  "lemma": "interaction",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have complex interactions led by a leader.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/interaction_ex_0_f92775dc.mp3"
+      },
+      {
+        "text": "The phenomenon of stress is the constant interaction between mind and body.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/interaction_ex_1_09c579df.mp3"
+      },
+      {
+        "text": "The lack of social interaction among students and professors.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/interaction_ex_2_00839829.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "互動；相互作用",
+    "en_def": "The action or influence of people or things on one another.",
+    "example": "The interaction between the teacher and students is crucial for effective learning."
+  },
+  "sentences_removed": 0
+}

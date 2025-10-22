@@ -1,0 +1,23 @@
+{
+  "lemma": "bandwagon",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since then, other companies have jumped on the bandwagon to promote everything from soft drinks to new clothes as a 27 .",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/bandwagon_ex_0_bee0dbf1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "流行的趨勢或潮流，尤其是指人們因為其他人參與而跟隨的行為。",
+    "en_def": "A popular trend or activity that many people join in, often because others are doing it.",
+    "example": "Everyone started using the new app, so I decided to jump on the bandwagon too."
+  },
+  "sentences_removed": 0
+}

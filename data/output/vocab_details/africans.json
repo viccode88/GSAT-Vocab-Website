@@ -1,0 +1,23 @@
+{
+  "lemma": "africans",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/africans_ex_0_bf84cbb9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "非洲人，指來自非洲大陸的人。",
+    "en_def": "People originating from the continent of Africa.",
+    "example": "Many Africans have rich cultural traditions that vary across different regions."
+  },
+  "sentences_removed": 0
+}

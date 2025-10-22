@@ -1,0 +1,23 @@
+{
+  "lemma": "mask",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His 1848 novel, The Man in the Iron Mask, was recently made into a movie.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/mask_ex_0_42fcc4b0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "遮蓋面部的物品，通常用於保護或隱藏身份。",
+    "en_def": "An item worn to cover the face, often used for protection or to conceal identity.",
+    "example": "She wore a mask to protect herself from the dust."
+  },
+  "sentences_removed": 0
+}

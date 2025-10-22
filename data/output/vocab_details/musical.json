@@ -1,0 +1,43 @@
+{
+  "lemma": "musical",
+  "count": 8,
+  "pos_dist": {
+    "ADJ": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1761, while living in England, Franklin heard a performer playing musical glasses.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/musical_ex_0_d3ee222b.mp3"
+      },
+      {
+        "text": "What musical instrument was Stradivarius most famous for making? 3.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/musical_ex_1_9e75766a.mp3"
+      },
+      {
+        "text": "Also, people with color-music synesthesia more often than not have had early musical training.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/musical_ex_2_b7669dda.mp3"
+      },
+      {
+        "text": "The musical has been performed in more than nine languages, with more productions than any 23 musical.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/musical_ex_3_ed61129c.mp3"
+      },
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/musical_ex_4_f4630afa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與音樂有關的；音樂性的",
+    "en_def": "Relating to or having the qualities of music.",
+    "example": "She has a musical talent that impresses everyone."
+  },
+  "sentences_removed": 2
+}

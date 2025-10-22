@@ -1,0 +1,23 @@
+{
+  "lemma": "dime",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For example, a 1798 dime is much rarer than a 1916 dime, but the 25 sells for significantly more, simply because many more people collect early 20th century dimes than dimes from the 1700s.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/dime_ex_0_89444635.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於表達或傳達信息的動詞，通常指告訴或通知某人某事。",
+    "en_def": "A verb used to express or convey information, typically meaning to tell or inform someone of something.",
+    "example": "Please dime me when you arrive at the station."
+  },
+  "sentences_removed": 0
+}

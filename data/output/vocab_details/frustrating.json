@@ -1,0 +1,23 @@
+{
+  "lemma": "frustrating",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The main reason is that these stories offer us chances to get away from this real, frustrating world and allow us to find some magical solutions to our problems.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/frustrating_ex_0_f8da3642.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人沮喪的；使人感到挫折的",
+    "en_def": "Causing feelings of frustration or annoyance.",
+    "example": "It was frustrating to wait for the bus that never arrived."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "defense",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/defense_ex_0_bf84cbb9.mp3"
+      },
+      {
+        "text": "And maybe the third important thing is my father’s admonition that offense is the best defense.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/defense_ex_1_2f58417e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "防禦；保護措施",
+    "en_def": "The action of defending from or resisting an attack.",
+    "example": "The team's defense was strong enough to prevent the opposing players from scoring."
+  },
+  "sentences_removed": 0
+}

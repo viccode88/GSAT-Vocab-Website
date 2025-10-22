@@ -1,0 +1,23 @@
+{
+  "lemma": "inevitably",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/inevitably_ex_0_6d255e69.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不可避免地",
+    "en_def": "In a manner that cannot be avoided or prevented.",
+    "example": "If you keep eating junk food, you will inevitably gain weight."
+  },
+  "sentences_removed": 0
+}

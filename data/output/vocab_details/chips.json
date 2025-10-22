@@ -1,0 +1,23 @@
+{
+  "lemma": "chips",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Soon Saratoga Chips appeared on the menu and became so popular that people wanted to take some home.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/chips_ex_0_db10309a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "薄脆的食物，通常由馬鈴薯或玉米製成，經過油炸或烘烤。",
+    "en_def": "Thin, crispy snacks typically made from potatoes or corn, often fried or baked.",
+    "example": "I bought a bag of chips to enjoy during the movie."
+  },
+  "sentences_removed": 0
+}

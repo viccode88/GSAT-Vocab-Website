@@ -1,0 +1,79 @@
+{
+  "lemma": "promote",
+  "count": 12,
+  "pos_dist": {
+    "VERB": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/promote_ex_0_7aac2588.mp3"
+      },
+      {
+        "text": "Studies have proved that watching funny movies can reduce pain and promote healing.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/promote_ex_1_be21a6f6.mp3"
+      },
+      {
+        "text": "Industry members of the IOC hope to promote the trade of olive oil by initiating these changes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/promote_ex_2_b1f041bf.mp3"
+      },
+      {
+        "text": "Marketers recognize this fact and often use elements of youth culture to promote their products.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/promote_ex_3_c5447525.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What can be inferred from the passage? (A) Scribner’s Monthly was a magazine promoting national parks.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Studies like these have promoted the banning of smoking in 10 places.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The objective is to promote peace all over the world, and to 26 barriers between every nationality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then, other companies have jumped on the bandwagon to promote everything from soft drinks to new clothes as a 27 .",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Ethiopian government has spared no efforts in promoting running.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "促進；提升；宣傳",
+    "en_def": "To support or actively encourage a cause, venture, or aim; to raise to a higher position or rank.",
+    "example": "The company decided to promote the new product through a social media campaign."
+  },
+  "sentences_removed": 0
+}

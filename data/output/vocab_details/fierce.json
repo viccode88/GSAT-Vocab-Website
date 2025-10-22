@@ -1,0 +1,23 @@
+{
+  "lemma": "fierce",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the Amazons reach the nest of their intended victims, a fierce battle may take place.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/fierce_ex_0_ecdf7603.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "激烈的；猛烈的；兇猛的",
+    "en_def": "Having or displaying an intense or ferocious aggressiveness.",
+    "example": "The fierce competition between the two teams made the game exciting."
+  },
+  "sentences_removed": 0
+}

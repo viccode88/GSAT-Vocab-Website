@@ -1,0 +1,23 @@
+{
+  "lemma": "countdown",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/countdown_ex_0_c07b991e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "倒數計時，指從某個數字向下計數的過程，通常用於計時或準備某個事件的開始。",
+    "en_def": "A countdown is the backward counting to indicate the time remaining before an event occurs.",
+    "example": "We started the countdown to the New Year at ten seconds."
+  },
+  "sentences_removed": 0
+}

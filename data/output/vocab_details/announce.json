@@ -1,0 +1,43 @@
+{
+  "lemma": "announce",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "An international company requires a A major US corporation in the health and nutritional Service Technician industry has announced the opening of its direct selling To service and maintain electronic medical equipment division in Taiwan.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/announce_ex_0_bec3a6f6.mp3"
+      },
+      {
+        "text": "Beame announced that the city would not punish \"The Human Fly.\"",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/announce_ex_1_6459dfcc.mp3"
+      },
+      {
+        "text": "All three _____ seem confident that they will be elected, but we won’t know until the outcome of the election is announced.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/announce_ex_2_decbb6bf.mp3"
+      },
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/announce_ex_3_6afd3e65.mp3"
+      },
+      {
+        "text": "In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/announce_ex_4_0d82e19b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "宣布，公告",
+    "en_def": "To make a public declaration about something.",
+    "example": "The company will announce its new product next week."
+  },
+  "sentences_removed": 0
+}

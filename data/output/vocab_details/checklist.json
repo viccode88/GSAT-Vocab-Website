@@ -1,0 +1,23 @@
+{
+  "lemma": "checklist",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are often given a checklist that provides directions on what to observe or look out for to ensure consistency.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/checklist_ex_0_9698c3e9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "檢查清單，列出需要完成的任務或項目以便檢查或確認。",
+    "en_def": "A list of items to be checked or completed.",
+    "example": "I created a checklist to organize my tasks for the day."
+  },
+  "sentences_removed": 0
+}

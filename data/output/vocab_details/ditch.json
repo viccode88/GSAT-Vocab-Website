@@ -1,0 +1,23 @@
+{
+  "lemma": "ditch",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Near the “black ditch” of Penghu, battered by winds of up to 70 knots, the rear sail was torn into shreds.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/ditch_ex_0_d1accfcc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "溝渠；排水溝",
+    "en_def": "A long, narrow excavation in the ground for drainage or irrigation.",
+    "example": "The farmer dug a ditch to help water flow to the crops."
+  },
+  "sentences_removed": 0
+}

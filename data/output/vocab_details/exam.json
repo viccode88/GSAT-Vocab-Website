@@ -1,0 +1,38 @@
+{
+  "lemma": "exam",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We believe that with your intelligence and hard work, you will pass the exam without any difficulty.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/exam_ex_0_7a785a36.mp3"
+      },
+      {
+        "text": "I am studying so hard for the forthcoming entrance exam that I do not have the of a free weekend to rest.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/exam_ex_1_3aad5853.mp3"
+      },
+      {
+        "text": "J.…is why John failed in this exam.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/exam_ex_2_25d6a438.mp3"
+      },
+      {
+        "text": "Belle was the person (D) … he will fail the exam.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/exam_ex_3_df886be4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "考試，通常用來評估學生的知識或技能。",
+    "en_def": "A test of a person's knowledge or proficiency in a subject or skill.",
+    "example": "She studied hard for her math exam."
+  },
+  "sentences_removed": 0
+}

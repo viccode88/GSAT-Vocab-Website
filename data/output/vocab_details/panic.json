@@ -1,0 +1,39 @@
+{
+  "lemma": "panic",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the deer hear a combination of a 3-second- long recording of a deer’s snort and 20 seconds of a barking dog, they panic and flee rapidly.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/panic_ex_0_243c7ebe.mp3"
+      },
+      {
+        "text": "The barking of the hound, which drives deer to panic, strengthens the effect of the warning noise, according to the RTRI.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/panic_ex_1_8003e6d9.mp3"
+      },
+      {
+        "text": "People who are more sensitive to anxiety can panic after viewing a thriller.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/panic_ex_2_cd212f91.mp3"
+      },
+      {
+        "text": "In a panic (B) With delight (C) Out of sorrow (D) Filled with embarrassment 39. (A) they had seen my car (B) there was a shop nearby (C) they had seen two small girls (D) there was a police station in the neighborhood 40.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/panic_ex_3_63dc492c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "驚慌，恐慌，通常因為突發事件或危險而產生的強烈不安或焦慮。",
+    "en_def": "A sudden overwhelming fear or anxiety, often causing irrational behavior.",
+    "example": "When the fire alarm went off, everyone started to panic and rushed for the exits."
+  },
+  "sentences_removed": 0
+}

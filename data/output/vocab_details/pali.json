@@ -1,0 +1,23 @@
+{
+  "lemma": "pali",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The breathtaking 4,000-foot cliffs of Na Pali Coast rise grandly from the sea.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pali_ex_0_590f9cb0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "巴利語，一種古老的印度語言，主要用於佛教經典。",
+    "en_def": "Pali is an ancient Indian language used primarily in Buddhist scriptures.",
+    "example": "The teachings of the Buddha are often studied in Pali."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "beer",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Fourth of July means beer and New Year's Eve is an entire night dedicated to the proposition that everyone must get 25 .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/beer_ex_0_ed74b990.mp3"
+      },
+      {
+        "text": "Beer companies often sponsor the sports events young people watch.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/beer_ex_1_38fb5d41.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種由水、麥芽、啤酒花和酵母釀製的酒精飲料。",
+    "en_def": "An alcoholic beverage made from water, malt, hops, and yeast.",
+    "example": "I enjoy having a cold beer after work."
+  },
+  "sentences_removed": 0
+}

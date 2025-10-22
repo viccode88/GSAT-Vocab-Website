@@ -1,0 +1,23 @@
+{
+  "lemma": "colorado",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "× 25 cm are available from the Clinebell Company in Colorado.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/colorado_ex_0_4deebd14.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "科羅拉多州，美國的一個州，以其壯麗的山脈和戶外活動而聞名。",
+    "en_def": "Colorado, a state in the United States known for its stunning mountains and outdoor activities.",
+    "example": "I plan to visit Colorado next summer to hike in the Rockies."
+  },
+  "sentences_removed": 0
+}

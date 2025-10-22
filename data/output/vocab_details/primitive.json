@@ -1,0 +1,28 @@
+{
+  "lemma": "primitive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m. (A) relative (B) severe (C) primitive (D) flexible 2.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/primitive_ex_0_4d86e1d9.mp3"
+      },
+      {
+        "text": "Still others think that most aliens visit Earth to study us like our scientists study primitive natives and animals, and have no interest in helping us __(40)__.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/primitive_ex_1_0d9c0246.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "原始的；未開化的；基本的",
+    "en_def": "Relating to the earliest stages of development; simple or basic.",
+    "example": "The primitive tools used by early humans were made from stone and wood."
+  },
+  "sentences_removed": 0
+}

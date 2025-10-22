@@ -1,0 +1,17 @@
+{
+  "lemma": "speculate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "推測，猜測，尤其是在缺乏充分證據的情況下。",
+    "en_def": "To form a theory or conjecture about a subject without firm evidence.",
+    "example": "Scientists speculate about the existence of life on other planets."
+  },
+  "sentences_removed": 1
+}

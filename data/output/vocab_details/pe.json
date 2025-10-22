@@ -1,0 +1,23 @@
+{
+  "lemma": "pe",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The group was founded by a PE teacher.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/pe_ex_0_623288e4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種小型的圓形或橢圓形的水果，通常是綠色或紅色，內含種子，味道甜美。",
+    "en_def": "A small, round or oval fruit, typically green or red, containing seeds and having a sweet taste.",
+    "example": "I picked a ripe pe from the tree."
+  },
+  "sentences_removed": 0
+}

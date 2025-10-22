@@ -1,0 +1,38 @@
+{
+  "lemma": "rebuild",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The old houses will soon be and rebuilt because of the severe damage caused by the earthquake.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rebuild_ex_0_095e690c.mp3"
+      },
+      {
+        "text": "With such support, spiritual leader Ayatollah Ali Khamenei vowed, “We will rebuild Bam stronger than before.” 45.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rebuild_ex_1_f31c1a55.mp3"
+      },
+      {
+        "text": "A few hotels are still being rebuilt, but Kauai remains as beautiful as ever.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/rebuild_ex_2_b4785818.mp3"
+      },
+      {
+        "text": "In 1945, devastated from the war, the country set about establishing a cheap industry that could rebuild its economy.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rebuild_ex_3_67d8f455.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重建；重新建立或修復某物。",
+    "en_def": "To build something again after it has been damaged or destroyed.",
+    "example": "After the hurricane, the community came together to rebuild the damaged homes."
+  },
+  "sentences_removed": 0
+}

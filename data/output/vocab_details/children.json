@@ -1,0 +1,17 @@
+{
+  "lemma": "children",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "年輕的人，通常指未成年人，特別是指從出生到青春期的階段。",
+    "en_def": "Young human beings, typically referring to those who are not yet adults, especially from birth to puberty.",
+    "example": "The children played happily in the park."
+  },
+  "sentences_removed": 1
+}

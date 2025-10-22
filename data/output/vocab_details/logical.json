@@ -1,0 +1,28 @@
+{
+  "lemma": "logical",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Scientific doctors try to observe sicknesses, look for logical patterns, and then find out how the human body works.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/logical_ex_0_997033b1.mp3"
+      },
+      {
+        "text": "She thinks in a very logical way.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/logical_ex_1_8743990f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "合乎邏輯的，符合推理或思考的原則。",
+    "en_def": "Relating to or according to the rules of logic; reasonable or sensible.",
+    "example": "Her argument was logical and easy to follow."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "teach",
+  "count": 14,
+  "pos_dist": {
+    "VERB": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/teach_ex_0_270788ee.mp3"
+      },
+      {
+        "text": "We have to teach her to care for others.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/teach_ex_1_88bc4b97.mp3"
+      },
+      {
+        "text": "Hirsch thinks that mothers teach a baby to speak by using different methods such as touch, sound, and sight.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/teach_ex_2_3a2574ca.mp3"
+      },
+      {
+        "text": "Please teach me what you have in your heart that makes you so generous.” 21.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/teach_ex_3_61db1a7d.mp3"
+      },
+      {
+        "text": "Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they’re free.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/teach_ex_4_1a1e13ef.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To teach children about the meal preparation process.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The broken pieces of knowledge taught at school.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In teaching young players to cooperate with their fellows on the practice 32 , the game shows them the necessity of teamwork in society.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach the monkeys how to make the loudest cries to scare people away. 44.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The teacher loved to teach young students, ________ those who were smart.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To teach children right from wrong, some parents will ______",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The man (23) everything he could to teach the parrot to say “Catano,” but he never (24) .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "教導或傳授知識、技能或行為。",
+    "en_def": "To impart knowledge, skills, or behavior to someone.",
+    "example": "She loves to teach children how to read."
+  },
+  "sentences_removed": 1
+}

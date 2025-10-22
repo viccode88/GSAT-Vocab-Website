@@ -1,0 +1,23 @@
+{
+  "lemma": "monetary",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Hence, diamonds carry a higher monetary value than water, even though we find more use for water.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/monetary_ex_0_3fce78b0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "貨幣的；金融的",
+    "en_def": "Relating to money or currency.",
+    "example": "The government implemented new monetary policies to stabilize the economy."
+  },
+  "sentences_removed": 0
+}

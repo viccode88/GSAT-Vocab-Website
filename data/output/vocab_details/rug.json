@@ -1,0 +1,23 @@
+{
+  "lemma": "rug",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Amy followed her, trying to recall how each one had looked when they were filled with furniture and rugs and pictures and books.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/rug_ex_0_0203ab52.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於地板上的織物，通常用來提供舒適或裝飾。",
+    "en_def": "A piece of thick fabric that covers part of a floor, often used for comfort or decoration.",
+    "example": "She placed a beautiful rug in the living room to add warmth."
+  },
+  "sentences_removed": 0
+}

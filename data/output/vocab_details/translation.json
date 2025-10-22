@@ -1,0 +1,23 @@
+{
+  "lemma": "translation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Altogether he printed nearly 80 books, many being his own translations from the French. 37.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/translation_ex_0_33ec2037.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "翻譯是將一種語言的文字或口語內容轉換為另一種語言的過程。",
+    "en_def": "Translation is the process of converting text or spoken content from one language into another.",
+    "example": "The translation of the book made it accessible to a wider audience."
+  },
+  "sentences_removed": 0
+}

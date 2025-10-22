@@ -1,0 +1,23 @@
+{
+  "lemma": "kilimanjaro",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro’s snows and glaciers are melting and are 23 to disappear by 2020.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/kilimanjaro_ex_0_f25f75cc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "乞力馬扎羅山，位於坦尚尼亞，是非洲最高的山峰，海拔5895米。",
+    "en_def": "Kilimanjaro is the highest mountain in Africa, located in Tanzania, with an elevation of 5,895 meters.",
+    "example": "Many adventurers dream of climbing Mount Kilimanjaro."
+  },
+  "sentences_removed": 0
+}

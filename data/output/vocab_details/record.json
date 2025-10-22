@@ -1,0 +1,120 @@
+{
+  "lemma": "record",
+  "count": 21,
+  "pos_dist": {
+    "VERB": 13,
+    "NOUN": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/record_ex_0_1cb4adca.mp3"
+      },
+      {
+        "text": "They take many photographs to record their observations.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/record_ex_1_3f06edfe.mp3"
+      },
+      {
+        "text": "How did the author have the conversation recorded?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/record_ex_2_49c9b608.mp3"
+      },
+      {
+        "text": "Requirements for a 14-day non-visa entry are: passport good for at least six months, confirmed onward ticket within 14 days, no violation of law recorded.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/record_ex_3_4fcf94e5.mp3"
+      },
+      {
+        "text": "He wanted to record how they pronounced numbers.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/record_ex_4_cae00b60.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do the keepers at the sanctuary use recorded howls? (A) To prevent the howler monkeys from getting homesick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He wanted them to think that was all he wanted to record.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Couples danced to music provided by a local amateur band or a record player.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As a record number of fans showed up for the baseball final, the highways around the stadium were with traffic all day.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Where is the earliest written record of the guitar found? 2.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The earliest record of people wearing the flip-flop comes from Egypt, but many ancient cultures had their own variants of the footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There is no record of whether Shaw ever sent the tickets. 54.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Once I invited a group of friends round to my house, telling them that I was going to record their speech.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming _____ in the 2008 Olympics.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "23 the process of questioning, all the signals are recorded on a single strip of moving paper.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "At the sanctuary, keepers now use recorded howler sounds from a distance so that the monkeys feel the need to make the territorial calls as they would do in the wild.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "記錄；錄音；檔案",
+    "en_def": "A written or electronic account of something; to capture audio or video.",
+    "example": "She decided to record her thoughts in a journal."
+  },
+  "sentences_removed": 1
+}

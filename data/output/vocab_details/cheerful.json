@@ -1,0 +1,23 @@
+{
+  "lemma": "cheerful",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/cheerful_ex_0_2f11f77c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "快樂的，愉快的，充滿活力的",
+    "en_def": "Feeling or showing happiness and joy.",
+    "example": "She had a cheerful smile that brightened everyone's day."
+  },
+  "sentences_removed": 0
+}

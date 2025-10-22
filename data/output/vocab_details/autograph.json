@@ -1,0 +1,44 @@
+{
+  "lemma": "autograph",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But nowadays, autographs (signatures) are big business.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/autograph_ex_0_8d5fa567.mp3"
+      },
+      {
+        "text": "What is the real reason many collectors want autographs?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/autograph_ex_1_9d084a02.mp3"
+      },
+      {
+        "text": "Some of the police officers asked him for his autograph.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/autograph_ex_2_1158835f.mp3"
+      },
+      {
+        "text": "Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/autograph_ex_3_0876dcc2.mp3"
+      },
+      {
+        "text": "I mistook the man for a well-known actor and asked for his autograph; it was really _____.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/autograph_ex_4_94b5c497.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "親筆簽名，通常是名人或著名人物的簽名。",
+    "en_def": "A person's signature, especially that of a celebrity or famous individual.",
+    "example": "I got the actor's autograph after the movie premiere."
+  },
+  "sentences_removed": 0
+}

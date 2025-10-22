@@ -1,0 +1,33 @@
+{
+  "lemma": "majority",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Sue would ______ have followed the majority if she didn’t want to get into an argument.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/majority_ex_0_eaf4400c.mp3"
+      },
+      {
+        "text": "The majority of their viewers are minority people.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/majority_ex_1_cbce528e.mp3"
+      },
+      {
+        "text": "However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/majority_ex_2_fc2d4902.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大多數；過半數",
+    "en_def": "The greater number or part of something; more than half.",
+    "example": "The majority of the voters supported the new law."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cuff",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, de Mestral’s design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons’ gowns.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/cuff_ex_0_244a9b75.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "袖口；手銬",
+    "en_def": "A cuff is the end part of a sleeve, where it is turned back or finished, or a handcuff used to restrain someone's wrists.",
+    "example": "He rolled up the cuffs of his shirt before starting to paint."
+  },
+  "sentences_removed": 0
+}

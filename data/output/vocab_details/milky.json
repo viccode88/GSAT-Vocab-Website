@@ -1,0 +1,23 @@
+{
+  "lemma": "milky",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Continuous as the stars that shine And twinkle on the Milky Way, They stretched in never-ending line Along the margin of a bay:",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/milky_ex_0_e56bf8b9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "乳白色的；像牛奶的",
+    "en_def": "Having the color or consistency of milk; pale and opaque.",
+    "example": "The sky was a milky white, creating a soft and dreamy atmosphere."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "roomful",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/roomful_ex_0_25185a8f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個房間內的所有人或物品的總和。",
+    "en_def": "The total number of people or things that can fill a room.",
+    "example": "The conference had a roomful of eager participants."
+  },
+  "sentences_removed": 0
+}

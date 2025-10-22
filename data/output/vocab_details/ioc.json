@@ -1,0 +1,33 @@
+{
+  "lemma": "ioc",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Industry members of the IOC hope to promote the trade of olive oil by initiating these changes.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ioc_ex_0_b1f041bf.mp3"
+      },
+      {
+        "text": "Recently, however, the International Olive Council (IOC) is seeking input on test methods to improve the transparency of the testing process and boost the accuracy of the results.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ioc_ex_1_fd1da88a.mp3"
+      },
+      {
+        "text": "What is the IOC trying to do? (A) Train more qualified olive oil tasters.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/ioc_ex_2_791fdb2c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "反轉控制，一種設計模式，通過將對象的創建和管理交給外部容器來實現對象之間的解耦。",
+    "en_def": "Inversion of Control, a design pattern where the control of object creation and management is transferred to an external container to achieve decoupling between objects.",
+    "example": "In software development, using IoC can help improve the modularity of the application."
+  },
+  "sentences_removed": 0
+}

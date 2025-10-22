@@ -1,0 +1,39 @@
+{
+  "lemma": "span",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/span_ex_0_237f8d30.mp3"
+      },
+      {
+        "text": "Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, 21 the probability of being struck seven different times.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/span_ex_1_52bd3a9e.mp3"
+      },
+      {
+        "text": "Onions are depicted in many paintings 36 inside pyramids and tombs that span the history of ancient Egypt.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/span_ex_2_1394081a.mp3"
+      },
+      {
+        "text": "The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/span_ex_3_676933e2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "跨越，延伸或範圍。",
+    "en_def": "To extend across a distance or area; to cover or reach from one side to another.",
+    "example": "The bridge spans the river, connecting the two towns."
+  },
+  "sentences_removed": 0
+}

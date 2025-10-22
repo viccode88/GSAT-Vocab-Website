@@ -1,0 +1,23 @@
+{
+  "lemma": "guidance",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/guidance_ex_0_e99e3756.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "指導或引導的行為或過程。",
+    "en_def": "The act or process of directing or advising someone.",
+    "example": "She sought guidance from her mentor before making a decision."
+  },
+  "sentences_removed": 0
+}

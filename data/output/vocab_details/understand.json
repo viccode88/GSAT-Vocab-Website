@@ -1,0 +1,129 @@
+{
+  "lemma": "understand",
+  "count": 23,
+  "pos_dist": {
+    "VERB": 23
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You don't even need a very expensive computer—but you must understand everything about all kinds of computers.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/understand_ex_0_ad7d7adb.mp3"
+      },
+      {
+        "text": "Surprisingly, only 51 percent of the people surveyed understand that the common cold has no cure.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/understand_ex_1_d68bf7b6.mp3"
+      },
+      {
+        "text": "The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/understand_ex_2_c9170490.mp3"
+      },
+      {
+        "text": "Whitfield said she came to understand that the only thing she had lost in this misfortunate event was the ability to walk.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/understand_ex_3_f09034c0.mp3"
+      },
+      {
+        "text": "We simply cannot understand it.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/understand_ex_4_51355131.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A. Amy Personally I’m against zoos, though I do understand some of the arguments why they should exist.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "What I can never understand B.…moved into a new apartment.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Few of them understood that on their way they would have to cross a harsh wilderness.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Understanding the needs of your body is the 37 .",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "I understand that college students like to 17 parties, movies, and lots of activities, but you also have to learn how to do without certain things.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Understanding how pain works in the mind and brain could eventually give doctors tools for helping people cope with painful medical treatments.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most of us understand the results of not controlling our reactions __(34)__ stress.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Dognition helps people understand their dogs in ways that they have never been able to do.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "He understands his place in the team; he knows he is a member of society and must 37 himself as such.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "I understand it is not easy to live on your own.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Since I do not fully understand your proposal, I am not in the position to make any on it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Here is an easy way of understanding it.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Understanding these differences is important in raising and educating children.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, parents and teachers should try to recognize, understand, and make use of the biological differences that make a girl a girl, and a boy a boy.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "理解，明白某事的意義或原因。",
+    "en_def": "To grasp the meaning, significance, or nature of something.",
+    "example": "I finally understand the instructions for the project."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cellar",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/cellar_ex_0_7485cb8d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地下室，通常用來儲存酒或食物的空間。",
+    "en_def": "A room below ground level used for storage, especially for wine or food.",
+    "example": "They stored the wine in the cool, dark cellar."
+  },
+  "sentences_removed": 0
+}

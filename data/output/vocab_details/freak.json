@@ -1,0 +1,23 @@
+{
+  "lemma": "freak",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Magicians were thought of as freaks and were only allowed to perform in a circus.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/freak_ex_0_c3ed0d04.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "怪物；異常的人或事物；狂熱者",
+    "en_def": "A person or thing that is markedly unusual or abnormal; someone with an intense enthusiasm for something.",
+    "example": "He is a fitness freak who spends hours at the gym every day."
+  },
+  "sentences_removed": 0
+}

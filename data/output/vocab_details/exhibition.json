@@ -1,0 +1,33 @@
+{
+  "lemma": "exhibition",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The tower is built to celebrate the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/exhibition_ex_0_0c248dc5.mp3"
+      },
+      {
+        "text": "The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/exhibition_ex_1_81b0003b.mp3"
+      },
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/exhibition_ex_2_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "展覽；展示會",
+    "en_def": "A public display of works of art or items of interest.",
+    "example": "The museum is hosting an exhibition of modern art this summer."
+  },
+  "sentences_removed": 1
+}

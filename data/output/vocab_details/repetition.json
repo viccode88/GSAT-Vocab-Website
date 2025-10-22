@@ -1,0 +1,23 @@
+{
+  "lemma": "repetition",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They use logic, definition, and repetition to learn.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/repetition_ex_0_4ddb5a97.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "重複，指同一事物或行為的再次出現或執行。",
+    "en_def": "The action of repeating something that has already been said or done.",
+    "example": "The teacher emphasized the importance of repetition in learning new material."
+  },
+  "sentences_removed": 0
+}

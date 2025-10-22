@@ -1,0 +1,125 @@
+{
+  "lemma": "question",
+  "count": 21,
+  "pos_dist": {
+    "NOUN": 18,
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What question does the passage answer? (A) How was the word “hula-hooping” derived? (B)",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/question_ex_0_71b4a32e.mp3"
+      },
+      {
+        "text": "Mr. Chang always tries to answer all questions from his students.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/question_ex_1_078ddeeb.mp3"
+      },
+      {
+        "text": "Despite their popularity, flip-flops provoke some questions.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/question_ex_2_3e75d17f.mp3"
+      },
+      {
+        "text": "The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/question_ex_3_9dd4d430.mp3"
+      },
+      {
+        "text": "Once the questions are finished, the examiner analyzes the results to determine if the person tested 24 truthful.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/question_ex_4_04396fd8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "As the rumor of his scandal ______ quickly during the election campaign, more and more people began to question the honesty of the candidate.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "After several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The questions from his kids. 46.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The instrument is used to measure 21 a person’s body reacts to questions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There are still a lot of questions unanswered, but three main causes have been 35 .",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Do you think Teresa asked that question on purpose? (A) accidentally (B) gradually (C) intentionally (D) permanently 17.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He too stopped and asked Aesop the same question.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following best summarizes Zeke Emanuel’s response to the last question?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why couldn’t the researchers get the answer to their research questions? (A) Many cattle in their study were sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And then we began getting a lot of questions: What did Mom put in the cereal?",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many people ask me questions, and I give them the necessary information.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The question is what type your dog relies on more.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If your answer is “Yes!” to these questions, then you have good __(21)__ to take the course we have designed especially for people like you.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Over the years, researchers have given different answers to this question.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一個需要回答的問題或疑問。",
+    "en_def": "A sentence or phrase that seeks information or clarification.",
+    "example": "She raised her hand to ask a question during the lecture."
+  },
+  "sentences_removed": 0
+}

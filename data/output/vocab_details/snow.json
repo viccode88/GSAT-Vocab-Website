@@ -1,0 +1,49 @@
+{
+  "lemma": "snow",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/snow_ex_0_2dde4d8d.mp3"
+      },
+      {
+        "text": "The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/snow_ex_1_b9c85021.mp3"
+      },
+      {
+        "text": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/snow_ex_2_02f01b2a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "24 the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro’s snows and glaciers are melting and are 23 to disappear by 2020.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "雪：從雲中降落的冰晶，通常在寒冷的天氣中形成。",
+    "en_def": "Snow: frozen precipitation that falls from clouds in the form of ice crystals, typically occurring in cold weather.",
+    "example": "The children built a snowman in the backyard."
+  },
+  "sentences_removed": 0
+}

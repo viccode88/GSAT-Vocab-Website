@@ -1,0 +1,23 @@
+{
+  "lemma": "farmhouse",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The farmhouse and fruit trees were all gone and nothing was left.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/farmhouse_ex_0_9337164d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "農舍：位於農場上的住宅，通常用於農業工作和居住。",
+    "en_def": "A farmhouse is a dwelling located on a farm, typically used for agricultural work and living.",
+    "example": "They spent their summer vacation in a charming farmhouse surrounded by fields."
+  },
+  "sentences_removed": 0
+}

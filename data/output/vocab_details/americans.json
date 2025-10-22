@@ -1,0 +1,84 @@
+{
+  "lemma": "americans",
+  "count": 13,
+  "pos_dist": {
+    "PROPN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "More than two thirds of Americans have pets, and we share a bond with animals every day.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/americans_ex_0_08164d92.mp3"
+      },
+      {
+        "text": "Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/americans_ex_1_75f66c0b.mp3"
+      },
+      {
+        "text": "His pictures vividly portrayed the life of nineteenth-century Americans.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/americans_ex_2_dd154885.mp3"
+      },
+      {
+        "text": "It has also been a rite of passage for young Americans for nearly a century.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/americans_ex_3_40e9909f.mp3"
+      },
+      {
+        "text": "Health-conscious Americans are adding tofu, the most popular soybean product, to salads and using it as a meat substitute.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/americans_ex_4_0d81e176.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The EPA estimates that the average levels of dioxin in all Americans are so high that we can expect to see a variety of health effects, including cancer.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Americans __(38)__ different racial and educational backgrounds may vary in their standards of living.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Many African Americans were not given equal opportunities in education or employment.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Who wrote the book about Native Americans’ view of death? (A) Bruce Brooks.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Another spectator said that too many Americans take the achievements of the space program for granted.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some Americans enjoy great wealth, __(37)__",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For many older Americans, the prom was a modest, home-grown affair in the school gymnasium.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "美國人，指居住在美國或具有美國國籍的人。",
+    "en_def": "Americans are people who live in the United States or hold American citizenship.",
+    "example": "Many Americans celebrate Thanksgiving with family and friends."
+  },
+  "sentences_removed": 0
+}

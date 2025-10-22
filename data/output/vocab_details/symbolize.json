@@ -1,0 +1,23 @@
+{
+  "lemma": "symbolize",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Girls’ names such as Faith, Patience, and Sophie (wisdom) are chosen because they symbolize Christian qualities.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/symbolize_ex_0_eddb3588.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "象徵，代表某種意義或概念。",
+    "en_def": "To represent or stand for something else, often in a symbolic way.",
+    "example": "The dove is often used to symbolize peace."
+  },
+  "sentences_removed": 0
+}

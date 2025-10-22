@@ -1,0 +1,23 @@
+{
+  "lemma": "feeding",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They travel entirely along tree branches and as a group when “commuting” between two vines, laying down trails of pheromone (a locations, such as from their nesting site to their chemical substance) behind them so that other feeding ground.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/feeding_ex_0_6255986e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "餵食，提供食物給某人或某物。",
+    "en_def": "The act of giving food to someone or something.",
+    "example": "She is feeding the baby with a spoon."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "count",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They sat down, rather nervously, and I explained that all I wanted was for them to count from one to twenty.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/count_ex_0_534ec278.mp3"
+      },
+      {
+        "text": "I turned on the tape-recorder and each in turn solemnly counted from one to twenty in their best accent.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/count_ex_1_7a1b8d10.mp3"
+      },
+      {
+        "text": "Why did the author ask his friends to count from one to twenty? (A)",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/count_ex_2_f7ceaf18.mp3"
+      },
+      {
+        "text": "Dumas’s two most famous stories, The Three Musketeers and The Count of Monte Cristo, have inspired more than 100 films.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/count_ex_3_e91c09e4.mp3"
+      },
+      {
+        "text": "The police had to count on him to find out exactly how the accident happened.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/count_ex_4_9f3eef9d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "計算或數量的行為或過程。",
+    "en_def": "The act or process of determining the total number of something.",
+    "example": "Please count the number of apples in the basket."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "vocabulary",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One research report shows men and women use much the same grammar and vocabulary in English, although each sex uses certain kinds of words and structures more frequently than the other.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/vocabulary_ex_0_3a620b74.mp3"
+      },
+      {
+        "text": "From Binet’s work, the phrase “intelligence quotient” (“IQ”) entered the English vocabulary.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/vocabulary_ex_1_de0b80af.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "詞彙；語言中使用的單詞和短語的集合。",
+    "en_def": "The set of words and phrases used in a language.",
+    "example": "Expanding your vocabulary can improve your communication skills."
+  },
+  "sentences_removed": 0
+}

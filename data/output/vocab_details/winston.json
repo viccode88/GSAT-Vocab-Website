@@ -1,0 +1,17 @@
+{
+  "lemma": "winston",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "溫斯頓是一個常見的男性名字，源自於英語，通常與勇氣和堅持相關聯。",
+    "en_def": "Winston is a common male given name of English origin, often associated with courage and perseverance.",
+    "example": "Winston decided to run for class president to make a difference in his school."
+  },
+  "sentences_removed": 1
+}

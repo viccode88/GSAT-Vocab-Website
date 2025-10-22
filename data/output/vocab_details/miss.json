@@ -1,0 +1,65 @@
+{
+  "lemma": "miss",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 9,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Because of its small size, it might have missed the other car completely.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/miss_ex_0_a6a6e1b2.mp3"
+      },
+      {
+        "text": "Some critics worry that online students will miss out on the social aspects of college.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/miss_ex_1_a2a09a9c.mp3"
+      },
+      {
+        "text": "If I had known the fact, (C) … or she might miss the class.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/miss_ex_2_1dd224b5.mp3"
+      },
+      {
+        "text": "When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/miss_ex_3_3abdd70a.mp3"
+      },
+      {
+        "text": "How many times have you missed a picture because you failed to reload the film?” 51.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/miss_ex_4_913eb496.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dead mail will also be listed on a computer so that people can call in and check to see if a missing item is there.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "錯過；想念",
+    "en_def": "To fail to notice, attend to, or reach something; to feel sad about the absence of someone or something.",
+    "example": "I miss my friends when they move away."
+  },
+  "sentences_removed": 1
+}

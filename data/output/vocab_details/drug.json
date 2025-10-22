@@ -1,0 +1,55 @@
+{
+  "lemma": "drug",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 6,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The new vaccine was banned by the Food and Drug Administration due to its fatal side effects.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/drug_ex_0_e3d22789.mp3"
+      },
+      {
+        "text": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/drug_ex_1_b0334b5b.mp3"
+      },
+      {
+        "text": "The drug problem is universal.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/drug_ex_2_206ee5f9.mp3"
+      },
+      {
+        "text": "Recent research has found lots of evidence to the drug company’s claims about its “miracle” tablets for curing cancer.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/drug_ex_3_69ff2994.mp3"
+      },
+      {
+        "text": "The problem is made worse by doctors who give their patients large doses of useless drugs.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/drug_ex_4_312e08f8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "The problem of illegal drug use is very complex and cannot be traced to merely one _____ reason.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "藥物；用於治療、預防或診斷疾病的化學物質。",
+    "en_def": "A substance used for medical treatment, especially a medicine or a narcotic.",
+    "example": "The doctor prescribed a new drug to help manage her symptoms."
+  },
+  "sentences_removed": 0
+}

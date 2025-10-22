@@ -1,0 +1,28 @@
+{
+  "lemma": "fascination",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The monkey house has a strange fascination.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fascination_ex_0_beb76919.mp3"
+      },
+      {
+        "text": "I: Your brothers are a national source of fascination.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/fascination_ex_1_0a905031.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "著迷；迷戀",
+    "en_def": "A strong attraction or interest in something.",
+    "example": "Her fascination with astronomy led her to become an astrophysicist."
+  },
+  "sentences_removed": 0
+}

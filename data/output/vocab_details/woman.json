@@ -1,0 +1,284 @@
+{
+  "lemma": "woman",
+  "count": 63,
+  "pos_dist": {
+    "NOUN": 63
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Women also initiate touch more often than men do.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/woman_ex_0_d3943d0a.mp3"
+      },
+      {
+        "text": "But in a few days he came back to find the woman.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/woman_ex_1_e6e42524.mp3"
+      },
+      {
+        "text": "In the news recently was the story of a woman who died of a heart attack while driving her station wagon.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/woman_ex_2_abfc29bc.mp3"
+      },
+      {
+        "text": "It is a woman’s shoe of a style popular in the 1890s.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/woman_ex_3_e0ac6975.mp3"
+      },
+      {
+        "text": "Women’s fashions are changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/woman_ex_4_2cec18bf.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The 2011 Nobel Peace Prize was awarded _____ to three women for the efforts they made in fighting for women’s rights.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "They believed umbrellas were 14 for women.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "She is the eighth woman and the first African American woman to win the honor.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In Samoa a woman is not considered attractive unless she weighs more than 200 pounds.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "A woman's heart attack caused the death of five people.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What stories in some cultures state that men and women speak differently?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Most Indian women do not like to wear bindis anymore.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "__(39)__ men and women are able to respect and accept their differences, love has a chance to blossom.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Research shows that men and women usually think differently.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The women in the story __(23)__ birth to children that have the same appearance.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Those unnecessary deaths are attributable in part to the woman's choice of a large automobile.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1979, however, male names were also included because women protested against the original naming 34 for reasons of gender equality.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Multicolored beadwork is popular among both men and women.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "they awake, all of the women of child-bearing age have become pregnant.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So she was trucked to a most unusual orphanage in Nairobi, run by a woman named Daphne Sheldrick.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "In the legends of some cultures, it is even claimed that men and women speak different languages.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The women’s softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "This poses special problems for childbearing women, who pass dioxin to an unborn baby or to a breastfeeding baby.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The woman did 22 without hesitation.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Henna Heals, an artist group based in Canada, uses henna tattoos to help women suffering from cancer feel confident and beautiful again.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Divorced black women in American society.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to some studies, how often do men interrupt as compared with women?",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the tradition of men wearing it has faded in recent times, so nowadays we see a lot more women than men wearing one.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The woman is so that she cries every time she hears a sad story.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Marian Anderson (1897-1993) was an African American woman who gained fame as a concert singer in this climate of racism.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What adjectives do women use more often than men? 4.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The wise woman generously opened her bag to 21 her food with the traveler.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Women often wear dots that match the color of their clothes.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "With a DJ playing various kinds of music rather than just rap, and a mix of clothing labels designed more for taste and fashion than for a precise age, department stores have managed to appeal to successful middle-aged women 20 losing their younger customers.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Beaded jewelry is made by women, and is famous for its complexity.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It describes a woman who is called by her long-dead mother to go “beyond the ridge.”",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "But as the magic fades and daily life __(33)__, it happens that men, forgetting that men and women are supposed to be different, continue to expect women to think and react the way men do; women, __(34)__, expect men to feel and behave the way women do.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "No matter what happened to the woman who owned the shoe, _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "One research report shows men and women use much the same grammar and vocabulary in English, although each sex uses certain kinds of words and structures more frequently than the other.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They draw elegant henna crowns on the women’s bare heads to help them 18 the loss of their hair after cancer treatment.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In some countries, military service is ______ for men only; women do not have to serve in the military.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Whoever dropped the shoe must have been a brave and determined woman.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The woman told the truth to her lawyer without ____ because he was the only person she could rely on.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to one research report, which two parts of English are generally shared by men and women? 3.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Red is a popular color, and women generally opt for checked, striped, or patterned pieces of cloth.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Traditionally, the dot carries no gender restriction: Men as well as women wear it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The ordinary woman’s leather shoe is considered unusual because _______.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What kind of words do men use more frequently than women? 5.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "女性，成年女性的人。",
+    "en_def": "An adult female human.",
+    "example": "The woman walked her dog in the park."
+  },
+  "sentences_removed": 5
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "floral",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Featuring floral patterns, religious symbols, and messages of hope, the painted henna crowns are amazing substitutes for the hats and wigs that the cancer patients would 19 use to cover their heads.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/floral_ex_0_83e55e5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與花卉有關的；花的。",
+    "en_def": "Relating to or consisting of flowers.",
+    "example": "The wedding decorations were beautifully floral, featuring roses and lilies."
+  },
+  "sentences_removed": 0
+}

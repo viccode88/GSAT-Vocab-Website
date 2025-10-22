@@ -1,0 +1,28 @@
+{
+  "lemma": "slide",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The tines prevented meat from twisting or moving during carving and allowed food to slide off more easily than it would with a knife.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/slide_ex_0_23c467d3.mp3"
+      },
+      {
+        "text": "The doors of these department stores slide open _____ when you approach them.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/slide_ex_1_43afd26c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "滑動，滑行；使某物在表面上移動",
+    "en_def": "To move smoothly along a surface while maintaining continuous contact with it.",
+    "example": "The children love to slide down the playground slide."
+  },
+  "sentences_removed": 0
+}

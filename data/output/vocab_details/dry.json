@@ -1,0 +1,111 @@
+{
+  "lemma": "dry",
+  "count": 18,
+  "pos_dist": {
+    "ADJ": 9,
+    "VERB": 8,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dry_ex_0_0f672b5c.mp3"
+      },
+      {
+        "text": "Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/dry_ex_1_486bdc79.mp3"
+      },
+      {
+        "text": "Just a few miles west, there’s a dry region that receives a mere 6 inches of rain annually.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dry_ex_2_d27d3acd.mp3"
+      },
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/dry_ex_3_c0a6266c.mp3"
+      },
+      {
+        "text": "The old man could swallow because his throat was too dry.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/dry_ex_4_530efd58.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Black tea preparation consists mainly of picking young leaves and leaf buds on a clear sunny day and letting the leaves dry for about an hour in the sun.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Green tea leaves are heated in steam, rolled, and dried.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Finally, the leaves are dried in a basket over a charcoal fire.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Their relaxing bath will be 17 a full fluff dry and brush-out.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But during the dry season when there is no rain, snakes presumably have nothing to drink.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a sea snake was dried and weak, it drank more fresh water.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, they learned how to preserve the body by drying it out, oiling and then 19 the body in linen, before placing it in the coffin.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Green tea is dried but not fermented, and this shorter processing gives it a lighter flavor than black tea.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "沒有水分的，或缺乏濕氣的。",
+    "en_def": "Free from moisture; not wet or moist.",
+    "example": "The clothes are dry after being hung out in the sun."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "forehead",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why did people in India start wearing a red dot on their forehead?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/forehead_ex_0_52da2384.mp3"
+      },
+      {
+        "text": "The position of the bindi is standard: center of the forehead, close to the eyebrows.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/forehead_ex_1_3d6f2078.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "額頭，位於眼睛上方的面部區域。",
+    "en_def": "The part of the face above the eyebrows and below the hairline.",
+    "example": "She wiped the sweat from her forehead after the long run."
+  },
+  "sentences_removed": 0
+}

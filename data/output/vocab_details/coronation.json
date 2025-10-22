@@ -1,0 +1,23 @@
+{
+  "lemma": "coronation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They have also rung in times of 28 and of mourning, announcing such events as royal weddings and coronations of kings, as well as funerals of heads of state.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/coronation_ex_0_6afd3e65.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "加冕儀式，通常是國王或女王正式登基的儀式。",
+    "en_def": "The ceremony of crowning a sovereign.",
+    "example": "The coronation of the new king was a grand event attended by many dignitaries."
+  },
+  "sentences_removed": 0
+}

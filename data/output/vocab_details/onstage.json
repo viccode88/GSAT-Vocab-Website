@@ -1,0 +1,23 @@
+{
+  "lemma": "onstage",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the band played an introduction, Wesla Whitfield wheeled herself onstage in a wheelchair.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/onstage_ex_0_58d3c320.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在舞台上，指表演或演出的位置。",
+    "en_def": "In or on the stage during a performance.",
+    "example": "The actor was nervous before stepping onstage for the first time."
+  },
+  "sentences_removed": 0
+}

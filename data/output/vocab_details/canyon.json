@@ -1,0 +1,23 @@
+{
+  "lemma": "canyon",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Waimea Canyon, called the \"Grand Canyon of the Pacific\" by Mark Twain, cuts a deep gash through the rugged central mountains.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/canyon_ex_0_f22b279a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "峽谷：由河流侵蝕而形成的深而狹的山谷。",
+    "en_def": "A canyon is a deep, narrow valley with steep sides, often carved by a river.",
+    "example": "The Grand Canyon is one of the most famous canyons in the world."
+  },
+  "sentences_removed": 1
+}

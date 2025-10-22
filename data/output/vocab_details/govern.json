@@ -1,0 +1,28 @@
+{
+  "lemma": "govern",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "(F) They show behavior governed by a unique system of communication.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/govern_ex_0_9189d2d7.mp3"
+      },
+      {
+        "text": "It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/govern_ex_1_d41af6dd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "管理或統治一個國家、組織或社會的行為或過程。",
+    "en_def": "To exercise authority, control, or influence over a state, organization, or people.",
+    "example": "The new leader aims to govern with fairness and transparency."
+  },
+  "sentences_removed": 0
+}

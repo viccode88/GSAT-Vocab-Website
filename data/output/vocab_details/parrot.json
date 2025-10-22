@@ -1,0 +1,43 @@
+{
+  "lemma": "parrot",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The parrot was (21) , there was no other bird like him in the whole world.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/parrot_ex_0_452a0cdc.mp3"
+      },
+      {
+        "text": "But the parrot would not say it.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/parrot_ex_1_393b5048.mp3"
+      },
+      {
+        "text": "He picked up the parrot and threw the bird into the chicken house.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/parrot_ex_2_4ed33497.mp3"
+      },
+      {
+        "text": "The parrot was screaming at the fourth, “Say ‘Catano’ or I’ll kill you!” 21.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/parrot_ex_3_f6d649a8.mp3"
+      },
+      {
+        "text": "The man (23) everything he could to teach the parrot to say “Catano,” but he never (24) .",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/parrot_ex_4_33bb0a2b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鸚鵡，一種色彩鮮豔的鳥類，能模仿人類的語言和聲音。",
+    "en_def": "A parrot is a colorful bird known for its ability to mimic human speech and sounds.",
+    "example": "The parrot repeated everything it heard from its owner."
+  },
+  "sentences_removed": 0
+}

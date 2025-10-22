@@ -1,0 +1,23 @@
+{
+  "lemma": "variant",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The earliest record of people wearing the flip-flop comes from Egypt, but many ancient cultures had their own variants of the footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/variant_ex_0_fdd92686.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "變體；不同的版本或形式",
+    "en_def": "A form or version of something that differs from others.",
+    "example": "The new model is a variant of the original design."
+  },
+  "sentences_removed": 0
+}

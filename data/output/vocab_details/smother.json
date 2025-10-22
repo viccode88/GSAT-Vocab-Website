@@ -1,0 +1,23 @@
+{
+  "lemma": "smother",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When mothers try to dig their babies out, both may be trapped and smothered by thick mud.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/smother_ex_0_831f85de.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使窒息；抑制；覆蓋",
+    "en_def": "To suffocate or stifle someone or something, often by covering or restricting airflow.",
+    "example": "She tried to smother the flames with a blanket."
+  },
+  "sentences_removed": 0
+}

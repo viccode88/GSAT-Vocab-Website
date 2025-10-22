@@ -1,0 +1,23 @@
+{
+  "lemma": "mobility",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If this works, huge numbers of elderly and disabled people can regain their personal mobility.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/mobility_ex_0_6e426ab9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "移動性；流動性",
+    "en_def": "The ability to move or be moved freely and easily.",
+    "example": "The new wheelchair design greatly improves the user's mobility."
+  },
+  "sentences_removed": 0
+}

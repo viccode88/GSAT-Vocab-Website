@@ -1,0 +1,33 @@
+{
+  "lemma": "laborer",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The laborers mostly wore dark and dirty uniforms.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/laborer_ex_0_9a7b3fbc.mp3"
+      },
+      {
+        "text": "Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/laborer_ex_1_be3b04ff.mp3"
+      },
+      {
+        "text": "Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/laborer_ex_2_cd547e60.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "勞工；從事體力勞動的人。",
+    "en_def": "A person who does physical work, especially in manual labor.",
+    "example": "The laborer worked hard all day to support his family."
+  },
+  "sentences_removed": 0
+}

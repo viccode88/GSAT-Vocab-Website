@@ -1,0 +1,28 @@
+{
+  "lemma": "ecuador",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are located near Ecuador in the Pacific Ocean.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/ecuador_ex_0_b75483a1.mp3"
+      },
+      {
+        "text": "This group of islands off the coast of Ecuador has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/ecuador_ex_1_89469594.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "厄瓜多爾，位於南美洲的國家，以其多樣的生態系統和安第斯山脈而聞名。",
+    "en_def": "Ecuador, a country located in South America, known for its diverse ecosystems and the Andes mountains.",
+    "example": "Ecuador is famous for the Galápagos Islands and its rich biodiversity."
+  },
+  "sentences_removed": 0
+}

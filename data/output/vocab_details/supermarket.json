@@ -1,0 +1,28 @@
+{
+  "lemma": "supermarket",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/supermarket_ex_0_d15fcfb3.mp3"
+      },
+      {
+        "text": "They wrote letters to the tuna companies and supermarkets asking them to find a way to spare dolphins.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/supermarket_ex_1_25047bf0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大型自助式商店，提供各種食品和日用品。",
+    "en_def": "A large self-service store that sells a variety of food and household goods.",
+    "example": "I bought some groceries at the supermarket."
+  },
+  "sentences_removed": 0
+}

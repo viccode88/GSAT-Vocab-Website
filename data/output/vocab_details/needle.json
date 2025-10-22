@@ -1,0 +1,28 @@
+{
+  "lemma": "needle",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The researchers therefore had to study a lot of cows grazing in lots of different places at different times of day, in order to average out these factors and see whether cattle could act like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/needle_ex_0_8a194e44.mp3"
+      },
+      {
+        "text": "Whether cattle behave like compass needles.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/needle_ex_1_395bd90a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "針：一種細長的金屬工具，通常用於縫紉或注射。",
+    "en_def": "A slender, pointed metal tool used for sewing or injecting.",
+    "example": "She used a needle to sew the button back onto her shirt."
+  },
+  "sentences_removed": 0
+}

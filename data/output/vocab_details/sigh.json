@@ -1,0 +1,23 @@
+{
+  "lemma": "sigh",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sigh_ex_0_38f0fb76.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "發出嘆息聲，通常表示疲憊、失望或不滿。",
+    "en_def": "To exhale audibly in a long breath, often as an expression of sadness, relief, or frustration.",
+    "example": "She let out a sigh of relief when she heard the good news."
+  },
+  "sentences_removed": 0
+}

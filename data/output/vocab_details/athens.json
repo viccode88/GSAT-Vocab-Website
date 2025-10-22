@@ -1,0 +1,43 @@
+{
+  "lemma": "athens",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I love them.” 17 this, Aesop answered, “I’m happy to tell you, my dear friend, that you’ll find the people of Athens much the same.”",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/athens_ex_0_2d6ceea0.mp3"
+      },
+      {
+        "text": "Aesop replied, “Tell me where you come from and what sort of people live there, and I’ll tell you what sort of people you’ll find in Athens.”",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/athens_ex_1_8a6e4ce7.mp3"
+      },
+      {
+        "text": "Over the recent years, it has faced growing pressure to hand back the Elgin Marbles, sculptures taken from the Parthenon in Athens, Greece, in the 19th century.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/athens_ex_2_def0e2d6.mp3"
+      },
+      {
+        "text": "“Well, I’m afraid you’ll find the people of Athens much the same,” replied Aesop.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/athens_ex_3_a5f17311.mp3"
+      },
+      {
+        "text": "Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/athens_ex_4_5c40a048.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雅典：希臘的首都，以其古代文化和歷史著稱。",
+    "en_def": "Athens: The capital city of Greece, known for its ancient culture and history.",
+    "example": "Athens is famous for its historical landmarks like the Acropolis."
+  },
+  "sentences_removed": 1
+}

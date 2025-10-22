@@ -1,0 +1,23 @@
+{
+  "lemma": "onward",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Requirements for a 14-day non-visa entry are: passport good for at least six months, confirmed onward ticket within 14 days, no violation of law recorded.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/onward_ex_0_4fcf94e5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "向前，前進",
+    "en_def": "Moving forward in time or space.",
+    "example": "We will continue onward despite the challenges."
+  },
+  "sentences_removed": 0
+}

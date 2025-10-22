@@ -1,0 +1,23 @@
+{
+  "lemma": "carnivore",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "That being said, I’m definitely a carnivore and prefer meat, but I don’t see anything wrong with choosing one of the fakey- fakey meaty things once in a while—just for a change.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/carnivore_ex_0_a7126c2f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "肉食性動物，主要以其他動物為食的生物。",
+    "en_def": "An animal that primarily feeds on flesh.",
+    "example": "Lions are carnivores that hunt for their prey in the wild."
+  },
+  "sentences_removed": 0
+}

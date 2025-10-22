@@ -1,0 +1,80 @@
+{
+  "lemma": "clean",
+  "count": 13,
+  "pos_dist": {
+    "ADJ": 8,
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In an experiment conducted by animal scientists, elephants were first presented with clean clothing or clothing that had been worn for five days by either a Maasai or a Kamba man.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clean_ex_0_8292379b.mp3"
+      },
+      {
+        "text": "A standard of living is considered high when it includes __(31)__ necessities but also certain comforts and luxuries; it is considered low when food, clean water, housing, and __(32)__ necessities are limited or lacking.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/clean_ex_1_a958f11d.mp3"
+      },
+      {
+        "text": "Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported. 49.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clean_ex_2_040562b6.mp3"
+      },
+      {
+        "text": "Swappers are supposed to make sure their home is in order before they depart, but one person’s idea of “clean” may be more forgiving than another’s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clean_ex_3_8d79461d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Future plans include a cooperative effort among many nations to stop littering in space and to clean up the trash already there.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists have cleaned up most of the trash.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Some people also visit the cemetery to clean up the family graves and pray for their ancestors.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Its ideal material is pure, clean water with high clarity.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the late nineteenth century, the Swiss army issued its soldiers a gun that required a special screwdriver to dismantle and clean it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "But, since our space journey started we have left so much trash there that scientists are now concerned that if we don’t clean it up, we may all be in mortal danger.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the job of an angelfish in the sea? (A) Being a cleaner for other fish.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "33 , there are lovely, clean campgrounds where campers can park their vehicles.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "清潔的，無污垢或雜物的狀態。",
+    "en_def": "Free from dirt, marks, or stains.",
+    "example": "She likes to keep her room clean and organized."
+  },
+  "sentences_removed": 1
+}

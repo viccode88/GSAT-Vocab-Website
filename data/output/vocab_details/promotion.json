@@ -1,0 +1,28 @@
+{
+  "lemma": "promotion",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Our personal celebrations, 22 weddings, promotions, graduations, and anniversaries, are 23 linked with drinking.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/promotion_ex_0_c635cda6.mp3"
+      },
+      {
+        "text": "The promotion of olive oil.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/promotion_ex_1_138f78f1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提升，晉升或促銷，通常指在工作或商業中提高地位或銷售的行為。",
+    "en_def": "The act of raising someone to a higher position or rank, or the act of marketing a product to increase sales.",
+    "example": "She received a promotion at work after her successful project."
+  },
+  "sentences_removed": 0
+}

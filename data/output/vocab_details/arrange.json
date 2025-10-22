@@ -1,0 +1,43 @@
+{
+  "lemma": "arrange",
+  "count": 6,
+  "pos_dist": {
+    "VERB": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They performed poorly at a detailed activity __(30)__ arranging a row of beads.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/arrange_ex_0_a5a1f8f4.mp3"
+      },
+      {
+        "text": "When it was arranged for her to sing at Constitution Hall in Washington, D.C., the Daughters of the American Revolution opposed it because of her color.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/arrange_ex_1_3b35d9af.mp3"
+      },
+      {
+        "text": "To live an efficient life, we have to arrange the things to do in order of _____ and start with the most important ones.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/arrange_ex_2_b8415518.mp3"
+      },
+      {
+        "text": "To help Abate continue running, the coach arranged a motel job for him, which pays $9 a month.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/arrange_ex_3_594ecc5a.mp3"
+      },
+      {
+        "text": "In 1905 he developed a test in which he 27 children do tasks such as follow commands, copy patterns, name objects, and put things in order or arrange them properly.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/arrange_ex_4_a8e84aeb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "整理；安排；排列",
+    "en_def": "To put things in a specific order or to organize them.",
+    "example": "Please arrange the books on the shelf by their authors."
+  },
+  "sentences_removed": 1
+}

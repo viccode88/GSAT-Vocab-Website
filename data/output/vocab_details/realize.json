@@ -1,0 +1,79 @@
+{
+  "lemma": "realize",
+  "count": 12,
+  "pos_dist": {
+    "VERB": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/realize_ex_0_4402e9bb.mp3"
+      },
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/realize_ex_1_0c46082e.mp3"
+      },
+      {
+        "text": "Over time, researchers have come to realize the importance of exercising when injured.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/realize_ex_2_50971502.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What did Camake realize after the incident of Typhoon Morakot? (A)",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the slave owners realized the power of Capoeira, they began to punish those who practiced it.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Soon, she realizes that her poor family is rich in things that matter in life.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "He realizes that only by cooperating can he do his 38 in making society what it should be.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As soon as the couple realized that they didn’t love each other anymore, they _____.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "We work very hard to realize this dream.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "It took me a long while to realize that there was something more for me to learn about beauty.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "(I) did John realize how easy it was.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He saw a man with a hole in the leg of his trousers and 29 realized what Californians 30 for the rough work they were doing—good, strong trousers! 21.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "意識到；實現",
+    "en_def": "To become aware of something or to make something happen.",
+    "example": "She finally realized that she needed to change her habits."
+  },
+  "sentences_removed": 0
+}

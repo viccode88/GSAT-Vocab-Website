@@ -1,0 +1,23 @@
+{
+  "lemma": "flood",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The recent flood completely _____",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/flood_ex_0_01f6207d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "洪水；水災，指大量水流入某地，通常造成破壞。",
+    "en_def": "A large amount of water that covers an area that is usually dry, often causing damage.",
+    "example": "The heavy rain caused a flood that affected many homes in the area."
+  },
+  "sentences_removed": 0
+}

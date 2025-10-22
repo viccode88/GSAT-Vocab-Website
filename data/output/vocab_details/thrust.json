@@ -1,0 +1,17 @@
+{
+  "lemma": "thrust",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "推力；猛推或刺的動作",
+    "en_def": "A sudden or strong push or force applied in a specific direction.",
+    "example": "The rocket's engines produced a powerful thrust to lift it into space."
+  },
+  "sentences_removed": 1
+}

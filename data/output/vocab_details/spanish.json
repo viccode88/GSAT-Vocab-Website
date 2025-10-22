@@ -1,0 +1,28 @@
+{
+  "lemma": "spanish",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the Spanish explorers went to Mexico, they saw the Aztec kings 15 umbrellas.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/spanish_ex_0_9e073a5c.mp3"
+      },
+      {
+        "text": "The idea was developed when a Spanish designer travelling to the Philippines observed a traditional Filipino shirt 22 together with the fibers of pineapple leaves.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/spanish_ex_1_2aa095c5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "西班牙的，或與西班牙有關的；西班牙語。",
+    "en_def": "Relating to Spain or its people or language.",
+    "example": "She is learning Spanish to communicate better during her travels."
+  },
+  "sentences_removed": 0
+}

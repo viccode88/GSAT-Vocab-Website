@@ -1,0 +1,28 @@
+{
+  "lemma": "shelter",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shelter_ex_0_6e7c3e2a.mp3"
+      },
+      {
+        "text": "They cannot find a safe shelter when climbing out of the trenches.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shelter_ex_1_1ec16eb6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "庇護所；避難所",
+    "en_def": "A place that provides protection or refuge.",
+    "example": "The homeless man found shelter in a nearby church."
+  },
+  "sentences_removed": 1
+}

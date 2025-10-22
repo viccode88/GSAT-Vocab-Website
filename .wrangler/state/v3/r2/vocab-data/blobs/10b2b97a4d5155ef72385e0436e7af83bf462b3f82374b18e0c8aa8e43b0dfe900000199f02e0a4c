@@ -1,0 +1,65 @@
+{
+  "lemma": "million",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "PROPN": 1
+  },
+  "sentences": [
+    {
+      "text": "Perhaps that is why in rural areas around the world the guitar has been a source of music for millions to enjoy.",
+      "source": "2003_92_92學測_english",
+      "audio_file": ""
+    },
+    {
+      "text": "But even more serious is their environmental impact: Millions of plastic discards end up in landfills or the ocean, releasing chemicals and at the same time taking centuries to decompose.",
+      "source": "2020_109_02-109學測英文試卷-定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "Why were redwood trees more prominent in the forests of North America millions of years ago? (A)",
+      "source": "2011_100_02-100學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "Take the case of Million Abate.",
+      "source": "2010_99_02-99學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+      "source": "2007_96_02-96",
+      "audio_file": ""
+    },
+    {
+      "text": "This, of course, is just one of the millions of trees that fall in the Amazon each year.",
+      "source": "2002_91_91學測_english",
+      "audio_file": ""
+    },
+    {
+      "text": "Each year, tens of millions of animals, including dogs and cats, needlessly suffer and die to fuel the fur industry.",
+      "source": "2007_96_02-96",
+      "audio_file": ""
+    },
+    {
+      "text": "It was millions of miles away from the Earth.",
+      "source": "2013_102_02-102學測英文(定稿) ",
+      "audio_file": ""
+    },
+    {
+      "text": "She also won millions of dollars in the races.",
+      "source": "2010_99_02-99學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "What does “millions” in the last line refer to? ㆓ 、 英 文 作 文 ( 2 0 % )",
+      "source": "2003_92_92學測_english",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "百萬，數字1後面跟著6個零，表示一百萬的數量。",
+    "en_def": "A million is the number equivalent to 1,000,000, often used to denote a large quantity.",
+    "example": "There are over a million stars in the sky."
+  }
+}

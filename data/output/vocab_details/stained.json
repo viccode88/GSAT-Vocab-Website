@@ -1,0 +1,23 @@
+{
+  "lemma": "stained",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/stained_ex_0_779daa9e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "被污損或染色的，通常指表面或材料上有顏色或污漬。",
+    "en_def": "Marked or discolored by a substance, often referring to a surface or material that has been affected by color or dirt.",
+    "example": "The white shirt was stained with coffee."
+  },
+  "sentences_removed": 0
+}

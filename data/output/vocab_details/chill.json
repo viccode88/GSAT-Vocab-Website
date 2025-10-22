@@ -1,0 +1,23 @@
+{
+  "lemma": "chill",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The cattle constantly change directions to avoid wind chill.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/chill_ex_0_6b91283c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "放鬆或冷卻的狀態；使變冷或放鬆。",
+    "en_def": "To relax or to become less intense; to cool down.",
+    "example": "After a long week at work, I like to chill on the weekends."
+  },
+  "sentences_removed": 1
+}

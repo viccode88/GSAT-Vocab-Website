@@ -1,0 +1,28 @@
+{
+  "lemma": "separately",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This was a slow process, requiring much skill and patience, and every page of every book had to be cut separately.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/separately_ex_0_54f5fb62.mp3"
+      },
+      {
+        "text": "Then we were each separately sent on what was grandly referred to as a cruise in my father’s 18-foot boat, spending the night on board, and loaded down, according to my mother, with enough food for a week.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/separately_ex_1_f6f821a7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分開地；單獨地",
+    "en_def": "In a way that is separate or apart from others.",
+    "example": "The two friends decided to travel separately to the festival."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "solidarity",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thus, in 39 , they started wearing paperclips to show their solidarity.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/solidarity_ex_0_4a1b4415.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "團結；互助，特別是在共同的利益或目標下。",
+    "en_def": "Unity or agreement of feeling or action, especially among individuals with a common interest.",
+    "example": "The workers showed solidarity by striking together for better wages."
+  },
+  "sentences_removed": 0
+}

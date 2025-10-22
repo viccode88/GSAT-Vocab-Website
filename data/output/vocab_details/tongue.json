@@ -1,0 +1,28 @@
+{
+  "lemma": "tongue",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In others, words can trigger a real sensation of taste on their tongue. 31",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/tongue_ex_0_1acaf1fd.mp3"
+      },
+      {
+        "text": "People who learned a second language later in life used a special part of Broca’s area for their second language—near the one activated for their native tongue.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/tongue_ex_1_2f91caf4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "舌頭，位於口腔內的肌肉組織，主要用於品嚐、說話和吞嚥。",
+    "en_def": "The muscular organ in the mouth used for tasting, speaking, and swallowing.",
+    "example": "She stuck out her tongue to show her playful side."
+  },
+  "sentences_removed": 1
+}

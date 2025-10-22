@@ -1,0 +1,33 @@
+{
+  "lemma": "forever",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Researchers further point out that in most people synesthesia is active only during the first months of their infancy, while this ability remains forever in certain individuals.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/forever_ex_0_7194d5a5.mp3"
+      },
+      {
+        "text": "Younger children tend to remain forever “the baby,” enjoyable to be around, but at times overdependent on others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/forever_ex_1_b5138ea0.mp3"
+      },
+      {
+        "text": "However, all of this mail cannot simply be stored forever; there is just too much of it.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/forever_ex_2_5828a570.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "永遠，無窮無盡的時間。",
+    "en_def": "For all future time; for always.",
+    "example": "I will love you forever."
+  },
+  "sentences_removed": 1
+}

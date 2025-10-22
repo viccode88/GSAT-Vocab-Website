@@ -1,0 +1,125 @@
+{
+  "lemma": "fire",
+  "count": 21,
+  "pos_dist": {
+    "NOUN": 20,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Intense, fast-moving fires raged across much of California last week.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/fire_ex_0_07a8f2eb.mp3"
+      },
+      {
+        "text": "Red imported fire ants can cause a number of problems.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/fire_ex_1_0532f883.mp3"
+      },
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fire_ex_2_aa8f9bb4.mp3"
+      },
+      {
+        "text": "Celebration often begins with mukaebi (welcoming fire), during which people make a small bonfire in front of their house to guide spirits upon their return back home.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/fire_ex_3_8b486eae.mp3"
+      },
+      {
+        "text": "Finally, the leaves are dried in a basket over a charcoal fire.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/fire_ex_4_2ab08829.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "His powerful images of Yellowstone fired the imagination of Congress members.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They can cause a fire.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "If you had told me the situation earlier, (E) until he sees Mary immediately. (F) he’ll see John sitting by the fire.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They can cause electrical shorts, fires, and other damage to electrical equipment.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are more resistant to fire damage than other trees.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The high school student showed ______ courage when she helped the old man escape from the fire.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "However, after the devastating fire that damaged the cathedral in 2019, the bells fell 29 .",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "This fire resistant quality explains why the giant redwood grows to live that long.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Red imported fire ants build mounds in any type of soil.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "They have been used to mark the hours of the day, to call the 27 to prayer, and to signal emergency situations such as fires and invasions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "By 1975 the red imported fire ant had colonized over 52 million hectares of the United States.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "火；燃燒的現象或狀態。",
+    "en_def": "A rapid oxidation process that produces heat and light, commonly associated with combustion.",
+    "example": "The campfire provided warmth and light during the chilly night."
+  },
+  "sentences_removed": 0
+}

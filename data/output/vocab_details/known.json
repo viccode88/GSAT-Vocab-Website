@@ -1,0 +1,23 @@
+{
+  "lemma": "known",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The end of the famous fable of “The Tortoise and the Hare” is well known to all: the tortoise wins the race against the hare.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/known_ex_0_9cff4f66.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "已知的，熟悉的，或被認識的。",
+    "en_def": "Recognized or familiar to someone; understood or acknowledged.",
+    "example": "She is a known expert in her field."
+  },
+  "sentences_removed": 0
+}

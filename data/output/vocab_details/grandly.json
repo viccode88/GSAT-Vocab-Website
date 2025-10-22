@@ -1,0 +1,28 @@
+{
+  "lemma": "grandly",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then we were each separately sent on what was grandly referred to as a cruise in my father’s 18-foot boat, spending the night on board, and loaded down, according to my mother, with enough food for a week.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/grandly_ex_0_f6f821a7.mp3"
+      },
+      {
+        "text": "The breathtaking 4,000-foot cliffs of Na Pali Coast rise grandly from the sea.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/grandly_ex_1_590f9cb0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "宏偉地；壯觀地",
+    "en_def": "In a magnificent or impressive manner.",
+    "example": "The ceremony was held grandly in the city hall."
+  },
+  "sentences_removed": 0
+}

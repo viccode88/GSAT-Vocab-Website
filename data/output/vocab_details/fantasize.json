@@ -1,0 +1,28 @@
+{
+  "lemma": "fantasize",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We all fantasize about being able to fly and lift buildings off the ground.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fantasize_ex_0_2d0552a9.mp3"
+      },
+      {
+        "text": "We fantasize about what it will be like when we reach the long-awaited goal.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/fantasize_ex_1_dea856e6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "幻想，想像不真實的情景或事件。",
+    "en_def": "To imagine or think about something that is not real or likely to happen.",
+    "example": "She likes to fantasize about traveling to distant planets."
+  },
+  "sentences_removed": 0
+}

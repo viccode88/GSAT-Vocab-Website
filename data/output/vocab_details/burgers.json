@@ -1,0 +1,23 @@
+{
+  "lemma": "burgers",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/burgers_ex_0_d2acc22c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "漢堡，通常由圓形麵包夾著肉餅、蔬菜和調味料的食品。",
+    "en_def": "Burgers are a type of sandwich consisting of a cooked patty, usually made of ground meat, placed inside a sliced bun, often accompanied by various toppings.",
+    "example": "I ordered two burgers with fries for dinner."
+  },
+  "sentences_removed": 0
+}

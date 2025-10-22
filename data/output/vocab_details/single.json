@@ -1,0 +1,70 @@
+{
+  "lemma": "single",
+  "count": 11,
+  "pos_dist": {
+    "ADJ": 10,
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dr. Sax, a proponent of single-sex education, points out that keeping boys and girls separate in the classroom has yielded striking educational, social, and interpersonal benefits.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/single_ex_0_a8f1c3c3.mp3"
+      },
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/single_ex_1_37f64fdf.mp3"
+      },
+      {
+        "text": "Dr. Hare, one of the venture’s co-founders, says a dog’s intelligence can’t be described with a single number.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/single_ex_2_435245f2.mp3"
+      },
+      {
+        "text": "These include not only external behavior, but also all the organs, the whole skeleton, every single bone and tooth.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/single_ex_3_b5ee008e.mp3"
+      },
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/single_ex_4_aa8f9bb4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "23 the process of questioning, all the signals are recorded on a single strip of moving paper.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Generally, they appear on both cheeks; a single dimple on one cheek is a relatively 31 phenomenon.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The trunk of redwood trees is very stout and usually forms a single straight column.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "單一的，獨自的",
+    "en_def": "One; not accompanied by others.",
+    "example": "She decided to go to the concert single."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "clue",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In contrast (C) Literally (D) Accordingly 27. (A) gap (B) link (C) clue (D) ratio 28. (A) out of (B) as well as (C) in case of (D) due to 29.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clue_ex_0_2f7a36ea.mp3"
+      },
+      {
+        "text": "First of all, they look for clues that can help them deliver the mail; they open packages in the hope that something inside will show where the package came from or is going to.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/clue_ex_1_678f0709.mp3"
+      },
+      {
+        "text": "On the basis of the clues, can you predict the of the story? (A) outcome (B) headline (C) cause (D) performance 5.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/clue_ex_2_3b3b81cd.mp3"
+      },
+      {
+        "text": "33. (A) I got no clue.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/clue_ex_3_9e79d193.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "提示，線索；幫助解決問題或找到答案的資訊。",
+    "en_def": "A piece of information or a hint that helps to solve a problem or find an answer.",
+    "example": "The detective found a clue that led him to the suspect."
+  },
+  "sentences_removed": 1
+}

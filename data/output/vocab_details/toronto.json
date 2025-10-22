@@ -1,0 +1,23 @@
+{
+  "lemma": "toronto",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In Toronto in 1976, the idea of putting together different disability groups 26 sports competitions was born.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/toronto_ex_0_90a8b0e2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多倫多，加拿大安大略省的省會，是加拿大最大的城市，以其多元文化和經濟活力著稱。",
+    "en_def": "Toronto, the capital of Ontario, Canada, is the largest city in Canada, known for its multiculturalism and economic vitality.",
+    "example": "Toronto is a vibrant city with a diverse population."
+  },
+  "sentences_removed": 0
+}

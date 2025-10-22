@@ -1,0 +1,23 @@
+{
+  "lemma": "transparent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/transparent_ex_0_ba561358.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "透明的；清晰易懂的",
+    "en_def": "Allowing light to pass through so that objects behind can be distinctly seen; clear and easy to understand.",
+    "example": "The glass is transparent, allowing us to see the beautiful garden outside."
+  },
+  "sentences_removed": 0
+}

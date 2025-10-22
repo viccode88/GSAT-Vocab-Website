@@ -1,0 +1,38 @@
+{
+  "lemma": "maggie",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/maggie_ex_0_5d947192.mp3"
+      },
+      {
+        "text": "Just tie it to Maggie’s leg and she’ll know where to take it.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/maggie_ex_1_e04254fa.mp3"
+      },
+      {
+        "text": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the _____ rainfall of the season in the area.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/maggie_ex_2_0eab702a.mp3"
+      },
+      {
+        "text": "What is true about Maggie? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/maggie_ex_3_25a6caa8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "瑪吉，一個常見的女性名字。",
+    "en_def": "Maggie, a common female name.",
+    "example": "Maggie loves to read books in her free time."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "treasury",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/treasury_ex_0_dcd9d70f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "國庫；財政部；資金管理機構",
+    "en_def": "A department or agency responsible for managing a government's revenue, expenditures, and financial assets.",
+    "example": "The treasury announced new measures to improve the country's financial stability."
+  },
+  "sentences_removed": 0
+}

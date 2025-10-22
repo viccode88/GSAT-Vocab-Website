@@ -1,0 +1,23 @@
+{
+  "lemma": "plantation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/plantation_ex_0_6d255e69.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "大規模農場，特別是種植單一作物的地方，通常依賴於勞動力。",
+    "en_def": "A large estate where crops are cultivated, typically involving the labor of workers.",
+    "example": "The plantation produced a variety of crops, including sugarcane and cotton."
+  },
+  "sentences_removed": 0
+}

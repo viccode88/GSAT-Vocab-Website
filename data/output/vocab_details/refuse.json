@@ -1,0 +1,54 @@
+{
+  "lemma": "refuse",
+  "count": 7,
+  "pos_dist": {
+    "VERB": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yet, knowing perfectly well 19 a troublemaker his son was, the father refused to give them any money.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/refuse_ex_0_5a498542.mp3"
+      },
+      {
+        "text": "Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/refuse_ex_1_2358e686.mp3"
+      },
+      {
+        "text": "However, because it’s hard to get them to sit still and “perform on command,” some professional photographers refuse to photograph pets.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/refuse_ex_2_45b7a694.mp3"
+      },
+      {
+        "text": "When the great Beethoven was asked to compose music for the guitar, he went into a rage and refused, but eventually even Beethoven could not ignore the challenge.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/refuse_ex_3_0d130906.mp3"
+      },
+      {
+        "text": "What can be inferred from the passage? (A) Cars will refuse to start if the driver is drunk.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/refuse_ex_4_8208e7c7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "She refused to seek professional assistance to help her recover from her injuries.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, many people, either refusing to accept the new date or not having heard about it, 17 to celebrate New Year’s Day on April 1.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "拒絕，不接受或不允許某事。",
+    "en_def": "To indicate that one does not want to accept or do something.",
+    "example": "She decided to refuse the job offer."
+  },
+  "sentences_removed": 0
+}

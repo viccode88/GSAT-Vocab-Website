@@ -1,0 +1,95 @@
+{
+  "lemma": "nature",
+  "count": 17,
+  "pos_dist": {
+    "NOUN": 16,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/nature_ex_0_0d99cd3d.mp3"
+      },
+      {
+        "text": "They include a range of bacteria, fungi, and small animals that break down nature’s wastes into ever smaller pieces until all the chemicals are released into the air, the soil, and the water, making them available to other living things.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nature_ex_1_e69968d7.mp3"
+      },
+      {
+        "text": "Others speak to more universal themes such as the primal relationship of humans to nature.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nature_ex_2_2931818f.mp3"
+      },
+      {
+        "text": "Nature provides 31 with the means of survival.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/nature_ex_3_7c53f600.mp3"
+      },
+      {
+        "text": "Sometimes it is the ordinary nature of these objects that actually makes them so extraordinary.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/nature_ex_4_d29d3188.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In English-speaking cultures, the choice of first names for children can be prompted by many factors: tradition, religion, nature, culture, and fashion, to name just a few.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nature provides other forms of protection 36 environmental dangers.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The need to respect nature to avoid being destroyed by it.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He believed in the ability of nature to renew itself without the 38 of humans.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This dietary need has led to a constant battle to keep the deer separate from the unforgiving nature of tons of onrushing rolling stock.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the author mean by “the unforgiving nature of tons of onrushing rolling stock” in the third paragraph?",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That was all the nature that Moran knew.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, for people who are not necessarily religious but are fond of nature, names 35 things of beauty are often favored.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He liked to be close to Nature.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the significance of the third eye in Hindu tradition? (A) To stay in harmony with nature.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "自然界，包括所有生物和非生物的元素。",
+    "en_def": "The physical world collectively, including plants, animals, and landscapes.",
+    "example": "She loves to spend her weekends exploring nature in the mountains."
+  },
+  "sentences_removed": 2
+}

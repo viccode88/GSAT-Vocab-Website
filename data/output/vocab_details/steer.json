@@ -1,0 +1,23 @@
+{
+  "lemma": "steer",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Some have many small private shops, while others have organizations steered by volunteers.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/steer_ex_0_1a0067fc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "掌舵；引導或控制（某事物）",
+    "en_def": "To guide or control the direction of something, especially a vehicle.",
+    "example": "She learned how to steer the boat through the rough waters."
+  },
+  "sentences_removed": 0
+}

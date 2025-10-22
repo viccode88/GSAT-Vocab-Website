@@ -1,0 +1,23 @@
+{
+  "lemma": "commanded",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/commanded_ex_0_8703ca0a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "命令，指揮或要求某人做某事。",
+    "en_def": "Past tense of command; to have given an authoritative order.",
+    "example": "The general commanded his troops to advance."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "handle",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, the sea snake’s salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/handle_ex_0_c6d86148.mp3"
+      },
+      {
+        "text": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/handle_ex_1_38b33a5f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "手柄；把手；處理",
+    "en_def": "A part of an object designed for holding, moving, or controlling it; to manage or deal with something.",
+    "example": "Please handle the fragile items with care."
+  },
+  "sentences_removed": 1
+}

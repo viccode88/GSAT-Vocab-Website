@@ -1,0 +1,28 @@
+{
+  "lemma": "unstable",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Due to the unstable Republic of the Congo.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/unstable_ex_0_a36ced5a.mp3"
+      },
+      {
+        "text": "However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/unstable_ex_1_1bfcae3e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不穩定的，容易變化或崩潰的。",
+    "en_def": "Not stable; likely to change or fail suddenly.",
+    "example": "The weather has been unstable lately, with sudden storms and temperature drops."
+  },
+  "sentences_removed": 0
+}

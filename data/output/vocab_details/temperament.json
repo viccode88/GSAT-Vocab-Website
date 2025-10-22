@@ -1,0 +1,17 @@
+{
+  "lemma": "temperament",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "氣質；性情",
+    "en_def": "A person's characteristic mood or behavior.",
+    "example": "Her calm temperament makes her a great leader."
+  },
+  "sentences_removed": 1
+}

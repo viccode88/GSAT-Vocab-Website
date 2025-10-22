@@ -1,0 +1,23 @@
+{
+  "lemma": "cathy",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "C. Cathy Zoos are a tradition, and a visit to a zoo is a wholesome family activity.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/cathy_ex_0_10d4f2d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "凱西，一個常見的女性名字。",
+    "en_def": "Cathy, a common female given name.",
+    "example": "Cathy loves to read books in her free time."
+  },
+  "sentences_removed": 0
+}

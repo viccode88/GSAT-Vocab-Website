@@ -1,0 +1,59 @@
+{
+  "lemma": "participate",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He participated in three revolutions and fought with people when he was insulted.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/participate_ex_0_7c358ab1.mp3"
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/participate_ex_1_e84c0edd.mp3"
+      },
+      {
+        "text": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/participate_ex_2_5dfba093.mp3"
+      },
+      {
+        "text": "What is the problem common to the children who participated in the program? 2.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/participate_ex_3_3ff1c026.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Do the colleges allow you to participate in activities ___(29)___ will help you develop yourself intellectually and emotionally? I hope the ___(30)___",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Her incredible story and superior swimming Brazilian government and later continued judo skills won her the opportunity to participate in the training at a youth facility.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They participate 26 life enthusiastically and spontaneously.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is closest in meaning to “ ” in the second paragraph? (A) advertises (B) dedicates (C) replaces (D) participates 51.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "參加，參與某個活動或事件。",
+    "en_def": "To take part in an activity or event.",
+    "example": "She decided to participate in the charity run."
+  },
+  "sentences_removed": 0
+}

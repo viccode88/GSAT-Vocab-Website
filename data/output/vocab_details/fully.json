@@ -1,0 +1,54 @@
+{
+  "lemma": "fully",
+  "count": 7,
+  "pos_dist": {
+    "ADV": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The British Museum has not signed the declaration, but says it fully supports it.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/fully_ex_0_776fc897.mp3"
+      },
+      {
+        "text": "They say people all over the world have only been able to fully appreciate ancient civilizations because these museums have provided access to these artistic objects.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/fully_ex_1_fdf1fc6a.mp3"
+      },
+      {
+        "text": "Fashion designer Tommy Hilfiger was fully aware of the power of youth culture.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/fully_ex_2_ff3e6c5d.mp3"
+      },
+      {
+        "text": "For your own , please don't open the door until the train fully stops.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/fully_ex_3_acb77a48.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Since I do not fully understand your proposal, I am not in the position to make any on it.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The visitors would be even more startled if they were fully aware of all the existing similarities between them and these animals.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Only in the leading museums can the objects be fully appreciated by the world.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "完全地，徹底地",
+    "en_def": "In a complete manner; entirely.",
+    "example": "She fully understood the instructions before starting the project."
+  },
+  "sentences_removed": 0
+}

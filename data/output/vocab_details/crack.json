@@ -1,0 +1,28 @@
+{
+  "lemma": "crack",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Curved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/crack_ex_0_0a79e9fa.mp3"
+      },
+      {
+        "text": "The researchers said bedbugs hide in cracks and crevices such as under sheets and mattresses, or deep in carpets where foggers won’t reach.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/crack_ex_1_9470b47e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "裂縫；裂開的地方",
+    "en_def": "A line on the surface of something along which it has split without breaking apart.",
+    "example": "There was a crack in the wall that needed to be repaired."
+  },
+  "sentences_removed": 0
+}

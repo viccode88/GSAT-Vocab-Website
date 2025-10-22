@@ -1,0 +1,74 @@
+{
+  "lemma": "leg",
+  "count": 11,
+  "pos_dist": {
+    "NOUN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "_ move his legs and was sent to the hospital right away.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/leg_ex_0_8a677120.mp3"
+      },
+      {
+        "text": "Added to this early training is a physical trait shared by people there－disproportionately long legs, which is advantageous for distance runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/leg_ex_1_cf2a3441.mp3"
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/leg_ex_2_f34a4bc1.mp3"
+      },
+      {
+        "text": "Just like their cousins grasshoppers and crickets, wetas are able to “sing” by rubbing their leg parts together, or against their lower bodies.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/leg_ex_3_470a79c1.mp3"
+      },
+      {
+        "text": "He saw a man with a hole in the leg of his trousers and 29 realized what Californians 30 for the rough work they were doing—good, strong trousers! 21.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/leg_ex_4_041a15e1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "I had never before known that the human leg could be taken off.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Each volunteer wore a device that gave out 20-second-long pulses of heat to the right leg.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Therefore, it had been decided that people should leave their legs __(35)___.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It involves a variety of techniques that make use of the hands, feet, legs, arms, and head.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Just tie it to Maggie’s leg and she’ll know where to take it.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The man replied that he was very ___(33)__ about it, but people often complained that other people’s legs were always in the ___(34)__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "腿，指人體或動物的下肢，通常用於行走、跑步或支撐身體。",
+    "en_def": "A limb of the body used for walking, running, or supporting the body.",
+    "example": "She injured her leg while playing soccer."
+  },
+  "sentences_removed": 0
+}

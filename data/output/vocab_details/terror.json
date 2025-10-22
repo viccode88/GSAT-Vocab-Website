@@ -1,0 +1,23 @@
+{
+  "lemma": "terror",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Bill and Sam were soon desperate and decided to 18 the little terror.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/terror_ex_0_ebf800ee.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "恐怖，驚恐，通常指極度的害怕或驚慌。",
+    "en_def": "Intense fear or dread, often associated with violence or threats.",
+    "example": "The news of the earthquake filled the town with terror."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "whale",
+  "count": 16,
+  "pos_dist": {
+    "NOUN": 15,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As many as 60 pilot whales swam ashore.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/whale_ex_0_ec0aff2f.mp3"
+      },
+      {
+        "text": "These seagoing mammals are among the lucky survivors of a whale-stranding last December at Cape Cod.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/whale_ex_1_c66b6b2f.mp3"
+      },
+      {
+        "text": "Scientists are still trying to find out why whales have this self-destructive behavior.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/whale_ex_2_0d6cde77.mp3"
+      },
+      {
+        "text": "Many of the whales died on the beach—crushed by their own weight.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/whale_ex_3_384716d4.mp3"
+      },
+      {
+        "text": "Only a few people worked with the whales so that they would not become too accustomed to human beings.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/whale_ex_4_7001d953.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Early this past summer the three whales were pronounced fit enough to be returned to the Atlantic Ocean.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They were found in a group of 50 whales about 60 miles from where they had seen set free.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The 60 pilot whales swam ashore as a result of (A) a large winter storm off the coast of Cape Cod. (B) a behavior currently unknown to scientists.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The three whales were taken in a van to the New England Aquarium in Boston, Mass.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A month after their release, the whales were spotted.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The pilot whales died on the beaches of Cape Cod due to (A) the lack of salt water to facilitate their respiration.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Whale experts found Tag, Notch, Baby alive.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The three whales Tag, Notch, and Baby were rescued because (A) younger whales have a greater chance of survival than the others.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists are studying the suicidal behavior of pilot whales.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "鯨魚：一種大型的海洋哺乳動物，屬於鯨目，通常以浮游生物和小魚為食。",
+    "en_def": "A large marine mammal belonging to the order Cetacea, typically feeding on plankton and small fish.",
+    "example": "The whale swam gracefully through the ocean waves."
+  },
+  "sentences_removed": 1
+}

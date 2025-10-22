@@ -1,0 +1,38 @@
+{
+  "lemma": "admit",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When I asked if she was angry about what she had lost, she admitted to being frustrated occasionally, “especially when everybody’s dancing, because I love to dance.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/admit_ex_0_b566d3ae.mp3"
+      },
+      {
+        "text": "Recalling the group’s first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/admit_ex_1_19c89de3.mp3"
+      },
+      {
+        "text": "how the ancient Egyptians created such marvelous feats of engineering as the pyramids? (A) concluded (B) wondered (C) admitted (D) persuaded 5.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/admit_ex_2_20c456de.mp3"
+      },
+      {
+        "text": "She was then admitted to a hospital for treatment, where she was able to recover.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/admit_ex_3_a8888c65.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "承認，接受（某事物或某人）進入某個地方或組織。",
+    "en_def": "To confess to be true or to allow entry.",
+    "example": "She admitted her mistake during the meeting."
+  },
+  "sentences_removed": 0
+}

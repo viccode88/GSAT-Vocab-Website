@@ -1,0 +1,43 @@
+{
+  "lemma": "pollution",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pollution_ex_0_30818b36.mp3"
+      },
+      {
+        "text": "Using reusables as people did in the old days will help lessen dioxin pollution.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/pollution_ex_1_cf4bfec2.mp3"
+      },
+      {
+        "text": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/pollution_ex_2_e03c89de.mp3"
+      },
+      {
+        "text": "The first cause is pollution on land.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/pollution_ex_3_e7b6a278.mp3"
+      },
+      {
+        "text": "From space, astronauts study the geography, pollution, and weather patterns on Earth.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/pollution_ex_4_58427a5c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "污染是指有害物質進入環境，對生態系統和人類健康造成負面影響的過程。",
+    "en_def": "Pollution is the introduction of harmful substances into the environment, causing adverse effects on ecosystems and human health.",
+    "example": "The pollution in the river has made it unsafe for swimming."
+  },
+  "sentences_removed": 0
+}

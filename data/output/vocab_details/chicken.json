@@ -1,0 +1,59 @@
+{
+  "lemma": "chicken",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the chicken house, there were four old chickens, waiting to be killed (28) Sunday’s dinner.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chicken_ex_0_806afbe3.mp3"
+      },
+      {
+        "text": "Dioxin travels by air currents and settles onto grass, which is then eaten by cows and chickens in their feed.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/chicken_ex_1_1a72b377.mp3"
+      },
+      {
+        "text": "Specifically, you will learn to prepare __(23)__ delicious items as roasted chicken, chili, turkey loaf, turkey loaf, meatballs, pasta, among others.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/chicken_ex_2_f98299d2.mp3"
+      },
+      {
+        "text": "“You are even more stupid than the chickens,” the man said as he was leaving.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/chicken_ex_3_28683a89.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "On the floor (30) three dead chickens.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "He picked up the parrot and threw the bird into the chicken house.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The next morning, the man went out to the chicken house.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Selling fried chicken at the night market doesn’t seem to be a decent business, but it is actually quite ______.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "雞，一種常見的家禽，通常用於食用或產卵。",
+    "en_def": "A domesticated bird raised for its meat and eggs.",
+    "example": "I made a delicious chicken stew for dinner."
+  },
+  "sentences_removed": 0
+}

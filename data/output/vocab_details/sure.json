@@ -1,0 +1,104 @@
+{
+  "lemma": "sure",
+  "count": 18,
+  "pos_dist": {
+    "ADJ": 18
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "(H) … and is sure to have a healthy body.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/sure_ex_0_685d7f6a.mp3"
+      },
+      {
+        "text": "7. (A) I'm not sure.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sure_ex_1_200cbad6.mp3"
+      },
+      {
+        "text": "It’s a killer for sure if eaten regularly.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sure_ex_2_536e636a.mp3"
+      },
+      {
+        "text": "The wide selection is a sure sign that in many consumers’ minds, digital cameras have risen from mere gadgets to must-have items.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/sure_ex_3_0f869ed5.mp3"
+      },
+      {
+        "text": "Make sure you don’t squeeze or pop a stye like you would a pimple.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sure_ex_4_2ed042a2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "But whenever Dad 32 on going, she made sure that he brought a shopping list.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To make sure that your pet sits still.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Swappers are supposed to make sure their home is in order before they depart, but one person’s idea of “clean” may be more forgiving than another’s.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They usually would not leave people’s houses until they were sure their customers were awake.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Everyone runs the risk of accidents, and no one can be sure of avoiding 38 disease.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "I’m not sure exactly how much scholarship you’ll receive, but it will _____ cover your major expenses.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Amy made sure her gold bracelet was secure on her wrist.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "No one will ever know for sure, but what we do know is that she took part in one of the greatest adventures in the 19th century.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A word of congratulation just doesn't seem enough, so I am sending you a gift that I'm sure you will find.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Researchers are not sure why some songs are more likely to get stuck in our heads than others, but everyone has their own tunes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We’re very close and I’m sure we’ll do just fine.” 41.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "to apply for a visa before leaving the U.S.A. (C) to make sure her passport was issued before May 1, 1995.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "確定的，無疑的，表示同意或允許。",
+    "en_def": "Confident in what one says or does; expressing agreement or consent.",
+    "example": "I am sure that we will succeed in our project."
+  },
+  "sentences_removed": 1
+}

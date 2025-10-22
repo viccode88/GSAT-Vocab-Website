@@ -1,0 +1,54 @@
+{
+  "lemma": "stream",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The donkey was so much weighed down by the wet sand that he could hardly get out of the stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/stream_ex_0_e5ff23fe.mp3"
+      },
+      {
+        "text": "Rivers and streams flow slowly through jungles of shaded greens.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/stream_ex_1_289294d5.mp3"
+      },
+      {
+        "text": "The pollutants run with rainwater into rivers and streams, which 36 the poisons into the ocean.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/stream_ex_2_86799921.mp3"
+      },
+      {
+        "text": "After hiking all day without drinking any water, the students sat down by the stream to quench their .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/stream_ex_3_c8df28c2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The donkey jumped into the stream to cool ___(32)___.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "On ___(31)___, Amir and the donkey passed a stream.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "When the donkey jumped into the stream and got the sacks wet, they became much ___(39)___.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "流動的水或其他液體，通常在自然環境中形成的細長水道。",
+    "en_def": "A continuous flow of water or other liquid, typically in a narrow channel in a natural environment.",
+    "example": "The children played by the stream, skipping stones across the water."
+  },
+  "sentences_removed": 0
+}

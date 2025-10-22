@@ -1,0 +1,33 @@
+{
+  "lemma": "philadelphia",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She was born in Philadelphia and sang in church choirs during her childhood.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/philadelphia_ex_0_a42eab53.mp3"
+      },
+      {
+        "text": "Dead mail is sent to one of the U.S. Postal Service’s dead mail offices in Atlanta, New York, Philadelphia, St. Paul, and San Francisco.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/philadelphia_ex_1_7e4e459e.mp3"
+      },
+      {
+        "text": "Moran came to the United States at age 7 with his family and settled in Philadelphia.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/philadelphia_ex_2_7e833d5b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美國賓夕法尼亞州的一個城市，以其歷史和文化著稱，曾是美國獨立宣言的簽署地。",
+    "en_def": "A city in Pennsylvania, USA, known for its historical significance and cultural heritage, including being the signing place of the Declaration of Independence.",
+    "example": "Philadelphia is famous for its cheesesteaks and rich history."
+  },
+  "sentences_removed": 0
+}

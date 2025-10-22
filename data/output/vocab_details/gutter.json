@@ -1,0 +1,23 @@
+{
+  "lemma": "gutter",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The rain makes running pools in the gutter.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/gutter_ex_0_139975f5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "排水溝，通常位於街道或建築物邊緣，用於排水或收集雨水。",
+    "en_def": "A channel at the edge of a street or a roof for carrying off rainwater.",
+    "example": "The heavy rain caused the gutter to overflow."
+  },
+  "sentences_removed": 0
+}

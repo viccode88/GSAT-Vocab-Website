@@ -1,0 +1,29 @@
+{
+  "lemma": "mid",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Thus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/mid_ex_0_0d7d8441.mp3"
+      },
+      {
+        "text": "Using empirical data from laboratory experiments 28 observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker’s focus.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mid_ex_1_c1b9ccb8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "中間的；中途的",
+    "en_def": "The middle point or part of something.",
+    "example": "She stood in the mid of the room, looking around."
+  },
+  "sentences_removed": 1
+}

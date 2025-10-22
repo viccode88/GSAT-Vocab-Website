@@ -1,0 +1,64 @@
+{
+  "lemma": "slowly",
+  "count": 9,
+  "pos_dist": {
+    "ADV": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These sprouts grow slowly, nourished by the root system of the “mother” tree.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/slowly_ex_0_7f8f1945.mp3"
+      },
+      {
+        "text": "Slowly, however, forks came to be adopted by the wealthy as a symbol of their social status.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/slowly_ex_1_575857e8.mp3"
+      },
+      {
+        "text": "Slowly, the door opened and the old man appeared.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/slowly_ex_2_ba5771b5.mp3"
+      },
+      {
+        "text": "They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/slowly_ex_3_5025f15f.mp3"
+      },
+      {
+        "text": "As the applause __________, the curtain on the stage dropped slowly.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/slowly_ex_4_e2be623f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Rivers and streams flow slowly through jungles of shaded greens.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Some regions prepare horses made of cucumbers and cows made of eggplants, hoping that the spirits will come back to Earth quickly, on a horse, and leave slowly, riding the cow.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "By the early 19th century, four-tined forks had also been developed in Germany and England and slowly began to spread to America.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Slowly, her behavior toward the other fish also changes.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "緩慢地；不急促地",
+    "en_def": "At a low speed; not quickly.",
+    "example": "She walked slowly to enjoy the scenery."
+  },
+  "sentences_removed": 0
+}

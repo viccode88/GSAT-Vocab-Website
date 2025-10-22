@@ -1,0 +1,44 @@
+{
+  "lemma": "shyness",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In order to protect their branches from breakage, trees maintain “shyness gaps”—spaces",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shyness_ex_0_fe473fe6.mp3"
+      },
+      {
+        "text": "Scientists have been discussing crown shyness since the 1920s, proposing 12 explanations for the phenomenon.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shyness_ex_1_b59e3919.mp3"
+      },
+      {
+        "text": "This beautiful phenomenon is called crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shyness_ex_2_6edeef69.mp3"
+      },
+      {
+        "text": "Gaps in the treetops resulting from crown shyness may allow trees to increase their 14 light and enhance photosynthesis.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shyness_ex_3_ce59b512.mp3"
+      },
+      {
+        "text": "15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/shyness_ex_4_c3915b02.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "害羞，指在社交場合中感到不自在或緊張的情緒。",
+    "en_def": "A feeling of discomfort or awkwardness in social situations.",
+    "example": "Her shyness made it difficult for her to speak in front of the class."
+  },
+  "sentences_removed": 0
+}

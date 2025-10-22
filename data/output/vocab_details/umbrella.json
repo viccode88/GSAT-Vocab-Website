@@ -1,0 +1,69 @@
+{
+  "lemma": "umbrella",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the Spanish explorers went to Mexico, they saw the Aztec kings 15 umbrellas.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/umbrella_ex_0_9e073a5c.mp3"
+      },
+      {
+        "text": "England was probably the first country in Europe 17 ordinary people used umbrellas 18 the rain.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/umbrella_ex_1_469085a4.mp3"
+      },
+      {
+        "text": "The Chinese 11 umbrellas in the eleventh century B.C. 12 China they traveled to India, Persia, and Egypt.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/umbrella_ex_2_c15e2687.mp3"
+      },
+      {
+        "text": "Some umbrellas fold up, 20 it is easy to carry them.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/umbrella_ex_3_e9d48722.mp3"
+      },
+      {
+        "text": "The umbrella is now a very ordinary 19 .",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/umbrella_ex_4_e5f42110.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They believed umbrellas were 14 for women.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "English explorers found out that Indian princes also carried umbrellas on the east coast of North America.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The umbrella is not a new invention.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It 16 that people in different parts of the world invented umbrellas at different times.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "England has a rainy climate, and umbrellas are very useful there.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "傘，一種用於遮擋雨水或陽光的可攜式裝置，通常由布料和金屬或塑料支架組成。",
+    "en_def": "A portable device used for protection against rain or sunlight, typically consisting of a fabric canopy supported by a folding frame.",
+    "example": "She opened her umbrella to shield herself from the rain."
+  },
+  "sentences_removed": 0
+}

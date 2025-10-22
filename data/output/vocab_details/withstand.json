@@ -1,0 +1,23 @@
+{
+  "lemma": "withstand",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He first tried cotton, but it proved too soft and could not withstand repeated openings and closures.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/withstand_ex_0_1ee83aa5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "抵抗，承受，經受住（壓力、攻擊等）",
+    "en_def": "To remain undamaged or unaffected by; to resist.",
+    "example": "The building was designed to withstand strong earthquakes."
+  },
+  "sentences_removed": 0
+}

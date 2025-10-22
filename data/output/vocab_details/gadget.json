@@ -1,0 +1,23 @@
+{
+  "lemma": "gadget",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The wide selection is a sure sign that in many consumers’ minds, digital cameras have risen from mere gadgets to must-have items.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/gadget_ex_0_0f869ed5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小工具；器具，通常是設計精巧的電子設備或機械裝置。",
+    "en_def": "A small mechanical or electronic device or tool, often designed for a specific purpose.",
+    "example": "He bought a new gadget to help him cook more efficiently."
+  },
+  "sentences_removed": 0
+}

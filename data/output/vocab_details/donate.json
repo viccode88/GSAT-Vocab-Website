@@ -1,0 +1,23 @@
+{
+  "lemma": "donate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/donate_ex_0_e2de649c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "捐贈，將財物或資源無償地提供給需要的人或機構。",
+    "en_def": "To give money or goods to a charity or other organization for a good cause.",
+    "example": "She decided to donate her old clothes to the local shelter."
+  },
+  "sentences_removed": 0
+}

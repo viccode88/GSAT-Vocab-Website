@@ -1,0 +1,65 @@
+{
+  "lemma": "display",
+  "count": 10,
+  "pos_dist": {
+    "VERB": 7,
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/display_ex_0_d320b05a.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following statements is true? (A) Different dogs display strengths in different intelligences.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/display_ex_1_0e708a97.mp3"
+      },
+      {
+        "text": "Through a projector, this attractive radio-alarm-clock is able to display the time onto a wall, ceiling, or anywhere __23__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/display_ex_2_c1d86444.mp3"
+      },
+      {
+        "text": "An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/display_ex_3_28235132.mp3"
+      },
+      {
+        "text": "The word “prom” was first used in the 1890s, referring to formal dances in which the guests of a party would display their fashions and dancing skills during the evening’s grand march.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/display_ex_4_4f8f4967.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Installed in Detroit in 1920, Potts’ three-color system allowed for the added signal “proceed with caution” to be displayed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Do you have a finer one? (A) content (B) display (C) extent (D) texture 11.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To display their financial status.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "顯示；展示",
+    "en_def": "To show or present something for others to see.",
+    "example": "The museum will display ancient artifacts next month."
+  },
+  "sentences_removed": 1
+}

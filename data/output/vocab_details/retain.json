@@ -1,0 +1,43 @@
+{
+  "lemma": "retain",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In fact, they are one of the few tribes that have retained most of their traditions.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/retain_ex_0_388ab2ba.mp3"
+      },
+      {
+        "text": "The author's statement about the highway fence's ability to retain a smaller and lighter car (A) is the author's assumption.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/retain_ex_1_6414c909.mp3"
+      },
+      {
+        "text": "It also helps retain the tea’s beneficial chemicals.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/retain_ex_2_ce3ceb34.mp3"
+      },
+      {
+        "text": "Its worldwide popularity is mainly due to its theme music, which showcases ABBA’s timeless songs in a fresh and vital way 24 retains the essence of both pop music and good musical theater.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/retain_ex_3_f4630afa.mp3"
+      },
+      {
+        "text": "26 some six hundred years of architecture nearly untouched by natural disaster or war, the city retains much of its medieval appearance.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/retain_ex_4_9cca3c1c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "保持，保留，留住",
+    "en_def": "To keep possession of; to continue to have or hold.",
+    "example": "She decided to retain her old friends despite moving to a new city."
+  },
+  "sentences_removed": 0
+}

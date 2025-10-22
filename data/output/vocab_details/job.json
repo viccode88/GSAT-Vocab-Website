@@ -1,0 +1,129 @@
+{
+  "lemma": "job",
+  "count": 25,
+  "pos_dist": {
+    "NOUN": 25
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Raised in California, Whitfield began performing in public at age 18, when she took a job as a singing waitress at a pizza parlor.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/job_ex_0_544e1b9e.mp3"
+      },
+      {
+        "text": "What is the job of an angelfish in the sea? (A) Being a cleaner for other fish.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/job_ex_1_31a74707.mp3"
+      },
+      {
+        "text": "But it’s the parents’ job to serve a variety of foods and expose their children to healthy dieting habits.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/job_ex_2_7925f5c7.mp3"
+      },
+      {
+        "text": "Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/job_ex_3_cd547e60.mp3"
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/job_ex_4_48a0f229.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Maria didn’t want to deliver the bad news to David about his failing the job interview.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To help Abate continue running, the coach arranged a motel job for him, which pays $9 a month.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The manager ______ without hesitation after he had been offered a better job in another company.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Marine pilotage is a job that requires a high degree of proficiency as well as quick and independent thinking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides, I remember telling you I used to have two part-time jobs when I was in college just to 19 .",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "I was sternly criticized for having such an idiotic job, and for the rest of the evening there was general jolly conversation—spoilt only by the fact that I had to take a telephone call in another room, which unfortunately lasted some time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Obviously, a physically 22 person with an outdoor job under the sun will need to drink more fluid than a desk-bound person who lives and works in an air-conditioned place.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the four jobs might be more suitable for her? 4.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which job has the best benefits in addition to the regular salary? 3.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the four jobs should he apply for? 5.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Although Jeffery had to keep two part-time jobs to support his family, he never ______ his studies.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "the interviewers that they were very capable and should be given the job.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When you begin a new job in an office, E.…make your message brief.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "So, if you need money now, you should try either finding a job or cutting down on your 20 .",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "工作；職業；職位",
+    "en_def": "A paid position of regular employment.",
+    "example": "She found a new job as a graphic designer."
+  },
+  "sentences_removed": 3
+}

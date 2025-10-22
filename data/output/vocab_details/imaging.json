@@ -1,0 +1,23 @@
+{
+  "lemma": "imaging",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He used an instrument called an MRI (magnetic resonance imaging) to study the brains of two groups of bilingual people.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/imaging_ex_0_67f59f33.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "成像，指通過各種技術生成圖像的過程。",
+    "en_def": "The process of creating images, often used in medical or scientific contexts.",
+    "example": "The doctor used imaging techniques to examine the patient's internal organs."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "conductor",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The famous conductor Toscanini praised her voice as “heard only once in a hundred years.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/conductor_ex_0_3f30e52c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "導體；指導者或指揮者，特別是在音樂或交通方面。",
+    "en_def": "A person who directs the performance of an orchestra or choir, or a material that allows the flow of electric current.",
+    "example": "The conductor raised his baton to signal the orchestra to start playing."
+  },
+  "sentences_removed": 0
+}

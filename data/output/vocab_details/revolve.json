@@ -1,0 +1,23 @@
+{
+  "lemma": "revolve",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One benefit of horror movies revolves around the concept of so-called “safe fear.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/revolve_ex_0_55c97a30.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圍繞某物旋轉或轉動。",
+    "en_def": "To move in a circular or curving course around a central point.",
+    "example": "The Earth revolves around the Sun."
+  },
+  "sentences_removed": 0
+}

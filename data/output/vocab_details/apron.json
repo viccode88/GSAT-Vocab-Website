@@ -1,0 +1,28 @@
+{
+  "lemma": "apron",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On the front apron, there is often a kilt pin, topped with a small decorative family symbol.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/apron_ex_0_0946eba7.mp3"
+      },
+      {
+        "text": "The overlapping layers in front are called “aprons.”",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/apron_ex_1_80ae2c17.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "圍裙，一種通常穿在衣服外面的布料，用於保護衣物或在烹飪時使用。",
+    "en_def": "An apron is a piece of clothing worn over the front of one's clothes to keep them clean while cooking or working.",
+    "example": "She wore an apron to protect her dress while baking cookies."
+  },
+  "sentences_removed": 0
+}

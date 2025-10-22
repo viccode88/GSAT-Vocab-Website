@@ -1,0 +1,33 @@
+{
+  "lemma": "property",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/property_ex_0_2500abb9.mp3"
+      },
+      {
+        "text": "After years of hard work, Kareem has not only realized his dream but also transformed a piece of 39 property into a beautiful forest.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/property_ex_1_0c46082e.mp3"
+      },
+      {
+        "text": "Other researchers believe it was because onions were known for their special curative properties, which would be helpful in the afterlife.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/property_ex_2_89c02fc9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "財產；物業；所有物",
+    "en_def": "A thing or things owned by someone; a possession.",
+    "example": "She inherited a large property from her grandparents."
+  },
+  "sentences_removed": 0
+}

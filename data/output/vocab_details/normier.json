@@ -1,0 +1,23 @@
+{
+  "lemma": "normier",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It will be made of timber as an ecological symbol of “the right to a dignified life on a protected Earth,” said architects Normier, Henni and Lelievre, who were also responsible for the Europe section at the Seville exhibition.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/normier_ex_0_180ab231.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "更符合常規或標準的，通常用於形容某人或某事物更為普通或常見。",
+    "en_def": "More normal or typical; often used to describe someone or something that is more conventional or mainstream.",
+    "example": "After trying out various styles, she decided to go for a normier look that suited her personality."
+  },
+  "sentences_removed": 0
+}

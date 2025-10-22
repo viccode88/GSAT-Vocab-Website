@@ -1,0 +1,23 @@
+{
+  "lemma": "depiction",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/depiction_ex_0_462acf39.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "描繪；描述",
+    "en_def": "The action of representing or portraying something in art or literature.",
+    "example": "The painting is a beautiful depiction of a sunset over the ocean."
+  },
+  "sentences_removed": 0
+}

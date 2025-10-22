@@ -1,0 +1,29 @@
+{
+  "lemma": "lodge",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 1,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Today, they provide low-budget, overnight lodging in commerce centers in large cities worldwide.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/lodge_ex_0_6e1b0daa.mp3"
+      },
+      {
+        "text": "People hoist their glasses 30 they are sitting around ski lodges, sailing, dancing, or enjoying a football game.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/lodge_ex_1_0a695c8a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小屋；旅館；寄宿",
+    "en_def": "A place to stay or live temporarily, often providing shelter or accommodation.",
+    "example": "We decided to lodge at a cozy cabin in the woods for the weekend."
+  },
+  "sentences_removed": 0
+}

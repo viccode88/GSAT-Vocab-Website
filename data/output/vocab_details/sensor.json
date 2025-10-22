@@ -1,0 +1,33 @@
+{
+  "lemma": "sensor",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When a person takes a polygraph test, four to six wires, called sensors, are 22 to different parts of his body.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/sensor_ex_0_a77fdc3d.mp3"
+      },
+      {
+        "text": "The sensors pick up signals from the person’s blood pressure, pulse, and perspiration.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/sensor_ex_1_00456af7.mp3"
+      },
+      {
+        "text": "Today, attachments include radios, sensors, cameras, and a lot more.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/sensor_ex_2_e6a4c1da.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感測器，一種能夠檢測物理量並將其轉換為可讀取信號的裝置。",
+    "en_def": "A device that detects physical properties and converts them into a readable signal.",
+    "example": "The smoke sensor alerted us to the fire in the building."
+  },
+  "sentences_removed": 0
+}

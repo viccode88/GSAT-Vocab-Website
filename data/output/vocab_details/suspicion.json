@@ -1,0 +1,23 @@
+{
+  "lemma": "suspicion",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, the opposite is a greater cause for suspicion.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suspicion_ex_0_21cc5a49.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "懷疑，對某事或某人的不信任或不確定感。",
+    "en_def": "A feeling or belief that something is true, but not certain.",
+    "example": "She had a suspicion that he was not telling the truth."
+  },
+  "sentences_removed": 0
+}

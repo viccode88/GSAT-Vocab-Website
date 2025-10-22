@@ -1,0 +1,17 @@
+{
+  "lemma": "dive",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "潛水；跳入水中",
+    "en_def": "To plunge headfirst into water or to descend quickly into a body of water.",
+    "example": "He decided to dive into the pool to cool off on a hot day."
+  },
+  "sentences_removed": 1
+}

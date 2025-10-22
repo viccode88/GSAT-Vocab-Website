@@ -1,0 +1,39 @@
+{
+  "lemma": "award",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/award_ex_0_7a5f8be3.mp3"
+      },
+      {
+        "text": "Two years later, it was awarded first prize again at Houston’s first annual Invention Fair.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/award_ex_1_7ec68c69.mp3"
+      },
+      {
+        "text": "The many awards that Professor Wang has won over the years are clear ______ that he is a distinguished scholar.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/award_ex_2_c96e6caa.mp3"
+      },
+      {
+        "text": "The 2011 Nobel Peace Prize was awarded _____ to three women for the efforts they made in fighting for women’s rights.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/award_ex_3_19b64a0d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "獎勵或獎項，通常因為成就或優秀表現而頒發。",
+    "en_def": "A prize or recognition given for achievement or excellence.",
+    "example": "She received an award for her outstanding performance in the competition."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "vulnerable",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Many women report that the henna crowns really work as a healing device, helping them build a more 20 self-image at a time when they are vulnerable and depressed.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/vulnerable_ex_0_f9c0f273.mp3"
+      },
+      {
+        "text": "In fact, the infant is the most vulnerable member of society to this chemical.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/vulnerable_ex_1_a743c0a3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "易受傷害的，脆弱的",
+    "en_def": "Open to physical or emotional harm; susceptible to injury or attack.",
+    "example": "The small bird was vulnerable to predators without its nest."
+  },
+  "sentences_removed": 0
+}

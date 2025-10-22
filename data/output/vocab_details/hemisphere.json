@@ -1,0 +1,84 @@
+{
+  "lemma": "hemisphere",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Recent studies indicate that the two halves of the brain—the right hemisphere and the left hemisphere — play extremely important roles in learning and communicating.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hemisphere_ex_0_ad2aff68.mp3"
+      },
+      {
+        "text": "He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/hemisphere_ex_1_e53b652f.mp3"
+      },
+      {
+        "text": "The researchers were therefore unable to answer their research questions of whether cattle prefer to look north or south, and whether that differs in the northern and southern hemispheres.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/hemisphere_ex_2_9dd4d430.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements is true about how the glass armonica works? (A) Water has to be poured into the glass hemispheres. (B) Colored paint makes it sound better and last longer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists recognize the importance of both hemispheres in the learning of all sorts, including language learning.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The left hemisphere deals with rules, lists of information, and short-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In contrast, the right hemisphere deals with feelings, colors, and long-term memory.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists now relate left and right hemispheres to the way different individuals learn languages.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "An iron rod is used to strike the thicker glass hemispheres.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The glass hemispheres were color coded with paint to identify the notes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "半球，通常指地球的半個部分或某物的半圓形部分。",
+    "en_def": "A hemisphere is half of a sphere, often referring to half of the Earth, divided into the Northern and Southern Hemispheres.",
+    "example": "The Northern Hemisphere experiences summer when the Southern Hemisphere is in winter."
+  },
+  "sentences_removed": 0
+}

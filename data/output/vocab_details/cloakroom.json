@@ -1,0 +1,23 @@
+{
+  "lemma": "cloakroom",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the dream the cloakroom attendant at a theater stopped me in the lobby and insisted on my ___(31)___",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/cloakroom_ex_0_2ae49719.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "衣帽間；寄物處",
+    "en_def": "A room or area where coats and other personal belongings can be left temporarily.",
+    "example": "Please leave your coat in the cloakroom before entering the theater."
+  },
+  "sentences_removed": 0
+}

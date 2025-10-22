@@ -1,0 +1,43 @@
+{
+  "lemma": "lightning",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But after strike four, Sullivan became 23 death and took precautions during lightning strikes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/lightning_ex_0_8e634b3a.mp3"
+      },
+      {
+        "text": "Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/lightning_ex_1_68c7fc4a.mp3"
+      },
+      {
+        "text": "Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, 21 the probability of being struck seven different times.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/lightning_ex_2_52bd3a9e.mp3"
+      },
+      {
+        "text": "Over his 36-year career, Sullivan was struck by lightning seven times—and 22 each shock!",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/lightning_ex_3_e0ec4902.mp3"
+      },
+      {
+        "text": "Best I can figure is that I have some chemical, some mineral, in my body that draws lightning.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/lightning_ex_4_93976982.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "閃電：在雷暴中產生的強烈電流，通常伴隨著雷聲。",
+    "en_def": "Lightning: A sudden electrostatic discharge during a storm, often accompanied by thunder.",
+    "example": "The lightning illuminated the night sky."
+  },
+  "sentences_removed": 0
+}

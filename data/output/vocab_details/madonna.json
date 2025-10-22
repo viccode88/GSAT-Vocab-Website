@@ -1,0 +1,28 @@
+{
+  "lemma": "madonna",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Remember when Madonna hit the charts with her bra in full view while singing about \"virginity\"?",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/madonna_ex_0_b48978ab.mp3"
+      },
+      {
+        "text": "Autograph dealers can be found in almost any sizable city, and collectors may get hundreds, even thousands, of dollars for things signed by anyone from Mozart to Madonna, Thomas Jefferson to JFK.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/madonna_ex_1_0876dcc2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "聖母瑪利亞，基督教中的耶穌之母，或指一位女性的尊稱。",
+    "en_def": "A title for the Virgin Mary, or a term used to refer to a woman of great beauty or importance.",
+    "example": "The artist painted a beautiful portrait of the Madonna."
+  },
+  "sentences_removed": 0
+}

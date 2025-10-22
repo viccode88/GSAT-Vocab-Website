@@ -1,0 +1,17 @@
+{
+  "lemma": "sexy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "性感的，吸引人的，通常指外貌或行為上引起性吸引的特質。",
+    "en_def": "Attractive or exciting in a sexual way.",
+    "example": "She wore a sexy dress to the party."
+  },
+  "sentences_removed": 1
+}

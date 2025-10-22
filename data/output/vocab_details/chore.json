@@ -1,0 +1,17 @@
+{
+  "lemma": "chore",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "日常瑣事，通常指家庭或工作中的小任務或工作。",
+    "en_def": "A routine task, especially a household one.",
+    "example": "I have to do my chores before I can go out with my friends."
+  },
+  "sentences_removed": 1
+}

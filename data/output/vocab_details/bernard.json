@@ -1,0 +1,17 @@
+{
+  "lemma": "bernard",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "伯納德，通常用作男性名字，源自古德語，意為“勇敢的熊”。",
+    "en_def": "Bernard is a male given name of Germanic origin meaning 'brave as a bear'.",
+    "example": "Bernard decided to adopt a dog from the shelter."
+  },
+  "sentences_removed": 1
+}

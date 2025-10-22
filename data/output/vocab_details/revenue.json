@@ -1,0 +1,23 @@
+{
+  "lemma": "revenue",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/revenue_ex_0_dcd9d70f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "收入，特別是企業或政府從銷售商品或提供服務中獲得的金錢。",
+    "en_def": "The income generated from normal business operations, usually from the sale of goods and services.",
+    "example": "The company's revenue increased significantly last year due to higher sales."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "outnumber",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There, time almost stands still, and horse-drawn carts outnumber motor vehicles.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/outnumber_ex_0_595ac5f7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "在數量上超過，數量上多於。",
+    "en_def": "To be greater in number than something else.",
+    "example": "The rabbits outnumbered the foxes in the forest."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "physiological",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The mind and body work together to produce stress, which is a bodily response to a stimulus, a response that disturbs the body’s normal physiological balance.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/physiological_ex_0_865d9d84.mp3"
+      },
+      {
+        "text": "From a physiological standpoint, plants are completely different from animals.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/physiological_ex_1_59341571.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生理的；與生物體的生理過程有關的。",
+    "en_def": "Relating to the branch of biology that deals with the normal functions of living organisms and their parts.",
+    "example": "The physiological effects of exercise can improve overall health."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "politely",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "My initial offer was turned down politely.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/politely_ex_0_4a27ab73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "有禮貌地，客氣地",
+    "en_def": "In a manner that shows good manners and respect for others.",
+    "example": "She politely asked for directions to the nearest station."
+  },
+  "sentences_removed": 0
+}

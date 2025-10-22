@@ -1,0 +1,23 @@
+{
+  "lemma": "coarse",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The _______ of this piece of cloth is too coarse.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/coarse_ex_0_66fd5096.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "粗糙的；不精緻的",
+    "en_def": "Rough or harsh in texture; lacking refinement or delicacy.",
+    "example": "The fabric was too coarse for a comfortable shirt."
+  },
+  "sentences_removed": 0
+}

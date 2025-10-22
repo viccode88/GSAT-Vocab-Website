@@ -1,0 +1,34 @@
+{
+  "lemma": "press",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If these letters were linked over and pressed on to paper, they would print the words.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/press_ex_0_4b89015a.mp3"
+      },
+      {
+        "text": "In 1476 he returned to England and established a printing press at Westminster.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/press_ex_1_65f54606.mp3"
+      },
+      {
+        "text": "You might speed up healing time by gently pressing a warm washcloth 20 your eyelid for 10 minutes, 3 or 4 times a day.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/press_ex_2_2b91658e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "按，壓，推；新聞媒體",
+    "en_def": "To apply pressure to something; to push down; also refers to the media.",
+    "example": "Please press the button to start the machine."
+  },
+  "sentences_removed": 0
+}

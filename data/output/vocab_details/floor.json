@@ -1,0 +1,64 @@
+{
+  "lemma": "floor",
+  "count": 9,
+  "pos_dist": {
+    "NOUN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In front of each easy chair there was a microphone at head height, with wires leading to a tape-recorder in the middle of the floor.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/floor_ex_0_72d3ef98.mp3"
+      },
+      {
+        "text": "I always call out floors very clearly, and I am constantly on the move.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/floor_ex_1_ba1e3be6.mp3"
+      },
+      {
+        "text": "When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/floor_ex_2_baf31852.mp3"
+      },
+      {
+        "text": "Instead, he would be fined a penny for each of the 110 floors he had climbed.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/floor_ex_3_a9bab3f3.mp3"
+      },
+      {
+        "text": "The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/floor_ex_4_0dd056d4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "On the floor (30) three dead chickens.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "On the tape-recorder in the middle of the floor. (B) Through hidden microphones.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "That is, after he 16 his pages in the hymn book with small bits of paper, the small pieces would invariably fall out all over the floor.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "地面或樓層，通常指建築物內部的平坦表面。",
+    "en_def": "The lower surface of a room on which one may walk; a level of a building.",
+    "example": "She dropped her keys on the floor."
+  },
+  "sentences_removed": 0
+}

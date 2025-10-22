@@ -1,0 +1,23 @@
+{
+  "lemma": "intolerant",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "taking time to understand and respect each other, we become demanding, resentful, judgmental, and intolerant. __(36)__, our relationships are filled with unnecessary disagreements and conflicts.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/intolerant_ex_0_c6d4ceb7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不寬容的，對不同意見或行為缺乏包容心的。",
+    "en_def": "Unwilling to accept views, beliefs, or behavior that differ from one's own.",
+    "example": "She was intolerant of any criticism regarding her work."
+  },
+  "sentences_removed": 0
+}

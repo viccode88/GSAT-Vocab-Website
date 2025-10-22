@@ -1,0 +1,23 @@
+{
+  "lemma": "vacuum",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The vacuum cleaner is not working.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/vacuum_ex_0_3a047abb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "真空：一種沒有物質存在的空間，通常指氣體或其他物質的缺乏。",
+    "en_def": "A vacuum is a space devoid of matter, often referring to the absence of gas or other substances.",
+    "example": "The scientist created a vacuum in the chamber to conduct the experiment."
+  },
+  "sentences_removed": 0
+}

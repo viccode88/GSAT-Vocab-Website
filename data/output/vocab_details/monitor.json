@@ -1,0 +1,23 @@
+{
+  "lemma": "monitor",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Ground stations have been built to monitor larger pieces of space trash to prevent them from crashing into working satellites or space shuttles.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/monitor_ex_0_09378cf5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "監視器；顯示器",
+    "en_def": "A device used to display visual output from a computer or to observe and check the performance of a system.",
+    "example": "I need to buy a new monitor for my computer."
+  },
+  "sentences_removed": 0
+}

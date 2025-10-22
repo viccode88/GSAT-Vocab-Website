@@ -1,0 +1,49 @@
+{
+  "lemma": "rapidly",
+  "count": 6,
+  "pos_dist": {
+    "ADV": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the deer hear a combination of a 3-second- long recording of a deer’s snort and 20 seconds of a barking dog, they panic and flee rapidly.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/rapidly_ex_0_243c7ebe.mp3"
+      },
+      {
+        "text": "With multiple queens at work, its population increases rapidly.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/rapidly_ex_1_9dc769b7.mp3"
+      },
+      {
+        "text": "Plastics used to account for as little as 10% of medical waste in the late 1970s, before disposables began rapidly replacing reusables.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/rapidly_ex_2_d609578e.mp3"
+      },
+      {
+        "text": "Even fewer people know that Dumas’ father rose rapidly from a soldier to a general in the French Army before he was 31.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/rapidly_ex_3_e8fa760c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In 21 , the brain waves of a sleeping person are similar to those of a waking person, and the eyes move about rapidly under the closed lids.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "None of them had any idea they were about to create a social innovation that 11 rapidly around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "迅速地，快速地",
+    "en_def": "In a quick manner; at a high speed.",
+    "example": "The technology is evolving rapidly."
+  },
+  "sentences_removed": 0
+}

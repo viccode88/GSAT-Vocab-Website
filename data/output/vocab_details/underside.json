@@ -1,0 +1,23 @@
+{
+  "lemma": "underside",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The males fly overhead, flashing light from the undersides of their bodies.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/underside_ex_0_07d64ef8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "物體的下側或底部。",
+    "en_def": "The lower side or bottom of something.",
+    "example": "The underside of the leaf is often a different color than the top."
+  },
+  "sentences_removed": 0
+}

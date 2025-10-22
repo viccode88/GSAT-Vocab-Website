@@ -1,0 +1,65 @@
+{
+  "lemma": "arm",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 9,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Now it is healing and prospering and greets visitors with open arms. 26.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/arm_ex_0_3fb67dcf.mp3"
+      },
+      {
+        "text": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director’s gestures.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/arm_ex_1_8703ca0a.mp3"
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/arm_ex_2_f34a4bc1.mp3"
+      },
+      {
+        "text": "The pulses were given to the arms of the volunteers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/arm_ex_3_753a41ac.mp3"
+      },
+      {
+        "text": "their arms across their chests as if to protect themselves.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/arm_ex_4_556492f0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Living in a highly _____ society, you definitely have to arm yourself with as much knowledge as possible.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "It involves a variety of techniques that make use of the hands, feet, legs, arms, and head.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Thus, he proposed a signaling system based on the railway movable-arm signal:",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "手臂，從肩膀到手的部位。",
+    "en_def": "The upper limb of the human body, extending from the shoulder to the wrist.",
+    "example": "She raised her arm to signal for help."
+  },
+  "sentences_removed": 0
+}

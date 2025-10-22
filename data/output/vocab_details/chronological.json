@@ -1,0 +1,23 @@
+{
+  "lemma": "chronological",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The IQ is the ratio of “mental age” to chronological age times 100, with 100 30 the average.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/chronological_ex_0_e468236c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "按時間順序排列的",
+    "en_def": "Arranged in the order of time.",
+    "example": "The events were listed in chronological order."
+  },
+  "sentences_removed": 0
+}

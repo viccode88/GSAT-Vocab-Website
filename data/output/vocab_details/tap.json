@@ -1,0 +1,44 @@
+{
+  "lemma": "tap",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "28 the information on storage and shipment is not always readily available to consumers, bottled water may not be a better alternative to tap water.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tap_ex_0_67a8a134.mp3"
+      },
+      {
+        "text": "Suddenly, behind me I heard a tapping noise and laughter.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/tap_ex_1_752e4883.mp3"
+      },
+      {
+        "text": "However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/tap_ex_2_4a615745.mp3"
+      },
+      {
+        "text": "17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/tap_ex_3_02765429.mp3"
+      },
+      {
+        "text": "When photographing zoo animals, don’t get too close to the cages, and never tap on the glass or throw things between the bars of a cage.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/tap_ex_4_51893da6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輕輕敲擊或觸碰的動作。",
+    "en_def": "To strike or touch lightly, often to make a sound or to get attention.",
+    "example": "She gave the door a gentle tap to announce her arrival."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "enlarge",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Their pictures can be enlarged as desired.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/enlarge_ex_0_5ed20859.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使變大或擴大。",
+    "en_def": "To make something larger in size or amount.",
+    "example": "The artist decided to enlarge the painting for the exhibition."
+  },
+  "sentences_removed": 0
+}

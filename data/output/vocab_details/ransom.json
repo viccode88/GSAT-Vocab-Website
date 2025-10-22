@@ -1,0 +1,23 @@
+{
+  "lemma": "ransom",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They asked for a ransom of $2,000 to return the boy.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/ransom_ex_0_2c77841d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "贖金；為了釋放被囚禁的人或物而支付的金錢。",
+    "en_def": "A sum of money demanded or paid for the release of a captive.",
+    "example": "The kidnappers asked for a large ransom in exchange for the safe return of the hostage."
+  },
+  "sentences_removed": 0
+}

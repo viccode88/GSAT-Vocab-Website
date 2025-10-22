@@ -1,0 +1,17 @@
+{
+  "lemma": "compensate",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "補償；賠償",
+    "en_def": "To make up for a loss, damage, or injury by providing something of equivalent value.",
+    "example": "He worked extra hours to compensate for the time he missed."
+  },
+  "sentences_removed": 1
+}

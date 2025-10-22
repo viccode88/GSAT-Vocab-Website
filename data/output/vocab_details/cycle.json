@@ -1,0 +1,38 @@
+{
+  "lemma": "cycle",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The decomposers are a vital link in the natural cycle of life and death.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/cycle_ex_0_fc95094e.mp3"
+      },
+      {
+        "text": "These trees, in turn, may give rise to more sprouts, and the cycle continues.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cycle_ex_1_d599aee5.mp3"
+      },
+      {
+        "text": "An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/cycle_ex_2_6d136cce.mp3"
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/cycle_ex_3_940acf73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "循環；一系列重複的事件或過程。",
+    "en_def": "A series of events that are regularly repeated in the same order.",
+    "example": "The water cycle is essential for maintaining life on Earth."
+  },
+  "sentences_removed": 1
+}

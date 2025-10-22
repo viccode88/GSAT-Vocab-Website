@@ -1,0 +1,23 @@
+{
+  "lemma": "handheld",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/handheld_ex_0_0c2cb0d2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "手持的，便於攜帶的",
+    "en_def": "Designed to be held in the hand; portable.",
+    "example": "She used a handheld camera to capture the beautiful scenery."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "lick",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They lick the rails to pick up iron filings caused by the action of wheels against tracks.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/lick_ex_0_fb539dda.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用舌頭輕觸或舔舐某物。",
+    "en_def": "To pass the tongue over a surface, typically to taste or moisten it.",
+    "example": "The dog likes to lick its owner's hand."
+  },
+  "sentences_removed": 0
+}

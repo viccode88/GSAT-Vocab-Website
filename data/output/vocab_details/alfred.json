@@ -1,0 +1,54 @@
+{
+  "lemma": "alfred",
+  "count": 9,
+  "pos_dist": {
+    "PROPN": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alfred_ex_0_b6249808.mp3"
+      },
+      {
+        "text": "Alfred said his goal, of course, was to feel even better than his brother.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alfred_ex_1_122cd2d8.mp3"
+      },
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alfred_ex_2_25185a8f.mp3"
+      },
+      {
+        "text": "Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/alfred_ex_3_6428e6e2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Why did Alfred say, “I’m 15 minutes older than him, but now I’m younger because of my heart” ?",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What did Alfred and Anthony have in common? (A) Lifespan.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What did Alfred and Anthony think caused their heart problems? (A) Exercise.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "阿爾弗雷德，一個常見的男性名字，源自古英語，意為“精明的顧問”。",
+    "en_def": "Alfred, a common male given name of Old English origin meaning 'wise counselor'.",
+    "example": "Alfred is planning to start his own business next year."
+  },
+  "sentences_removed": 2
+}

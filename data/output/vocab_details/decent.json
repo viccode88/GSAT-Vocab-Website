@@ -1,0 +1,23 @@
+{
+  "lemma": "decent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Selling fried chicken at the night market doesn’t seem to be a decent business, but it is actually quite ______.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/decent_ex_0_8054287e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "體面；合適的；相當好的",
+    "en_def": "Of an acceptable standard; satisfactory.",
+    "example": "He found a decent job after months of searching."
+  },
+  "sentences_removed": 0
+}

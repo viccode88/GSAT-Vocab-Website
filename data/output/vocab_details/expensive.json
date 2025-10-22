@@ -1,0 +1,89 @@
+{
+  "lemma": "expensive",
+  "count": 14,
+  "pos_dist": {
+    "ADJ": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“Suits are expensive, if you have to wear one every day,” one person said.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/expensive_ex_0_da125c34.mp3"
+      },
+      {
+        "text": "Linguistic research can be a very expensive business.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/expensive_ex_1_fddebec5.mp3"
+      },
+      {
+        "text": "Is eating out too expensive for you?",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/expensive_ex_2_72d3d65c.mp3"
+      },
+      {
+        "text": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/expensive_ex_3_973ea158.mp3"
+      },
+      {
+        "text": "The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/expensive_ex_4_5e7e07b0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "After the 1960s, and especially since the 1980s, the high school prom in many areas has become a serious exercise in excessive consumption, with boys renting expensive tuxedos and girls wearing designer gowns.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As computers are getting less expensive, they are _______ used in schools and offices today.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "It is absolutely _____ to waste your money on an expensive car when you cannot even get a driver’s license.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "They were prized possessions made of expensive materials intended to impress guests.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Stretch limousines were hired to drive the prom-goers to expensive restaurants or discos for an all-night extravaganza.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "But the new device was still relatively expensive and unreliable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To stick to a tight budget, Robert bought a more ______ LED TV instead of a fancy, expensive 3D TV.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Based on the passage, in order to break into computer codes, one needs (A) an elaborate and expensive multi-media computer.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "You don't even need a very expensive computer—but you must understand everything about all kinds of computers.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "昂貴的，價格高的。",
+    "en_def": "Costing a lot of money; not cheap.",
+    "example": "The new smartphone is too expensive for my budget."
+  },
+  "sentences_removed": 0
+}

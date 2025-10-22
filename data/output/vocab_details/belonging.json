@@ -1,0 +1,23 @@
+{
+  "lemma": "belonging",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "__(17)__ was the ability to identify the belongings of his predecessor, or rather his previous self.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/belonging_ex_0_8ca63519.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "屬於某人或某事物的狀態或特徵。",
+    "en_def": "The state of being owned by or connected to someone or something.",
+    "example": "This book is a belonging of mine."
+  },
+  "sentences_removed": 0
+}

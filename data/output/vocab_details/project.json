@@ -1,0 +1,139 @@
+{
+  "lemma": "project",
+  "count": 25,
+  "pos_dist": {
+    "NOUN": 25
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/project_ex_0_267c9dff.mp3"
+      },
+      {
+        "text": "The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/project_ex_1_62c7bd90.mp3"
+      },
+      {
+        "text": "Exciting or challenging events __(39)__ the birth of a child, completion of a major project at work, or moving to a new city generate __(40)__ much stress as does tragedy or disaster.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/project_ex_2_3e2327cf.mp3"
+      },
+      {
+        "text": "In view of all these strengths, in the 1930s the United States and Canada undertook a research project in which they managed to breed an especially nutritious soybean with a high oil content.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/project_ex_3_0eb924d8.mp3"
+      },
+      {
+        "text": "Later in the afternoon, Nelson came to Adam’s office with Peter for their biology project.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/project_ex_4_fbb8e7c3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "I….very anxious to carry out the project.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The scientist’s project to build a modern laboratory was __________ on account of its huge budget.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The government project was started due to its rich natural resources.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The project in Mexico City has brought new hope to reducing the use of fossil fuels.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "They were behind schedule and had to apply for manpower to complete their project in time.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "If I can help you with the project, don’t to call me.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "According to Frances Darwin, founder of Henna Heals, the number of artists now involved in the project across Canada and the US has grown to over 150.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This project is mainly for scientific research.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It is estimated that US$20 million is needed to complete the project by 2009.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the project had been successfully finished, most of the engineers who had worked on it were 36 .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "It’s an admirable project, and it is worth finding out if a similar one operates in your hometown.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What does the project in the second paragraph refer to? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Petur Oddsson was an important member of the Icelandic project.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "計劃；項目；工程",
+    "en_def": "A planned undertaking or a specific task that is intended to achieve a particular goal.",
+    "example": "She is working on a new project to improve community health."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "inevitability",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "F. Frank Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least! G. George Zoos have an educational aspect to it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/inevitability_ex_0_4dbe1e5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不可避免性；必然發生的事",
+    "en_def": "The quality of being certain to happen; something that is unavoidable.",
+    "example": "The inevitability of change is a part of life."
+  },
+  "sentences_removed": 0
+}

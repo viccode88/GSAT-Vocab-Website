@@ -1,0 +1,38 @@
+{
+  "lemma": "creativity",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Another way to increase creativity is to take risks.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/creativity_ex_0_f62c8bb8.mp3"
+      },
+      {
+        "text": "However, according to a wide array of scientific and sociological research, creativity is 16 a sign of rare genius than a natural human potential.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/creativity_ex_1_a971b82c.mp3"
+      },
+      {
+        "text": "But it later turned out that it was exactly his courage to “rebel” and to express his own ideas that marks his films with distinct creativity.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/creativity_ex_2_9ef6c2dd.mp3"
+      },
+      {
+        "text": "It has long been assumed that creativity is some unusual trait enjoyed by the few.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/creativity_ex_3_add1a488.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "創造力；創造新事物或想法的能力。",
+    "en_def": "The ability to produce original ideas or things.",
+    "example": "Her creativity shines through in her artwork."
+  },
+  "sentences_removed": 0
+}

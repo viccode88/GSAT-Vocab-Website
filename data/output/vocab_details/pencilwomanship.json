@@ -1,0 +1,23 @@
+{
+  "lemma": "pencilwomanship",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Now that we all use pencils, doodling is on the increase, and the quality of pencilwomanship is impressive, as you can tell from my handwriting in this letter.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pencilwomanship_ex_0_c599a2e7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用鉛筆進行的書寫或繪畫技巧。",
+    "en_def": "The skill or art of writing or drawing with a pencil.",
+    "example": "Her pencilwomanship was evident in the detailed sketches she created."
+  },
+  "sentences_removed": 0
+}

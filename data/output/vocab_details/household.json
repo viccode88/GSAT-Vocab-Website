@@ -1,0 +1,69 @@
+{
+  "lemma": "household",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although about 90 percent of American households still use film cameras, digital cameras are capturing a growing share of the consumer market.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/household_ex_0_79359295.mp3"
+      },
+      {
+        "text": "to help those who could not afford certain household items (B) to open a furniture store run by church volunteers (C) to teach people how to destroy disposable furniture (D) to sell good-quality furniture to disabled people 43.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/household_ex_1_be590e4c.mp3"
+      },
+      {
+        "text": "Residents are told not to dump all household waste _____ into the trash can; reusable materials should first be sorted out and recycled.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/household_ex_2_7b3d9866.mp3"
+      },
+      {
+        "text": "Of course, in determining overall standards of living of Americans, factors __(40)__ household composition and family size need also to be taken into consideration.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/household_ex_3_6d95b737.mp3"
+      },
+      {
+        "text": "Many have been helped through the scheme, including single parents, disabled people and the elderly, and those who have lost all their household possessions through a disaster such as a house fire.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/household_ex_4_aa8f9bb4.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to this passage, the American households using digital cameras will increase if __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The reincarnated leaders were always “discovered” in the households of lowly families __(20)__ noble ones.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "According to a recent marketing study, young adults influence 88% of household clothing purchases.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day’s labor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "And the number of digital-camera households, now at about 10 percent, is certain to grow, as manufacturers introduce more and more cameras whose quality is as good as film cameras.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "家庭，住在一起的人的集合，通常指一個家庭的成員及其居住的地方。",
+    "en_def": "A group of people living together in a single dwelling, typically a family.",
+    "example": "The household consists of four members: two parents and their two children."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "icelandic",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/icelandic_ex_0_4e4fc371.mp3"
+      },
+      {
+        "text": "The Icelandic success is accomplished largely through cooperative efforts across various industries.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/icelandic_ex_1_1ae0f8f0.mp3"
+      },
+      {
+        "text": "Petur Oddsson was an important member of the Icelandic project.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/icelandic_ex_2_b5a1571b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "冰島的；與冰島有關的",
+    "en_def": "Relating to Iceland or its language.",
+    "example": "I learned some Icelandic phrases before my trip to Reykjavik."
+  },
+  "sentences_removed": 0
+}

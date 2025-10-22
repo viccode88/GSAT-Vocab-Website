@@ -1,0 +1,23 @@
+{
+  "lemma": "apprentice",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/apprentice_ex_0_ae581a36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "學徒；徒弟，指在某一技藝或職業中接受訓練的人。",
+    "en_def": "A person who is learning a trade from a skilled employer, having agreed to work for a fixed period at low wages.",
+    "example": "She started as an apprentice in the bakery before becoming a master baker."
+  },
+  "sentences_removed": 0
+}

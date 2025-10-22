@@ -1,0 +1,64 @@
+{
+  "lemma": "soft",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He first tried cotton, but it proved too soft and could not withstand repeated openings and closures.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/soft_ex_0_1ee83aa5.mp3"
+      },
+      {
+        "text": "The soil was softer for seeds to sprout.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/soft_ex_1_3bbfe91e.mp3"
+      },
+      {
+        "text": "Animals with hard shells outside and soft bodies inside are called mollusks.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/soft_ex_2_51feec80.mp3"
+      },
+      {
+        "text": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/soft_ex_3_a3cc836b.mp3"
+      },
+      {
+        "text": "Since then, other companies have jumped on the bandwagon to promote everything from soft drinks to new clothes as a 27 .",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/soft_ex_4_bee0dbf1.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Over the years, only the edible soft inner flesh has been used.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The shells we find are usually empty, but once there were soft bodies inside.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is covered with a beautiful soft, spongy bark.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Its soft inner part is often discarded.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "柔軟的，觸感輕柔的。",
+    "en_def": "Having a pleasingly gentle or mild quality; not hard or firm.",
+    "example": "The blanket is soft and warm."
+  },
+  "sentences_removed": 0
+}

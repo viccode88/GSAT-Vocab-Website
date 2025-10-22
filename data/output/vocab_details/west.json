@@ -1,0 +1,96 @@
+{
+  "lemma": "west",
+  "count": 16,
+  "pos_dist": {
+    "PROPN": 13,
+    "NOUN": 2,
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Just a few miles west, there’s a dry region that receives a mere 6 inches of rain annually.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/west_ex_0_d27d3acd.mp3"
+      },
+      {
+        "text": "The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/west_ex_1_de658433.mp3"
+      },
+      {
+        "text": "Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/west_ex_2_134c0a18.mp3"
+      },
+      {
+        "text": "So, when gold was discovered in the West in 1849, he 23 thousands of others and rushed to California. 24 he planned to open a shop in San Francisco, he took many goods with him, 25 a large quantity of canvas.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/west_ex_3_c819db52.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements is true about West Nile? (A) Its symptoms usually appear within two weeks.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is this passage mainly about? (A) West Nile and methods to fight it.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A west-to-east journey, on the other hand, makes us late compared to the local time.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "While many of these poles can still be found in various locations on the west coast of North America, there is one pole that can now only be found in a museum—the shame pole.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "That is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What did Dallas County do to fight off West Nile?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "However, if we travel west we will be in advance of ourselves as far as our internal clock is concerned, and problems may arise.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Why was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it?",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "西方，指地理上的西部或與之相關的文化和社會。",
+    "en_def": "The direction toward the left of a person facing north; also refers to the western part of the world or cultures.",
+    "example": "The sun sets in the west."
+  },
+  "sentences_removed": 1
+}

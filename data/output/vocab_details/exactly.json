@@ -1,0 +1,64 @@
+{
+  "lemma": "exactly",
+  "count": 9,
+  "pos_dist": {
+    "ADV": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But it later turned out that it was exactly his courage to “rebel” and to express his own ideas that marks his films with distinct creativity.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/exactly_ex_0_9ef6c2dd.mp3"
+      },
+      {
+        "text": "It is not exactly what a child eats that truly matters, but how much time it stays in his mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/exactly_ex_1_16141805.mp3"
+      },
+      {
+        "text": "By this time the cook was angry and decided to do exactly what the dinner guest wanted: slice the potatoes as thin as possible.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/exactly_ex_2_713a2928.mp3"
+      },
+      {
+        "text": "I’m not sure exactly how much scholarship you’ll receive, but it will _____ cover your major expenses.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/exactly_ex_3_4af5f127.mp3"
+      },
+      {
+        "text": "The police had to count on him to find out exactly how the accident happened.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/exactly_ex_4_9f3eef9d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "exactly what he will do.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The success of the park is exactly what Morgan intended to achieve.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "15 decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "確切地，精確地",
+    "en_def": "In a precise manner; without any ambiguity.",
+    "example": "She knew exactly what to say in the meeting."
+  },
+  "sentences_removed": 0
+}

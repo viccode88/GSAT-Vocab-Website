@@ -1,0 +1,23 @@
+{
+  "lemma": "dreaming",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yet, lucid dreaming is 28 just having a clear dream.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/dreaming_ex_0_b4a5d14d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "夢想或在睡眠中經歷的影像和感受。",
+    "en_def": "The experience of thoughts, images, and sensations occurring during sleep.",
+    "example": "She was dreaming of a beautiful beach while taking a nap."
+  },
+  "sentences_removed": 0
+}

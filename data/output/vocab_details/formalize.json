@@ -1,0 +1,23 @@
+{
+  "lemma": "formalize",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/formalize_ex_0_abb0d322.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "使正式化；使規範化",
+    "en_def": "To make something official or formal, often by following established procedures or rules.",
+    "example": "The committee decided to formalize the new guidelines for the project."
+  },
+  "sentences_removed": 0
+}

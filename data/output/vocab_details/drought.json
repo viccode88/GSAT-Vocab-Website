@@ -1,0 +1,23 @@
+{
+  "lemma": "drought",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What can be inferred from the study? (A) Sea snakes can easily survive long years of drought.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/drought_ex_0_992a2bb2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "乾旱：長時間缺乏降水，導致土壤和水源乾涸的現象。",
+    "en_def": "A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+    "example": "The drought caused severe water shortages in the region."
+  },
+  "sentences_removed": 0
+}

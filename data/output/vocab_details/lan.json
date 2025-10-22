@@ -1,0 +1,23 @@
+{
+  "lemma": "lan",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the _____ rainfall of the season in the area.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/lan_ex_0_0eab702a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種顏色，通常指藍色和綠色之間的色調。",
+    "en_def": "A color that is typically a shade between blue and green.",
+    "example": "The sky turned a beautiful shade of lan at sunset."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "absorb",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 3
+  },
+  "sentences": [
+    {
+      "text": "The chemicals can be absorbed into the body and 27 physical discomfort, such as stomach cramps and diarrhea. - 2 - 第 3 頁 99年學測 共 7 頁 英文考科 Health risks can also result from inappropriate storage of bottled water.",
+      "source": "2010_99_02-99學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    },
+    {
+      "text": "The hair and fur are made into mats and brooms and sent to 24 waters to absorb the oil.",
+      "source": "2018_107_02-107學測英文試卷定稿",
+      "audio_file": ""
+    }
+  ],
+  "definition": {
+    "zh_def": "吸收，接受或吸引某物進入自身。",
+    "en_def": "To take in or soak up a substance, or to fully understand or assimilate information.",
+    "example": "Plants absorb sunlight to produce energy."
+  }
+}

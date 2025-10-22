@@ -1,0 +1,23 @@
+{
+  "lemma": "seagoe",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "These seagoing mammals are among the lucky survivors of a whale-stranding last December at Cape Cod.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/seagoe_ex_0_c66b6b2f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於印刷和顯示的字體，特別是在數字界面上常見。",
+    "en_def": "A typeface designed for clarity and legibility, often used in digital interfaces.",
+    "example": "The website uses the Seagoe font for its headings to enhance readability."
+  },
+  "sentences_removed": 0
+}

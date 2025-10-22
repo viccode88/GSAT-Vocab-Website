@@ -1,0 +1,43 @@
+{
+  "lemma": "discrimination",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discrimination_ex_0_a11a1cd2.mp3"
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/discrimination_ex_1_48a0f229.mp3"
+      },
+      {
+        "text": "She wanted to fight racial discrimination.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discrimination_ex_2_ba208a9b.mp3"
+      },
+      {
+        "text": "In his resignation speech, he blamed his failings on the fact that he was blood type B. The blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/discrimination_ex_3_e8a6e45e.mp3"
+      },
+      {
+        "text": "She suffered from severe racial discrimination in her family.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/discrimination_ex_4_1790cbe7.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "歧視是指基於某些特徵（如種族、性別、年齡等）對個體或群體的不公平對待或偏見。",
+    "en_def": "Discrimination is the unfair treatment or prejudice against individuals or groups based on certain characteristics such as race, gender, or age.",
+    "example": "Discrimination in the workplace can lead to a toxic environment for employees."
+  },
+  "sentences_removed": 0
+}

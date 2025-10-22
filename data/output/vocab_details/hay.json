@@ -1,0 +1,33 @@
+{
+  "lemma": "hay",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to 15 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hay_ex_0_cb96ed6c.mp3"
+      },
+      {
+        "text": "For example, an annual book festival is held in Hay-on-Wye.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hay_ex_1_bcbcf693.mp3"
+      },
+      {
+        "text": "The concept was 11 by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hay_ex_2_0049a875.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "乾草，通常用作動物飼料的草類植物。",
+    "en_def": "Dried grass that is used as fodder for animals.",
+    "example": "The farmer stored the hay in the barn for the winter."
+  },
+  "sentences_removed": 0
+}

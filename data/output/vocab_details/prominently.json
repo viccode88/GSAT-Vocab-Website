@@ -1,0 +1,23 @@
+{
+  "lemma": "prominently",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/prominently_ex_0_75f66c0b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "顯著地；突出地",
+    "en_def": "In a way that is easily noticeable or stands out.",
+    "example": "The statue was prominently displayed in the center of the park."
+  },
+  "sentences_removed": 0
+}

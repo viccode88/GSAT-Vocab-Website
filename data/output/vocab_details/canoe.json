@@ -1,0 +1,29 @@
+{
+  "lemma": "canoe",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/canoe_ex_0_6019fb2c.mp3"
+      },
+      {
+        "text": "They canoed down rivers, hiked along muddy trails, and climbed into the forest to explore and learn.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/canoe_ex_1_6b436612.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種輕便的水上交通工具，通常由一個或多個人划動。",
+    "en_def": "A lightweight watercraft that is typically propelled by paddling.",
+    "example": "We decided to go canoeing on the lake this weekend."
+  },
+  "sentences_removed": 0
+}

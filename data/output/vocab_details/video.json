@@ -1,0 +1,54 @@
+{
+  "lemma": "video",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You may also get sick from playing video games, or looking through a microscope.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/video_ex_0_a69f70cd.mp3"
+      },
+      {
+        "text": "The rock videos young people watch over and over again feature alcohol, too.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/video_ex_1_38fabd13.mp3"
+      },
+      {
+        "text": "Sales of rap music and videos each exceed that amount.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/video_ex_2_26b1773d.mp3"
+      },
+      {
+        "text": "In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/video_ex_3_d88f836a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "27 on the videos sit in bars, nightclubs, and roadhouses.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It is not ESPN, the all-sports cable network, or even MTV, which is famous for its music videos.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "How much money do sales of rap music and videos together make each year?",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "視頻；一種以動態影像和聲音記錄的媒體形式。",
+    "en_def": "A recording of moving visual images made digitally or on videotape.",
+    "example": "She uploaded a video of her vacation to share with her friends."
+  },
+  "sentences_removed": 0
+}

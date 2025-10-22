@@ -1,0 +1,23 @@
+{
+  "lemma": "consular",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/consular_ex_0_6769b4ff.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "領事的；與領事相關的",
+    "en_def": "Relating to a consul or the duties of a consul.",
+    "example": "The consular office assists citizens traveling abroad."
+  },
+  "sentences_removed": 0
+}

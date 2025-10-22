@@ -1,0 +1,23 @@
+{
+  "lemma": "petal",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The tower, of pinewood, will be built on eight pillars and will be topped with a flower of five metal petals of 700 square meters each.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/petal_ex_0_3652785f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "花瓣是花的外部部分，通常色彩鮮豔，吸引授粉者。",
+    "en_def": "A petal is a colorful part of a flower that attracts pollinators.",
+    "example": "The rose's petals were soft and fragrant."
+  },
+  "sentences_removed": 0
+}

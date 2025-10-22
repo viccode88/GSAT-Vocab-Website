@@ -1,0 +1,39 @@
+{
+  "lemma": "aboriginal",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 4,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We even managed to visit an aboriginal village in the forest.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/aboriginal_ex_0_7959ba04.mp3"
+      },
+      {
+        "text": "Which of the following is the best title for this passage? (A) Totem Poles, the Legends of Aboriginal Peoples (B) Totem Poles: Their Functions (C) Totem Poles, Symbols of Historical Resistance (D) Totem Poles: Their Designs 46.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/aboriginal_ex_1_fcbd8549.mp3"
+      },
+      {
+        "text": "Aboriginal carvers continue to carve totems as symbols of their cultural pride and clan kinship.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/aboriginal_ex_2_74c0a698.mp3"
+      },
+      {
+        "text": "Totem poles are important expressions of specific Aboriginal cultures.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/aboriginal_ex_3_4f47853f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "原住民的；土著的",
+    "en_def": "Relating to the original inhabitants of a place.",
+    "example": "The aboriginal culture has a rich history and unique traditions."
+  },
+  "sentences_removed": 1
+}

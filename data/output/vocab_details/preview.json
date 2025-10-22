@@ -1,0 +1,23 @@
+{
+  "lemma": "preview",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A hotel in Japan will give you a preview.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/preview_ex_0_489c9648.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "預覽；事先查看或檢查某物的過程或行為。",
+    "en_def": "A preliminary view or inspection of something before it is finalized or released.",
+    "example": "I want to preview the document before sending it to the client."
+  },
+  "sentences_removed": 0
+}

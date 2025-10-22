@@ -1,0 +1,33 @@
+{
+  "lemma": "advertisement",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/advertisement_ex_0_652ff331.mp3"
+      },
+      {
+        "text": "In addition, advertisements for liquor, on TV and in print, show situations that are 29 to the young.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/advertisement_ex_1_6845850d.mp3"
+      },
+      {
+        "text": "Which advertisements are NOT placed by foreign companies? (Write down the letters representing such advertisements.)",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/advertisement_ex_2_d75fc299.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "廣告，旨在促銷產品或服務的宣傳材料。",
+    "en_def": "A public notice or announcement promoting a product, service, or event.",
+    "example": "The advertisement for the new smartphone caught my attention."
+  },
+  "sentences_removed": 0
+}

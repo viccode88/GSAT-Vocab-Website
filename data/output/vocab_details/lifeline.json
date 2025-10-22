@@ -1,0 +1,17 @@
+{
+  "lemma": "lifeline",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生命線；救命的幫助或支持",
+    "en_def": "A lifeline is a means of support or help that is crucial for survival or success.",
+    "example": "The charity provides a lifeline for families in need."
+  },
+  "sentences_removed": 1
+}

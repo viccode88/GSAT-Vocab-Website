@@ -1,0 +1,23 @@
+{
+  "lemma": "radiation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They are protected by a space suit from the radiation of the Sun.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/radiation_ex_0_b95d6f03.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輻射是能量以波或粒子的形式從一個地方傳播到另一個地方的過程。",
+    "en_def": "Radiation is the process by which energy is emitted as particles or waves.",
+    "example": "The doctor used radiation to target and treat the tumor."
+  },
+  "sentences_removed": 0
+}

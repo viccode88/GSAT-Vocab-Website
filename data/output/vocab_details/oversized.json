@@ -1,0 +1,23 @@
+{
+  "lemma": "oversized",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/oversized_ex_0_30818b36.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "過大的；超出正常尺寸的",
+    "en_def": "Larger than the usual size or dimensions.",
+    "example": "She wore an oversized sweater that looked very comfortable."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "asphalt",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/asphalt_ex_0_940acf73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種黑色或深棕色的粘稠物質，主要用於道路建設和防水材料。",
+    "en_def": "A black or dark brown sticky substance used primarily in road construction and waterproofing.",
+    "example": "The workers poured asphalt to create a smooth road surface."
+  },
+  "sentences_removed": 0
+}

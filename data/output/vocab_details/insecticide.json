@@ -1,0 +1,29 @@
+{
+  "lemma": "insecticide",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 1,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Kareem let his forest grow naturally, without using fertilizers or insecticides.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/insecticide_ex_0_f6de3ea1.mp3"
+      },
+      {
+        "text": "the purchase of family-sized insecticide-treated mosquito nets costing $5 each.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/insecticide_ex_1_361983c9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種用於殺死昆蟲的化學物質。",
+    "en_def": "A chemical substance used to kill insects.",
+    "example": "Farmers often use insecticide to protect their crops from pests."
+  },
+  "sentences_removed": 0
+}

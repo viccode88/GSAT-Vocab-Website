@@ -1,0 +1,28 @@
+{
+  "lemma": "labor",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/labor_ex_0_e5854f81.mp3"
+      },
+      {
+        "text": "In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day’s labor.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/labor_ex_1_2acb56c8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "勞動；工作，尤其是體力勞動。",
+    "en_def": "Work, especially physical work.",
+    "example": "The workers put in long hours of labor to complete the project."
+  },
+  "sentences_removed": 1
+}

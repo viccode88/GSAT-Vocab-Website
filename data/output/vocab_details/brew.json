@@ -1,0 +1,17 @@
+{
+  "lemma": "brew",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "釀造，通常指製作啤酒或咖啡的過程。",
+    "en_def": "To make (beer, coffee, etc.) by steeping, boiling, or fermenting ingredients.",
+    "example": "I like to brew my own coffee every morning."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "lash",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You 16 the mirror to find a tiny red spot on the base of your lower lashes.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/lash_ex_0_e35a7c32.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "用力抽打或鞭打的動作或工具。",
+    "en_def": "A quick, forceful stroke or blow, often made with a whip or similar object.",
+    "example": "The teacher used a lash of the ruler to emphasize her point."
+  },
+  "sentences_removed": 0
+}

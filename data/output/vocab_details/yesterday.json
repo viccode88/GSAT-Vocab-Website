@@ -1,0 +1,28 @@
+{
+  "lemma": "yesterday",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Lisa _____ onto the ground and injured her ankle while she was playing basketball yesterday.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/yesterday_ex_0_98721f7b.mp3"
+      },
+      {
+        "text": "It rained so hard yesterday that the baseball game had to be until next Saturday.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/yesterday_ex_1_7f77dba9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "昨天，指的是當前日期的前一天。",
+    "en_def": "Yesterday refers to the day before today.",
+    "example": "I went to the park yesterday."
+  },
+  "sentences_removed": 2
+}

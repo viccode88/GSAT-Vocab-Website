@@ -1,0 +1,28 @@
+{
+  "lemma": "housing",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A standard of living is considered high when it includes __(31)__ necessities but also certain comforts and luxuries; it is considered low when food, clean water, housing, and __(32)__ necessities are limited or lacking.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/housing_ex_0_a958f11d.mp3"
+      },
+      {
+        "text": "To convince people that temporary housing can be easily found.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/housing_ex_1_6c922626.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "住房，指用來居住的建築或空間。",
+    "en_def": "Housing refers to buildings or structures that are used as living spaces.",
+    "example": "The city is working on new housing projects to accommodate the growing population."
+  },
+  "sentences_removed": 0
+}

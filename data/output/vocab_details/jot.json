@@ -1,0 +1,23 @@
+{
+  "lemma": "jot",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I wrote Brothers Emanuel because I had begun jotting stories for my kids.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/jot_ex_0_c4b719c1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "草草記下，匆忙寫下的筆記或想法。",
+    "en_def": "To write something quickly or briefly.",
+    "example": "She decided to jot down her thoughts before they slipped away."
+  },
+  "sentences_removed": 0
+}

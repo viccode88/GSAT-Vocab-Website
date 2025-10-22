@@ -1,0 +1,23 @@
+{
+  "lemma": "yakima",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Tom Mix and Yakima Canutt were among the most famous.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/yakima_ex_0_eb99ad43.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "雅基馬，一個位於美國華盛頓州的城市，以農業和葡萄酒生產聞名。",
+    "en_def": "Yakima is a city in Washington State, known for its agriculture and wine production.",
+    "example": "The Yakima Valley is famous for its vineyards and orchards."
+  },
+  "sentences_removed": 0
+}

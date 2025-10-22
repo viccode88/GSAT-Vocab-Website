@@ -1,0 +1,23 @@
+{
+  "lemma": "californians",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He saw a man with a hole in the leg of his trousers and 29 realized what Californians 30 for the rough work they were doing—good, strong trousers! 21.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/californians_ex_0_041a15e1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "加利福尼亞州的居民或出生於加利福尼亞州的人。",
+    "en_def": "Residents or natives of the state of California.",
+    "example": "Californians enjoy a diverse culture and beautiful landscapes."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "recovery",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/recovery_ex_0_b6249808.mp3"
+      },
+      {
+        "text": "His recovery from the heart surgery was faster than Anthony’s.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/recovery_ex_1_2519c256.mp3"
+      },
+      {
+        "text": "The discussion moved to Anthony’s recovery.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/recovery_ex_2_c043e3c1.mp3"
+      },
+      {
+        "text": "We are ______ by his quick recovery.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/recovery_ex_3_67829292.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "恢復，復原，通常指健康或狀態的改善。",
+    "en_def": "The process of returning to a normal state after a period of difficulty or illness.",
+    "example": "After a long illness, her recovery was slow but steady."
+  },
+  "sentences_removed": 0
+}

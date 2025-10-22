@@ -1,0 +1,28 @@
+{
+  "lemma": "martial",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/martial_ex_0_41bb74a0.mp3"
+      },
+      {
+        "text": "He succeeded in his endeavor and transformed the martial art into Brazil’s national sport.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/martial_ex_1_81d531a2.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "與戰爭或戰鬥有關的；軍事的",
+    "en_def": "Relating to war or the armed forces.",
+    "example": "He trained in martial arts to improve his self-defense skills."
+  },
+  "sentences_removed": 3
+}

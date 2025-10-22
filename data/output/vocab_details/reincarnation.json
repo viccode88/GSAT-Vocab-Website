@@ -1,0 +1,17 @@
+{
+  "lemma": "reincarnation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "輪迴；轉世，指靈魂在死亡後再次出生為另一個生命體的過程。",
+    "en_def": "The rebirth of a soul in a new body after death.",
+    "example": "Many cultures believe in reincarnation as a way for the soul to learn and grow through different lives."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "markarian",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Saying no to fur can help millions of animals, and we want to show our respect to leading designers like Jay who embrace compassion as the fashion,” said Michael Markarian, executive vice president of The HSUS.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/markarian_ex_0_c247538c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "馬卡良星系，指的是一組特定的星系，通常與其獨特的光譜特徵有關。",
+    "en_def": "Markarian refers to a class of galaxies that exhibit specific spectral characteristics, often associated with active galactic nuclei.",
+    "example": "The astronomer studied the Markarian galaxies to understand their unique properties."
+  },
+  "sentences_removed": 0
+}

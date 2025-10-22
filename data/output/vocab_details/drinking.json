@@ -1,0 +1,69 @@
+{
+  "lemma": "drinking",
+  "count": 12,
+  "pos_dist": {
+    "NOUN": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Drinking is part of our national celebrations as well.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/drinking_ex_0_4d7f5139.mp3"
+      },
+      {
+        "text": "A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/drinking_ex_1_3c744766.mp3"
+      },
+      {
+        "text": "Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?”",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/drinking_ex_2_7950cee2.mp3"
+      },
+      {
+        "text": "If you _____ a traffic law, such as drinking and driving, you may not drive for some time.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/drinking_ex_3_228291ee.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Some documents noted that Russians “indulge in excessive drinking whenever the occasion arises,” while others claimed that Russians “rarely drink wine.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Many 25. (A) drink (B) to drink (C) drinking (D) drunk 26.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Drinking, the message goes, is cool.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Our personal celebrations, 22 weddings, promotions, graduations, and anniversaries, are 23 linked with drinking.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Critics of the country say that drinking is almost an inherent trait of the Russian people.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "To highlight the French impact on Russians’ drinking habits.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "飲用液體的行為，通常指酒精或水等飲品。",
+    "en_def": "The act of consuming liquids, typically referring to beverages such as alcohol or water.",
+    "example": "She enjoys drinking tea in the afternoon."
+  },
+  "sentences_removed": 2
+}

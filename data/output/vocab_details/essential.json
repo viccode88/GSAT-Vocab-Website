@@ -1,0 +1,43 @@
+{
+  "lemma": "essential",
+  "count": 5,
+  "pos_dist": {
+    "ADJ": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Such minimalist design is what makes these hotels both inexpensive and efficient, providing only the essential elements for a good night sleep.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/essential_ex_0_05b64cc5.mp3"
+      },
+      {
+        "text": "It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/essential_ex_1_9e60a20c.mp3"
+      },
+      {
+        "text": "The Swiss military purchasers considered the new model with a corkscrew for opening wine not “essential for survival,” so officers had to buy this new model by themselves.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/essential_ex_2_729fc548.mp3"
+      },
+      {
+        "text": "If you are a vegetarian, or if your diet includes little meat, soy protein is a good alternative, and may even be essential to maintaining your health.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/essential_ex_3_375bd35f.mp3"
+      },
+      {
+        "text": "Besides working, regular exercise is essential to keep the astronauts healthy in microgravity.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/essential_ex_4_d05409ad.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "必要的；本質的；基本的",
+    "en_def": "Absolutely necessary; extremely important.",
+    "example": "Water is essential for all forms of life."
+  },
+  "sentences_removed": 0
+}

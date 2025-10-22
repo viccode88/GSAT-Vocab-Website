@@ -1,0 +1,154 @@
+{
+  "lemma": "purpose",
+  "count": 28,
+  "pos_dist": {
+    "NOUN": 28
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the main purpose of this article? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/purpose_ex_0_ee7b2d3c.mp3"
+      },
+      {
+        "text": "There is evidence of onions being used for culinary and medicinal purposes all over the ancient world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/purpose_ex_1_b0ad8538.mp3"
+      },
+      {
+        "text": "Do you think Teresa asked that question on purpose? (A) accidentally (B) gradually (C) intentionally (D) permanently 17.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/purpose_ex_2_60c293f4.mp3"
+      },
+      {
+        "text": "It is refined to remove its impurities and blended to improve flavor, and is recommended for all-purpose cooking.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/purpose_ex_3_9c1d26c0.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They were established by the government for business purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why were scientists NOT concerned about space trash in the beginning? (A) It no longer served any useful purpose.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of this passage? (A)",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of this passage is to (A) explain how people become bilingual.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Which phrase in the chatroom discussions means “serves the purpose” or “works well” ?",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "According to certain documents, ancient Egyptians also used onions for medicinal purposes, but they likely would have viewed the 35 power of the vegetable as magical, rather than medical.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What was the purpose of the voyage of the Vladimirs? (A)",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The British used it for medical purposes.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main purpose of the second paragraph in the passage? (A)",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of setting up The Carpenters’ Shop was .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of the article? (A)",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Then in the Victorian era (19th century), weaving companies began to systematically record and formalize the system of setts for commercial purposes.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of this passage? (A) To point out the challenges of the modern lifestyle.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of Dognition’s testing is to control a dog’s behavior.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The author’s primary purpose in this passage is to __________.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of the study described in this passage? (A)",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main purpose of the passage? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "However, since it kept orbiting around the Earth without any consequences, scientists became increasingly comfortable abandoning things that no longer served any useful purpose in space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the writer’s main purpose for writing this passage? (A)",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of this passage? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the purpose of the Missouri experiment? (A)",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The main purpose of the passage is to ___________.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main purpose of this passage? (A)",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "目的；意圖；用途",
+    "en_def": "The reason for which something is done or created or for which something exists.",
+    "example": "The purpose of this meeting is to discuss the project timeline."
+  },
+  "sentences_removed": 1
+}

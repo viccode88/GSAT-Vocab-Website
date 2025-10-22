@@ -1,0 +1,23 @@
+{
+  "lemma": "grapevine",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/grapevine_ex_0_7cf764c0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "葡萄藤；傳聞或小道消息",
+    "en_def": "A climbing plant that produces grapes; also refers to an informal means of spreading information or rumors.",
+    "example": "I heard it through the grapevine that they are planning a surprise party."
+  },
+  "sentences_removed": 1
+}

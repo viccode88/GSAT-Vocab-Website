@@ -1,0 +1,28 @@
+{
+  "lemma": "distinguish",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The many awards that Professor Wang has won over the years are clear ______ that he is a distinguished scholar.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/distinguish_ex_0_c96e6caa.mp3"
+      },
+      {
+        "text": "From the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/distinguish_ex_1_ad4c879a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "區分；辨別",
+    "en_def": "To recognize or point out the differences between two or more things.",
+    "example": "It is important to distinguish between fact and opinion."
+  },
+  "sentences_removed": 0
+}

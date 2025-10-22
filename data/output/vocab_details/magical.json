@@ -1,0 +1,44 @@
+{
+  "lemma": "magical",
+  "count": 7,
+  "pos_dist": {
+    "ADJ": 6,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They performed magical tricks to entertain people.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magical_ex_0_5984f0fb.mp3"
+      },
+      {
+        "text": "The main reason is that these stories offer us chances to get away from this real, frustrating world and allow us to find some magical solutions to our problems.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magical_ex_1_f8da3642.mp3"
+      },
+      {
+        "text": "According to certain documents, ancient Egyptians also used onions for medicinal purposes, but they likely would have viewed the 35 power of the vegetable as magical, rather than medical.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/magical_ex_2_32f24e60.mp3"
+      },
+      {
+        "text": "What is the best title for the passage? (A) Magical Tricks (B) A Great Magician (C) Magic as Entertainment (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/magical_ex_3_60915a30.mp3"
+      },
+      {
+        "text": "Love is, __(40)__, magical, and it certainly can last if we remember our differences and respect each other.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/magical_ex_4_cd912be0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "具有魔力或神奇效果的",
+    "en_def": "Having special powers or qualities that are beyond the ordinary.",
+    "example": "The magician performed a magical trick that amazed the audience."
+  },
+  "sentences_removed": 2
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "casually",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "On 26 every soap opera, the characters drink casually and often.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/casually_ex_0_950615cc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "隨意地；不正式地",
+    "en_def": "In a relaxed or informal manner.",
+    "example": "She casually mentioned her plans for the weekend."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "underground",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Small animals such as mole rats living underground are known for the use of magnetism to navigate.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/underground_ex_0_543c1803.mp3"
+      },
+      {
+        "text": "They construct their colonies on precious farmland, invading crops while searching for insects underground.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/underground_ex_1_57c0ac41.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地下的；隱秘的",
+    "en_def": "Located beneath the surface of the ground; hidden or secret.",
+    "example": "The underground tunnel was used for smuggling goods."
+  },
+  "sentences_removed": 0
+}

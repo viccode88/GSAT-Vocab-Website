@@ -1,0 +1,43 @@
+{
+  "lemma": "owner",
+  "count": 6,
+  "pos_dist": {
+    "NOUN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the slave owners realized the power of Capoeira, they began to punish those who practiced it.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/owner_ex_0_f665bf2c.mp3"
+      },
+      {
+        "text": "Within a few years, Chinese restaurant owners in San Francisco had copied the recipe and 40 the thank-you notes with fortune notes.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/owner_ex_1_f1d5d304.mp3"
+      },
+      {
+        "text": "This new understanding can enrich the relationship between dogs and their owners.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/owner_ex_2_65970563.mp3"
+      },
+      {
+        "text": "“A lot of young people don’t want to dress up for work,” says the owner of a software company, “so it’s hard to hire people if you have a conservative dress code.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/owner_ex_3_2e2e80d2.mp3"
+      },
+      {
+        "text": "F.…you should learn how to do it well. G…but their owners should be responsible.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/owner_ex_4_0a9456a3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "擁有者；所有者",
+    "en_def": "A person who owns something.",
+    "example": "The owner of the restaurant greeted us at the door."
+  },
+  "sentences_removed": 1
+}

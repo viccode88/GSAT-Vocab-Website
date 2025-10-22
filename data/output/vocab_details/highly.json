@@ -1,0 +1,74 @@
+{
+  "lemma": "highly",
+  "count": 12,
+  "pos_dist": {
+    "ADV": 12
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For thousands of years, the Chinese have valued highly the soybean, considering it one of the five important grains (along with rice, millet, barley, and wheat).",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/highly_ex_0_b6662313.mp3"
+      },
+      {
+        "text": "They’re highly processed and contain no vegetables.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/highly_ex_1_492633d3.mp3"
+      },
+      {
+        "text": "It is highly recommended for those who plan to go to graduate school.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/highly_ex_2_f1a98029.mp3"
+      },
+      {
+        "text": "Folk tales are both down-to-earth and highly imaginative.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/highly_ex_3_43ff8e62.mp3"
+      },
+      {
+        "text": "First of all, the gases used in bug bombs are highly flammable and thus pose a serious risk of fire or explosion if the product is not used properly.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/highly_ex_4_eabcf368.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "They are highly branches in American forests.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This story may sound highly credible, but there seems to be no solid evidence that it inspired the creation of the 35 we know of today as fortune cookies.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Still __(35)__ say that aliens were responsible for the growth of highly evolved civilizations which have __(36)__ perished, including the Incan and Mayan civilizations and the legendary Atlantis.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to 24 their status and wealth.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Living in a highly _____ society, you definitely have to arm yourself with as much knowledge as possible.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Our team will certainly win this baseball game, because all the players are highly ________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "非常地；高度地",
+    "en_def": "To a great degree or extent.",
+    "example": "She is highly skilled in her profession."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,101 @@
+{
+  "lemma": "boat",
+  "count": 18,
+  "pos_dist": {
+    "NOUN": 16,
+    "VERB": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "You may experience the discomfort from the motion of cars, boats, or amusement park rides.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/boat_ex_0_fe8b5028.mp3"
+      },
+      {
+        "text": "People sometimes crash into reefs with their boats or drop anchors on them, breaking off large chunks of coral.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/boat_ex_1_431ca077.mp3"
+      },
+      {
+        "text": "Then we were each separately sent on what was grandly referred to as a cruise in my father’s 18-foot boat, spending the night on board, and loaded down, according to my mother, with enough food for a week.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/boat_ex_2_f6f821a7.mp3"
+      },
+      {
+        "text": "A marine pilot is a boat pilot with specialized knowledge of a particular port or harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/boat_ex_3_3127a232.mp3"
+      },
+      {
+        "text": "Swimming, hiking, boating, fishing--the days were not long enough to contain all of our activities.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/boat_ex_4_f61d5c4c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "“Judo helped me a small boat that held 20 people and set sail into the by giving me serenity, discipline, commitment— deep waters of the Aegean Sea.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "He was trapped inside as the boat was driven under the water.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, each time he lost a dove into the cold water, and—with the help of her competition, his coaches would lock him in a cage sister and two men—swam and pushed the boat for for days, feeding him only coffee and bread.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They had rowed nearly 5,500 miles when their boat was hit by a fishing ship on September 17, 2001.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Luckily they both escaped unharmed, but their boat was badly damaged and they had to abandon their journey.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He trained hard and became a the engine stopped and the boat began to sink.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "In the cross-lake swimming race, a boat will be _____ in case of an emergency.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "How long had Tim and Dom been at sea when their boat was hit by a fishing boat?",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To repair the boat and sail back to Russia.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Tim felt it would be safer to stay on board the boat.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The new expansion is composed of five themed splash pads and a River Boat Adventure Ride.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一種用於水上移動的交通工具，通常由木材、金屬或塑料製成。",
+    "en_def": "A vehicle used for traveling on water, typically made of wood, metal, or plastic.",
+    "example": "We took a boat out on the lake for a relaxing afternoon."
+  },
+  "sentences_removed": 1
+}

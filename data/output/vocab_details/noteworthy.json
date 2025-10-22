@@ -1,0 +1,17 @@
+{
+  "lemma": "noteworthy",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "值得注意的；顯著的",
+    "en_def": "Deserving attention or notice; remarkable.",
+    "example": "Her noteworthy achievements in science earned her a prestigious award."
+  },
+  "sentences_removed": 1
+}

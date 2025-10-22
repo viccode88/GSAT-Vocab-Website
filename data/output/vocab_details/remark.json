@@ -1,0 +1,34 @@
+{
+  "lemma": "remark",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/remark_ex_0_0d99cd3d.mp3"
+      },
+      {
+        "text": "Someone else remarked that “a merry heart does good, like medicine”—and infectious laughter is often catching.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/remark_ex_1_c44c6f81.mp3"
+      },
+      {
+        "text": "Their unique style, as remarked by Karen Blixen, author of Out of Africa, “has grown from the inside, and is an expression of the race and its history.”",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/remark_ex_2_9105b78d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "評論；言辭或意見。",
+    "en_def": "A statement or comment expressing an opinion or observation.",
+    "example": "She made a remark about the weather during the meeting."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "cream",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/cream_ex_0_c0a6266c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "奶油；乳脂，通常用於烹飪或作為甜點的配料。",
+    "en_def": "A thick, fatty liquid produced from milk, used in cooking and as a topping for desserts.",
+    "example": "She added a dollop of cream to her coffee."
+  },
+  "sentences_removed": 0
+}

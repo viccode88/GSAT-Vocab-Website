@@ -1,0 +1,60 @@
+{
+  "lemma": "desire",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 4,
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "His paintings constantly reflected his desire to escape from society.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/desire_ex_0_ccdd09d8.mp3"
+      },
+      {
+        "text": "Their pictures can be enlarged as desired.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/desire_ex_1_5ed20859.mp3"
+      },
+      {
+        "text": "The love we desire will come from all of the following EXCEPT .",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/desire_ex_2_b8f15dfc.mp3"
+      },
+      {
+        "text": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/desire_ex_3_d5301dd6.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Her purchases seem to be driven by some sudden force or desire.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "A strong desire burns inside Bekoji’s young runners.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There were many sayings about their desire for alcohol, such as “drunk as a German.”",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "渴望；強烈的願望或需求。",
+    "en_def": "A strong feeling of wanting to have something or wishing for something to happen.",
+    "example": "She has a desire to travel the world."
+  },
+  "sentences_removed": 0
+}

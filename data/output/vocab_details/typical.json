@@ -1,0 +1,43 @@
+{
+  "lemma": "typical",
+  "count": 6,
+  "pos_dist": {
+    "ADJ": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/typical_ex_0_37f64fdf.mp3"
+      },
+      {
+        "text": "Mary is a typical left-brained learner.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/typical_ex_1_a14c72a6.mp3"
+      },
+      {
+        "text": "Writing term papers and giving oral reports are typical course _____ for college students.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/typical_ex_2_e5609178.mp3"
+      },
+      {
+        "text": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/typical_ex_3_f826db34.mp3"
+      },
+      {
+        "text": "Which of the following pictures best represents the image of a typical Maasai warrior? (A) (B) (C) (D) 36.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/typical_ex_4_5c6d645c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "典型的，代表性的，常見的",
+    "en_def": "Having the distinctive qualities of a particular type of person or thing.",
+    "example": "She wore a typical outfit for the summer."
+  },
+  "sentences_removed": 1
+}

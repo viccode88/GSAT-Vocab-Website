@@ -1,0 +1,28 @@
+{
+  "lemma": "groomer",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Matter of Trust is helping organize the collection of this 25 hair and fur through thousands of salons, pet groomers, and ranchers.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/groomer_ex_0_1ed4bf41.mp3"
+      },
+      {
+        "text": "Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur. 21.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/groomer_ex_1_c304d2df.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "負責清理和修整動物毛髮的人，特別是狗或貓。",
+    "en_def": "A person who cleans and styles the fur of animals, especially dogs or cats.",
+    "example": "The groomer made my dog look so beautiful after the haircut."
+  },
+  "sentences_removed": 0
+}

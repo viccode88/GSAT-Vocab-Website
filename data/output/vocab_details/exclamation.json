@@ -1,0 +1,23 @@
+{
+  "lemma": "exclamation",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Most men use more swear words, while far more women use adjectives such as “super” and “lovely,” and exclamations such as “Goodness me!” and “Oh dear!”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/exclamation_ex_0_d602ba35.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "感嘆詞；用來表達強烈情感或反應的詞語。",
+    "en_def": "A word or phrase that expresses strong emotion or reaction.",
+    "example": "She let out an exclamation of surprise when she saw the gift."
+  },
+  "sentences_removed": 0
+}

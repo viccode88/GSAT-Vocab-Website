@@ -1,0 +1,23 @@
+{
+  "lemma": "multicolore",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Multicolored beadwork is popular among both men and women.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/multicolore_ex_0_e9deb3ae.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "多種顏色的，色彩斑斕的",
+    "en_def": "Having many different colors.",
+    "example": "The artist used a multicolore palette to create a vibrant painting."
+  },
+  "sentences_removed": 0
+}

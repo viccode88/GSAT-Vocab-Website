@@ -1,0 +1,23 @@
+{
+  "lemma": "ideology",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Studies show that the unbiased media are in fact often deeply influenced by political ideology.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/ideology_ex_0_b06e73a8.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "意識形態：一套系統化的信念、價值觀和觀點，通常用於解釋社會、政治或經濟現象。",
+    "en_def": "A system of ideas and ideals, especially one that forms the basis of economic or political theory and policy.",
+    "example": "Her ideology strongly influences her views on social justice."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "howl",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Everyone starts and ends the day by howling to check out where their nearest competitors are.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howl_ex_0_4126d142.mp3"
+      },
+      {
+        "text": "They are the loudest land animal and their howls can be heard three miles away through dense forests.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howl_ex_1_8d4127f0.mp3"
+      },
+      {
+        "text": "Interestingly, when there are few howler monkeys in an area, the howling routine takes on a different pattern.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howl_ex_2_c6ef4a6e.mp3"
+      },
+      {
+        "text": "Why do the keepers at the sanctuary use recorded howls? (A) To prevent the howler monkeys from getting homesick.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/howl_ex_3_923f4541.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "According to the passage, which of the following is true about howler monkeys? (A) They howl most often at noon.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why did the howler monkeys in Belize howl less often?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Why do howler monkeys howl?",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "狼嚎；嚎叫聲",
+    "en_def": "A long, loud, mournful cry, especially one made by a wolf or dog.",
+    "example": "The wolf began to howl at the moon."
+  },
+  "sentences_removed": 1
+}

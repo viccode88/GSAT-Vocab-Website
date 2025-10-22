@@ -1,0 +1,54 @@
+{
+  "lemma": "argue",
+  "count": 8,
+  "pos_dist": {
+    "VERB": 8
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They may also pretend to be 14 customers, arguing with a salesperson without a good reason.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/argue_ex_0_de79cc1b.mp3"
+      },
+      {
+        "text": "The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/argue_ex_1_7d925647.mp3"
+      },
+      {
+        "text": "To argue for the benefits of nopales.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/argue_ex_2_b7db4dde.mp3"
+      },
+      {
+        "text": "By contrast, men are much more likely to interrupt (about three times as often in some studies), to argue about what has been said, to ignore or respond poorly to what has been said, to introduce more new topics into the conversation, and to make more assertions.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/argue_ex_3_71b0e6e7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Supporters of casual office wear also argue that a casual dress code helps them save money.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In making a case for or against zoos, both sides argue that they’re saving animals.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "爭論；辯論；主張",
+    "en_def": "To present reasons for or against something in a discussion or debate.",
+    "example": "They often argue about politics during family gatherings."
+  },
+  "sentences_removed": 1
+}

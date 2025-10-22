@@ -1,0 +1,28 @@
+{
+  "lemma": "icelanders",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/icelanders_ex_0_e99e3756.mp3"
+      },
+      {
+        "text": "The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide. 43.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/icelanders_ex_1_c21da94c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "冰島人，指居住在冰島的人民。",
+    "en_def": "Icelanders are the people who inhabit Iceland.",
+    "example": "Icelanders are known for their strong connection to nature."
+  },
+  "sentences_removed": 0
+}

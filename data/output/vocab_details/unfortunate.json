@@ -1,0 +1,23 @@
+{
+  "lemma": "unfortunate",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The result is an unfortunate tendency for people making initial contact—in a job interview, for example—to stare fixedly at the other individual.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unfortunate_ex_0_19f85939.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "不幸的，運氣不佳的",
+    "en_def": "Having bad luck or causing sadness; regrettable.",
+    "example": "It was unfortunate that the event was canceled due to the rain."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "kawasaki",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When did the “Kawasaki” first get into trouble during the voyage? (A) Less than two days after departure from Russia.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/kawasaki_ex_0_1e34b4da.mp3"
+      },
+      {
+        "text": "It is not immediately known whether the “Kawasaki” can be repaired on the fishing island of Penghu, or when the Vladimirs will be able to set off again and continue their around-the-world voyage.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/kawasaki_ex_1_18f0f179.mp3"
+      },
+      {
+        "text": "Their voyage, down the coastline of northeastern mainland China, through the East China Sea, then down the Taiwan Strait and into the South China Sea, had been smooth until four days ago when the mainsail of their twin-mast sailboat “Kawasaki” was smashed by strong winds on the high seas.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/kawasaki_ex_2_10c9d4fa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "川崎，指的是日本的一個城市，位於神奈川縣，或指川崎重工業公司，專注於製造摩托車和其他機械。",
+    "en_def": "Kawasaki refers to a city in Kanagawa Prefecture, Japan, or Kawasaki Heavy Industries, a company known for manufacturing motorcycles and other machinery.",
+    "example": "Kawasaki is famous for its high-performance motorcycles."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "soy",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The soybean is free of cholesterol, and more importantly, the soy oil contains some special substances, called Omega 3 fatty acids, which reduce cholesterol and prevent blood from clotting in human body.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/soy_ex_0_2fdd3cc1.mp3"
+      },
+      {
+        "text": "Research shows that consuming a minimum of 25 grams of soy protein a day can lower blood cholesterol levels in people with high cholesterol problems.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/soy_ex_1_33e7fcaa.mp3"
+      },
+      {
+        "text": "If you are a vegetarian, or if your diet includes little meat, soy protein is a good alternative, and may even be essential to maintaining your health.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/soy_ex_2_375bd35f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種豆類植物，通常用於製作食品和油。",
+    "en_def": "A type of legume plant commonly used for food and oil production.",
+    "example": "She added soy sauce to the stir-fry for extra flavor."
+  },
+  "sentences_removed": 0
+}

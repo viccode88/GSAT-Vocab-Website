@@ -1,0 +1,28 @@
+{
+  "lemma": "manuscript",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "There have been disks containing medical research, television scripts, manuscripts of whole books, a lawyer’s papers for a court case, and even Margaret Thatcher’s travel plan for a visit to eastern Europe.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/manuscript_ex_0_62da6c1b.mp3"
+      },
+      {
+        "text": "A 54-page manuscript written by Albert Einstein recently was sold for $398,500 at Christie’s in New York.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/manuscript_ex_1_8b363132.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "手稿；未經出版的原稿或草稿。",
+    "en_def": "A manuscript is a handwritten or typed document, especially one that is not yet published.",
+    "example": "The author submitted her manuscript to the publisher for review."
+  },
+  "sentences_removed": 0
+}

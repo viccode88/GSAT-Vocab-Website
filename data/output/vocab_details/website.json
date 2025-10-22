@@ -1,0 +1,49 @@
+{
+  "lemma": "website",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "1. Visit the websites of these colleges and find out which college has departments ___(27)___ courses that interest you or will help you prepare for your future career.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/website_ex_0_298bb227.mp3"
+      },
+      {
+        "text": "Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making 20 reports in order to fool their audiences.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/website_ex_1_e84c0edd.mp3"
+      },
+      {
+        "text": "After you plunk your money down, Dognition’s website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children?",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/website_ex_2_1618b96e.mp3"
+      },
+      {
+        "text": "A group in the UK even started a website devoted to “beating Blue Monday.”",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/website_ex_3_8c3ed15f.mp3"
+      },
+      {
+        "text": "If you want to know what your dreams mean, now there are websites you can visit to help you _____ them.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/website_ex_4_2a3c3eb2.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "On a website of an art gallery.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "網站：在互聯網上提供信息或服務的集合，通常由多個網頁組成。",
+    "en_def": "Website: A collection of related web pages located under a single domain name on the internet.",
+    "example": "I found a great recipe on a cooking website."
+  },
+  "sentences_removed": 1
+}

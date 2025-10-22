@@ -1,0 +1,23 @@
+{
+  "lemma": "optimistic",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They feel optimistic about future plans on weight control.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/optimistic_ex_0_e2692d67.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "對未來持有正面期待的，通常相信事情會有好結果的。",
+    "en_def": "Having a hopeful and positive outlook on the future, often believing that good things will happen.",
+    "example": "She remains optimistic about finding a new job despite the challenges."
+  },
+  "sentences_removed": 0
+}

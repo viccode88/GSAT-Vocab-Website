@@ -1,0 +1,28 @@
+{
+  "lemma": "storytelle",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, recent studies have shown (70) interest in storytelling for adults is returning.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/storytelle_ex_0_7bf7ac5f.mp3"
+      },
+      {
+        "text": "(67) , television, movies, and books have taken over the once personal and (68) activity of storytelling.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/storytelle_ex_1_76e68613.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "講故事的人；擅長講述故事的人。",
+    "en_def": "A person who tells stories, especially in an engaging or entertaining manner.",
+    "example": "The storyteller captivated the audience with her enchanting tales."
+  },
+  "sentences_removed": 0
+}

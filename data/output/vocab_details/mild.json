@@ -1,0 +1,33 @@
+{
+  "lemma": "mild",
+  "count": 3,
+  "pos_dist": {
+    "ADJ": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/mild_ex_0_6d136cce.mp3"
+      },
+      {
+        "text": "There were three levels of heat, producing mild, moderate, or strong pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/mild_ex_1_fdba47ff.mp3"
+      },
+      {
+        "text": "Interestingly, when the volunteers expected only mild or moderate pain but experienced severe pain, they reported feeling 28 percent less pain than when they expected severe pain and actually got it.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/mild_ex_2_dcab3329.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "溫和的，輕微的，不強烈的",
+    "en_def": "Not severe, strong, or intense; gentle or moderate.",
+    "example": "The weather today is mild, perfect for a walk in the park."
+  },
+  "sentences_removed": 0
+}

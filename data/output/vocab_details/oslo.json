@@ -1,0 +1,23 @@
+{
+  "lemma": "oslo",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "After the war, a giant paperclip statue was erected in Oslo to 40 Vaaler—even though his design was never actually manufactured.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/oslo_ex_0_ee9986a0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "挪威的首都，位於該國東南部，著名的文化和經濟中心。",
+    "en_def": "The capital of Norway, located in the southeastern part of the country, known for its cultural and economic significance.",
+    "example": "Oslo is famous for its museums and green spaces."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "harbor",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But the captain of a ship is responsible for guiding the vessel until they hit a port, waiting to enter the harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/harbor_ex_0_475cf348.mp3"
+      },
+      {
+        "text": "The task of bringing the ship into the harbor and anchoring it is taken up by a different captain.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/harbor_ex_1_aef49274.mp3"
+      },
+      {
+        "text": "A marine pilot is a boat pilot with specialized knowledge of a particular port or harbor.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/harbor_ex_2_3127a232.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "港口；避風港",
+    "en_def": "A place on the coast where vessels may find shelter.",
+    "example": "The ship docked safely in the harbor."
+  },
+  "sentences_removed": 0
+}

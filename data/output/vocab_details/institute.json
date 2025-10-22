@@ -1,0 +1,39 @@
+{
+  "lemma": "institute",
+  "count": 4,
+  "pos_dist": {
+    "PROPN": 3,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This new device has been invented by a team at the country’s Railway Technical Research Institute (RTRI).",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/institute_ex_0_aa407955.mp3"
+      },
+      {
+        "text": "Accused of neglecting this part of our education, my father still instituted a summer school for my brother and me.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/institute_ex_1_cf012e98.mp3"
+      },
+      {
+        "text": "The International Institute of Not Doing Much. 43.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/institute_ex_2_f38ce07c.mp3"
+      },
+      {
+        "text": "All of us here think The International Institute of Not Doing Much is the best organization in the world.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/institute_ex_3_706d99b6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "機構；學院；設立，創立",
+    "en_def": "An organization or establishment created for a specific purpose, often educational or research-related.",
+    "example": "The institute offers various programs for students interested in science."
+  },
+  "sentences_removed": 0
+}

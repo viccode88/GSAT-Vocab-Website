@@ -1,0 +1,23 @@
+{
+  "lemma": "applicants",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Applicants should meet the requirements: Interested candidates please apply immediately with (1) Taiwan citizen resume and mail to P.O. box 594.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/applicants_ex_0_79b8f884.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "申請者，指向某個職位或機會提交申請的人。",
+    "en_def": "Individuals who apply for a position, opportunity, or admission.",
+    "example": "The company received many applicants for the job opening."
+  },
+  "sentences_removed": 0
+}

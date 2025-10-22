@@ -1,0 +1,17 @@
+{
+  "lemma": "penguin",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種不會飛的鳥，主要生活在南極及其周邊地區，特徵是黑白相間的羽毛和適合游泳的身體。",
+    "en_def": "A flightless bird primarily found in Antarctica and surrounding regions, characterized by black and white plumage and a body adapted for swimming.",
+    "example": "The penguin waddled across the ice in search of food."
+  },
+  "sentences_removed": 1
+}

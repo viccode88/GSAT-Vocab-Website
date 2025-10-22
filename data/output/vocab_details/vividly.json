@@ -1,0 +1,28 @@
+{
+  "lemma": "vividly",
+  "count": 2,
+  "pos_dist": {
+    "ADV": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He can still vividly describe his first day at school as a child.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/vividly_ex_0_806ba968.mp3"
+      },
+      {
+        "text": "His pictures vividly portrayed the life of nineteenth-century Americans.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/vividly_ex_1_dd154885.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生動地；鮮明地",
+    "en_def": "In a way that produces powerful feelings or strong, clear images in the mind.",
+    "example": "She described the scene vividly, making everyone feel as if they were there."
+  },
+  "sentences_removed": 0
+}

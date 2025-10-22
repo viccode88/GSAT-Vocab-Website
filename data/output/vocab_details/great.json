@@ -1,0 +1,320 @@
+{
+  "lemma": "great",
+  "count": 65,
+  "pos_dist": {
+    "ADJ": 62,
+    "PROPN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When the great Beethoven was asked to compose music for the guitar, he went into a rage and refused, but eventually even Beethoven could not ignore the challenge.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/great_ex_0_0d130906.mp3"
+      },
+      {
+        "text": "Children in this region often start running at an early age, covering great distances to fetch water and firewood or to reach the nearest school.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/great_ex_1_1d9b9256.mp3"
+      },
+      {
+        "text": "We had a great time.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/great_ex_2_45b76ba9.mp3"
+      },
+      {
+        "text": "Peter’s sudden death was a great blow to Jane and it took her a long time to the grief.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/great_ex_3_adda80d0.mp3"
+      },
+      {
+        "text": "A great step forward was the use of movable type.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/great_ex_4_af09edf8.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "It was a great for his family that he had survived the cold weather in the mountain.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "I don’t write a book about how great my family is.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are great inventions. 47.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He was a great dancer.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "They are also used on ships and spacecraft for their greater structural integrity.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They learn a lot from great people’s quotes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If a member country suffers great damage from a certain typhoon, it can 39 that the name of the typhoon be deleted from the list at the annual committee meeting.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Despite their great 28 , however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Women have been found to ask more questions, make more use of positive and encouraging “noises,” use a wider range of intonation patterns, and make greater use of the pronouns “you” and “we.”",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Showing great talent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief illustrator by age 34.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“It is great to see leaders in the fashion industry recognizing that the animals need their fur more than we do.” 49.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "No one will ever know for sure, but what we do know is that she took part in one of the greatest adventures in the 19th century.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the best title for the passage? (A) Magical Tricks (B) A Great Magician (C) Magic as Entertainment (D)",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "The artist is famous for his genius and great .",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The heart of this continent is the Amazon Rainforest, a vast paradise watered by one of the world’s greatest rivers.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "They have had a great increase in population since 2001.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the Second World War, a great number of American soldiers were stationed in Europe.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "All but one had an alcohol level greater than 0.005%.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "The company is _____ and making great profits under the wise leadership of the chief executive officer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Many great forms of exercise—like walking, swimming, or gentle stretching—get results without the 38 or discomfort some people associate with exercise.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Some Americans enjoy great wealth, __(37)__",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Dr. Chu’s speech on the new energy source attracted great _____ from the audience at the conference.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The dinner was great indeed, but the coffee they served was quite different.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to 23 evil.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He is considered the greatest illustrator in the history of American art.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The young scientist showed great for his success.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "These increases put great stress on the islands’ resources and environment.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "These people usually triumph over their enemies because of their wit and their great energy.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Although all book towns have a great number of bookshops, that’s where the similarities 13 .",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The three whales Tag, Notch, and Baby were rescued because (A) younger whales have a greater chance of survival than the others.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Jack says you'll not only find it handy in your studies, but a great argument-saver when playing Scrabble with your friends.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Another factor that has had a great 37 on the choice of names is the spread of culture through the media.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He then coated the glue on a paper sample and found that it was not only a good bookmark, but it was great for writing notes.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Oh, how wonderful! (C) Oh, that was great!",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "A man might once have fought a bear, for example, and the tales told about him might make him into the greatest bear fighter who ever lived.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "A great disaster for the travelers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Isn’t writing a book about how great your family is a bit odd? Zeke:",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Abdul Kareem, who used to be an airline ticketing agent, has a great love for the woods.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the _____ rainfall of the season in the area.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "In the 14th century, hoops were popular as a form of recreation in Great Britain.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Besides spices, Zanzibar is well known for a great variety of jewelry.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "A Great Adventure (C) A Lifelong Punishment (D) A New Direction in Life 50.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Smiling is of great help to us.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Wang Chien-ming, the Yankees’ best pitcher last year, already showed his great _____ for baseball when he was still a teenager.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, the use of movable type was considered as a \"great step forward\" because (A) it did not need a lot of wood.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "However, the opposite is a greater cause for suspicion.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Good work environment and great co-workers Good Knowledge of English.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "It often demands even greater effort in adjustment since we are not quick enough to catch up with the new time schedule.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "極好的；非常大的；重要的",
+    "en_def": "Of an extent, amount, or intensity considerably above the normal or average.",
+    "example": "She did a great job on her presentation."
+  },
+  "sentences_removed": 3
+}

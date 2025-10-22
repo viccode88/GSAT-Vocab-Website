@@ -1,0 +1,28 @@
+{
+  "lemma": "wrap",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is a tailored garment that is wrapped around the wearer’s body at the waist starting from one side, around the front and back and across the front again to the opposite side.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wrap_ex_0_512403ec.mp3"
+      },
+      {
+        "text": "The most recognizable piece of clothing is the shúkà, a sheet of fabric worn wrapped around the body.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/wrap_ex_1_3018949c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "包裹，包裝或覆蓋某物的行為或狀態。",
+    "en_def": "To cover or enclose something in a material, often for protection or presentation.",
+    "example": "She decided to wrap the gift in colorful paper."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "hometown",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hometown_ex_0_265d478b.mp3"
+      },
+      {
+        "text": "During this period, many people travel back to their hometowns and spend time with loved ones, both past and present.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hometown_ex_1_a9a5bfc2.mp3"
+      },
+      {
+        "text": "Leaving his/her hometown because of war.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/hometown_ex_2_ba07af1a.mp3"
+      },
+      {
+        "text": "It’s an admirable project, and it is worth finding out if a similar one operates in your hometown.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/hometown_ex_3_727547c6.mp3"
+      },
+      {
+        "text": "Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/hometown_ex_4_ae581a36.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "He first established his reputation as an illustrator in his hometown of Boston. 51.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "There was plenty of landscape for him to paint in America, much different from his hometown.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "故鄉；出生地或成長地。",
+    "en_def": "The town or city where a person was born or grew up.",
+    "example": "She returned to her hometown for the holidays."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,119 @@
+{
+  "lemma": "explain",
+  "count": 20,
+  "pos_dist": {
+    "VERB": 20
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/explain_ex_0_1c09b41a.mp3"
+      },
+      {
+        "text": "“The mountains and valleys are the arms and legs of their god and the glaciers are the head,” explained the head researcher.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/explain_ex_1_f34a4bc1.mp3"
+      },
+      {
+        "text": "They sat down, rather nervously, and I explained that all I wanted was for them to count from one to twenty.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/explain_ex_2_534ec278.mp3"
+      },
+      {
+        "text": "In a radio interview, Dom expressed his disappointment and explained how the accident took place.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/explain_ex_3_b4a3fe34.mp3"
+      },
+      {
+        "text": "Speaking only limited English, the Vladimirs spent five hours trying to explain their presence.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/explain_ex_4_dd0ba33c.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To explain that stress is a mental problem.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "The purpose of this passage is to (A) explain how people become bilingual.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "This may help explain why younger children tend to favor the creative fields such as music, art, and writing.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain how Maasai warriors hunt for deer in the wild.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "The use of baked mud for buildings explains ____________.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "“The blessing that Morgan has brought is beyond anything that I ever could have imagined and could explain.” 53.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain what causes children’s eating disorder.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "How does Hirsch explain this difference?",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "This fire resistant quality explains why the giant redwood grows to live that long.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To explain the origin of the Swiss army knife.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "This explains why at that time the priests even built magic devices into their temples.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "“There will always be competition for land,” she explained, “but we can protect elephants in the parks and give the young a chance.” 47.",
+        "source": "2001_90_90學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "He explained that he had just retired and was happiest when he could see or hear boys playing his 32 game, cricket.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "RTRI officials explain that deer have a habit of repeatedly snorting short, shrill sounds to alert other deer when they perceive danger.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "解釋；說明某事的意義或原因。",
+    "en_def": "To make something clear or easy to understand by describing it in detail.",
+    "example": "Can you explain how this machine works?"
+  },
+  "sentences_removed": 0
+}

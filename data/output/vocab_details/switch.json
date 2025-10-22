@@ -1,0 +1,34 @@
+{
+  "lemma": "switch",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although there are extra costs involved in going digital—the cost of memory cards for storage and the special paper for printing—many buyers have been willing to make the switch.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/switch_ex_0_b6df8381.mp3"
+      },
+      {
+        "text": "They periodically stopped their conversations to switch tables so the insights and ideas might 13 and deepen.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/switch_ex_1_8bf368d0.mp3"
+      },
+      {
+        "text": "The additional tines made diners less likely to drop food, and the curved tines served as a scoop so people did not have to constantly switch to a spoon while eating.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/switch_ex_2_b0da7f1b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "開關；轉換",
+    "en_def": "A device for making and breaking the connection in an electric circuit; to change or exchange.",
+    "example": "Please switch off the lights when you leave the room."
+  },
+  "sentences_removed": 0
+}

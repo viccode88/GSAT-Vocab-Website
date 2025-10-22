@@ -1,0 +1,23 @@
+{
+  "lemma": "medvedev",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Medvedev Vladimir, 43, and his son, Maxsine, 14, sailed from an unnamed eastern Russian seaport on August 18, to begin an ambitious around-the-world cruise.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/medvedev_ex_0_cd2beacd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "梅德韋傑夫，俄羅斯政治家，曾任俄羅斯總統和總理。",
+    "en_def": "Medvedev is a Russian politician who served as the President and Prime Minister of Russia.",
+    "example": "Dmitry Medvedev was the President of Russia from 2008 to 2012."
+  },
+  "sentences_removed": 0
+}

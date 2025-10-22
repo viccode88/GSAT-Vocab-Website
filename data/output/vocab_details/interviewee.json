@@ -1,0 +1,23 @@
+{
+  "lemma": "interviewee",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The interviewees were trying very hard to _____",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/interviewee_ex_0_d930f671.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "接受面試的人，通常是求職者或參加調查的人。",
+    "en_def": "A person who is being interviewed, typically for a job or survey.",
+    "example": "The interviewee answered all the questions confidently."
+  },
+  "sentences_removed": 0
+}

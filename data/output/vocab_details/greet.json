@@ -1,0 +1,39 @@
+{
+  "lemma": "greet",
+  "count": 4,
+  "pos_dist": {
+    "VERB": 3,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The native greeted the travelers in a language which was strange to them.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/greet_ex_0_c3b41260.mp3"
+      },
+      {
+        "text": "Welcome poles were traditionally placed on village beachfronts to greet visitors arriving by canoe.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/greet_ex_1_6019fb2c.mp3"
+      },
+      {
+        "text": "At the top, Willig was greeted by both police and reporters.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/greet_ex_2_aaae64d9.mp3"
+      },
+      {
+        "text": "Now it is healing and prospering and greets visitors with open arms. 26.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/greet_ex_3_3fb67dcf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "打招呼，問候或歡迎某人。",
+    "en_def": "To say hello or welcome someone.",
+    "example": "She decided to greet her friends with a warm smile."
+  },
+  "sentences_removed": 0
+}

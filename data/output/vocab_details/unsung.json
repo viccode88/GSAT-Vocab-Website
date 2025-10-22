@@ -1,0 +1,23 @@
+{
+  "lemma": "unsung",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/unsung_ex_0_1b9d55f4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "未被讚揚的，未受到重視的",
+    "en_def": "Not celebrated or praised; not recognized for contributions or achievements.",
+    "example": "Many unsung heroes worked tirelessly behind the scenes during the crisis."
+  },
+  "sentences_removed": 0
+}

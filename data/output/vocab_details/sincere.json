@@ -1,0 +1,23 @@
+{
+  "lemma": "sincere",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But when I tried again in my most sincere tone, it was gladly accepted.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/sincere_ex_0_cf1e01c6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "真誠的，誠懇的，沒有虛偽或欺騙的。",
+    "en_def": "Genuine and honest in feelings or expressions; free from pretense or deceit.",
+    "example": "She gave a sincere apology for her mistake."
+  },
+  "sentences_removed": 0
+}

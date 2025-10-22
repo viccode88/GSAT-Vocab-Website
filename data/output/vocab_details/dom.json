@@ -1,0 +1,43 @@
+{
+  "lemma": "dom",
+  "count": 6,
+  "pos_dist": {
+    "PROPN": 6
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dom said that the most important thing in this accident was __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dom_ex_0_1cdc9cf5.mp3"
+      },
+      {
+        "text": "According to Dom, the main reason for the accident was that __________.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dom_ex_1_1d7e9d91.mp3"
+      },
+      {
+        "text": "How long had Tim and Dom been at sea when their boat was hit by a fishing boat?",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dom_ex_2_a5264cc1.mp3"
+      },
+      {
+        "text": "Tim and Dom were too careless (B) nobody on the fishing ship saw them (C) the speed of the fishing ship was too fast (D) their rowboat was not strong enough 43.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dom_ex_3_05a2e4f1.mp3"
+      },
+      {
+        "text": "In a radio interview, Dom expressed his disappointment and explained how the accident took place.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/dom_ex_4_b4a3fe34.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "家，住所；某些建築物的名稱或類型。",
+    "en_def": "A house or a place of residence; also refers to certain types of buildings.",
+    "example": "She invited her friends over to her dom for a party."
+  },
+  "sentences_removed": 1
+}

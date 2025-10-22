@@ -1,0 +1,23 @@
+{
+  "lemma": "truly",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is not exactly what a child eats that truly matters, but how much time it stays in his mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/truly_ex_0_16141805.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "真正地；確實地",
+    "en_def": "In a truthful or sincere manner; genuinely.",
+    "example": "She truly believes in the importance of kindness."
+  },
+  "sentences_removed": 0
+}

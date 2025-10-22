@@ -1,0 +1,23 @@
+{
+  "lemma": "silent",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "They then learned to associate the length of the silent pause with the intensity of the upcoming heat pulse.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/silent_ex_0_7af6fbcc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "安靜的，沒有聲音的。",
+    "en_def": "Not making or accompanied by any sound.",
+    "example": "The room was silent as everyone listened to the speaker."
+  },
+  "sentences_removed": 0
+}

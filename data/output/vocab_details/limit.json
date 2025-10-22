@@ -1,0 +1,95 @@
+{
+  "lemma": "limit",
+  "count": 15,
+  "pos_dist": {
+    "VERB": 10,
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/limit_ex_0_5d947192.mp3"
+      },
+      {
+        "text": "According to the passage, which of the following is true? (A) Intimacy is limited to the sexual bond.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/limit_ex_1_daeb829f.mp3"
+      },
+      {
+        "text": "Moisture and oxygen promote oxidation and therefore limit its shelf life.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/limit_ex_2_b5af70fc.mp3"
+      },
+      {
+        "text": "Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/limit_ex_3_100ffd4e.mp3"
+      },
+      {
+        "text": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/limit_ex_4_65d312dd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "To challenge the current legal alcohol limit for drivers in the United States. 51.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Speaking only limited English, the Vladimirs spent five hours trying to explain their presence.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "In the United States, the legal blood alcohol limit is 0.08% for people aged 21 years or older, while people under 21 are not allowed to drive a car with any level of alcohol in their body.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "While intimacy is often limited to the sexual bond, we can be intimate with many people without sexuality.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Injuries limited Deborah’s time on the court as she hurt her knees three more times in the next five years.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Wellness means 35 the best possible health within the limits of your body.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "His summer course included ancient history, which Papa felt our schools neglected, and navigation, in which we first had a formal examination in the dining room, part of which consisted of tying several knots in a given time limit.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A “positive” test result, a result over the legal limit, allows the police to arrest the driver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "限制，界限或範圍。",
+    "en_def": "A restriction on the size, amount, or extent of something.",
+    "example": "There is a limit to how much you can spend on this project."
+  },
+  "sentences_removed": 0
+}

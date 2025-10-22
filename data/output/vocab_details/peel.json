@@ -1,0 +1,17 @@
+{
+  "lemma": "peel",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "剝去外皮或表層的行為或過程。",
+    "en_def": "To remove the outer layer or skin from something, typically fruit or vegetables.",
+    "example": "Please peel the apple before eating it."
+  },
+  "sentences_removed": 1
+}

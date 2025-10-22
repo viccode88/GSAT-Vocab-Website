@@ -1,0 +1,28 @@
+{
+  "lemma": "ultra",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The world’s first ultra-accessible family fun park, Morgan’s Wonderland opened in the spring of 2010.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/ultra_ex_0_6efece61.mp3"
+      },
+      {
+        "text": "What does “ultra-accessible” in the second paragraph imply? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/ultra_ex_1_6dd0dd61.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "極端的；超過常規的",
+    "en_def": "Extremely or excessively; beyond the usual limits.",
+    "example": "The ultra marathon was a true test of endurance."
+  },
+  "sentences_removed": 0
+}

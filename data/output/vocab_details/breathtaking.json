@@ -1,0 +1,23 @@
+{
+  "lemma": "breathtaking",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The breathtaking 4,000-foot cliffs of Na Pali Coast rise grandly from the sea.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/breathtaking_ex_0_590f9cb0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人屏息的；驚人的",
+    "en_def": "Causing great excitement or admiration; stunning.",
+    "example": "The view from the mountain was absolutely breathtaking."
+  },
+  "sentences_removed": 0
+}

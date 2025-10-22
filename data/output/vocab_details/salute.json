@@ -1,0 +1,17 @@
+{
+  "lemma": "salute",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "敬禮；致意",
+    "en_def": "A gesture of respect or greeting, often involving raising the hand to the forehead.",
+    "example": "The soldiers stood at attention and gave a salute to their commanding officer."
+  },
+  "sentences_removed": 1
+}

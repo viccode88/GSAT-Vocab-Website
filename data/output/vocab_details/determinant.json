@@ -1,0 +1,23 @@
+{
+  "lemma": "determinant",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "First, scarcity is a major determinant.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/determinant_ex_0_382a1d38.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "行列式：在數學中，特別是線性代數中，行列式是一個與方陣相關的數量，能夠提供該矩陣是否可逆的信息。",
+    "en_def": "A determinant is a scalar value that is a function of the entries of a square matrix, providing information about the matrix's invertibility.",
+    "example": "To find the area of the triangle formed by the points, we can use the determinant of a matrix."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "earthquake",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "One reason the earthquake caused such damage was that Bam's buildings were made mostly from baked mud.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/earthquake_ex_0_e4b67354.mp3"
+      },
+      {
+        "text": "The moment the students felt the earthquake, they ran ______ out of the classroom to an open area outside.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/earthquake_ex_1_b7e414b0.mp3"
+      },
+      {
+        "text": "No one can possibly know _________ when an earthquake will strike.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/earthquake_ex_2_5c578d02.mp3"
+      },
+      {
+        "text": "Dogs bark before earthquakes; cattle predict rainfall by sitting on the ground.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/earthquake_ex_3_a427a0b5.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "A movement of 25 a few millimeters (mm) of the earth’s crust is a sign of possible earthquakes.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is CORRECT about the earthquake in Bam? (A) About 50,000 people survived the earthquake.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "The old houses will soon be and rebuilt because of the severe damage caused by the earthquake.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "地震是地球表面因地殼運動而產生的震動現象。",
+    "en_def": "An earthquake is a sudden shaking of the ground caused by the movement of tectonic plates.",
+    "example": "The earthquake caused significant damage to the buildings in the city."
+  },
+  "sentences_removed": 2
+}

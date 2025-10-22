@@ -1,0 +1,33 @@
+{
+  "lemma": "comfortably",
+  "count": 4,
+  "pos_dist": {
+    "ADV": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/comfortably_ex_0_47eb7c04.mp3"
+      },
+      {
+        "text": "Public dwellings lined its ground level; a marketplace and two mosques also fit comfortably inside.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/comfortably_ex_1_58362b71.mp3"
+      },
+      {
+        "text": "We have to find a way to live comfortably inside our body and make friends with and cherish ourselves.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/comfortably_ex_2_5de7615c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "舒適地，安逸地",
+    "en_def": "In a way that provides physical or mental comfort.",
+    "example": "She settled into the chair comfortably with a book."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "productive",
+  "count": 2,
+  "pos_dist": {
+    "ADJ": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/productive_ex_0_dc41d42d.mp3"
+      },
+      {
+        "text": "Another reason is that people seem happier and more productive when they are wearing comfortable clothes.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/productive_ex_1_fea66378.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "能產生大量成果或效益的，富有成效的。",
+    "en_def": "Having the ability to produce a large amount of goods, services, or results; effective.",
+    "example": "She had a productive day at work, completing all her tasks ahead of schedule."
+  },
+  "sentences_removed": 0
+}

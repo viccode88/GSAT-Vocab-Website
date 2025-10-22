@@ -1,0 +1,150 @@
+{
+  "lemma": "war",
+  "count": 31,
+  "pos_dist": {
+    "NOUN": 20,
+    "PROPN": 11
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Why there are civil wars and violence in the Middle East.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/war_ex_0_3bc25351.mp3"
+      },
+      {
+        "text": "The war in Syria has been going on since 2011.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/war_ex_1_a92158af.mp3"
+      },
+      {
+        "text": "After the Second World War, a great number of American soldiers were stationed in Europe.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/war_ex_2_d4258c19.mp3"
+      },
+      {
+        "text": "The report examines nine countries where a state of war has become the norm.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/war_ex_3_cadc4bc8.mp3"
+      },
+      {
+        "text": "Leaving his/her hometown because of war.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/war_ex_4_ba07af1a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Yusra Mardini is a swimmer who grew up in Popole Misenga was born in the Democratic the war-torn country of Syria.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "His art thoughtfully expressed the voices of people suffering from war.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Escaping from the war zone, by bombings.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "When he was nine, the political situation there, Yusra sometimes had to country’s civil war claimed the life of his mother train in pools under roofs that had been blown open and left him homeless.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War I. (C)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The government issued a travel _____ for Taiwanese in response to the outbreak of civil war in Syria.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "house was destroyed in the civil war, so she decided to flee her home country.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War II, Norway was occupied by the Nazis.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "We hope that there will be no war in the world and that all people live in peace and _____ with each other.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "After the war, a giant paperclip statue was erected in Oslo to 40 Vaaler—even though his design was never actually manufactured.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The territorial dispute can be back to the year 1917, when the two countries were at war.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "The hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Nevertheless, passports were not generally required for international travel until the First World War.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The author probably got wounded in wars or accidents.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1945, devastated from the war, the country set about establishing a cheap industry that could rebuild its economy.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War II, he documented the everyday life of the Indian people.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During World War II, Japan seized much of Southeast Asia’s rubber.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Japanese used their rubber reserves from the war to mass-produce the simplest Japanese footwear.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "26 some six hundred years of architecture nearly untouched by natural disaster or war, the city retains much of its medieval appearance.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "戰爭；武裝衝突",
+    "en_def": "A state of armed conflict between different countries or different groups within a country.",
+    "example": "The war lasted for several years and caused significant destruction."
+  },
+  "sentences_removed": 3
+}

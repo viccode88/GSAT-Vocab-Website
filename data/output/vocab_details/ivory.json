@@ -1,0 +1,28 @@
+{
+  "lemma": "ivory",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Daphne said that her dream for the future is to see ivory banned, all stored ivory destroyed and no one wearing an ivory ornament ever again.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/ivory_ex_0_19b7be7b.mp3"
+      },
+      {
+        "text": "Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/ivory_ex_1_bdcaa9eb.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "象牙，通常指大象的牙齒，常用於製作藝術品和裝飾品。",
+    "en_def": "A hard, white material made from the tusks of elephants and other animals, often used for carving and decorative purposes.",
+    "example": "The artist carved a beautiful statue out of ivory."
+  },
+  "sentences_removed": 0
+}

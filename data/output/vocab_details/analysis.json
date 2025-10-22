@@ -1,0 +1,28 @@
+{
+  "lemma": "analysis",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "A new analysis of satellite-based data has given precisely the rate 21 which the country is losing size as it pushes northward against the Himalayas.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/analysis_ex_0_949df404.mp3"
+      },
+      {
+        "text": "According to the analysis, the 22 between India’s southern and northern tips shrinks by 2 cm every year.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/analysis_ex_1_95daa903.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "分析；對事物進行詳細的檢查和解釋。",
+    "en_def": "The detailed examination and interpretation of something.",
+    "example": "The analysis of the data revealed important trends."
+  },
+  "sentences_removed": 0
+}

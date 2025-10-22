@@ -1,0 +1,39 @@
+{
+  "lemma": "seed",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/seed_ex_0_dc20d257.mp3"
+      },
+      {
+        "text": "The soil was softer for seeds to sprout.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/seed_ex_1_3bbfe91e.mp3"
+      },
+      {
+        "text": "Some say that life on Earth __(32)__ “out there” and was seeded here.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/seed_ex_2_22bc10e2.mp3"
+      },
+      {
+        "text": "It allows redwood trees to bear seeds.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/seed_ex_3_bbc1f47e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "植物的種子，通常是用來繁殖新植物的部分。",
+    "en_def": "The part of a plant that can grow into a new plant, often containing the embryo and stored nutrients.",
+    "example": "She planted the seed in the garden to grow a beautiful flower."
+  },
+  "sentences_removed": 1
+}

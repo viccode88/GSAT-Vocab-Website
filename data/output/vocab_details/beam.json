@@ -1,0 +1,34 @@
+{
+  "lemma": "beam",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 2,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "She would beam and put it in her best crystal vase.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/beam_ex_0_6f04c9bd.mp3"
+      },
+      {
+        "text": "A laser clock would be installed on top of the Arc de Triomphe at the top of the Champs Elysees and three laser beams would pick out the hands showing the hours, minutes and seconds in the millennium countdown, Tiberi said.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/beam_ex_1_c07b991e.mp3"
+      },
+      {
+        "text": "Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/beam_ex_2_76bcde11.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "光束；樑；笑容",
+    "en_def": "A long, sturdy piece of timber or metal used in construction, or a ray of light.",
+    "example": "The sun's beam shone through the trees."
+  },
+  "sentences_removed": 0
+}

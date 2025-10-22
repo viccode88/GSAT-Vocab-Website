@@ -1,0 +1,23 @@
+{
+  "lemma": "blade",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It was a simple knife with one big blade, a can opener, and a screwdriver.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/blade_ex_0_b5e4f8d6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "刀片；刀刃",
+    "en_def": "The flat cutting edge of a tool or weapon.",
+    "example": "The chef sharpened the blade of his knife before cooking."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,28 @@
+{
+  "lemma": "landslide",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/landslide_ex_0_e031418c.mp3"
+      },
+      {
+        "text": "The landslide after the typhoon signals that environmental protection our attention.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/landslide_ex_1_3022d7a3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "山崩；土石流",
+    "en_def": "A sudden and fast movement of a large amount of earth or rock down a slope.",
+    "example": "The heavy rain caused a landslide that blocked the road."
+  },
+  "sentences_removed": 0
+}

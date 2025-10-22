@@ -1,0 +1,29 @@
+{
+  "lemma": "broadcasting",
+  "count": 3,
+  "pos_dist": {
+    "PROPN": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Rather it is PBS, Public Broadcasting System, a non-profit public broadcasting TV service.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/broadcasting_ex_0_da4dada7.mp3"
+      },
+      {
+        "text": "In 2011, they were voted as one of the world’s top five performance groups by audiences of Japan Broadcasting Corporation’s Amazing Voice program.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/broadcasting_ex_1_316c1b1d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "廣播，指通過無線電、電視或互聯網等媒介傳送音頻或視頻內容的行為。",
+    "en_def": "The transmission of audio or video content to a wide audience via radio, television, or the internet.",
+    "example": "The broadcasting of the concert reached millions of viewers around the world."
+  },
+  "sentences_removed": 0
+}

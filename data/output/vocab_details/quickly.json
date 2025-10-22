@@ -1,0 +1,139 @@
+{
+  "lemma": "quickly",
+  "count": 25,
+  "pos_dist": {
+    "ADV": 25
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/quickly_ex_0_ba561358.mp3"
+      },
+      {
+        "text": "When blinded, they can quickly regain the ability to see.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/quickly_ex_1_a3c0767f.mp3"
+      },
+      {
+        "text": "As the rumor of his scandal ______ quickly during the election campaign, more and more people began to question the honesty of the candidate.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/quickly_ex_2_18a59e97.mp3"
+      },
+      {
+        "text": "For example, a stress reaction can sometimes save a person’s life by releasing hormones that enable a person to react quickly and with greater energy in a dangerous situation.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/quickly_ex_3_ed99dbae.mp3"
+      },
+      {
+        "text": "The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could. 16.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/quickly_ex_4_fc312498.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "16 , their plan quickly got out of control.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The temperature of the environment affects how quickly the piece must be completed to avoid the effects of melting.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Also, drinking a lot of liquid in one go can cause more water to 29 the body quickly and come out as urine.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They help chocolate to dissolve more quickly.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "The red ant can reproduce young ants very quickly.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Unlike hard candies, chocolate dissolves quickly in the mouth.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following is an opinion, but NOT a fact? (A) Humans and zebrafish have 70 percent of genes in common. (B) Zebrafish can quickly recover vision after damage to the retina.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Since then, capsule hotels have quickly spread to other cities and countries.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Ms. Li’s business ______ very quickly.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "They can quickly strip fruit trees of their fruit.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some regions prepare horses made of cucumbers and cows made of eggplants, hoping that the spirits will come back to Earth quickly, on a horse, and leave slowly, riding the cow.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It immediately began to thrive in the new land and colonies spread quickly throughout the southeastern states.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Olive oil spoils quickly when exposed to direct sunlight, so it should be stored in the dark at 16-18°C.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If the sculpting does not take place in a cold environment, then the sculptor must work quickly to finish his piece.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "To discuss how a modern epidemic may spread quickly.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "During the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "And if a flashlight fish is threatened by a predator, it swims away in a zigzag path, flashing its light on and off very quickly to confuse the animal pursuing it.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "迅速地；快速地",
+    "en_def": "In a short time; rapidly.",
+    "example": "She finished her homework quickly."
+  },
+  "sentences_removed": 1
+}

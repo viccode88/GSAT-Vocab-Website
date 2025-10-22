@@ -1,0 +1,23 @@
+{
+  "lemma": "vips",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to this passage, many people now collect athletes’ and VIPs’ signatures __________.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/vips_ex_0_3b53a4bf.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種高效的圖像處理庫，專門用於處理大型圖像和圖像數據。",
+    "en_def": "A high-performance image processing library designed for handling large images and image data.",
+    "example": "The vips library allows for fast processing of high-resolution images."
+  },
+  "sentences_removed": 0
+}

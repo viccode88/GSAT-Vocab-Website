@@ -1,0 +1,23 @@
+{
+  "lemma": "suspiciously",
+  "count": 1,
+  "pos_dist": {
+    "ADV": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We react strongly—and suspiciously—to fast talk.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/suspiciously_ex_0_df958732.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "懷疑地，表示不信任或懷疑的態度。",
+    "en_def": "In a manner that arouses doubt or distrust.",
+    "example": "She looked at him suspiciously when he arrived late."
+  },
+  "sentences_removed": 0
+}

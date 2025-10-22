@@ -1,0 +1,64 @@
+{
+  "lemma": "sensitive",
+  "count": 9,
+  "pos_dist": {
+    "ADJ": 9
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/sensitive_ex_0_0ad88cf8.mp3"
+      },
+      {
+        "text": "Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/sensitive_ex_1_b30650d6.mp3"
+      },
+      {
+        "text": "Eyes are sensitive to light.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/sensitive_ex_2_d8584916.mp3"
+      },
+      {
+        "text": "For example, girls are born with more sensitive hearing than boys, and the difference increases as kids grow up.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/sensitive_ex_3_0b4f0eee.mp3"
+      },
+      {
+        "text": "I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/sensitive_ex_4_e87c9a2d.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "People who are more sensitive to anxiety can panic after viewing a thriller.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "Because they hear more, good listeners (22) to know more and to be more sensitive to what is going on around them than other people.",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "Girls were __(28)__ more sensitive to sounds and more skillful at fine motor performance than boys.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the main idea of the passage? (A) We should learn to be sensitive to pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "對外界刺激或情感反應強烈的，容易受到影響或傷害的。",
+    "en_def": "Easily affected by external stimuli or emotions; prone to being hurt or influenced.",
+    "example": "She is very sensitive to criticism and often takes it personally."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "hook",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 3,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Named “Velcro,” from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hook_ex_0_5002e6a1.mp3"
+      },
+      {
+        "text": "By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hook_ex_1_76597737.mp3"
+      },
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/hook_ex_2_1f5c7dc9.mp3"
+      },
+      {
+        "text": "For example, Superman always arrives in the nick of time to prevent a disaster from happening, Peter Pan can fly at will to tease the bad guy Captain Hook, and Harry Potter has his magic power to take revenge on his uncle, aunt and cousin, who always ill-treat him. 44.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/hook_ex_3_bee79606.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鉤子；用於掛東西或抓取物品的工具。",
+    "en_def": "A curved or bent device used for catching, holding, or pulling something.",
+    "example": "She used a hook to hang her coat on the door."
+  },
+  "sentences_removed": 0
+}

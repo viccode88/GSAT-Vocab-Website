@@ -1,0 +1,17 @@
+{
+  "lemma": "highland",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "高地，通常指海拔較高的地區，特別是山區或丘陵地帶。",
+    "en_def": "An area of land that is at a high elevation, typically characterized by hills or mountains.",
+    "example": "The highland region is known for its stunning landscapes and unique wildlife."
+  },
+  "sentences_removed": 1
+}

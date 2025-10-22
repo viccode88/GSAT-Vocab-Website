@@ -1,0 +1,23 @@
+{
+  "lemma": "pollutant",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The pollutants run with rainwater into rivers and streams, which 36 the poisons into the ocean.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/pollutant_ex_0_86799921.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "污染物：對環境造成有害影響的物質。",
+    "en_def": "Pollutant: A substance that causes harm to the environment.",
+    "example": "The factory was fined for releasing a dangerous pollutant into the river."
+  },
+  "sentences_removed": 0
+}

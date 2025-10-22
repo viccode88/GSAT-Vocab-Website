@@ -1,0 +1,23 @@
+{
+  "lemma": "clown",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The children were so _____ to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/clown_ex_0_803bcee1.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "小丑，一種以滑稽的行為和服裝娛樂觀眾的人。",
+    "en_def": "A clown is a performer, often in a colorful costume, who entertains people with humor, tricks, and antics.",
+    "example": "The children laughed as the clown juggled colorful balls at the birthday party."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,33 @@
+{
+  "lemma": "lifestyle",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "What is the purpose of this passage? (A) To point out the challenges of the modern lifestyle.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/lifestyle_ex_0_9ad4d4cd.mp3"
+      },
+      {
+        "text": "Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/lifestyle_ex_1_6d27f350.mp3"
+      },
+      {
+        "text": "You needn’t worry about the harm of a sedentary lifestyle because you exercise regularly, right?",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/lifestyle_ex_2_adc4f779.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "生活方式；個人或群體的生活習慣和價值觀。",
+    "en_def": "The way in which a person or group lives, including their habits, attitudes, and values.",
+    "example": "She adopted a healthier lifestyle by exercising regularly and eating nutritious foods."
+  },
+  "sentences_removed": 1
+}

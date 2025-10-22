@@ -1,0 +1,23 @@
+{
+  "lemma": "mortal",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "But, since our space journey started we have left so much trash there that scientists are now concerned that if we don’t clean it up, we may all be in mortal danger.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/mortal_ex_0_04f15f73.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "凡人，必死的生物或人類。",
+    "en_def": "A being that is subject to death; a human being.",
+    "example": "Every mortal must face their own mortality."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,30 @@
+{
+  "lemma": "fund",
+  "count": 3,
+  "pos_dist": {
+    "VERB": 1,
+    "NOUN": 1,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It is the first park funded by the whole world.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/fund_ex_0_4351d750.mp3"
+      },
+      {
+        "text": "He sets aside a part of his salary for a scholarship fund for children from needy families.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/fund_ex_1_3dbdeff4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "資金；基金",
+    "en_def": "A sum of money saved or made available for a particular purpose.",
+    "example": "She decided to set up a fund to support local artists."
+  },
+  "sentences_removed": 1
+}

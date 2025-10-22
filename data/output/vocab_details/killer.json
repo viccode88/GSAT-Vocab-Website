@@ -1,0 +1,33 @@
+{
+  "lemma": "killer",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "According to the passage, what may be the author’s advice to a doctor before a surgery? (A) To provide the patient with more pain killers.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/killer_ex_0_2d9f756d.mp3"
+      },
+      {
+        "text": "Many people think these bug killers or pesticides will penetrate every place where the insects hide.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/killer_ex_1_ea5be46f.mp3"
+      },
+      {
+        "text": "It’s a killer for sure if eaten regularly.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/killer_ex_2_536e636a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "殺手；致命的事物或人",
+    "en_def": "A person or thing that kills; someone who intentionally causes the death of another.",
+    "example": "The detective was on the hunt for the elusive killer."
+  },
+  "sentences_removed": 0
+}

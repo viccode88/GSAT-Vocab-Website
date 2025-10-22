@@ -1,0 +1,23 @@
+{
+  "lemma": "germans",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The heaviest drinkers in medieval Europe were actually Germans.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/germans_ex_0_444acecc.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "德國人；指來自德國或具有德國國籍的人。",
+    "en_def": "People from Germany or of German nationality.",
+    "example": "The Germans are known for their rich cultural heritage and contributions to art and science."
+  },
+  "sentences_removed": 0
+}

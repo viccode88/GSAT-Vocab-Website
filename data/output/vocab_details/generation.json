@@ -1,0 +1,54 @@
+{
+  "lemma": "generation",
+  "count": 10,
+  "pos_dist": {
+    "NOUN": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Almost a whole generation of children throughout the world is familiar with Sesame Street and the characters of The Muppet Show.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/generation_ex_0_d9379152.mp3"
+      },
+      {
+        "text": "This was to ensure that no single and powerful noble family could seize the title and pass it to the next generation.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/generation_ex_1_35c28d8f.mp3"
+      },
+      {
+        "text": "The sounds of Notre-Dame bells once again filled the air in Paris, and will be heard for generations to come.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/generation_ex_2_6367b19c.mp3"
+      },
+      {
+        "text": "Most families in Bekoji live from hand to mouth, and distance running offers the younger generation a way out.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/generation_ex_3_266f3852.mp3"
+      },
+      {
+        "text": "The coastal peoples have long passed on knowledge from generation to generation through oral traditions, and totem poles were the traditional way of telling the story of an individual family or clan.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/generation_ex_4_7fae8186.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "一代人或一段時間內出生的人群。",
+    "en_def": "A group of individuals born and living at the same time, often considered as a distinct cohort.",
+    "example": "Each generation faces its own unique challenges and opportunities."
+  },
+  "sentences_removed": 1
+}

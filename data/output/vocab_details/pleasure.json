@@ -1,0 +1,28 @@
+{
+  "lemma": "pleasure",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Both 36 know their own drawbacks and limitations very well; therefore, they jointly decide to have one last race—not to decide who the winner or loser is, but just for their own pleasure and satisfaction.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/pleasure_ex_0_537e22ed.mp3"
+      },
+      {
+        "text": "We have followed your high-school career with joy and pleasure and know that your four years at college will be even more rewarding.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/pleasure_ex_1_37174d8f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "愉快的感覺或享受的狀態。",
+    "en_def": "A feeling of enjoyment or satisfaction.",
+    "example": "She felt a great sense of pleasure while reading her favorite book."
+  },
+  "sentences_removed": 0
+}

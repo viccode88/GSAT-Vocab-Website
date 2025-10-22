@@ -1,0 +1,17 @@
+{
+  "lemma": "geographical",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "地理的；與地理有關的",
+    "en_def": "Relating to the physical features, climate, and population of a region.",
+    "example": "The geographical features of the area include mountains and rivers."
+  },
+  "sentences_removed": 1
+}

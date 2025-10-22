@@ -1,0 +1,38 @@
+{
+  "lemma": "nation",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Future plans include a cooperative effort among many nations to stop littering in space and to clean up the trash already there.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/nation_ex_0_7bdda583.mp3"
+      },
+      {
+        "text": "29 international trade, nations would be limited to the goods and services produced within their own borders.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/nation_ex_1_0609cdcc.mp3"
+      },
+      {
+        "text": "He is also aware that every citizen must do his part if the nation is to 40 .",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/nation_ex_2_08e9490c.mp3"
+      },
+      {
+        "text": "Many nations have worked together to stop polluting space.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/nation_ex_3_6a993a42.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一個擁有共同文化、語言、歷史或地理的人民組成的政治實體。",
+    "en_def": "A political entity composed of a group of people who share a common culture, language, history, or geography.",
+    "example": "The nation celebrated its independence day with parades and fireworks."
+  },
+  "sentences_removed": 1
+}

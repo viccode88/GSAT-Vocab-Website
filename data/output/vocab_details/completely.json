@@ -1,0 +1,89 @@
+{
+  "lemma": "completely",
+  "count": 14,
+  "pos_dist": {
+    "ADV": 14
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Completely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/completely_ex_0_335bb207.mp3"
+      },
+      {
+        "text": "In lucid dreams, however, we are completely immersed in the dream world.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/completely_ex_1_8e81440e.mp3"
+      },
+      {
+        "text": "Because of its small size, it might have missed the other car completely.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/completely_ex_2_a6a6e1b2.mp3"
+      },
+      {
+        "text": "If and when cars go completely driverless, the benefits will be enormous.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": "data/output/tts_audio/sentences/completely_ex_3_12648a5f.mp3"
+      },
+      {
+        "text": "We have completely embraced paper technology.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/completely_ex_4_bf2ca774.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "From a physiological standpoint, plants are completely different from animals.",
+        "source": "2005_94_94english",
+        "audio_file": ""
+      },
+      {
+        "text": "Pacific islands like the Galápagos, Easter Island, and Tahiti, have economies that are driven almost completely by tourism.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The recent flood completely _____",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "28 already shrunk by 85% to a mere 0.5 square kilometers, Papua’s glaciers will completely disappear within a decade, researchers have predicted.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Some species might even become 32 or disappear completely.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "We are completely 20 to helping dogs enjoy a full and active life.",
+        "source": "2007_96_02-96",
+        "audio_file": ""
+      },
+      {
+        "text": "She is now completely male! 41.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The Amazons are completely dependent on their slaves ____(29)___ their sharp jaws, so well suited for fighting, are useless in taking care of larvae or for digging.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "完全地；徹底地",
+    "en_def": "In a total or absolute manner; entirely.",
+    "example": "She completely finished her homework before dinner."
+  },
+  "sentences_removed": 0
+}

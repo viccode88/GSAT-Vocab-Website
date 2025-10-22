@@ -1,0 +1,89 @@
+{
+  "lemma": "meat",
+  "count": 15,
+  "pos_dist": {
+    "NOUN": 15
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The Maasai are a semi-nomadic group in Kenya and northern Tanzania, wandering in bands and living almost entirely on the meat, blood, and milk of their herds.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/meat_ex_0_a5aa0ad7.mp3"
+      },
+      {
+        "text": "It tastes too much like actual meat.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/meat_ex_1_92985a1d.mp3"
+      },
+      {
+        "text": "We eat polluted dairy products and meat and take the dioxin into our bodies, where it is stored in our fat for years and builds up over time.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/meat_ex_2_67ec8966.mp3"
+      },
+      {
+        "text": "The tines prevented meat from twisting or moving during carving and allowed food to slide off more easily than it would with a knife.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/meat_ex_3_23c467d3.mp3"
+      },
+      {
+        "text": "These meat substitutes are often advertised as beneficial for the environment.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/meat_ex_4_52bbb02f.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "That being said, I’m definitely a carnivore and prefer meat, but I don’t see anything wrong with choosing one of the fakey- fakey meaty things once in a while—just for a change.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "They ensured the meat would not twist while being cut.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "Forks at that time were fairly large with two tines that aided in the carving of meat in the kitchen.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "If you are a vegetarian, or if your diet includes little meat, soy protein is a good alternative, and may even be essential to maintaining your health.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Health-conscious Americans are adding tofu, the most popular soybean product, to salads and using it as a meat substitute.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It didn’t taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "肉類，通常指動物的肌肉組織，供人類食用。",
+    "en_def": "The flesh of animals used as food.",
+    "example": "She prefers to eat meat over vegetables."
+  },
+  "sentences_removed": 0
+}

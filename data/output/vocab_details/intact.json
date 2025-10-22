@@ -1,0 +1,23 @@
+{
+  "lemma": "intact",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/intact_ex_0_5195337b.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "完整無缺的，未受損的",
+    "en_def": "Not damaged or impaired; remaining whole.",
+    "example": "The ancient artifact was found intact after centuries buried underground."
+  },
+  "sentences_removed": 0
+}

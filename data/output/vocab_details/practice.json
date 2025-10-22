@@ -1,0 +1,90 @@
+{
+  "lemma": "practice",
+  "count": 14,
+  "pos_dist": {
+    "NOUN": 10,
+    "VERB": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Around 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o’clock.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/practice_ex_0_1eb0e20f.mp3"
+      },
+      {
+        "text": "It was not until Grover Cleveland’s first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/practice_ex_1_48f81fce.mp3"
+      },
+      {
+        "text": "According to the passage, breaking into computer codes of banks, large companies, and government departments is (A) a widespread criminal practice.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/practice_ex_2_1b56f3ae.mp3"
+      },
+      {
+        "text": "While the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/practice_ex_3_53575902.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Probably the best known for the practice is the large brownish-red Amazon ant.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": ""
+      },
+      {
+        "text": "18 , the practice spread throughout Europe and the rest of the world.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When the slave owners realized the power of Capoeira, they began to punish those who practiced it.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "This year he practiced day and night and finally won first place in the competition.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "In teaching young players to cooperate with their fellows on the practice 32 , the game shows them the necessity of teamwork in society.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Today magicians try hard to find new ways to show their practiced skills.",
+        "source": "2003_92_92學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "While it is generally taken as an indicator of their marital status, the practice is primarily related to the Hindu religion.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following statements is true about the practice of wearing a bindi today?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": ""
+      },
+      {
+        "text": "Which of the following is practiced in the author’s company?",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What does “this practice” refer to in the second paragraph? (A) Holding an inaugural open house.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "練習；實踐",
+    "en_def": "To perform an activity repeatedly or regularly in order to improve or maintain one's proficiency.",
+    "example": "She needs to practice the piano every day to prepare for the concert."
+  },
+  "sentences_removed": 0
+}

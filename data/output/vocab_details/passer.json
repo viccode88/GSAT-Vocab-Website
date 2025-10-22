@@ -1,0 +1,23 @@
+{
+  "lemma": "passer",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "I rushed up to a couple of passers-by and asked in vain whether 39 .",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/passer_ex_0_48acd53f.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "經過的人；路過者",
+    "en_def": "A person who passes by, especially in a public place.",
+    "example": "The passer stopped to admire the beautiful flowers in the garden."
+  },
+  "sentences_removed": 0
+}

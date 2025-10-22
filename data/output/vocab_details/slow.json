@@ -1,0 +1,92 @@
+{
+  "lemma": "slow",
+  "count": 14,
+  "pos_dist": {
+    "ADJ": 8,
+    "VERB": 3,
+    "ADV": 2,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This was a slow process, requiring much skill and patience, and every page of every book had to be cut separately.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/slow_ex_0_54f5fb62.mp3"
+      },
+      {
+        "text": "The moral lesson is that slow and steady wins the race.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/slow_ex_1_4f93b724.mp3"
+      },
+      {
+        "text": "The most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names 17 “dragons stirring up the wind” and “wave hands like clouds.”",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/slow_ex_2_7912369e.mp3"
+      },
+      {
+        "text": "The French were also slow to accept forks, for using them was thought to be awkward.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/slow_ex_3_2a79c4d4.mp3"
+      },
+      {
+        "text": "Most people feel disgusted at the sight of these bulky, slow-moving creatures.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/slow_ex_4_3728afcd.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "What you need to do is to make “start slow and have fun” a motto to 33 .",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The slow and clumsy wetas have been around on the island since the times of the dinosaurs, and have evolved and survived in an environment where they had no enemies until rats came to the island with European immigrants.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Speech that is slow, because it is laced with pauses or errors, is a more reliable indicator of lying than the opposite. 41.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The moral lesson is that 33 and consistent will always beat slow and steady.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "A parachute needs to be opened because it can (A) slow down the shuttle.",
+        "source": "2006_95_95english",
+        "audio_file": ""
+      },
+      {
+        "text": "Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease.",
+        "source": "2018_107_02-107學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "As soon as the popping slows down, 39 the pot from the stove.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Sitting for too long slows down the body’s metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "If we walk at this slow , we’ll never get to our destination on time.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "緩慢的，速度不快的。",
+    "en_def": "Moving or operating at a low speed; not quick.",
+    "example": "The turtle is slow compared to the rabbit."
+  },
+  "sentences_removed": 0
+}

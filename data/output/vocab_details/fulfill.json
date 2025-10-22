@@ -1,0 +1,23 @@
+{
+  "lemma": "fulfill",
+  "count": 2,
+  "pos_dist": {
+    "VERB": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Next time, being thin will finally fulfill its promise of everlasting happiness, self-worth, and, of course, love.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/fulfill_ex_0_46e8baf6.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "實現；完成；滿足（需求、條件等）",
+    "en_def": "To bring to completion or reality; to satisfy a requirement or condition.",
+    "example": "She worked hard to fulfill her dreams of becoming a doctor."
+  },
+  "sentences_removed": 1
+}

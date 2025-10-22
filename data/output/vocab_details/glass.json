@@ -1,0 +1,129 @@
+{
+  "lemma": "glass",
+  "count": 24,
+  "pos_dist": {
+    "NOUN": 24
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/glass_ex_0_e53b652f.mp3"
+      },
+      {
+        "text": "In an airtight glass bottle in a kitchen cupboard. (D) In an airproof bottle next to a well-lighted window. 52.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/glass_ex_1_4d8fa543.mp3"
+      },
+      {
+        "text": "It replays the image back through the glasses after processing it on an attached computer.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/glass_ex_2_bf75ca9a.mp3"
+      },
+      {
+        "text": "The mayor said new buildings would be illuminated, notably along the banks of the Seine, which would become a luminous strip, while Notre Dame Cathedral would be lit from the inside to show off its stained glass windows.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glass_ex_3_779daa9e.mp3"
+      },
+      {
+        "text": "People hoist their glasses 30 they are sitting around ski lodges, sailing, dancing, or enjoying a football game.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/glass_ex_4_0a695c8a.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Which of the following statements is true about how the glass armonica works? (A) Water has to be poured into the glass hemispheres. (B) Colored paint makes it sound better and last longer.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "An iron rod is used to strike the thicker glass hemispheres.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The study showed that participants who wore the glasses ate 9.3% less than those who did not wear them.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In 1761, while living in England, Franklin heard a performer playing musical glasses.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, why did the glass armonica lose its popularity? (A)",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "The team has also developed a special device which uses scent bottles and visual trickery to make the wearers of these glasses think that the plain snack they are eating is 29 than it actually is.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "When photographing zoo animals, don’t get too close to the cages, and never tap on the glass or throw things between the bars of a cage.",
+        "source": "2012_101_02-101學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Located at the heart of Paris, this medieval cathedral is 21 for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": ""
+      },
+      {
+        "text": "The skill of playing the glass armonica was very hard to master.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "He invented an instrument for which both Mozart and Beethoven composed music—the glass armonica.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "Music was moving out of the relatively small halls of Mozart’s day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn’t be heard.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "In a plastic container in a damp cellar. (B) In a clear glass bottle near the kitchen stove.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The glass hemispheres were color coded with paint to identify the notes.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": ""
+      },
+      {
+        "text": "A camera and a viewing system are built 26 these glasses.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "They were then replaced by colorful glass beads, allowing for more detailed beadwork and color patterns.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "玻璃是一種透明的固體材料，通常用於窗戶、容器和其他物品的製造。",
+    "en_def": "Glass is a transparent solid material commonly used for making windows, containers, and other objects.",
+    "example": "She drank water from a glass."
+  },
+  "sentences_removed": 1
+}

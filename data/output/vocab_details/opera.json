@@ -1,0 +1,34 @@
+{
+  "lemma": "opera",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 2,
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1955, Anderson became the first black soloist to sing with the Metropolitan Opera of New York City.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/opera_ex_0_9315ca3a.mp3"
+      },
+      {
+        "text": "On 26 every soap opera, the characters drink casually and often.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/opera_ex_1_950615cc.mp3"
+      },
+      {
+        "text": "The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/opera_ex_2_0cfaa364.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "一種結合音樂、歌唱和戲劇的表演藝術，通常在劇院中上演。",
+    "en_def": "A theatrical work combining drama, music, and singing, typically performed in an opera house.",
+    "example": "She loves going to the opera to experience the beautiful music and dramatic performances."
+  },
+  "sentences_removed": 1
+}

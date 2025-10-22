@@ -1,0 +1,23 @@
+{
+  "lemma": "meantime",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "If it is necessary to stay more than 14 days and less than 30 days, nationals of the specific countries holding a 14-day non-visa entry should in the meantime apply for a landing-visa with the authorized office in the CKS airport from the Bureau of Consular Affairs of the Ministry of Foreign Affairs.",
+        "source": "1996_85_85年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/meantime_ex_0_6769b4ff.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "同時；在此期間",
+    "en_def": "The time between two events or actions.",
+    "example": "I will finish my homework; in the meantime, you can watch TV."
+  },
+  "sentences_removed": 0
+}

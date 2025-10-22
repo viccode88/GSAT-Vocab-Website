@@ -1,0 +1,23 @@
+{
+  "lemma": "heaven",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "For centuries, Zanzibar has been a heaven for beach lovers.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/heaven_ex_0_293d1135.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "天，通常指神聖的地方或宇宙的最高境界，常與幸福和安寧相關。",
+    "en_def": "A place or state of perfect happiness, often considered as the abode of God or the gods.",
+    "example": "Many people believe that their loved ones go to heaven after they pass away."
+  },
+  "sentences_removed": 0
+}

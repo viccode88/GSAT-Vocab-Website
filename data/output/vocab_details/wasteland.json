@@ -1,0 +1,23 @@
+{
+  "lemma": "wasteland",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In 1977, he bought a piece of rocky wasteland with the 32 of growing trees on it.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/wasteland_ex_0_41588a83.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "荒地；無用的土地或地區，通常缺乏植被或生物。",
+    "en_def": "An area of land that is barren or desolate, often lacking vegetation or wildlife.",
+    "example": "The abandoned factory was surrounded by a vast wasteland."
+  },
+  "sentences_removed": 0
+}

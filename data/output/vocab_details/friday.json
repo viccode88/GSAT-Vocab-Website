@@ -1,0 +1,33 @@
+{
+  "lemma": "friday",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "This became known as “dress-down Friday” or “casual Friday.”",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/friday_ex_0_6a381d35.mp3"
+      },
+      {
+        "text": "In the early 1990s, many companies allowed their employees to wear casual clothes on Friday (but only on Friday).",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/friday_ex_1_dbfac0e4.mp3"
+      },
+      {
+        "text": "19 you turn it in on Friday?",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/friday_ex_2_bb8131f3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "星期五，通常被視為一週的第五天。",
+    "en_def": "Friday, typically regarded as the fifth day of the week.",
+    "example": "We always go out for dinner on Friday."
+  },
+  "sentences_removed": 0
+}

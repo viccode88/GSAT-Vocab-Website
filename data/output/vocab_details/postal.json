@@ -1,0 +1,29 @@
+{
+  "lemma": "postal",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 1,
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Dead mail is sent to one of the U.S. Postal Service’s dead mail offices in Atlanta, New York, Philadelphia, St. Paul, and San Francisco.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/postal_ex_0_7e4e459e.mp3"
+      },
+      {
+        "text": "The postal special ________ service is very efficient.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/postal_ex_1_72e4dcd9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "郵政的；與郵件或郵寄相關的",
+    "en_def": "Relating to the system of sending letters and packages through the mail.",
+    "example": "She sent the package through the postal service."
+  },
+  "sentences_removed": 0
+}

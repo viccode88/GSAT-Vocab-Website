@@ -1,0 +1,17 @@
+{
+  "lemma": "cle",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "清晰的，明確的，容易理解的",
+    "en_def": "Clear; easy to perceive, understand, or interpret.",
+    "example": "The instructions were so clear that everyone understood them immediately."
+  },
+  "sentences_removed": 1
+}

@@ -1,0 +1,104 @@
+{
+  "lemma": "onion",
+  "count": 19,
+  "pos_dist": {
+    "NOUN": 19
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "With its delicate taste, the fresh onion is an ideal choice for salads and other lightly-cooked dishes.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/onion_ex_0_9089951b.mp3"
+      },
+      {
+        "text": "Because they have a higher water content, they are typically sweeter and milder tasting than storage onions.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/onion_ex_1_c4125ce8.mp3"
+      },
+      {
+        "text": "There is evidence of onions being used for culinary and medicinal purposes all over the ancient world.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/onion_ex_2_b0ad8538.mp3"
+      },
+      {
+        "text": "Other researchers believe it was because onions were known for their special curative properties, which would be helpful in the afterlife.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/onion_ex_3_89c02fc9.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "24 fresh onions, they have multiple layers of thick, dark, papery skin.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For these reasons, storage onions are the best choice for spicy dishes that require longer cooking times or more flavor.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "For them, the onion was not just food or medicine; it held significant 32 meaning.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Onions were considered to be 33 of eternal life.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Fresh onions are available 21 yellow, red and white throughout their season, March through August.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Onions are depicted in many paintings 36 inside pyramids and tombs that span the history of ancient Egypt.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Storage onions, on the other hand, are available August through April.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Some scholars theorize that onions may have been used for the dead because it was believed that their strong scent would 40 the dead to breathe again.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The dead were buried with onions and onion flowers on or around various 38 of their bodies.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to certain documents, ancient Egyptians also used onions for medicinal purposes, but they likely would have viewed the 35 power of the vegetable as magical, rather than medical.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Nonetheless, no culture 31 onions quite as much as the ancient Egyptians.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "The circle-within-a-circle structure of an onion, for them, 34 the eternity of existence.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Mummies have also been found with onions and onion flowers 39 their pelvis, chest, ears, eyes, and feet.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "洋蔥，一種常見的蔬菜，通常有圓形的形狀，外皮為薄膜狀，內部層次分明，味道辛辣。",
+    "en_def": "A bulbous vegetable with a strong flavor and smell, typically having a layered structure and used in cooking.",
+    "example": "I added chopped onion to the salad for extra flavor."
+  },
+  "sentences_removed": 0
+}

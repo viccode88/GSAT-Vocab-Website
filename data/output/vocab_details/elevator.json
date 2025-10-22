@@ -1,0 +1,33 @@
+{
+  "lemma": "elevator",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He did not take the elevator, however.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/elevator_ex_0_7fc6f03b.mp3"
+      },
+      {
+        "text": "Elderly shoppers in this store are advised to take the elevator rather than the _____, which may move too fast for them to keep their balance.",
+        "source": "2021_110_110學測英文試卷 ",
+        "audio_file": "data/output/tts_audio/sentences/elevator_ex_1_4e7afec9.mp3"
+      },
+      {
+        "text": "capacity of this elevator is 400 kilograms.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/elevator_ex_2_b9cfe46d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "電梯：用於在建築物內部運送人或貨物的機械裝置。",
+    "en_def": "A device used for transporting people or goods vertically within a building.",
+    "example": "She took the elevator to the top floor of the building."
+  },
+  "sentences_removed": 0
+}

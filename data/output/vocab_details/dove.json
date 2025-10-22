@@ -1,0 +1,23 @@
+{
+  "lemma": "dove",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "However, each time he lost a dove into the cold water, and—with the help of her competition, his coaches would lock him in a cage sister and two men—swam and pushed the boat for for days, feeding him only coffee and bread.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/dove_ex_0_69f6da31.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "鴿子，一種通常具有圓潤身體和短尾巴的鳥類，常被視為和平的象徵。",
+    "en_def": "A dove is a type of bird with a rounded body and short tail, often symbolizing peace.",
+    "example": "The dove flew gracefully across the sky."
+  },
+  "sentences_removed": 0
+}

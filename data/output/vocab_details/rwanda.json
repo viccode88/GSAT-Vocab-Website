@@ -1,0 +1,33 @@
+{
+  "lemma": "rwanda",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Whenever I set foot on the soil of Rwanda, a country in east-central Africa, I feel as if I have entered paradise: green hills, red earth, sparkling rivers and mountain lakes.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/rwanda_ex_0_2e545510.mp3"
+      },
+      {
+        "text": "But 29 , Rwanda is a symbol of the triumph of the human spirit over evil.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/rwanda_ex_1_fd4b7059.mp3"
+      },
+      {
+        "text": "Though it was once known to the world for the 1994 tribal conflict that resulted in about one million deaths, Rwanda has 30 the mass killing.",
+        "source": "2007_96_02-96",
+        "audio_file": "data/output/tts_audio/sentences/rwanda_ex_2_e0e5cd80.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "盧旺達，位於非洲中東部的國家，以其山地和湖泊而聞名。",
+    "en_def": "Rwanda, a country located in East-Central Africa, known for its mountainous terrain and numerous lakes.",
+    "example": "Rwanda is often referred to as the 'Land of a Thousand Hills' due to its scenic landscapes."
+  },
+  "sentences_removed": 1
+}

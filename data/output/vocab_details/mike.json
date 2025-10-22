@@ -1,0 +1,28 @@
+{
+  "lemma": "mike",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "When Mike enters the living room, (C) the traffic and the noise bothered him greatly. 19.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/mike_ex_0_20c072bf.mp3"
+      },
+      {
+        "text": "Mike fainted under the hot sun in his rice field.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/mike_ex_1_81db14ca.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "麥克，一個常見的男性名字。",
+    "en_def": "Mike, a common male given name.",
+    "example": "Mike is my best friend."
+  },
+  "sentences_removed": 0
+}

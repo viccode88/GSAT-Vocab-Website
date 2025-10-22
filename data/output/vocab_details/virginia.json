@@ -1,0 +1,23 @@
+{
+  "lemma": "virginia",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "22 other possible transmission routes, researchers at Virginia Tech observed water drops on the leaves of wheat plants that were infected with leaf rust.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": "data/output/tts_audio/sentences/virginia_ex_0_7c7f82a0.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "美國的一個州，位於東部，首府為里士滿。",
+    "en_def": "A state in the eastern United States, with Richmond as its capital.",
+    "example": "Virginia is known for its historical significance in American history."
+  },
+  "sentences_removed": 0
+}

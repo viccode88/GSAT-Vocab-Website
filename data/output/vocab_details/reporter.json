@@ -1,0 +1,33 @@
+{
+  "lemma": "reporter",
+  "count": 3,
+  "pos_dist": {
+    "NOUN": 3
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/reporter_ex_0_25185a8f.mp3"
+      },
+      {
+        "text": "(3) Aggressive, energetic, and willing to learn If you believe you have what it takes to develop this business, please call 2742-6996 C D Wanted: Reporters & Editors Southeastern Travel Services Qualifications: ﹪",
+        "source": "1999_88_88年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reporter_ex_1_c6e2efd6.mp3"
+      },
+      {
+        "text": "At the top, Willig was greeted by both police and reporters.",
+        "source": "1994_83_83年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/reporter_ex_2_aaae64d9.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "報導新聞或事件的人，通常在媒體工作。",
+    "en_def": "A person who reports news or events, typically working for a media organization.",
+    "example": "The reporter covered the breaking news story live from the scene."
+  },
+  "sentences_removed": 0
+}

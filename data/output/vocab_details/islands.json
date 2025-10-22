@@ -1,0 +1,33 @@
+{
+  "lemma": "islands",
+  "count": 5,
+  "pos_dist": {
+    "PROPN": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The term “hula,” however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/islands_ex_0_f4b252a9.mp3"
+      },
+      {
+        "text": "What is true about the Galápagos Islands? (A)",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/islands_ex_1_8ab81375.mp3"
+      },
+      {
+        "text": "The history of the Galápagos Islands.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/islands_ex_2_7948040c.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "島嶼；被水包圍的陸地。",
+    "en_def": "Land masses that are completely surrounded by water.",
+    "example": "The Caribbean is known for its beautiful islands."
+  },
+  "sentences_removed": 2
+}

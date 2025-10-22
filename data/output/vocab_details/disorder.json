@@ -1,0 +1,38 @@
+{
+  "lemma": "disorder",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "To explain what causes children’s eating disorder.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disorder_ex_0_ed4f005d.mp3"
+      },
+      {
+        "text": "By exposing young children to erratic dieting habits, parents may be putting them at risk for eating disorders.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/disorder_ex_1_96b597ce.mp3"
+      },
+      {
+        "text": "Terrence Power, for example, complained that after his wife learned she had Wegener’s disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/disorder_ex_2_2358e686.mp3"
+      },
+      {
+        "text": "The soybean’s high fiber content is beneficial in preventing digestive disorders.",
+        "source": "2003_92_92學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/disorder_ex_3_5bf9425e.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "混亂；失調；疾病",
+    "en_def": "A state of confusion or lack of order; a medical condition that disrupts normal bodily functions.",
+    "example": "The room was in complete disorder after the party."
+  },
+  "sentences_removed": 0
+}

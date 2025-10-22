@@ -1,0 +1,38 @@
+{
+  "lemma": "junk",
+  "count": 4,
+  "pos_dist": {
+    "NOUN": 4
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Moreover, pieces of junk may collide with each other and break into fragments which fall back to the Earth.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/junk_ex_0_f161cd51.mp3"
+      },
+      {
+        "text": "The junk varies from tiny pieces of paint chipped off rockets to cameras, huge fuel tanks, and even odd items like the million-dollar tool kit that astronaut Heidemarie Stefanyshyn-Piper lost during a spacewalk.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/junk_ex_1_3fc05fc0.mp3"
+      },
+      {
+        "text": "The first piece of space junk was created in 1964, when the American satellite Vanguard I stopped operating and lost its connection with the ground center.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/junk_ex_2_accd5834.mp3"
+      },
+      {
+        "text": "Which of the following statements is true about space junk?",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/junk_ex_3_11b2da80.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無用的東西或垃圾。",
+    "en_def": "Something that is considered worthless or of little value.",
+    "example": "He decided to throw away the junk that had been piling up in the garage."
+  },
+  "sentences_removed": 0
+}

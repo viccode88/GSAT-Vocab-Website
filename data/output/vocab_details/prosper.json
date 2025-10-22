@@ -1,0 +1,23 @@
+{
+  "lemma": "prosper",
+  "count": 1,
+  "pos_dist": {
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/prosper_ex_0_645c9dce.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "繁榮，興旺，成功發展。",
+    "en_def": "To be successful or fortunate, especially in financial or economic terms.",
+    "example": "The business began to prosper after the new marketing strategy was implemented."
+  },
+  "sentences_removed": 0
+}

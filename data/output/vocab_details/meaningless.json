@@ -1,0 +1,23 @@
+{
+  "lemma": "meaningless",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/meaningless_ex_0_405593e5.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無意義的；沒有價值或重要性的。",
+    "en_def": "Lacking meaning, significance, or purpose.",
+    "example": "The conversation felt meaningless and left me feeling empty."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "loop",
+  "count": 5,
+  "pos_dist": {
+    "NOUN": 4,
+    "VERB": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Specifically, they did not have the interior loop we see today.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/loop_ex_0_4569538a.mp3"
+      },
+      {
+        "text": "Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/loop_ex_1_1f5c7dc9.mp3"
+      },
+      {
+        "text": "Sometimes a tune intrudes on our thoughts and then plays, and replays, in a never-ending loop.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/loop_ex_2_a10ec47f.mp3"
+      },
+      {
+        "text": "He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/loop_ex_3_ea7d1e79.mp3"
+      },
+      {
+        "text": "The 35 looped design was invented by Gem Manufacturing Ltd. in England.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/loop_ex_4_b9840905.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "循環，指重複的過程或動作。",
+    "en_def": "A loop is a sequence of instructions that repeats until a certain condition is met.",
+    "example": "The computer program uses a loop to process each item in the list."
+  },
+  "sentences_removed": 0
+}

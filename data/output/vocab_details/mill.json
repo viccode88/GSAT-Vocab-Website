@@ -1,0 +1,23 @@
+{
+  "lemma": "mill",
+  "count": 2,
+  "pos_dist": {
+    "PROPN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Since that rainy morning in Mill Valley, the World Café approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/mill_ex_0_9a26b85d.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "磨坊；磨粉機，通常用於加工穀物或其他材料。",
+    "en_def": "A building or machine for grinding grain into flour or for processing other materials.",
+    "example": "The farmer took his wheat to the mill to have it ground into flour."
+  },
+  "sentences_removed": 1
+}

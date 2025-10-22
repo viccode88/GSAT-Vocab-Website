@@ -1,0 +1,23 @@
+{
+  "lemma": "purchasing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The purchasing power of teenagers has been decreasing over the years.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/purchasing_ex_0_b64db944.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "購買的行為或過程。",
+    "en_def": "The act or process of buying something.",
+    "example": "She is responsible for purchasing supplies for the office."
+  },
+  "sentences_removed": 0
+}

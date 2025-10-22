@@ -1,0 +1,79 @@
+{
+  "lemma": "goal",
+  "count": 13,
+  "pos_dist": {
+    "NOUN": 13
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "We fantasize about what it will be like when we reach the long-awaited goal.",
+        "source": "2005_94_94english",
+        "audio_file": "data/output/tts_audio/sentences/goal_ex_0_dea856e6.mp3"
+      },
+      {
+        "text": "mistake found in parenthood is that parents often set unrealistic goals for their children.",
+        "source": "2006_95_95english",
+        "audio_file": "data/output/tts_audio/sentences/goal_ex_1_a6a682b1.mp3"
+      },
+      {
+        "text": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/goal_ex_2_b2303256.mp3"
+      },
+      {
+        "text": "I remember that on my cruise I was required to formally plot our course, using the tide table, even though our goal was an island I could see quite clearly across the water in the distance. 44.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/goal_ex_3_4c4ab983.mp3"
+      },
+      {
+        "text": "The goals of becoming an outstanding player and playing college ball were never far from Deborah’s mind.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/goal_ex_4_2bca43c3.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The goal of MOOCs. (C) The size of MOOC classes.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "One key factor to success is to have a definite goal first and then do your best to the goal.",
+        "source": "1998_87_87年學測英文科",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the primary goal of 100% Fish? (A)",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "What is the goal of Bekoji’s school kids? (A)",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Alfred said his goal, of course, was to feel even better than his brother.",
+        "source": "2004_93_93english",
+        "audio_file": ""
+      },
+      {
+        "text": "There is no doubt that A.…can you succeed in achieving your goal.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "By reading and listening to folk tales, we may gain a better understanding of the true values, beliefs, and goals of a people. 41.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "目標；目的；意圖",
+    "en_def": "The object of a person's ambition or effort; an aim or desired result.",
+    "example": "Her goal is to become a doctor."
+  },
+  "sentences_removed": 0
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "undeniable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Stradivarius, the undeniable king of violin makers, could not resist creating a variety of guitars.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/undeniable_ex_0_e17326ed.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "無可否認的，確定的",
+    "en_def": "Incapable of being denied or disputed; certain.",
+    "example": "The evidence presented in court was undeniable."
+  },
+  "sentences_removed": 0
+}

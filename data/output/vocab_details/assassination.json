@@ -1,0 +1,23 @@
+{
+  "lemma": "assassination",
+  "count": 2,
+  "pos_dist": {
+    "NOUN": 2
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "He witnessed Gandhi’s assassination in 1948.",
+        "source": "2015_104_02-104學測英文定稿",
+        "audio_file": "data/output/tts_audio/sentences/assassination_ex_0_fb725bb4.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "暗殺，特定人物被故意殺害的行為，通常出於政治或社會原因。",
+    "en_def": "The act of deliberately killing a prominent person, often for political or social reasons.",
+    "example": "The assassination of the leader shocked the entire nation."
+  },
+  "sentences_removed": 1
+}

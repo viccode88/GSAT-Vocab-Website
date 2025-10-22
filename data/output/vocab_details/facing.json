@@ -1,0 +1,23 @@
+{
+  "lemma": "facing",
+  "count": 1,
+  "pos_dist": {
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In contrast 28. (A) face (B) faced (C) facing (D) to face 29.",
+        "source": "2000_89_89年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/facing_ex_0_74205dc3.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "面對，朝向某個方向或處於某種情況。",
+    "en_def": "The act of confronting or being in a position opposite to something.",
+    "example": "She was facing the audience while delivering her speech."
+  },
+  "sentences_removed": 0
+}

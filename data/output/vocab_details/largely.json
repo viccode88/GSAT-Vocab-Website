@@ -1,0 +1,43 @@
+{
+  "lemma": "largely",
+  "count": 5,
+  "pos_dist": {
+    "ADV": 5
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/largely_ex_0_844f9b1b.mp3"
+      },
+      {
+        "text": "The Icelandic success is accomplished largely through cooperative efforts across various industries.",
+        "source": "2024_113_02-113學測英文科定稿",
+        "audio_file": "data/output/tts_audio/sentences/largely_ex_1_1ae0f8f0.mp3"
+      },
+      {
+        "text": "The present design of the oversized automobile is largely responsible not only for increasing death toll on the highways but also for the rapid depletion of our resources of petroleum, for the pollution of our environment, and for the congestion and inconvenience of our cities.",
+        "source": "1995_84_84年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/largely_ex_2_30818b36.mp3"
+      },
+      {
+        "text": "During the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade.",
+        "source": "2023_112_02-112學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/largely_ex_3_874cff10.mp3"
+      },
+      {
+        "text": "According to a recent study, the part of your brain that reacts to severe pain is largely the same part that reacts to expectation of pain.",
+        "source": "2008_97_02-97學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/largely_ex_4_486e37aa.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "主要地；大部分地",
+    "en_def": "To a great extent; mostly.",
+    "example": "The project was largely successful, exceeding our expectations."
+  },
+  "sentences_removed": 0
+}

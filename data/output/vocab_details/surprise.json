@@ -1,0 +1,44 @@
+{
+  "lemma": "surprise",
+  "count": 5,
+  "pos_dist": {
+    "VERB": 4,
+    "NOUN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The discovery did not surprise me___(40)__ more than the original request that I should take them off.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/surprise_ex_0_75d6ee89.mp3"
+      },
+      {
+        "text": "To no one’s surprise, it has enjoyed similar popularity.",
+        "source": "2011_100_02-100學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/surprise_ex_1_38f14e6e.mp3"
+      },
+      {
+        "text": "Surprised by the father and son’s “pale faces” and their battered vessel, the Penghu police and fishers in Paisha rescued them.",
+        "source": "1997_86_86年學測英文科",
+        "audio_file": "data/output/tts_audio/sentences/surprise_ex_2_7455c275.mp3"
+      },
+      {
+        "text": "My grandmother likes to surprise people.",
+        "source": "2004_93_93english",
+        "audio_file": "data/output/tts_audio/sentences/surprise_ex_3_ce870a40.mp3"
+      },
+      {
+        "text": "Nothing does surprise one in a dream.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/surprise_ex_4_afa2bbbd.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "驚訝；意外的事或情況",
+    "en_def": "An unexpected event or occurrence that causes astonishment or amazement.",
+    "example": "The surprise party left her speechless."
+  },
+  "sentences_removed": 0
+}

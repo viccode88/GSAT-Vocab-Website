@@ -1,0 +1,69 @@
+{
+  "lemma": "global",
+  "count": 10,
+  "pos_dist": {
+    "ADJ": 10
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Global warming is another reason.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/global_ex_0_1e64c43c.mp3"
+      },
+      {
+        "text": "With the worsening of global economic conditions, it seems wiser and more _____ to keep cash in the bank rather than to invest in the stock market.",
+        "source": "2009_98_02-98學測英文試題定稿",
+        "audio_file": "data/output/tts_audio/sentences/global_ex_1_de2dd517.mp3"
+      },
+      {
+        "text": "But its special multi-functional design later launched the knife as a global brand.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/global_ex_2_7db9a9ab.mp3"
+      },
+      {
+        "text": "Rap's rise and sustained global popularity is a good illustration of how influential youth culture is on youth attitudes and behavior.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/global_ex_3_eece5146.mp3"
+      },
+      {
+        "text": "Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025. 39.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": "data/output/tts_audio/sentences/global_ex_4_bc8ea568.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "Due to the global financial crisis, the country’s exports _____ by 40 percent last month, the largest drop since 2000.",
+        "source": "2020_109_02-109學測英文試卷-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the passage, which of the following statements is true about the hard hat? (A) Global sales have doubled every ten years.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "It contributes to global warming.",
+        "source": "2010_99_02-99學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro’s snows and glaciers are melting and are 23 to disappear by 2020.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Rising temperatures, an effect of global warming, 25 threaten the ecosystem of this mountain area.",
+        "source": "2014_103_02-103學測英文-定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "全球的，涉及全世界的。",
+    "en_def": "Relating to the whole world; worldwide.",
+    "example": "The internet has created a global community."
+  },
+  "sentences_removed": 0
+}

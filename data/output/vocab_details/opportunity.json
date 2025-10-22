@@ -1,0 +1,54 @@
+{
+  "lemma": "opportunity",
+  "count": 7,
+  "pos_dist": {
+    "NOUN": 7
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+        "source": "2017_106_02-106學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/opportunity_ex_0_81b0003b.mp3"
+      },
+      {
+        "text": "Many African Americans were not given equal opportunities in education or employment.",
+        "source": "2002_91_91學測_english",
+        "audio_file": "data/output/tts_audio/sentences/opportunity_ex_1_71211c32.mp3"
+      },
+      {
+        "text": "When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": "data/output/tts_audio/sentences/opportunity_ex_2_013bf066.mp3"
+      },
+      {
+        "text": "In 1884, Carl Elsener, head of the Swiss knife manufacturer Victorinox, seized that opportunity with both hands, and designed a soldier’s knife that the army loved.",
+        "source": "2013_102_02-102學測英文(定稿) ",
+        "audio_file": "data/output/tts_audio/sentences/opportunity_ex_3_c4705e52.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "The nurse approached the child, D.…don’t lose any opportunity. 20.",
+        "source": "2002_91_91學測_english",
+        "audio_file": ""
+      },
+      {
+        "text": "Her incredible story and superior swimming Brazilian government and later continued judo skills won her the opportunity to participate in the training at a youth facility.",
+        "source": "2022_111_02-111學測英文試卷",
+        "audio_file": ""
+      },
+      {
+        "text": "There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+        "source": "2016_105_02-105學測英文科_定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "機會，指能夠做某事的情況或時刻。",
+    "en_def": "A set of circumstances that makes it possible to do something.",
+    "example": "She took the opportunity to travel abroad during her summer break."
+  },
+  "sentences_removed": 0
+}

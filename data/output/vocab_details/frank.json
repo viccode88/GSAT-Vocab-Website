@@ -1,0 +1,23 @@
+{
+  "lemma": "frank",
+  "count": 1,
+  "pos_dist": {
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "F. Frank Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least! G. George Zoos have an educational aspect to it.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/frank_ex_0_4dbe1e5a.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "坦率的，誠實的，不隱瞞的",
+    "en_def": "Open, honest, and direct in speech or writing, especially when dealing with unpalatable matters.",
+    "example": "She was frank about her feelings, which surprised everyone."
+  },
+  "sentences_removed": 0
+}

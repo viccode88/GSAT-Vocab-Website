@@ -1,0 +1,23 @@
+{
+  "lemma": "desirable",
+  "count": 1,
+  "pos_dist": {
+    "ADJ": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Yet, while stress may damage our health, it is sometimes necessary, __(38)__ desirable.",
+        "source": "2003_92_92學測_english",
+        "audio_file": "data/output/tts_audio/sentences/desirable_ex_0_2e00c079.mp3"
+      }
+    ],
+    "other": []
+  },
+  "definition": {
+    "zh_def": "令人渴望的；值得擁有的",
+    "en_def": "Worthy of being desired or wished for; attractive.",
+    "example": "A spacious garden is a desirable feature for many homebuyers."
+  },
+  "sentences_removed": 0
+}

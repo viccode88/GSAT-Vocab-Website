@@ -1,0 +1,55 @@
+{
+  "lemma": "wall",
+  "count": 8,
+  "pos_dist": {
+    "NOUN": 7,
+    "PROPN": 1
+  },
+  "sentences": {
+    "featured": [
+      {
+        "text": "Once the pests detect the chemical fog in the room, they’ll hide themselves in walls or other hideaways, where you’ll never be able to treat them effectively.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": "data/output/tts_audio/sentences/wall_ex_0_606ad0fa.mp3"
+      },
+      {
+        "text": "Through a projector, this attractive radio-alarm-clock is able to display the time onto a wall, ceiling, or anywhere __23__.",
+        "source": "2001_90_90學測_english",
+        "audio_file": "data/output/tts_audio/sentences/wall_ex_1_c1d86444.mp3"
+      },
+      {
+        "text": "The room’s thin plastic walls easily transmit the sound of snoring made by neighboring guests.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/wall_ex_2_6cc07ad0.mp3"
+      },
+      {
+        "text": "Now, however, men have developed huge fishing nets that form underwater “walls” that __34__ for miles.",
+        "source": "2002_91_91學測補考_english",
+        "audio_file": "data/output/tts_audio/sentences/wall_ex_3_88931524.mp3"
+      },
+      {
+        "text": "The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic.",
+        "source": "2025_114_02-114學測英文試題",
+        "audio_file": "data/output/tts_audio/sentences/wall_ex_4_fafff0c7.mp3"
+      }
+    ],
+    "other": [
+      {
+        "text": "When you use a bug bomb, a chemical mixture rains down on your counters, furniture, floors, and walls, leaving behind oily and toxic substances.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      },
+      {
+        "text": "Placed along the rear or front walls of a house, house poles also helped to support the main beam of the roof.",
+        "source": "2019_108_01-108學測英文試卷定稿",
+        "audio_file": ""
+      }
+    ]
+  },
+  "definition": {
+    "zh_def": "牆壁，通常用於分隔空間或提供支持的結構。",
+    "en_def": "A vertical structure that defines and sometimes protects an area; it can be made of various materials.",
+    "example": "She hung a picture on the wall of her living room."
+  },
+  "sentences_removed": 1
+}
