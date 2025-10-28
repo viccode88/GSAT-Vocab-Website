@@ -343,12 +343,5 @@ wrangler pages deploy dist --project-name=gsat-vocab
 - 單詞發音
 - 詞性分析
 - 簡單測驗，由單字選定義
-
-## 聯絡方式
-
-- 網站：https://vocab.vicvic88.net
-- Email：your-email@example.com
-- GitHub：https://github.com/yourusername/GSAT-Vocab-Website
-
 ---
 
